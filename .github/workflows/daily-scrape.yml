@@ -1,45 +1,45 @@
 name: Daily TV audience scrape
- 
+
 on:
   schedule:
     # 9h00 heure de Paris = 7h UTC (été) / 8h UTC (hiver)
     # On lance à 8h UTC pour couvrir les deux cas, les scrapers gèrent les articles pas encore publiés
     - cron: '0 8 * * *'
   workflow_dispatch:  # permet de lancer manuellement depuis l'interface GitHub
- 
+
 permissions:
   contents: write   # nécessaire pour pousser les fichiers data/ mis à jour
- 
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 10
- 
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
- 
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
- 
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
- 
+
       - name: Run all scrapers
         run: |
           python scrapers/de_dwdl.py || echo "::warning::DE scraper failed"
+          python scrapers/es_barlovento.py || echo "::warning::ES scraper failed"
           # À décommenter au fur et à mesure des implémentations :
-          # python scrapers/es_vertele.py || echo "::warning::ES scraper failed"
           # python scrapers/it_davidemaggio.py || echo "::warning::IT scraper failed"
           # python scrapers/uk_*.py ...
         env:
           PYTHONUNBUFFERED: 1
- 
+
       - name: Commit & push updated data
         run: |
           git config user.name "github-actions[bot]"
