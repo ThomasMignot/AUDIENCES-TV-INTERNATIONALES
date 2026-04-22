@@ -40,7 +40,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/"
         }
       ],
-      "scraped_at": "2026-04-22T14:48:26.604563Z",
+      "scraped_at": "2026-04-22T14:57:18.155317Z",
       "status": "partial",
       "error": null
     },
@@ -77,7 +77,7 @@
           "channel": "Telecinco",
           "channel_color": "blue",
           "program": "La Isla de las Tentaciones",
-          "program_fr": null,
+          "program_fr": "L'Île de la tentation",
           "viewers": 1122000,
           "share": 9.1,
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
@@ -103,7 +103,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
         }
       ],
-      "scraped_at": "2026-04-22T14:48:27.456613Z",
+      "scraped_at": "2026-04-22T14:57:18.896823Z",
       "status": "ok",
       "error": null
     },
@@ -166,10 +166,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
         }
       ],
-      "scraped_at": "2026-04-22T14:48:30.540900Z",
+      "scraped_at": "2026-04-22T14:57:20.974119Z",
       "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-22T14:48:30.542926Z"
+  "last_updated": "2026-04-22T14:57:20.976272Z"
 }
