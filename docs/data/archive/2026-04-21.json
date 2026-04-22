@@ -40,7 +40,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/"
         }
       ],
-      "scraped_at": "2026-04-22T15:13:22.969565Z",
+      "scraped_at": "2026-04-22T16:20:00.082587Z",
       "status": "partial",
       "error": null
     },
@@ -103,7 +103,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
         }
       ],
-      "scraped_at": "2026-04-22T15:28:48.693675Z",
+      "scraped_at": "2026-04-22T16:20:00.780760Z",
       "status": "ok",
       "error": null
     },
@@ -166,10 +166,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
         }
       ],
-      "scraped_at": "2026-04-22T15:28:51.073908Z",
+      "scraped_at": "2026-04-22T16:20:02.843473Z",
       "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-22T15:28:51.075857Z"
+  "last_updated": "2026-04-22T16:20:02.845664Z"
 }
