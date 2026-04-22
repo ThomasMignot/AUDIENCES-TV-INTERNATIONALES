@@ -40,10 +40,73 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/"
         }
       ],
-      "scraped_at": "2026-04-22T14:32:49.229773Z",
+      "scraped_at": "2026-04-22T14:39:36.220451Z",
       "status": "partial",
+      "error": null
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-04-21",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Simone Biles)",
+          "program_fr": null,
+          "viewers": 1634000,
+          "share": 13.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Maxi Iglesias)",
+          "program_fr": null,
+          "viewers": 1294000,
+          "share": 10.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "La Isla de las Tentaciones",
+          "program_fr": null,
+          "viewers": 1122000,
+          "share": 9.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
+        },
+        {
+          "rank": 4,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 861000,
+          "share": 7.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 850000,
+          "share": 6.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
+        }
+      ],
+      "scraped_at": "2026-04-22T14:39:37.297434Z",
+      "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-22T14:32:49.230972Z"
+  "last_updated": "2026-04-22T14:39:37.298886Z"
 }
