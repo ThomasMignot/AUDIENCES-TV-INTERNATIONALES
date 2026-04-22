@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Audiences TV · Dashboard</title>
+<style>
+:root {
+  --bg: #fdfcf8;
+  --surface: #ffffff;
+  --border: rgba(0,0,0,0.1);
+  --border-strong: rgba(0,0,0,0.2);
+  --text: #1a1a1a;
+  --text-muted: #666;
+  --text-subtle: #999;
+  --accent: #0c447c;
+  --accent-bg: #e6f1fb;
+  --success: #27500a;
+  --success-bg: #eaf3de;
+  --warning: #633806;
+  --warning-bg: #faeeda;
+  --danger: #791f1f;
+  --danger-bg: #fcebeb;
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a1a; --surface: #242424;
+    --border: rgba(255,255,255,0.1); --border-strong: rgba(255,255,255,0.2);
+    --text: #f0f0f0; --text-muted: #aaa; --text-subtle: #777;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--bg); color: var(--text);
+  margin: 0; padding: 2rem 1rem; line-height: 1.6;
+}
+.container { max-width: 1100px; margin: 0 auto; }
+h1 { margin: 0 0 4px; font-size: 22px; font-weight: 500; }
+h3 { margin: 0; font-size: 15px; font-weight: 500; }
+.header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  flex-wrap: wrap; gap: 12px; margin-bottom: 1.5rem;
+}
+.subtitle { font-size: 13px; color: var(--text-muted); margin: 0; }
+.header-right { display: flex; gap: 8px; align-items: center; }
+input, button, select {
+  font-family: inherit; font-size: 13px;
+  background: var(--surface); color: var(--text);
+  border: 0.5px solid var(--border-strong);
+  border-radius: var(--radius-md); padding: 6px 10px;
+  height: 32px;
+}
+input[type="date"] { width: 150px; }
+button { cursor: pointer; transition: background 0.1s; }
+button:hover { background: var(--border); }
+button:active { transform: scale(0.98); }
+.toolbar {
+  display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap;
+}
+.toolbar input[type="text"] { flex: 1; min-width: 200px; }
+.tabs {
+  display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 1.5rem;
+  padding-bottom: 8px; border-bottom: 0.5px solid var(--border);
+}
+.tab {
+  padding: 5px 10px; font-size: 12px; cursor: pointer;
+  border: 0.5px solid var(--border-strong);
+  background: transparent; color: var(--text);
+  border-radius: var(--radius-md);
+}
+.tab.active {
+  background: var(--accent-bg); color: var(--accent);
+  border-color: var(--accent);
+}
+.tab-sep { width: 1px; background: var(--border); margin: 0 6px; }
+.status-pill {
+  font-size: 12px; padding: 4px 10px; border-radius: var(--radius-md);
+}
+.status-ok { background: var(--success-bg); color: var(--success); }
+.status-warn { background: var(--warning-bg); color: var(--warning); }
+.status-fail { background: var(--danger-bg); color: var(--danger); }
+.country-section { margin-bottom: 2rem; }
+.country-header {
+  display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+  padding-bottom: 8px; margin-bottom: 10px;
+  border-bottom: 0.5px solid var(--border);
+}
+.country-source { font-size: 12px; color: var(--text-subtle); }
+.country-source a { color: var(--text-muted); text-decoration: none; }
+.country-source a:hover { text-decoration: underline; }
+.flag { font-size: 16px; margin-right: 6px; }
+.table {
+  width: 100%; border-collapse: collapse; font-size: 13px;
+  table-layout: fixed;
+}
+.table th {
+  text-align: left; font-weight: 500; font-size: 11px;
+  color: var(--text-muted); padding: 8px;
+  border-bottom: 0.5px solid var(--border);
+  text-transform: uppercase; letter-spacing: 0.3px;
+}
+.table td {
+  padding: 10px 8px; border-bottom: 0.5px solid var(--border);
+  vertical-align: middle;
+}
+.table tr:last-child td { border-bottom: none; }
+.rank { color: var(--text-subtle); font-variant-numeric: tabular-nums; font-size: 12px; }
+.channel-pill {
+  font-weight: 500; font-size: 11px; padding: 3px 8px;
+  border-radius: var(--radius-md); display: inline-block;
+  text-align: center; white-space: nowrap;
+}
+.program-name { font-weight: 500; }
+.program-fr {
+  font-size: 12px; color: var(--text-muted);
+  font-style: italic; margin-top: 2px;
+}
+.num-cell { text-align: right; font-variant-numeric: tabular-nums; }
+.share-cell { color: var(--text-muted); }
+.source-link {
+  font-size: 12px; color: var(--accent);
+  text-decoration: none; white-space: nowrap;
+}
+.source-link:hover { text-decoration: underline; }
+.empty-state {
+  padding: 2rem; text-align: center;
+  color: var(--text-subtle); font-size: 13px;
+  border: 0.5px dashed var(--border); border-radius: var(--radius-md);
+}
+.loading {
+  text-align: center; padding: 3rem;
+  color: var(--text-muted); font-size: 14px;
+}
+.press-modal {
+  margin-top: 1rem; padding: 1rem;
+  background: var(--surface); border: 0.5px solid var(--border-strong);
+  border-radius: var(--radius-lg);
+}
+.press-modal textarea {
+  width: 100%; min-height: 300px; padding: 12px;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 12px;
+  border: 0.5px solid var(--border); border-radius: var(--radius-md);
+  background: var(--bg); color: var(--text); resize: vertical;
+  line-height: 1.6;
+}
+.press-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 10px;
+}
+footer {
+  margin-top: 3rem; padding-top: 1rem; border-top: 0.5px solid var(--border);
+  font-size: 12px; color: var(--text-subtle); text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<div class="header">
+  <div>
+    <h1>Audiences TV — prime time</h1>
+    <p class="subtitle" id="subtitle">Chargement…</p>
+  </div>
+  <div class="header-right">
+    <input type="date" id="date-picker" />
+    <div class="status-pill status-ok" id="status">● chargement</div>
+  </div>
+</div>
+
+<div class="toolbar">
+  <input type="text" id="search" placeholder="Rechercher une émission ou une chaîne…" />
+  <button id="btn-export">📥 Export CSV</button>
+  <button id="btn-press">📋 Mode presse</button>
+</div>
+
+<div class="tabs" id="tabs"></div>
+
+<div id="main-content">
+  <div class="loading">Chargement des données…</div>
+</div>
+
+<div id="press-modal" class="press-modal" style="display: none;"></div>
+
+<footer>
+  <p>Données collectées automatiquement chaque matin · <a href="https://github.com/YOUR_USERNAME/tv-audiences" style="color: var(--text-muted);">code source</a></p>
+</footer>
+
+</div>
+
+<script>
+const COLOR_MAP = {
+  red:   { bg: "#FCEBEB", fg: "#791F1F" },
+  blue:  { bg: "#E6F1FB", fg: "#0C447C" },
+  amber: { bg: "#FAEEDA", fg: "#633806" },
+  green: { bg: "#EAF3DE", fg: "#27500A" },
+  teal:  { bg: "#E1F5EE", fg: "#085041" },
+  purple:{ bg: "#EEEDFE", fg: "#3C3489" },
+  pink:  { bg: "#FBEAF0", fg: "#72243E" },
+  coral: { bg: "#FAECE7", fg: "#712B13" },
+  gray:  { bg: "#F1EFE8", fg: "#444441" }
+};
+
+let state = {
+  data: null,         // contenu de latest.json ou archive/YYYY-MM-DD.json
+  view: "all",        // "all" | "champions" | code pays ("DE", "ES", ...)
+  search: "",
+  currentDate: null   // date actuellement affichée
+};
+
+// ─── Loading ─────────────────────────────────────────────────────
+
+async function loadData(isoDate) {
+  const url = isoDate ? `./data/archive/${isoDate}.json` : `./data/latest.json`;
+  try {
+    const r = await fetch(url + "?t=" + Date.now());
+    if (!r.ok) throw new Error("not found");
+    return await r.json();
+  } catch (e) {
+    return null;
+  }
+}
+
+// ─── Formatters ──────────────────────────────────────────────────
+
+function fmtViewers(n) {
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(2).replace('.', ',') + ' M';
+  return Math.round(n / 1000) + ' K';
+}
+
+function fmtPDM(n) {
+  return n.toFixed(1).replace('.', ',') + ' %';
+}
+
+function fmtDateFR(iso) {
+  const d = new Date(iso + "T00:00:00");
+  const days = ['dimanche', 'lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi'];
+  const months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+  return `${days[d.getDay()]} ${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
+}
+
+// ─── Rendering ───────────────────────────────────────────────────
+
+function renderTabs() {
+  if (!state.data || !state.data.countries) return;
+  const codes = Object.keys(state.data.countries);
+  const tabs = document.getElementById('tabs');
+  const btns = [
+    `<button class="tab ${state.view === 'all' ? 'active' : ''}" data-view="all">Tous les pays</button>`,
+    `<button class="tab ${state.view === 'champions' ? 'active' : ''}" data-view="champions">🏆 Champions du jour</button>`,
+    `<span class="tab-sep"></span>`,
+  ];
+  codes.forEach(code => {
+    const c = state.data.countries[code];
+    btns.push(`<button class="tab ${state.view === code ? 'active' : ''}" data-view="${code}">${c.flag} ${code}</button>`);
+  });
+  tabs.innerHTML = btns.join('');
+  tabs.querySelectorAll('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.view = btn.dataset.view;
+      render();
+    });
+  });
+}
+
+function matchSearch(entry, q) {
+  if (!q) return true;
+  const lower = q.toLowerCase();
+  return entry.program.toLowerCase().includes(lower) ||
+         (entry.program_fr && entry.program_fr.toLowerCase().includes(lower)) ||
+         entry.channel.toLowerCase().includes(lower);
+}
+
+function renderEntryRow(entry, ctx) {
+  const c = COLOR_MAP[entry.channel_color] || COLOR_MAP.gray;
+  const frLine = entry.program_fr ? `<div class="program-fr">↳ ${entry.program_fr}</div>` : '';
+  const prefix = ctx === 'champions'
+    ? `<td class="rank">${entry._globalRank <= 3 ? ['🥇','🥈','🥉'][entry._globalRank - 1] : entry._globalRank}</td><td><span style="font-size:13px">${entry._flag}</span></td>`
+    : `<td class="rank">${entry.rank}</td>`;
+  return `<tr>
+    ${prefix}
+    <td><span class="channel-pill" style="background:${c.bg}; color:${c.fg};">${entry.channel}</span></td>
+    <td><div class="program-name">${entry.program}</div>${frLine}</td>
+    <td class="num-cell">${fmtViewers(entry.viewers)}</td>
+    <td class="num-cell share-cell">${fmtPDM(entry.share)}</td>
+    <td class="num-cell"><a class="source-link" href="${entry.source_url}" target="_blank" rel="noopener">voir →</a></td>
+  </tr>`;
+}
+
+function renderCountrySection(code) {
+  const c = state.data.countries[code];
+  if (c.status === 'failed') {
+    return `<div class="country-section">
+      <div class="country-header">
+        <h3><span class="flag">${c.flag}</span>${c.country_name}</h3>
+        <span class="country-source">source : ${c.source_name}</span>
+      </div>
+      <div class="empty-state">⚠ Scraping échoué : ${c.error || 'erreur inconnue'}</div>
+    </div>`;
+  }
+  const filtered = c.entries.filter(e => matchSearch(e, state.search));
+  if (filtered.length === 0 && state.search) return '';
+  const rows = filtered.map(e => renderEntryRow(e, 'country')).join('');
+  return `<div class="country-section">
+    <div class="country-header">
+      <h3><span class="flag">${c.flag}</span>${c.country_name}</h3>
+      <span class="country-source">source : <a href="${c.source_url}" target="_blank" rel="noopener">${c.source_name}</a></span>
+    </div>
+    <table class="table">
+      <colgroup>
+        <col style="width:32px"><col style="width:80px"><col>
+        <col style="width:90px"><col style="width:70px"><col style="width:58px">
+      </colgroup>
+      <thead><tr>
+        <th>#</th><th>Chaîne</th><th>Émission</th>
+        <th style="text-align:right">Téléspec.</th>
+        <th style="text-align:right">PDM</th>
+        <th style="text-align:right">Source</th>
+      </tr></thead>
+      <tbody>${rows || '<tr><td colspan="6" class="empty-state">Aucun résultat</td></tr>'}</tbody>
+    </table>
+  </div>`;
+}
+
+function renderChampions() {
+  const all = [];
+  Object.keys(state.data.countries).forEach(code => {
+    const c = state.data.countries[code];
+    if (c.status === 'failed') return;
+    c.entries.forEach(e => {
+      if (matchSearch(e, state.search)) {
+        all.push({ ...e, _flag: c.flag, _country: code });
+      }
+    });
+  });
+  all.sort((a, b) => b.viewers - a.viewers);
+  const top15 = all.slice(0, 15).map((e, i) => ({ ...e, _globalRank: i + 1 }));
+  if (top15.length === 0) {
+    return `<div class="empty-state">Aucun résultat pour cette recherche.</div>`;
+  }
+  const rows = top15.map(e => renderEntryRow(e, 'champions')).join('');
+  return `<div class="country-section">
+    <div class="country-header">
+      <h3>🏆 Top 15 mondial toutes chaînes confondues</h3>
+      <span class="country-source">classement par nombre de téléspectateurs</span>
+    </div>
+    <table class="table">
+      <colgroup>
+        <col style="width:36px"><col style="width:30px"><col style="width:80px"><col>
+        <col style="width:90px"><col style="width:70px"><col style="width:58px">
+      </colgroup>
+      <thead><tr>
+        <th>#</th><th></th><th>Chaîne</th><th>Émission</th>
+        <th style="text-align:right">Téléspec.</th>
+        <th style="text-align:right">PDM</th>
+        <th style="text-align:right">Source</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>`;
+}
+
+function render() {
+  const main = document.getElementById('main-content');
+  if (!state.data) {
+    main.innerHTML = `<div class="empty-state">Aucune donnée disponible pour cette date.</div>`;
+    return;
+  }
+  document.getElementById('press-modal').style.display = 'none';
+  if (state.view === 'champions') {
+    main.innerHTML = renderChampions();
+  } else if (state.view === 'all') {
+    const codes = Object.keys(state.data.countries);
+    const html = codes.map(renderCountrySection).filter(Boolean).join('');
+    main.innerHTML = html || '<div class="empty-state">Aucun résultat pour cette recherche.</div>';
+  } else {
+    main.innerHTML = renderCountrySection(state.view);
+  }
+}
+
+function updateHeader() {
+  if (!state.data) {
+    document.getElementById('subtitle').textContent = 'Aucune donnée';
+    document.getElementById('status').textContent = '● pas de données';
+    document.getElementById('status').className = 'status-pill status-fail';
+    return;
+  }
+  document.getElementById('subtitle').textContent = `Diffusions du ${fmtDateFR(state.data.date)}`;
+  const countries = Object.values(state.data.countries);
+  const ok = countries.filter(c => c.status === 'ok').length;
+  const partial = countries.filter(c => c.status === 'partial').length;
+  const failed = countries.filter(c => c.status === 'failed').length;
+  const total = countries.length;
+  const status = document.getElementById('status');
+  if (failed === 0 && partial === 0) {
+    status.textContent = `● ${ok}/${total} sources`;
+    status.className = 'status-pill status-ok';
+  } else if (failed === 0) {
+    status.textContent = `● ${ok}/${total} complètes`;
+    status.className = 'status-pill status-warn';
+  } else {
+    status.textContent = `⚠ ${failed}/${total} en échec`;
+    status.className = 'status-pill status-fail';
+  }
+}
+
+// ─── Exports ─────────────────────────────────────────────────────
+
+function exportCSV() {
+  if (!state.data) return;
+  const rows = [['Date', 'Pays', 'Rang', 'Chaine', 'Emission', 'Titre FR', 'Telespectateurs', 'PDM (%)', 'Source URL']];
+  Object.keys(state.data.countries).forEach(code => {
+    const c = state.data.countries[code];
+    if (c.status === 'failed') return;
+    c.entries.forEach(e => {
+      rows.push([
+        state.data.date, c.country_name, e.rank, e.channel, e.program,
+        e.program_fr || '', e.viewers, e.share.toFixed(1).replace('.', ','), e.source_url
+      ]);
+    });
+  });
+  const csv = rows.map(r => r.map(cell => {
+    const s = String(cell);
+    return /[",;\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  }).join(';')).join('\n');
+  const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `audiences_${state.data.date}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function generatePress() {
+  if (!state.data) return;
+  let txt = `AUDIENCES TV — DIFFUSIONS DU ${fmtDateFR(state.data.date).toUpperCase()}\n${'='.repeat(60)}\n\n`;
+  Object.keys(state.data.countries).forEach(code => {
+    const c = state.data.countries[code];
+    if (c.status === 'failed') {
+      txt += `${c.flag}  ${c.country_name.toUpperCase()} — données indisponibles\n\n`;
+      return;
+    }
+    txt += `${c.flag}  ${c.country_name.toUpperCase()}\nSource : ${c.source_name}\n${'-'.repeat(60)}\n`;
+    c.entries.forEach(e => {
+      const frPart = e.program_fr ? ` (${e.program_fr})` : '';
+      txt += `${e.rank}. ${e.channel} — ${e.program}${frPart}\n`;
+      txt += `   ${fmtViewers(e.viewers)} téléspectateurs · ${fmtPDM(e.share)} PDM\n`;
+    });
+    txt += '\n';
+  });
+  const modal = document.getElementById('press-modal');
+  modal.style.display = 'block';
+  modal.innerHTML = `
+    <div class="press-header">
+      <h3>Mode presse — texte prêt à copier</h3>
+      <div style="display:flex; gap:6px;">
+        <button id="press-copy">📋 Copier</button>
+        <button id="press-close">✕ Fermer</button>
+      </div>
+    </div>
+    <textarea id="press-text" readonly>${txt}</textarea>
+  `;
+  document.getElementById('press-copy').onclick = () => {
+    navigator.clipboard.writeText(document.getElementById('press-text').value);
+    document.getElementById('press-copy').textContent = '✓ Copié';
+  };
+  document.getElementById('press-close').onclick = () => {
+    modal.style.display = 'none';
+  };
+  modal.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ─── Event listeners ─────────────────────────────────────────────
+
+document.getElementById('search').addEventListener('input', e => {
+  state.search = e.target.value;
+  render();
+});
+document.getElementById('date-picker').addEventListener('change', async e => {
+  const iso = e.target.value;
+  state.data = await loadData(iso);
+  state.currentDate = iso;
+  updateHeader();
+  renderTabs();
+  render();
+});
+document.getElementById('btn-export').addEventListener('click', exportCSV);
+document.getElementById('btn-press').addEventListener('click', generatePress);
+
+// ─── Init ────────────────────────────────────────────────────────
+
+(async function init() {
+  state.data = await loadData();
+  if (state.data) {
+    state.currentDate = state.data.date;
+    document.getElementById('date-picker').value = state.data.date;
+  } else {
+    document.getElementById('date-picker').value = new Date().toISOString().slice(0, 10);
+  }
+  updateHeader();
+  renderTabs();
+  render();
+})();
+</script>
+
+</body>
+</html>

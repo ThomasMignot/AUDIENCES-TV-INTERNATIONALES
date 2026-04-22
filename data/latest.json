@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-21",
+  "last_updated": "2026-04-22T07:12:00Z",
+  "countries": {
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-04-21",
+      "source_name": "DWDL.de · Die Quoten",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {"rank": 1, "channel": "ZDF", "channel_color": "amber", "program": "ZDF-Fernsehgarten on Tour", "program_fr": null, "viewers": 3420000, "share": 17.8, "source_url": "https://www.dwdl.de/zahlenzentrale/"},
+        {"rank": 2, "channel": "Das Erste", "channel_color": "blue", "program": "Tatort: Borowski und das Haus am Meer", "program_fr": null, "viewers": 3180000, "share": 16.2, "source_url": "https://www.dwdl.de/zahlenzentrale/"},
+        {"rank": 3, "channel": "RTL", "channel_color": "red", "program": "Wer wird Millionär?", "program_fr": "Qui veut gagner des millions ?", "viewers": 2450000, "share": 12.9, "source_url": "https://www.dwdl.de/zahlenzentrale/"},
+        {"rank": 4, "channel": "ProSieben", "channel_color": "pink", "program": "TV total", "program_fr": null, "viewers": 1680000, "share": 8.7, "source_url": "https://www.dwdl.de/zahlenzentrale/"},
+        {"rank": 5, "channel": "Sat.1", "channel_color": "green", "program": "The Voice of Germany", "program_fr": "The Voice", "viewers": 1420000, "share": 7.4, "source_url": "https://www.dwdl.de/zahlenzentrale/"}
+      ],
+      "scraped_at": "2026-04-22T07:10:00Z",
+      "status": "ok"
+    }
+  }
+}
