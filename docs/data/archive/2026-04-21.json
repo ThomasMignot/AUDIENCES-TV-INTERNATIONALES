@@ -40,7 +40,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/"
         }
       ],
-      "scraped_at": "2026-04-22T14:39:36.220451Z",
+      "scraped_at": "2026-04-22T14:48:26.604563Z",
       "status": "partial",
       "error": null
     },
@@ -103,10 +103,73 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-abril-2026/"
         }
       ],
-      "scraped_at": "2026-04-22T14:39:37.297434Z",
+      "scraped_at": "2026-04-22T14:48:27.456613Z",
+      "status": "ok",
+      "error": null
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-04-21",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Coppa Italia – Inter-Como",
+          "program_fr": null,
+          "viewers": 4851000,
+          "share": 24.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
+        },
+        {
+          "rank": 2,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Il Commissario Montalbano con la replica dell’episodio “Il giro di boa”",
+          "program_fr": null,
+          "viewers": 2853000,
+          "share": 16.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
+        },
+        {
+          "rank": 3,
+          "channel": "La7",
+          "channel_color": "green",
+          "program": "DiMartedì",
+          "program_fr": null,
+          "viewers": 1573000,
+          "share": 9.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 4",
+          "channel_color": "gray",
+          "program": "Poker Face",
+          "program_fr": null,
+          "viewers": 371000,
+          "share": 1.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
+        },
+        {
+          "rank": 5,
+          "channel": "TV8",
+          "channel_color": "gray",
+          "program": "Italia’s Got Talent",
+          "program_fr": "La France a un incroyable talent",
+          "viewers": 320000,
+          "share": 2.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-21-aprile-2026"
+        }
+      ],
+      "scraped_at": "2026-04-22T14:48:30.540900Z",
       "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-22T14:39:37.298886Z"
+  "last_updated": "2026-04-22T14:48:30.542926Z"
 }
