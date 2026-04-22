@@ -61,9 +61,9 @@ HEADERS = {
 # Les patterns les plus spécifiques d'abord (Das Erste avant ZDF pour éviter conflits)
 PROGRAM_TO_CHANNEL: list[tuple[re.Pattern, str]] = [
     # Das Erste (ARD) — patterns très spécifiques à cette chaîne
-    (re.compile(r"\b(?:Tagesschau|Tagesthemen|Tatort|Brennpunkt|Plusminus|In aller Freundschaft|Sturm der Liebe|Wer wei(?:ß|ss)? denn sowas|Report Mainz|Panorama|Kontraste|hart aber fair|Anne Will|Maischberger|Kein einfacher Mord)", re.IGNORECASE), "Das Erste"),
+    (re.compile(r"\b(?:Tagesschau|Tagesthemen|Tatort|Brennpunkt|Plusminus|In aller Freundschaft|Sturm der Liebe|Wer wei(?:ß|ss)? denn sowas|Report Mainz|Panorama|Kontraste|hart aber fair|Anne Will|Maischberger|Kein einfacher Mord|Die Not(?:ä|a)rztin|Monitor|Das Erste|ARD|Um Himmels Willen|W(?:a|ä)hlt gro(?:ß|ss)|Verstehen Sie Spa(?:ß|ss)|Mord mit Aussicht|Morden im Norden|Großstadtrevier|Gro(?:ß|ss)stadtrevier|Lindenstra(?:ß|ss)e|Polizeiruf 110)", re.IGNORECASE), "Das Erste"),
     # ZDF
-    (re.compile(r"\b(?:heute journal|heute-show|heute\s+Xpress|heute - in Europa|auslandsjournal|Markus Lanz|Bares f(?:ü|u)r Rares|SOKO|Watzmann ermittelt|Friesland|Wilsberg|Der Bergdoktor|Fr(?:ü|u)hling|besseresser|Ein Fall f(?:ü|u)r zwei|Kommissarin Heller|Der Staatsanwalt|Doc Caro|Die Rosenheim-Cops|heute journal update|ZDF)", re.IGNORECASE), "ZDF"),
+    (re.compile(r"\b(?:heute journal|heute-show|heute\s+Xpress|heute - in Europa|auslandsjournal|Markus Lanz|Bares f(?:ü|u)r Rares|SOKO|Watzmann ermittelt|Friesland|Wilsberg|Der Bergdoktor|Fr(?:ü|u)hling|besseresser|Ein Fall f(?:ü|u)r zwei|Kommissarin Heller|Der Staatsanwalt|Doc Caro|Die Rosenheim-Cops|heute journal update|frontal|37 Grad|Laim und|Terra X|ZDFzeit|ZDFinfo|Die Spezialisten|Notruf Hafenkante|Die Bergretter|Ein Sommer|Das Traumschiff|Kreuzfahrt ins Gl(?:ü|u)ck|L(?:ä|a)ndermagazin|ZDF-Magazin|ZDF)", re.IGNORECASE), "ZDF"),
     # "heute" tout seul (sans suffixe) → ZDF
     (re.compile(r"^heute$", re.IGNORECASE), "ZDF"),
     # RTL
