@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-22",
+  "countries": {
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-04-22",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [],
+      "scraped_at": "2026-04-22T15:28:47.898159Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7fe5f71a2050>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))"
+    }
+  },
+  "last_updated": "2026-04-22T15:28:47.898355Z"
+}
