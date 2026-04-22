@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-21",
+  "countries": {
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-04-21",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4679000,
+          "share": 22.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+        },
+        {
+          "rank": 2,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal",
+          "program_fr": null,
+          "viewers": 2997000,
+          "share": 16.0,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+        },
+        {
+          "rank": 3,
+          "channel": "RTL",
+          "channel_color": "red",
+          "program": "Deutschland sucht den Superstar Fol",
+          "program_fr": null,
+          "viewers": 1515000,
+          "share": 7.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+        }
+      ],
+      "scraped_at": "2026-04-22T14:25:12.288327Z",
+      "status": "partial",
+      "error": null
+    }
+  },
+  "last_updated": "2026-04-22T14:25:12.289722Z"
+}
