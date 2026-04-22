@@ -3,19 +3,19 @@ Utilitaires partagés par tous les scrapers.
 Format de données normalisé, helpers de parsing, I/O.
 """
 from __future__ import annotations
-
+ 
 import json
 import re
 from dataclasses import asdict, dataclass
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Optional
-
+ 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
+DATA_DIR = ROOT / "docs" / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
-
-
+ 
+ 
 @dataclass
 class AudienceEntry:
     """Une ligne d'audience : un programme sur une chaîne, un soir donné."""
@@ -27,8 +27,8 @@ class AudienceEntry:
     viewers: int                # nombre de téléspectateurs (entier)
     share: float                # part de marché en % (ex: 17.8)
     source_url: str             # lien direct vers l'article qui fournit ce chiffre
-
-
+ 
+ 
 @dataclass
 class CountryReport:
     """Le top 5 d'un pays pour une date donnée."""
@@ -42,10 +42,10 @@ class CountryReport:
     scraped_at: str             # ISO timestamp du moment où on a scrapé
     status: str                 # "ok" | "partial" | "failed"
     error: Optional[str] = None
-
-
+ 
+ 
 # ─── Helpers de parsing ────────────────────────────────────────────
-
+ 
 def parse_german_number(text: str) -> float:
     """
     Convertit un nombre au format allemand/français en float.
@@ -57,8 +57,8 @@ def parse_german_number(text: str) -> float:
     else:
         cleaned = cleaned.replace(",", ".")
     return float(cleaned)
-
-
+ 
+ 
 def parse_viewers_millions(text: str) -> int:
     """
     "3,42 Millionen" → 3420000 · "1,05 Mio." → 1050000
@@ -77,18 +77,18 @@ def parse_viewers_millions(text: str) -> int:
             return int(raw.replace(" ", ""))
         return int(parse_german_number(raw))
     raise ValueError(f"Impossible de parser le nombre de téléspectateurs: {text!r}")
-
-
+ 
+ 
 def parse_share_percent(text: str) -> float:
     """ "17,8 Prozent" → 17.8 · "22.3%" → 22.3 """
     m = re.search(r"([\d.,]+)\s*(?:%|Prozent)", text)
     if not m:
         raise ValueError(f"Impossible de parser la PDM: {text!r}")
     return parse_german_number(m.group(1))
-
-
+ 
+ 
 # ─── Couleurs des chaînes ──────────────────────────────────────────
-
+ 
 # Palette pastel cohérente, reprise par le dashboard
 CHANNEL_COLORS: dict[str, str] = {
     # Allemagne
@@ -120,15 +120,15 @@ CHANNEL_COLORS: dict[str, str] = {
     "Seven": "red", "Nine": "blue", "Ten": "amber",
     "ABC": "teal", "SBS": "purple",
 }
-
-
+ 
+ 
 def color_for(channel: str) -> str:
     """Retourne la couleur du pill pour une chaîne. Fallback 'gray' si inconnue."""
     return CHANNEL_COLORS.get(channel.strip(), "gray")
-
-
+ 
+ 
 # ─── I/O sur disque ────────────────────────────────────────────────
-
+ 
 def save_report(report: CountryReport) -> None:
     """
     Enregistre le rapport d'un pays.
@@ -137,21 +137,21 @@ def save_report(report: CountryReport) -> None:
     """
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-
+ 
     archive_path = ARCHIVE_DIR / f"{report.date}.json"
     latest_path = DATA_DIR / "latest.json"
-
+ 
     # Charger l'existant ou créer
     existing = {}
     if archive_path.exists():
         existing = json.loads(archive_path.read_text(encoding="utf-8"))
-
+ 
     # Fusionner ce pays
     if "countries" not in existing:
         existing = {"date": report.date, "countries": {}}
     existing["countries"][report.country_code] = _report_to_dict(report)
     existing["last_updated"] = datetime.utcnow().isoformat() + "Z"
-
+ 
     # Écrire archive + latest
     archive_path.write_text(
         json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -160,14 +160,14 @@ def save_report(report: CountryReport) -> None:
         json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(f"✓ {report.country_code} — {len(report.entries)} entrées sauvegardées pour {report.date}")
-
-
+ 
+ 
 def _report_to_dict(report: CountryReport) -> dict:
     """Sérialise un CountryReport en dict JSON-compatible."""
     d = asdict(report)
     return d
-
-
+ 
+ 
 def yesterday() -> date:
     """Date de la veille (données de la veille, scrapées aujourd'hui)."""
     return date.today() - timedelta(days=1)
