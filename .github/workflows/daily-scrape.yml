@@ -35,6 +35,7 @@ jobs:
           python scrapers/de_dwdl.py || echo "::warning::DE scraper failed"
           python scrapers/es_barlovento.py || echo "::warning::ES scraper failed"
           python scrapers/it_davidemaggio.py || echo "::warning::IT scraper failed"
+          python scrapers/nl_broadcastmag.py || echo "::warning::NL scraper failed"
           # À décommenter au fur et à mesure des implémentations :
           # python scrapers/uk_*.py ...
         env:
