@@ -3,19 +3,19 @@ Utilitaires partagés par tous les scrapers.
 Format de données normalisé, helpers de parsing, I/O.
 """
 from __future__ import annotations
- 
+
 import json
 import re
 from dataclasses import asdict, dataclass
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Optional
- 
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
- 
- 
+
+
 @dataclass
 class AudienceEntry:
     """Une ligne d'audience : un programme sur une chaîne, un soir donné."""
@@ -27,8 +27,8 @@ class AudienceEntry:
     viewers: int                # nombre de téléspectateurs (entier)
     share: float                # part de marché en % (ex: 17.8)
     source_url: str             # lien direct vers l'article qui fournit ce chiffre
- 
- 
+
+
 @dataclass
 class CountryReport:
     """Le top 5 d'un pays pour une date donnée."""
@@ -42,10 +42,10 @@ class CountryReport:
     scraped_at: str             # ISO timestamp du moment où on a scrapé
     status: str                 # "ok" | "partial" | "failed"
     error: Optional[str] = None
- 
- 
+
+
 # ─── Helpers de parsing ────────────────────────────────────────────
- 
+
 def parse_german_number(text: str) -> float:
     """
     Convertit un nombre au format allemand/français en float.
@@ -57,8 +57,8 @@ def parse_german_number(text: str) -> float:
     else:
         cleaned = cleaned.replace(",", ".")
     return float(cleaned)
- 
- 
+
+
 def parse_viewers_millions(text: str) -> int:
     """
     "3,42 Millionen" → 3420000 · "1,05 Mio." → 1050000
@@ -77,18 +77,18 @@ def parse_viewers_millions(text: str) -> int:
             return int(raw.replace(" ", ""))
         return int(parse_german_number(raw))
     raise ValueError(f"Impossible de parser le nombre de téléspectateurs: {text!r}")
- 
- 
+
+
 def parse_share_percent(text: str) -> float:
     """ "17,8 Prozent" → 17.8 · "22.3%" → 22.3 """
     m = re.search(r"([\d.,]+)\s*(?:%|Prozent)", text)
     if not m:
         raise ValueError(f"Impossible de parser la PDM: {text!r}")
     return parse_german_number(m.group(1))
- 
- 
+
+
 # ─── Couleurs des chaînes ──────────────────────────────────────────
- 
+
 # Palette pastel cohérente, reprise par le dashboard
 CHANNEL_COLORS: dict[str, str] = {
     # Allemagne
@@ -120,54 +120,85 @@ CHANNEL_COLORS: dict[str, str] = {
     "Seven": "red", "Nine": "blue", "Ten": "amber",
     "ABC": "teal", "SBS": "purple",
 }
- 
- 
+
+
 def color_for(channel: str) -> str:
     """Retourne la couleur du pill pour une chaîne. Fallback 'gray' si inconnue."""
     return CHANNEL_COLORS.get(channel.strip(), "gray")
- 
- 
+
+
 # ─── I/O sur disque ────────────────────────────────────────────────
- 
+
 def save_report(report: CountryReport) -> None:
     """
     Enregistre le rapport d'un pays.
-    1. Met à jour data/latest.json (fusion avec les autres pays déjà scrapés du même jour)
-    2. Met à jour data/archive/YYYY-MM-DD.json (même logique)
+    1. Met à jour data/archive/YYYY-MM-DD.json (le jour des diffusions de ce pays)
+    2. Met à jour data/latest.json qui AGRÈGE TOUS les pays scrapés récemment,
+       chacun avec sa propre date (certaines sources publient avec plus de retard).
+
+    IMPORTANT : latest.json n'est JAMAIS écrasé par l'archive d'un seul jour.
+    On merge systématiquement l'entrée de ce pays dans le latest existant.
     """
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
- 
+
     archive_path = ARCHIVE_DIR / f"{report.date}.json"
     latest_path = DATA_DIR / "latest.json"
- 
-    # Charger l'existant ou créer
-    existing = {}
+
+    # ── 1. Mettre à jour l'archive du jour concerné ──────────────
+    existing_archive: dict = {}
     if archive_path.exists():
-        existing = json.loads(archive_path.read_text(encoding="utf-8"))
- 
-    # Fusionner ce pays
-    if "countries" not in existing:
-        existing = {"date": report.date, "countries": {}}
-    existing["countries"][report.country_code] = _report_to_dict(report)
-    existing["last_updated"] = datetime.utcnow().isoformat() + "Z"
- 
-    # Écrire archive + latest
+        try:
+            existing_archive = json.loads(archive_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, ValueError):
+            existing_archive = {}
+
+    if "countries" not in existing_archive:
+        existing_archive = {"date": report.date, "countries": {}}
+    existing_archive["countries"][report.country_code] = _report_to_dict(report)
+    existing_archive["last_updated"] = datetime.utcnow().isoformat() + "Z"
+
     archive_path.write_text(
-        json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(existing_archive, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+    # ── 2. Mettre à jour latest.json en PRÉSERVANT les autres pays ──
+    existing_latest: dict = {"countries": {}}
+    if latest_path.exists():
+        try:
+            loaded = json.loads(latest_path.read_text(encoding="utf-8"))
+            if isinstance(loaded, dict) and "countries" in loaded:
+                existing_latest = loaded
+        except (json.JSONDecodeError, ValueError):
+            pass  # fichier corrompu ou ancien format, on repart de zéro
+
+    if "countries" not in existing_latest:
+        existing_latest["countries"] = {}
+
+    # On remplace UNIQUEMENT l'entrée de ce pays, les autres restent intactes
+    existing_latest["countries"][report.country_code] = _report_to_dict(report)
+    existing_latest["last_updated"] = datetime.utcnow().isoformat() + "Z"
+
+    # La "date principale" de latest.json = la date la plus récente parmi tous les pays
+    all_dates = [
+        c.get("date") for c in existing_latest["countries"].values()
+        if c.get("date")
+    ]
+    if all_dates:
+        existing_latest["date"] = max(all_dates)
+
     latest_path.write_text(
-        json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(existing_latest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(f"✓ {report.country_code} — {len(report.entries)} entrées sauvegardées pour {report.date}")
- 
- 
+
+
 def _report_to_dict(report: CountryReport) -> dict:
     """Sérialise un CountryReport en dict JSON-compatible."""
     d = asdict(report)
     return d
- 
- 
+
+
 def yesterday() -> date:
     """Date de la veille (données de la veille, scrapées aujourd'hui)."""
     return date.today() - timedelta(days=1)
