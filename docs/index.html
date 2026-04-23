@@ -119,6 +119,15 @@ button:active { transform: scale(0.98); }
   font-size: 12px; color: var(--text-muted);
   font-style: italic; margin-top: 2px;
 }
+.category-badge {
+  display: inline-block;
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-left: 6px;
+  white-space: nowrap;
+  font-weight: 400;
+  opacity: 0.85;
+}
 .num-cell { text-align: right; font-variant-numeric: tabular-nums; }
 .share-cell { color: var(--text-muted); }
 .source-link {
@@ -278,13 +287,16 @@ function matchSearch(entry, q) {
 function renderEntryRow(entry, ctx) {
   const c = COLOR_MAP[entry.channel_color] || COLOR_MAP.gray;
   const frLine = entry.program_fr ? `<div class="program-fr">↳ ${entry.program_fr}</div>` : '';
+  const categoryBadge = entry.category && entry.category !== 'autre'
+    ? `<span class="category-badge">${entry.category_emoji || '📺'} ${entry.category}</span>`
+    : '';
   const prefix = ctx === 'champions'
     ? `<td class="rank">${entry._globalRank <= 3 ? ['🥇','🥈','🥉'][entry._globalRank - 1] : entry._globalRank}</td><td><span style="font-size:13px">${entry._flag}</span></td>`
     : `<td class="rank">${entry.rank}</td>`;
   return `<tr>
     ${prefix}
     <td><span class="channel-pill" style="background:${c.bg}; color:${c.fg};">${entry.channel}</span></td>
-    <td><div class="program-name">${entry.program}</div>${frLine}</td>
+    <td><div class="program-name">${entry.program}${categoryBadge}</div>${frLine}</td>
     <td class="num-cell">${fmtViewers(entry.viewers)}</td>
     <td class="num-cell share-cell">${fmtPDM(entry.share)}</td>
     <td class="num-cell"><a class="source-link" href="${entry.source_url}" target="_blank" rel="noopener">voir →</a></td>
@@ -412,14 +424,15 @@ function updateHeader() {
 
 function exportCSV() {
   if (!state.data) return;
-  const rows = [['Date', 'Pays', 'Rang', 'Chaine', 'Emission', 'Titre FR', 'Telespectateurs', 'PDM (%)', 'Source URL']];
+  const rows = [['Date', 'Pays', 'Rang', 'Chaine', 'Emission', 'Titre FR', 'Categorie', 'Telespectateurs', 'PDM (%)', 'Source URL']];
   Object.keys(state.data.countries).forEach(code => {
     const c = state.data.countries[code];
     if (c.status === 'failed') return;
     c.entries.forEach(e => {
       rows.push([
         state.data.date, c.country_name, e.rank, e.channel, e.program,
-        e.program_fr || '', e.viewers, e.share.toFixed(1).replace('.', ','), e.source_url
+        e.program_fr || '', e.category || 'autre',
+        e.viewers, e.share.toFixed(1).replace('.', ','), e.source_url
       ]);
     });
   });
@@ -448,7 +461,8 @@ function generatePress() {
     txt += `${c.flag}  ${c.country_name.toUpperCase()}\nSource : ${c.source_name}\n${'-'.repeat(60)}\n`;
     c.entries.forEach(e => {
       const frPart = e.program_fr ? ` (${e.program_fr})` : '';
-      txt += `${e.rank}. ${e.channel} — ${e.program}${frPart}\n`;
+      const catPart = e.category_emoji && e.category !== 'autre' ? ` ${e.category_emoji}` : '';
+      txt += `${e.rank}. ${e.channel} — ${e.program}${catPart}${frPart}\n`;
       txt += `   ${fmtViewers(e.viewers)} téléspectateurs · ${fmtPDM(e.share)} PDM\n`;
     });
     txt += '\n';
