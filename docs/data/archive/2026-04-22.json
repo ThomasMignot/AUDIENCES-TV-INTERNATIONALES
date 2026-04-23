@@ -40,7 +40,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/"
         }
       ],
-      "scraped_at": "2026-04-23T08:42:17.029748Z",
+      "scraped_at": "2026-04-23T10:03:54.979994Z",
       "status": "partial",
       "error": null
     },
@@ -103,7 +103,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
         }
       ],
-      "scraped_at": "2026-04-23T08:42:18.025614Z",
+      "scraped_at": "2026-04-23T10:03:55.823734Z",
       "status": "ok",
       "error": null
     },
@@ -137,26 +137,6 @@
         },
         {
           "rank": 3,
-          "channel": "Rai 3",
-          "channel_color": "coral",
-          "program": "Chi l’ha Visto?",
-          "program_fr": null,
-          "viewers": 1487000,
-          "share": 9.2,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
-        },
-        {
-          "rank": 4,
-          "channel": "Rai 2",
-          "channel_color": "teal",
-          "program": "Anche Stasera Tutto è Possibile",
-          "program_fr": null,
-          "viewers": 1429000,
-          "share": 9.7,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
-        },
-        {
-          "rank": 5,
           "channel": "La7",
           "channel_color": "green",
           "program": "Una Giornata Particolare",
@@ -164,12 +144,65 @@
           "viewers": 1074000,
           "share": 6.1,
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        },
+        {
+          "rank": 4,
+          "channel": "TV8",
+          "channel_color": "gray",
+          "program": "4 Ristoranti",
+          "program_fr": "4 mariages pour une lune de miel (format)",
+          "viewers": 363000,
+          "share": 2.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        },
+        {
+          "rank": 5,
+          "channel": "Rai 4",
+          "channel_color": "gray",
+          "program": "Saint Clare",
+          "program_fr": null,
+          "viewers": 249000,
+          "share": 1.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
         }
       ],
-      "scraped_at": "2026-04-23T08:42:21.241143Z",
+      "scraped_at": "2026-04-23T10:03:58.868755Z",
       "status": "ok",
+      "error": null
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-04-22",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Het Verhaal van Nederland",
+          "program_fr": null,
+          "viewers": 792000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1"
+        },
+        {
+          "rank": 2,
+          "channel": "SBS 6",
+          "channel_color": "blue",
+          "program": "Mr. Frank Visser Doet Uitspraak",
+          "program_fr": null,
+          "viewers": 618000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1"
+        }
+      ],
+      "scraped_at": "2026-04-23T10:04:00.572869Z",
+      "status": "partial",
       "error": null
     }
   },
-  "last_updated": "2026-04-23T08:42:21.243214Z"
+  "last_updated": "2026-04-23T10:04:00.574954Z"
 }
