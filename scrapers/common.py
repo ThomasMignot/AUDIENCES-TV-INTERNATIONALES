@@ -27,6 +27,8 @@ class AudienceEntry:
     viewers: int                # nombre de téléspectateurs (entier)
     share: float                # part de marché en % (ex: 17.8)
     source_url: str             # lien direct vers l'article qui fournit ce chiffre
+    category: str = "autre"     # "fiction" | "divertissement" | "info" | "sport" | "autre"
+    category_emoji: str = "📺"  # emoji associé à la catégorie
 
 
 @dataclass
@@ -127,17 +129,39 @@ def color_for(channel: str) -> str:
     return CHANNEL_COLORS.get(channel.strip(), "gray")
 
 
+def make_entry(
+    rank: int, channel: str, program: str, viewers: int, share: float,
+    source_url: str, program_fr: Optional[str] = None,
+) -> AudienceEntry:
+    """
+    Crée une AudienceEntry avec catégorisation automatique.
+    Centralise la logique commune à tous les scrapers.
+    """
+    # Import local pour éviter import circulaire au chargement du module
+    from categories import categorize, category_badge
+    cat = categorize(program)
+    badge = category_badge(cat)
+    return AudienceEntry(
+        rank=rank,
+        channel=channel,
+        channel_color=color_for(channel),
+        program=program,
+        program_fr=program_fr,
+        viewers=viewers,
+        share=share,
+        source_url=source_url,
+        category=cat,
+        category_emoji=badge["emoji"],
+    )
+
+
 # ─── I/O sur disque ────────────────────────────────────────────────
 
 def save_report(report: CountryReport) -> None:
     """
     Enregistre le rapport d'un pays.
-    1. Met à jour data/archive/YYYY-MM-DD.json (le jour des diffusions de ce pays)
-    2. Met à jour data/latest.json qui AGRÈGE TOUS les pays scrapés récemment,
-       chacun avec sa propre date (certaines sources publient avec plus de retard).
-
-    IMPORTANT : latest.json n'est JAMAIS écrasé par l'archive d'un seul jour.
-    On merge systématiquement l'entrée de ce pays dans le latest existant.
+    1. Met à jour data/latest.json (fusion avec les autres pays déjà scrapés du même jour)
+    2. Met à jour data/archive/YYYY-MM-DD.json (même logique)
     """
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -145,50 +169,23 @@ def save_report(report: CountryReport) -> None:
     archive_path = ARCHIVE_DIR / f"{report.date}.json"
     latest_path = DATA_DIR / "latest.json"
 
-    # ── 1. Mettre à jour l'archive du jour concerné ──────────────
-    existing_archive: dict = {}
+    # Charger l'existant ou créer
+    existing = {}
     if archive_path.exists():
-        try:
-            existing_archive = json.loads(archive_path.read_text(encoding="utf-8"))
-        except (json.JSONDecodeError, ValueError):
-            existing_archive = {}
+        existing = json.loads(archive_path.read_text(encoding="utf-8"))
 
-    if "countries" not in existing_archive:
-        existing_archive = {"date": report.date, "countries": {}}
-    existing_archive["countries"][report.country_code] = _report_to_dict(report)
-    existing_archive["last_updated"] = datetime.utcnow().isoformat() + "Z"
+    # Fusionner ce pays
+    if "countries" not in existing:
+        existing = {"date": report.date, "countries": {}}
+    existing["countries"][report.country_code] = _report_to_dict(report)
+    existing["last_updated"] = datetime.utcnow().isoformat() + "Z"
 
+    # Écrire archive + latest
     archive_path.write_text(
-        json.dumps(existing_archive, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-
-    # ── 2. Mettre à jour latest.json en PRÉSERVANT les autres pays ──
-    existing_latest: dict = {"countries": {}}
-    if latest_path.exists():
-        try:
-            loaded = json.loads(latest_path.read_text(encoding="utf-8"))
-            if isinstance(loaded, dict) and "countries" in loaded:
-                existing_latest = loaded
-        except (json.JSONDecodeError, ValueError):
-            pass  # fichier corrompu ou ancien format, on repart de zéro
-
-    if "countries" not in existing_latest:
-        existing_latest["countries"] = {}
-
-    # On remplace UNIQUEMENT l'entrée de ce pays, les autres restent intactes
-    existing_latest["countries"][report.country_code] = _report_to_dict(report)
-    existing_latest["last_updated"] = datetime.utcnow().isoformat() + "Z"
-
-    # La "date principale" de latest.json = la date la plus récente parmi tous les pays
-    all_dates = [
-        c.get("date") for c in existing_latest["countries"].values()
-        if c.get("date")
-    ]
-    if all_dates:
-        existing_latest["date"] = max(all_dates)
-
     latest_path.write_text(
-        json.dumps(existing_latest, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(f"✓ {report.country_code} — {len(report.entries)} entrées sauvegardées pour {report.date}")
 
