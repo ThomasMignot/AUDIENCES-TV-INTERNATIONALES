@@ -37,7 +37,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import (
     AudienceEntry, CountryReport,
-    color_for, save_report,
+    color_for, save_report, make_entry,
 )
 from translations import translate
 
@@ -277,10 +277,9 @@ def run(target_date: Optional[date] = None) -> CountryReport:
                 break
 
         entries = [
-            AudienceEntry(
+            make_entry(
                 rank=i + 1,
                 channel=r["channel"],
-                channel_color=color_for(r["channel"]),
                 program=format_program_title(r["program"]),
                 program_fr=translate(r["program"]),
                 viewers=r["viewers"],
