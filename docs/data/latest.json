@@ -30,7 +30,7 @@
           "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1"
         }
       ],
-      "scraped_at": "2026-04-23T10:04:00.572869Z",
+      "scraped_at": "2026-04-23T11:43:58.425186Z",
       "status": "partial",
       "error": null
     },
@@ -73,7 +73,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/"
         }
       ],
-      "scraped_at": "2026-04-23T10:03:54.979994Z",
+      "scraped_at": "2026-04-23T11:43:54.178922Z",
       "status": "partial",
       "error": null
     },
@@ -136,7 +136,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
         }
       ],
-      "scraped_at": "2026-04-23T10:03:55.823734Z",
+      "scraped_at": "2026-04-23T11:43:54.866697Z",
       "status": "ok",
       "error": null
     },
@@ -199,10 +199,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
         }
       ],
-      "scraped_at": "2026-04-23T10:03:58.868755Z",
+      "scraped_at": "2026-04-23T11:43:57.163385Z",
       "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-23T10:04:00.575549Z"
+  "last_updated": "2026-04-23T11:43:58.427614Z"
 }
