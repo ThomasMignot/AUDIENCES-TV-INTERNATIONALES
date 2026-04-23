@@ -8,11 +8,168 @@
       "date": "2026-04-22",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-04-22T15:28:47.898159Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7fe5f71a2050>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal / Wetter",
+          "program_fr": null,
+          "viewers": 6122000,
+          "share": 27.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4572000,
+          "share": 23.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+        },
+        {
+          "rank": 3,
+          "channel": "RTL",
+          "channel_color": "red",
+          "program": "Inside Supermarkt",
+          "program_fr": null,
+          "viewers": 1396000,
+          "share": 6.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+        }
+      ],
+      "scraped_at": "2026-04-23T08:23:06.624746Z",
+      "status": "partial",
+      "error": null
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-04-22",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Elsa Pataky)",
+          "program_fr": null,
+          "viewers": 1830000,
+          "share": 14.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Amaia & Eduardo)",
+          "program_fr": null,
+          "viewers": 1118000,
+          "share": 9.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "La Isla de las Tentaciones",
+          "program_fr": "L'Île de la tentation",
+          "viewers": 1079000,
+          "share": 8.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+        },
+        {
+          "rank": 4,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 875000,
+          "share": 7.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 850000,
+          "share": 6.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+        }
+      ],
+      "scraped_at": "2026-04-23T08:23:07.545699Z",
+      "status": "ok",
+      "error": null
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-04-22",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Coppa Italia – Atalanta-Lazio",
+          "program_fr": null,
+          "viewers": 2990000,
+          "share": 16.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Grande Fratello Vip",
+          "program_fr": "Secret Story",
+          "viewers": 1864000,
+          "share": 15.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        },
+        {
+          "rank": 3,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Chi l’ha Visto?",
+          "program_fr": null,
+          "viewers": 1487000,
+          "share": 9.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "Anche Stasera Tutto è Possibile",
+          "program_fr": null,
+          "viewers": 1429000,
+          "share": 9.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        },
+        {
+          "rank": 5,
+          "channel": "La7",
+          "channel_color": "green",
+          "program": "Una Giornata Particolare",
+          "program_fr": null,
+          "viewers": 1074000,
+          "share": 6.1,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+        }
+      ],
+      "scraped_at": "2026-04-23T08:23:11.361336Z",
+      "status": "ok",
+      "error": null
     }
   },
-  "last_updated": "2026-04-22T15:28:47.898355Z"
+  "last_updated": "2026-04-23T08:23:11.363340Z"
 }
