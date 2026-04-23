@@ -27,7 +27,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 log = logging.getLogger("commentary")
 
 # API Gemini — endpoint officiel
-GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+# Gemini 1.5 a été arrêté, on utilise la version 2.5 Flash Lite (gratuite, rapide)
+GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent"
 
 # Répertoire des archives pour le contexte historique
 ROOT = Path(__file__).resolve().parent.parent
