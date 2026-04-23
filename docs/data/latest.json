@@ -46,10 +46,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-23T16:05:06.517582Z",
+      "scraped_at": "2026-04-23T16:07:35.184633Z",
       "status": "partial",
       "error": null,
-      "commentary": "Le journal du soir de ZDF s'impose nettement en tête des audiences du 22 avril, captant 6,12 millions de téléspectateurs et 27,3% de part de marché. Ce score représente une progression significative par rapport à la veille, où le même programme avait rassemblé 3 millions de spectateurs. Derrière, Das Erste, avec sa \"Tagesschau\", maintient une audience solide, tandis que RTL peine à dépasser le million et demi de téléspectateurs avec son divertissement \"Inside Supermarkt\"."
+      "commentary": "Le journal télévisé de ZDF s'impose nettement en tête des audiences allemandes ce 22 avril, captant 27,3% de part de marché. La chaîne publique Das Erste suit avec son journal, mais accuse un écart significatif en nombre de téléspectateurs. Sur RTL, le magazine \"Inside Supermarkt\" peine à rivaliser avec les offres d'information des chaînes publiques, se plaçant largement en troisième position. Par rapport à la veille, le \"heute journal\" de ZDF enregistre une progression remarquable, tandis que la \"Tagesschau\" de Das Erste se maintient à un niveau similaire."
     },
     "ES": {
       "country_code": "ES",
@@ -120,10 +120,10 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-23T16:05:07.441345Z",
+      "scraped_at": "2026-04-23T16:07:35.923117Z",
       "status": "ok",
       "error": null,
-      "commentary": "Antena 3 conforte sa position dominante en prime time avec \"El Hormiguero\", qui enregistre une légère hausse par rapport à la veille, attirant 1,83 million de téléspectateurs. La chaîne publique La 1 voit son divertissement \"La Revuelta\" reculer significativement, passant de 1,29 million à 1,12 million de spectateurs. \"La Isla de las Tentaciones\" sur Telecinco maintient une audience stable, se positionnant juste derrière, tandis que les chaînes thématiques La Sexta et Cuatro ferment ce classement des cinq programmes les plus regardés."
+      "commentary": "Antena 3 confirme sa domination sur la tranche du prime time avec \"El Hormiguero\", qui réunit près de 1,83 million de téléspectateurs et atteint 14,9% de part de marché, une performance en hausse par rapport à la veille. La chaîne publique La 1 voit \"La Revuelta\" perdre de l'audience, passant de 1,29 million à 1,12 million de spectateurs, tandis que \"La Isla de las Tentaciones\" sur Telecinco maintient un niveau d'audience stable. Les chaînes d'information thématique, La Sexta et Cuatro, se positionnent ensuite avec des scores respectifs de 7,1% et 6,9% de part de marché pour leurs magazines d'actualité."
     },
     "IT": {
       "country_code": "IT",
@@ -194,10 +194,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-23T16:05:10.307537Z",
+      "scraped_at": "2026-04-23T16:07:38.016731Z",
       "status": "ok",
       "error": null,
-      "commentary": "La finale de la Coppa Italia sur Italia 1 s'impose nettement en tête des audiences du prime time, avec une part de marché significative qui témoigne de l'attrait du football en direct. Derrière ce score, le divertissement de Canale 5, *Grande Fratello Vip*, maintient une présence solide, bien qu'en retrait par rapport à la performance du sport. La chaîne La7 parvient à se positionner sur la troisième marche avec un programme culturel, tandis que les audiences des chaînes thématiques comme TV8 et Rai 4 restent plus confidentielles. La comparaison avec le 21 avril révèle une forte volatilité, le football ayant dominé hier soir mais avec un autre acteur principal et un programme différent sur Rai 1."
+      "commentary": "La retransmission de la Coppa Italia sur Italia 1 s'impose largement en tête des audiences du prime time, captant une part de marché significative de 16,5%. Derrière, le divertissement de Canale 5, \"Grande Fratello Vip\", maintient un public conséquent, mais accuse un écart notable avec le leader sportif. La chaîne La7 se positionne en troisième place avec un programme culturel, tandis que TV8 et Rai 4 ferment la marche avec des scores plus modestes."
     },
     "NL": {
       "country_code": "NL",
@@ -232,11 +232,11 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-23T16:05:31.761881Z",
+      "scraped_at": "2026-04-23T16:07:39.172280Z",
       "status": "partial",
       "error": null,
-      "commentary": "Le prime time néerlandais du 22 avril 2026 voit NPO 1 dominer avec \"Het Verhaal van Nederland\", attirant 792 000 téléspectateurs. SBS 6 suit avec \"Mr. Frank Visser Doet Uitspraak\", qui rassemble 618 000 personnes. L'écart entre les deux programmes principaux s'établit à 174 000 individus. En l'absence de données comparatives sur les sept jours précédents, il est difficile d'évaluer la tendance de ces performances individuelles."
+      "commentary": "Sur la soirée du 22 avril 2026 aux Pays-Bas, la première chaîne publique NPO 1 s'impose nettement avec \"Het Verhaal van Nederland\", attirant 792 000 téléspectateurs. La chaîne privée SBS 6 suit avec son programme de divertissement \"Mr. Frank Visser Doet Uitspraak\", qui rassemble 618 000 personnes. L'écart entre les deux programmes leaders souligne une préférence marquée pour le documentaire historique proposé par la chaîne publique ce soir-là."
     }
   },
-  "last_updated": "2026-04-23T16:05:31.763872Z"
+  "last_updated": "2026-04-23T16:07:39.174485Z"
 }
