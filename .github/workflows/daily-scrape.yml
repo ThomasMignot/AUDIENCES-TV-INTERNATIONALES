@@ -39,6 +39,13 @@ jobs:
         env:
           PYTHONUNBUFFERED: 1
 
+      - name: Generate editorial commentaries
+        run: |
+          python scrapers/commentary.py || echo "::warning::commentary generation failed (non-blocking)"
+        env:
+          PYTHONUNBUFFERED: 1
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: Commit & push updated data
         run: |
           git config user.name "github-actions[bot]"
