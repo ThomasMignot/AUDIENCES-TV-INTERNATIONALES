@@ -17,7 +17,9 @@
           "program_fr": null,
           "viewers": 6122000,
           "share": 27.3,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰"
         },
         {
           "rank": 2,
@@ -27,7 +29,9 @@
           "program_fr": null,
           "viewers": 4572000,
           "share": 23.2,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰"
         },
         {
           "rank": 3,
@@ -37,10 +41,12 @@
           "program_fr": null,
           "viewers": 1396000,
           "share": 6.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/"
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-23T11:43:54.178922Z",
+      "scraped_at": "2026-04-23T15:26:19.079983Z",
       "status": "partial",
       "error": null
     },
@@ -60,7 +66,9 @@
           "program_fr": null,
           "viewers": 1830000,
           "share": 14.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
         },
         {
           "rank": 2,
@@ -70,7 +78,9 @@
           "program_fr": null,
           "viewers": 1118000,
           "share": 9.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
         },
         {
           "rank": 3,
@@ -80,7 +90,9 @@
           "program_fr": "L'Île de la tentation",
           "viewers": 1079000,
           "share": 8.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
         },
         {
           "rank": 4,
@@ -90,7 +102,9 @@
           "program_fr": null,
           "viewers": 875000,
           "share": 7.1,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/",
+          "category": "info",
+          "category_emoji": "📰"
         },
         {
           "rank": 5,
@@ -100,10 +114,12 @@
           "program_fr": null,
           "viewers": 850000,
           "share": 6.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/"
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-abril-2026/",
+          "category": "info",
+          "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-23T11:43:54.866697Z",
+      "scraped_at": "2026-04-23T15:26:19.799735Z",
       "status": "ok",
       "error": null
     },
@@ -123,7 +139,9 @@
           "program_fr": null,
           "viewers": 2990000,
           "share": 16.5,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026",
+          "category": "sport",
+          "category_emoji": "⚽"
         },
         {
           "rank": 2,
@@ -133,7 +151,9 @@
           "program_fr": "Secret Story",
           "viewers": 1864000,
           "share": 15.7,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026",
+          "category": "divertissement",
+          "category_emoji": "🎤"
         },
         {
           "rank": 3,
@@ -143,7 +163,9 @@
           "program_fr": null,
           "viewers": 1074000,
           "share": 6.1,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
         },
         {
           "rank": 4,
@@ -153,7 +175,9 @@
           "program_fr": "4 mariages pour une lune de miel (format)",
           "viewers": 363000,
           "share": 2.4,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
         },
         {
           "rank": 5,
@@ -163,10 +187,12 @@
           "program_fr": null,
           "viewers": 249000,
           "share": 1.3,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026"
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-22-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-23T11:43:57.163385Z",
+      "scraped_at": "2026-04-23T15:26:22.276512Z",
       "status": "ok",
       "error": null
     },
@@ -186,7 +212,9 @@
           "program_fr": null,
           "viewers": 792000,
           "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1"
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1",
+          "category": "info",
+          "category_emoji": "📰"
         },
         {
           "rank": 2,
@@ -196,13 +224,15 @@
           "program_fr": null,
           "viewers": 618000,
           "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1"
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-heel-holland-bakt-elke-dag-deelnemer-rik-irritant-omroep-max-npo1",
+          "category": "divertissement",
+          "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-23T11:43:58.425186Z",
+      "scraped_at": "2026-04-23T15:26:24.369593Z",
       "status": "partial",
       "error": null
     }
   },
-  "last_updated": "2026-04-23T11:43:58.427087Z"
+  "last_updated": "2026-04-23T15:26:24.372554Z"
 }
