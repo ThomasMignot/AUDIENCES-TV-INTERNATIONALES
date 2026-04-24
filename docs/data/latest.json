@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-23",
   "countries": {
     "DE": {
       "country_code": "DE",
@@ -46,7 +46,7 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T14:47:45.919020Z",
+      "scraped_at": "2026-04-24T14:51:19.664344Z",
       "status": "partial",
       "error": null
     },
@@ -119,10 +119,9 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T14:47:46.804462Z",
+      "scraped_at": "2026-04-24T14:51:20.406965Z",
       "status": "ok",
-      "error": null,
-      "commentary": "Antena 3 confirme sa position dominante avec *El Hormiguero*, qui maintient une audience solide à 1,62 million de téléspectateurs et 13,4% de part de marché, se plaçant ainsi en tête des programmes de prime time. La chaîne publique La 1 suit avec *La Revuelta*, qui enregistre 1,41 million de spectateurs, une performance en légère hausse par rapport aux jours précédents. Telecinco, avec *Supervivientes Express*, se positionne en troisième place, tandis que les chaînes Cuatro et La Sexta, avec leurs programmes d'information, occupent les dernières places du classement du prime time."
+      "error": null
     },
     "NL": {
       "country_code": "NL",
@@ -157,7 +156,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:47:50.993176Z",
+      "scraped_at": "2026-04-24T14:51:24.221956Z",
       "status": "partial",
       "error": null
     },
@@ -218,7 +217,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:47:49.425898Z",
+      "scraped_at": "2026-04-24T14:51:22.878733Z",
       "status": "partial",
       "error": null
     },
@@ -226,14 +225,75 @@
       "country_code": "FR",
       "country_name": "France",
       "flag": "🇫🇷",
-      "date": "2026-04-24",
+      "date": "2026-04-23",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/tag/audiences_t14",
-      "entries": [],
-      "scraped_at": "2026-04-24T14:47:45.022124Z",
-      "status": "failed",
-      "error": "Aucun article 'soirée' trouvé sur la page de listing"
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-un-p-tit-truc-en-plus-plus-gros-succes-du-box-office-en-france-en-2024-hier-soir-sur-m6/654519",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "UN P'TIT TRUC EN PLUS FILM",
+          "program_fr": null,
+          "viewers": 5501000,
+          "share": 32.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-un-p-tit-truc-en-plus-plus-gros-succes-du-box-office-en-france-en-2024-hier-soir-sur-m6/654519",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "FLASHBACK SERIE",
+          "program_fr": null,
+          "viewers": 2373000,
+          "share": 13.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-un-p-tit-truc-en-plus-plus-gros-succes-du-box-office-en-france-en-2024-hier-soir-sur-m6/654519",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "L'ECOLE DES ESPIONS TELEFILM",
+          "program_fr": null,
+          "viewers": 1486000,
+          "share": 8.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-un-p-tit-truc-en-plus-plus-gros-succes-du-box-office-en-france-en-2024-hier-soir-sur-m6/654519",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENVOYE SPECIAL MAGAZINE",
+          "program_fr": null,
+          "viewers": 1396000,
+          "share": 8.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-un-p-tit-truc-en-plus-plus-gros-succes-du-box-office-en-france-en-2024-hier-soir-sur-m6/654519",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LA FOUDRE : UN ECLAIR DE GENIE DOCUMENTAIRE",
+          "program_fr": null,
+          "viewers": 780000,
+          "share": 4.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-un-p-tit-truc-en-plus-plus-gros-succes-du-box-office-en-france-en-2024-hier-soir-sur-m6/654519",
+          "category": "info",
+          "category_emoji": "📰"
+        }
+      ],
+      "scraped_at": "2026-04-24T14:51:18.761334Z",
+      "status": "ok",
+      "error": null
     }
   },
-  "last_updated": "2026-04-24T14:47:50.995808Z"
+  "last_updated": "2026-04-24T14:51:24.223925Z"
 }
