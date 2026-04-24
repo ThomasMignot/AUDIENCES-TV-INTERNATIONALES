@@ -1,16 +1,21 @@
 """
 Module de génération de commentaires éditoriaux par pays.
 
-Utilise Google Gemini 2.5 Flash (gratuit, 250 req/jour, 10 req/min)
+Utilise Google Gemini 2.5 Flash-Lite (gratuit, 1000 req/jour, 15 req/min)
 pour rédiger 5-6 phrases d'analyse fouillée par pays à partir des données
 du jour + archive 7 derniers jours + contexte concurrentiel.
+
+Choix du modèle : Flash-Lite plutôt que Flash parce que Flash consomme tout
+le budget maxOutputTokens en "thinking interne" avant de produire le texte
+visible, résultant en réponses tronquées. Flash-Lite écrit directement et
+donne des analyses complètes de bonne qualité.
 
 Style : analytique type Le Monde Médias / Les Jours — avec comparaisons
 historiques, observations structurelles, tensions concurrentielles.
 
 Politique :
 - Jamais d'invention : le modèle ne peut parler QUE de ce qu'on lui fournit
-- Gestion des 429 : retry avec backoff exponentiel (2 tentatives)
+- Gestion des 429 et 503 : retry avec backoff exponentiel (2 tentatives)
 - Rate-limit manuel : 5s entre chaque appel pour rester sous les quotas
 - En cas d'erreur : on retourne None, le script continue sans synthèse
 - Coût : ~0 € (tier gratuit Gemini), 5 requêtes/jour en utilisation normale
@@ -33,10 +38,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 log = logging.getLogger("commentary")
 
 # API Gemini — endpoint officiel
-# On utilise Gemini 2.5 Flash (et pas Flash-Lite) : quotas confortables pour
-# 5 requêtes/jour (250 RPD), et qualité d'analyse nettement meilleure pour
-# le style éditorial qu'on vise.
-GEMINI_MODEL = "gemini-2.5-flash"
+# On utilise Flash-Lite (pas Flash) parce que Flash consomme tout le budget
+# maxOutputTokens en "thinking interne" avant de produire la réponse visible,
+# résultant en textes tronqués systématiquement. Flash-Lite n'a pas ce problème,
+# écrit plus directement, et a même un quota supérieur (1000 RPD vs 250).
+# Qualité suffisante pour une analyse éditoriale de 5-6 phrases.
+GEMINI_MODEL = "gemini-2.5-flash-lite"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 # Rate limiting manuel : on attend 5s entre chaque appel pour rester
@@ -314,10 +321,17 @@ def generate_commentary(country_code: str, country_data: dict) -> Optional[str]:
         },
         "generationConfig": {
             "temperature": 0.6,  # légèrement plus créatif qu'avant, sans dériver
-            # Le français est ~1.5x plus verbeux en tokens que l'anglais.
-            # 1500 tokens = ~1200 mots = confortable pour 5-6 phrases denses.
-            "maxOutputTokens": 1500,
+            # 1000 tokens suffisent pour 5-6 phrases denses en français
+            # (on a vu 733 chars / 115 mots tenir en largement moins).
+            "maxOutputTokens": 1000,
             "topP": 0.9,
+            # Désactive explicitement le "thinking interne" qui consommait
+            # tout le budget avant de produire la réponse visible sur certains
+            # modèles Gemini 2.5. Flash-Lite ne thinking pas par défaut mais
+            # on le force pour blinder.
+            "thinkingConfig": {
+                "thinkingBudget": 0,
+            },
         },
     }
 
