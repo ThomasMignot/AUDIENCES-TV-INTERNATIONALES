@@ -46,9 +46,10 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T14:51:19.664344Z",
+      "scraped_at": "2026-04-24T14:58:19.240966Z",
       "status": "partial",
-      "error": null
+      "error": null,
+      "commentary": "Les magazines d'information des chaînes publiques allemandes dominent le prime time du"
     },
     "ES": {
       "country_code": "ES",
@@ -119,9 +120,10 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T14:51:20.406965Z",
+      "scraped_at": "2026-04-24T14:58:20.172290Z",
       "status": "ok",
-      "error": null
+      "error": null,
+      "commentary": "La case de l'access prime time en Espagne est dominée par Antena 3, dont"
     },
     "NL": {
       "country_code": "NL",
@@ -156,9 +158,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:51:24.221956Z",
+      "scraped_at": "2026-04-24T14:58:25.435484Z",
       "status": "partial",
-      "error": null
+      "error": null,
+      "commentary": "NPO 1 consolide sa position en prime time avec la demi-finale de"
     },
     "IT": {
       "country_code": "IT",
@@ -217,9 +220,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:51:22.878733Z",
+      "scraped_at": "2026-04-24T14:58:22.773593Z",
       "status": "partial",
-      "error": null
+      "error": null,
+      "commentary": "La fiction « Uno Sbirro in Appennino » sur Rai 1 s'"
     },
     "FR": {
       "country_code": "FR",
@@ -290,10 +294,11 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T14:51:18.761334Z",
+      "scraped_at": "2026-04-24T14:58:18.227352Z",
       "status": "ok",
-      "error": null
+      "error": null,
+      "commentary": "Le prime time du 23 avril révèle une nette domination de M6, dont"
     }
   },
-  "last_updated": "2026-04-24T14:51:24.223925Z"
+  "last_updated": "2026-04-24T14:58:25.438083Z"
 }
