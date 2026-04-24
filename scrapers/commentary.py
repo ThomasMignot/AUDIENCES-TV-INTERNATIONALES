@@ -46,12 +46,14 @@ log = logging.getLogger("commentary")
 GEMINI_MODEL = "gemini-2.5-flash-lite"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
-# Rate limiting manuel : on attend 5s entre chaque appel pour rester
-# largement sous les 10 RPM (c'est-à-dire 6s max entre chaque).
-RATE_LIMIT_DELAY = 5.0
+# Rate limiting manuel : Flash-Lite autorise 15 req/min (= 4s minimum
+# théorique entre chaque appel). En pratique les 5 appels par run sont
+# très espacés des éventuels autres projets partageant le quota. 1.5s
+# est un compromis rapide/sûr qui laisse 5x de marge sous la limite.
+RATE_LIMIT_DELAY = 1.5
 
-# Retry en cas de 429 : délais en secondes avant chaque nouvelle tentative
-RETRY_DELAYS = [8.0, 20.0]  # total 28s d'attente max
+# Retry en cas de 429/503 : délais en secondes avant chaque nouvelle tentative
+RETRY_DELAYS = [5.0, 12.0]  # total 17s d'attente max en cas de gros souci
 
 # Répertoire des archives pour le contexte historique
 ROOT = Path(__file__).resolve().parent.parent
@@ -342,6 +344,15 @@ def generate_commentary(country_code: str, country_data: dict) -> Optional[str]:
     return text
 
 
+def _timed_generate(country_code: str, country_data: dict) -> Optional[str]:
+    """Wrapper qui chronomètre l'appel pour diagnostiquer la lenteur."""
+    t0 = time.monotonic()
+    result = generate_commentary(country_code, country_data)
+    elapsed = time.monotonic() - t0
+    log.info(f"{country_code} : durée totale de génération = {elapsed:.1f}s")
+    return result
+
+
 def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> None:
     """
     Charge latest.json, génère un commentaire pour chaque pays, puis réécrit le fichier.
@@ -360,6 +371,7 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
 
     log.info(f"Enrichissement de {len(countries)} pays (modèle: {GEMINI_MODEL}, "
              f"force={force})")
+    t_start = time.monotonic()
 
     successes = 0
     failures = 0
@@ -380,7 +392,7 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
         if i > 0:
             time.sleep(RATE_LIMIT_DELAY)
 
-        commentary = generate_commentary(code, country_data)
+        commentary = _timed_generate(code, country_data)
         if commentary:
             country_data["commentary"] = commentary
             successes += 1
@@ -392,8 +404,10 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
     latest_path.write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    total_elapsed = time.monotonic() - t_start
     log.info(
-        f"Terminé : {successes} générés · {failures} échecs · {skipped} conservés/skippés"
+        f"Terminé en {total_elapsed:.1f}s : {successes} générés · "
+        f"{failures} échecs · {skipped} conservés/skippés"
     )
 
 
