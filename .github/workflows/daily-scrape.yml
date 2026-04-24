@@ -3,7 +3,8 @@ name: Daily TV audience scrape
 on:
   schedule:
     # 9h00 heure de Paris = 7h UTC (été) / 8h UTC (hiver)
-    # On lance à 8h UTC pour couvrir les deux cas, les scrapers gèrent les articles pas encore publiés
+    # On lance à 8h UTC pour couvrir les deux cas, les scrapers gèrent
+    # les articles pas encore publiés.
     - cron: '0 8 * * *'
   workflow_dispatch:  # permet de lancer manuellement depuis l'interface GitHub
 
@@ -14,7 +15,6 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -32,6 +32,7 @@ jobs:
 
       - name: Run all scrapers
         run: |
+          python scrapers/fr_ozap.py || echo "::warning::FR scraper failed"
           python scrapers/de_dwdl.py || echo "::warning::DE scraper failed"
           python scrapers/es_barlovento.py || echo "::warning::ES scraper failed"
           python scrapers/it_davidemaggio.py || echo "::warning::IT scraper failed"
