@@ -28,6 +28,12 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 
+try:
+    import cloudscraper
+    HAS_CLOUDSCRAPER = True
+except ImportError:
+    HAS_CLOUDSCRAPER = False
+
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import (
@@ -532,7 +538,20 @@ def run(target_date: Optional[date] = None) -> CountryReport:
     log.info(f"=== Scraping {COUNTRY_NAME} ===")
 
     try:
-        session = requests.Session()
+        # cloudscraper contourne les protections anti-bot (Cloudflare, DataDome...)
+        # que Webedia applique sur Ozap. Fallback sur requests si non installé.
+        if HAS_CLOUDSCRAPER:
+            session = cloudscraper.create_scraper(
+                browser={
+                    "browser": "chrome",
+                    "platform": "darwin",
+                    "desktop": True,
+                }
+            )
+            log.info("Using cloudscraper")
+        else:
+            session = requests.Session()
+            log.warning("cloudscraper non disponible, fallback sur requests (risque de blocage)")
         session.headers.update(HEADERS)
 
         # 1. Récupérer la page de listing
