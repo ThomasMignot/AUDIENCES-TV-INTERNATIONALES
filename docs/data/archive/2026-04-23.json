@@ -46,7 +46,7 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T08:23:57.616700Z",
+      "scraped_at": "2026-04-24T11:44:08.337143Z",
       "status": "partial",
       "error": null
     },
@@ -119,7 +119,7 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T08:23:58.401125Z",
+      "scraped_at": "2026-04-24T11:44:09.285363Z",
       "status": "ok",
       "error": null
     },
@@ -156,10 +156,71 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T08:24:02.303677Z",
+      "scraped_at": "2026-04-24T11:44:14.590352Z",
+      "status": "partial",
+      "error": null
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-04-23",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Uno Sbirro in Appennino",
+          "program_fr": null,
+          "viewers": 3171000,
+          "share": 20.1,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-23-aprile-2026",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Forbidden Fruit",
+          "program_fr": null,
+          "viewers": 1917000,
+          "share": 13.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-23-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 3,
+          "channel": "La7",
+          "channel_color": "green",
+          "program": "Piazzapulita",
+          "program_fr": null,
+          "viewers": 874000,
+          "share": 6.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-23-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 4,
+          "channel": "TV8",
+          "channel_color": "gray",
+          "program": "Innocenti bugie",
+          "program_fr": null,
+          "viewers": 329000,
+          "share": 2.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-23-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        }
+      ],
+      "scraped_at": "2026-04-24T11:44:13.045101Z",
       "status": "partial",
       "error": null
     }
   },
-  "last_updated": "2026-04-24T08:24:02.305619Z"
+  "last_updated": "2026-04-24T11:44:14.591983Z"
 }
