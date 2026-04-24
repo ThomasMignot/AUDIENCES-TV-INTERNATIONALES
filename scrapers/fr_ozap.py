@@ -93,6 +93,48 @@ def strip_accents(s: str) -> str:
     return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
 
 
+def _extract_link_title(a_tag) -> str:
+    """
+    Récupère le titre associé à un lien <a>. Plusieurs stratégies, dans l'ordre :
+    1. Le texte direct du <a> (cas simple)
+    2. Le texte d'un <h1>/<h2>/<h3> parent ou voisin
+    3. L'attribut title= du lien
+    4. Fallback : le slug de l'URL reformaté
+    """
+    # 1. Texte direct
+    txt = a_tag.get_text(" ", strip=True)
+    if txt and len(txt) > 5:
+        return txt
+
+    # 2. Chercher un heading dans l'arborescence proche
+    for parent in a_tag.parents:
+        if parent.name in ("article", "div", "section", "li"):
+            heading = parent.find(["h1", "h2", "h3", "h4"])
+            if heading:
+                txt = heading.get_text(" ", strip=True)
+                if txt and len(txt) > 5:
+                    return txt
+            # Ne pas remonter trop haut
+            break
+
+    # 3. Attribut title ou aria-label
+    for attr in ("title", "aria-label"):
+        val = a_tag.get(attr)
+        if val and len(val) > 5:
+            return val.strip()
+
+    # 4. Fallback : slug de l'URL
+    # .../actu/audiences-quel-score-pour-un-p-tit-truc-en-plus.../654519
+    # → "audiences quel score pour un p tit truc en plus"
+    href = a_tag.get("href", "")
+    m = re.search(r"/actu/([^/]+?)(?:/\d+)?/?$", href)
+    if m:
+        slug = m.group(1).replace("-", " ")
+        return slug
+
+    return ""
+
+
 def _list_audience_candidates(listing_soup: BeautifulSoup) -> list[dict]:
     """
     Collecte tous les articles 'Audiences' de la page de listing, en excluant
@@ -105,10 +147,13 @@ def _list_audience_candidates(listing_soup: BeautifulSoup) -> list[dict]:
     candidates = []
     seen_urls = set()
 
-    for a in listing_soup.find_all("a", href=True):
+    # Debug : combien de liens <a> au total sur la page ?
+    all_links = listing_soup.find_all("a", href=True)
+    audience_links = [a for a in all_links if re.search(r"/actu/audiences?[-/]", a.get("href", ""))]
+    log.info(f"DEBUG: {len(all_links)} liens totaux, dont {len(audience_links)} vers /actu/audiences...")
+
+    for a in audience_links:
         href = a["href"]
-        if not re.search(r"/actu/audiences?[-/]", href):
-            continue
         if href.startswith("/"):
             href = BASE_URL + href
         if not href.startswith(BASE_URL):
@@ -116,7 +161,8 @@ def _list_audience_candidates(listing_soup: BeautifulSoup) -> list[dict]:
         if href in seen_urls:
             continue
 
-        title = a.get_text(" ", strip=True)
+        # Extraction robuste du titre (avec fallback sur le slug d'URL)
+        title = _extract_link_title(a)
         if not title:
             continue
 
@@ -124,31 +170,29 @@ def _list_audience_candidates(listing_soup: BeautifulSoup) -> list[dict]:
         href_lower = href.lower()
 
         # EXCLUSIONS — articles qui ne sont PAS un récap de prime-time
-        if "access-20h" in href_lower or "access 20h" in title_lower:
+        # On teste sur title ET href pour être robuste aux deux sources
+        combined = f"{title_lower} {href_lower}"
+        if "access-20h" in combined or "access 20h" in combined:
             continue
-        if "pre-access" in href_lower or "pré-access" in title.lower() or "pre-access" in title_lower:
+        if "pre-access" in combined or "pré-access" in title.lower():
             continue
-        if "netflix" in href_lower or "netflix" in title_lower:
+        if "netflix" in combined:
             continue
-        if "/audiences-svod" in href_lower or "svod" in title_lower:
+        if "audiences-svod" in combined or " svod " in combined:
             continue
-        if "radio" in title_lower or "radio" in href_lower:
+        if " radio" in combined or "-radio" in combined:
             continue
-        if "bilan" in title_lower:
+        if "bilan" in combined:
             continue
-        if "top articles" in title_lower:
-            continue
-
-        # On ne garde que les articles qui démarrent par "Audiences :"
-        # (ou "Audiences samedi/dimanche/lundi..." pour les weekends)
-        if not (
-            title_lower.startswith("audiences :") or title_lower.startswith("audiences:")
-            or re.match(r"^audiences\s+(samedi|dimanche|lundi|mardi|mercredi|jeudi|vendredi)\b", title_lower)
-        ):
+        if "top articles" in combined:
             continue
 
+        # INCLUSION : le titre commence par "audiences" (avec ou sans deux-points)
+        # OU l'URL suit le pattern /actu/audiences-...
+        # Comme on a déjà filtré sur /actu/audiences/ plus haut, on garde tous
+        # ceux qui ont passé les exclusions.
         seen_urls.add(href)
-        candidates.append({"url": href, "title": title})
+        candidates.append({"url": href, "title": title[:100]})
 
     return candidates
 
@@ -494,11 +538,16 @@ def run(target_date: Optional[date] = None) -> CountryReport:
         # 1. Récupérer la page de listing
         r = session.get(LISTING_URL, timeout=30)
         r.raise_for_status()
+        log.info(f"DEBUG: listing HTTP {r.status_code}, {len(r.text)} chars, "
+                 f"content-type={r.headers.get('content-type', 'n/a')}")
         listing_soup = BeautifulSoup(r.text, "html.parser")
 
         # 2. Identifier le bon article (et récupérer son contenu en même temps)
         result = find_evening_article_url(listing_soup, session=session)
         if not result:
+            # Dump les premiers caractères du HTML brut pour diagnostic
+            preview = r.text[:1500].replace("\n", " ")
+            log.warning(f"DEBUG: aperçu HTML reçu : {preview!r}")
             raise RuntimeError("Aucun article 'soirée' trouvé sur la page de listing")
         article_url, article_soup = result
 
