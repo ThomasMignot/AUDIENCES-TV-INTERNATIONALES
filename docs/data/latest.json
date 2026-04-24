@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-23",
   "countries": {
     "DE": {
       "country_code": "DE",
@@ -46,22 +46,84 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T13:55:16.348710Z",
+      "scraped_at": "2026-04-24T14:01:44.164405Z",
       "status": "partial",
       "error": null,
-      "commentary": "Sur le prime time allemand du 23 avril 2026, les journaux télévisés de Das Erste et du ZDF dominent largement les audiences. Le programme d'information de Das Erste enregistre une part de marché de 23,0%, confirmant sa position de leader face au \"heute journal\" du ZDF qui atteint 13,6%. \"Germany's Next Topmodel\" sur ProSieben se positionne en troisième place, mais avec une audience significativement plus faible, témoignant d'une forte polarisation de l'audience sur les offres d'information publiques."
+      "commentary": "Le magazine d'information *Tagesthemen* sur Das Erste s'impose nettement en tête des audiences du prime time allemand ce 23 avril, captant près d'un quart du public, un score significativement supérieur à celui du *heute journal* du ZDF. Ce dernier enregistre une audience plus modeste, bien qu'il se positionne devant le divertissement de ProSieben, *Germany's Next Topmodel*. La performance de Das Erste contraste avec les données des jours précédents où le *heute journal* du ZDF avait connu des pics d'audience plus importants, notamment le 22 avril avec une offre combinée incluant la météo."
     },
     "ES": {
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-04-24",
+      "date": "2026-04-23",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-04-24T13:55:16.999220Z",
-      "status": "failed",
-      "error": "415 Client Error: Unsupported Media Type for url: https://barloventocomunicacion.es/audiencias-tv-ayer/"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Alaska)",
+          "program_fr": null,
+          "viewers": 1616000,
+          "share": 13.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-abril-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (la Petanca del Año)",
+          "program_fr": null,
+          "viewers": 1406000,
+          "share": 12.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-abril-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "Supervivientes Express",
+          "program_fr": "Koh-Lanta",
+          "viewers": 1050000,
+          "share": 8.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-abril-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte:Avance",
+          "program_fr": null,
+          "viewers": 892000,
+          "share": 7.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-abril-2026/",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 838000,
+          "share": 6.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-abril-2026/",
+          "category": "info",
+          "category_emoji": "📰"
+        }
+      ],
+      "scraped_at": "2026-04-24T14:01:44.945655Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Antena 3 confirme sa domination sur le prime time espagnol avec \"El Hormiguero\", qui réunit ce 23 avril 1,62 million de téléspectateurs et 13,4% de part de marché. La chaîne publique La 1 se positionne en deuxième place avec \"La Revuelta\", qui enregistre 1,41 million de spectateurs, marquant une légère hausse par rapport à la veille. Telecinco, avec \"Supervivientes Express\", se maintient sous la barre des 1,1 million de téléspectateurs, une performance stable mais inférieure à celle de \"La Isla de las Tentaciones\" observée les jours précédents. Les chaînes thématiques Cuatro et La Sexta ferment ce classement, avec des programmes d'information et de divertissement qui peinent à dépasser les 900 000 spectateurs."
     },
     "NL": {
       "country_code": "NL",
@@ -96,10 +158,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T13:55:20.702850Z",
+      "scraped_at": "2026-04-24T14:01:48.772557Z",
       "status": "partial",
       "error": null,
-      "commentary": "La diffusion de la demi-finale de \"Heel Holland Bakt Elke Dag\" sur NPO 1 a rassemblé 731 000 téléspectateurs, une audience solide qui confirme la popularité du programme. En comparaison avec le prime time du 22 avril, où \"Het Verhaal van Nederland\" avait attiré 792 000 spectateurs, on observe une légère érosion sur la chaîne publique. RTL 4, avec \"Debbie en Paul in Daar Gaan Ze Weer\", se positionne nettement en retrait, captant 249 000 fidèles, loin des performances de SBS 6 la veille."
+      "commentary": "Le divertissement \"Halve finale Heel Holland Bakt Elke Dag\" sur NPO 1 a largement dominé le prime time néerlandais ce 23 avril 2026, attirant 731 000 téléspectateurs. Ce chiffre représente une baisse par rapport à la performance de \"Het Verhaal van Nederland\" le 22 avril, qui avait rassemblé 792 000 personnes sur la même chaîne. En comparaison, \"Debbie en Paul in Daar Gaan Ze Weer\" sur RTL 4 se positionne nettement en retrait avec 249 000 spectateurs, soulignant l'écart important dans les préférences du public ce soir-là."
     },
     "IT": {
       "country_code": "IT",
@@ -158,11 +220,11 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T13:55:19.372719Z",
+      "scraped_at": "2026-04-24T14:01:47.433418Z",
       "status": "partial",
       "error": null,
-      "commentary": "Sur la soirée du 23 avril 2026, Rai 1 s'impose nettement en prime time avec sa fiction \"Uno Sbirro in Appennino\", captant plus de 3 millions de téléspectateurs et un part d'audience de 20.1%. Canale 5, avec \"Forbidden Fruit\", se positionne en deuxième place mais accuse un écart significatif en nombre de téléspectateurs. La chaîne La7, avec son magazine d'actualité \"Piazzapulita\", réalise une performance plus modeste, se distinguant néanmoins par une part d'audience supérieure à celle de TV8, qui ferme ce quartet de tête. Cette configuration contraste avec les soirées précédentes, marquées par la présence de compétitions sportives majeures attirant des audiences plus larges sur différentes chaînes."
+      "commentary": "La fiction de Rai 1, \"Uno Sbirro in Appennino\", s'impose nettement en tête des audiences du prime time, captant plus de 3 millions de téléspectateurs et dépassant les 20% de part de marché. Ce score place la fiction en nette supériorité face à \"Forbidden Fruit\" sur Canale 5, qui réunit 1,92 million de personnes. La chaîne La7, avec son magazine d'information \"Piazzapulita\", se positionne en troisième place, un résultat inférieur à celui enregistré par \"DiMartedì\" le 21 avril. TV8 ferme la marche de ce classement, témoignant d'une faible pénétration sur le segment du prime time ce soir-là."
     }
   },
-  "last_updated": "2026-04-24T13:55:20.705575Z"
+  "last_updated": "2026-04-24T14:01:48.775131Z"
 }
