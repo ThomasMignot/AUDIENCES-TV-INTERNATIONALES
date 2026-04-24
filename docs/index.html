@@ -271,13 +271,18 @@ let state = {
   data: null,         // contenu de latest.json ou archive/YYYY-MM-DD.json
   view: "all",        // "all" | "champions" | code pays ("DE", "ES", ...)
   search: "",
-  currentDate: null   // date actuellement affichée
+  currentDate: null,  // date actuellement affichée
+  maxDate: null       // date la plus récente disponible (celle de latest.json au chargement)
 };
 
 // ─── Loading ─────────────────────────────────────────────────────
 
 async function loadData(isoDate) {
-  const url = isoDate ? `./data/archive/${isoDate}.json` : `./data/latest.json`;
+  // Si on demande la date la plus récente (ou aucune date), on charge
+  // latest.json qui contient les commentaires Gemini. Sinon on va dans
+  // les archives (qui peuvent ne pas avoir tous les commentaires).
+  const useLatest = !isoDate || (state.maxDate && isoDate === state.maxDate);
+  const url = useLatest ? `./data/latest.json` : `./data/archive/${isoDate}.json`;
   try {
     const r = await fetch(url + "?t=" + Date.now());
     if (!r.ok) throw new Error("not found");
@@ -569,9 +574,11 @@ document.getElementById('search').addEventListener('input', e => {
 });
 document.getElementById('date-picker').addEventListener('change', async e => {
   const iso = e.target.value;
-  // Garde-fou : ne pas charger une date postérieure à la dernière disponible
-  if (state.data && state.data.date && iso > state.data.date) {
-    e.target.value = state.data.date;
+  // Garde-fou : ne pas charger une date postérieure à la date MAX disponible
+  // (on compare à state.maxDate et PAS à state.data.date, qui change quand
+  // on navigue dans le passé).
+  if (state.maxDate && iso > state.maxDate) {
+    e.target.value = state.maxDate;
     return;
   }
   state.data = await loadData(iso);
@@ -590,15 +597,16 @@ document.getElementById('btn-press').addEventListener('click', generatePress);
   const picker = document.getElementById('date-picker');
   if (state.data) {
     state.currentDate = state.data.date;
+    state.maxDate = state.data.date;  // date max = celle de latest.json
     picker.value = state.data.date;
     // Borner le date picker : on ne peut pas sélectionner une date
-    // postérieure à la dernière date disponible (latest.json).
-    // Ça évite de tomber sur des fichiers d'archive parfois créés à tort
-    // avec une date future (bug de scraper corrigé côté serveur).
+    // postérieure à la dernière date disponible.
     picker.max = state.data.date;
   } else {
-    picker.value = new Date().toISOString().slice(0, 10);
-    picker.max = new Date().toISOString().slice(0, 10);
+    const today = new Date().toISOString().slice(0, 10);
+    state.maxDate = today;
+    picker.value = today;
+    picker.max = today;
   }
   updateHeader();
   renderTabs();
