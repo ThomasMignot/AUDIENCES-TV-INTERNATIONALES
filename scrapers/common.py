@@ -93,7 +93,7 @@ def parse_share_percent(text: str) -> float:
 
 # Palette pastel cohérente, reprise par le dashboard
 CHANNEL_COLORS: dict[str, str] = {
-     # France
+    # France
     "TF1": "blue", "France 2": "red", "France 3": "amber",
     "France 4": "teal", "France 5": "purple",
     "M6": "coral", "W9": "pink", "6ter": "pink",
@@ -134,7 +134,7 @@ CHANNEL_COLORS: dict[str, str] = {
     "CMTV": "coral",
     # Australie
     "Seven": "red", "Nine": "blue", "Ten": "amber",
-    "ABC": "teal", "SBS": "purple",
+    "SBS": "purple",
 }
 
 
@@ -169,6 +169,25 @@ def make_entry(
     )
 
 
+# ─── Champs à PRÉSERVER lors de la réécriture d'un pays ──────────
+# Ces champs sont ajoutés par commentary.py APRÈS le scraping.
+# Les scrapers ne doivent pas les écraser quand ils sauvegardent.
+PRESERVED_FIELDS = ("commentary", "commentary_date")
+
+
+def _merge_preserve(old_entry: dict, new_entry: dict) -> dict:
+    """
+    Retourne new_entry enrichi des champs préservés qu'on trouvait dans old_entry.
+    Utilisé pour ne pas effacer les commentaires générés par commentary.py
+    quand un scraper réécrit son entrée dans latest.json / archive/*.json.
+    """
+    merged = dict(new_entry)
+    for field in PRESERVED_FIELDS:
+        if field in old_entry and field not in merged:
+            merged[field] = old_entry[field]
+    return merged
+
+
 # ─── I/O sur disque ────────────────────────────────────────────────
 
 def save_report(report: CountryReport) -> None:
@@ -180,7 +199,8 @@ def save_report(report: CountryReport) -> None:
 
     IMPORTANT : latest.json n'est JAMAIS écrasé par l'archive d'un seul jour.
     On merge systématiquement l'entrée de ce pays dans le latest existant,
-    en PRÉSERVANT les autres pays déjà présents.
+    en PRÉSERVANT les autres pays déjà présents ET les champs commentary /
+    commentary_date qui auraient été ajoutés par commentary.py.
     """
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -198,7 +218,11 @@ def save_report(report: CountryReport) -> None:
 
     if "countries" not in existing_archive:
         existing_archive = {"date": report.date, "countries": {}}
-    existing_archive["countries"][report.country_code] = _report_to_dict(report)
+
+    # Préserver commentary / commentary_date si déjà présents pour ce pays
+    old_archive_entry = existing_archive["countries"].get(report.country_code, {})
+    new_archive_entry = _merge_preserve(old_archive_entry, _report_to_dict(report))
+    existing_archive["countries"][report.country_code] = new_archive_entry
     existing_archive["last_updated"] = datetime.utcnow().isoformat() + "Z"
 
     archive_path.write_text(
@@ -218,8 +242,11 @@ def save_report(report: CountryReport) -> None:
     if "countries" not in existing_latest:
         existing_latest["countries"] = {}
 
-    # On remplace UNIQUEMENT l'entrée de ce pays, les autres restent intactes
-    existing_latest["countries"][report.country_code] = _report_to_dict(report)
+    # On remplace UNIQUEMENT l'entrée de ce pays (les autres restent intactes),
+    # en PRÉSERVANT les champs commentary / commentary_date qui s'y trouvaient.
+    old_latest_entry = existing_latest["countries"].get(report.country_code, {})
+    new_latest_entry = _merge_preserve(old_latest_entry, _report_to_dict(report))
+    existing_latest["countries"][report.country_code] = new_latest_entry
     existing_latest["last_updated"] = datetime.utcnow().isoformat() + "Z"
 
     # La "date principale" de latest.json = la date la plus récente parmi tous les pays
