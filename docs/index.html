@@ -92,6 +92,10 @@ button:active { transform: scale(0.98); }
 .country-source { font-size: 12px; color: var(--text-subtle); }
 .country-source a { color: var(--text-muted); text-decoration: none; }
 .country-source a:hover { text-decoration: underline; }
+.country-date {
+  font-size: 12px; color: var(--text-muted);
+  font-weight: 500;
+}
 .flag { font-size: 16px; margin-right: 6px; }
 .table {
   width: 100%; border-collapse: collapse; font-size: 13px;
@@ -215,7 +219,7 @@ footer {
 <div id="press-modal" class="press-modal" style="display: none;"></div>
 
 <footer>
-  <p>Données collectées automatiquement chaque matin · <a href="https://github.com/YOUR_USERNAME/tv-audiences" style="color: var(--text-muted);">code source</a></p>
+  <p>Données collectées automatiquement chaque matin · <a href="https://github.com/ThomasMignot/AUDIENCES-TV-INTERNATIONALES" style="color: var(--text-muted);">code source</a></p>
 </footer>
 
 </div>
@@ -232,6 +236,36 @@ const COLOR_MAP = {
   coral: { bg: "#FAECE7", fg: "#712B13" },
   gray:  { bg: "#F1EFE8", fg: "#444441" }
 };
+
+// Ordre d'affichage des pays : la France en PREMIER (pays de référence),
+// puis les autres par ordre géographique / d'importance médiatique.
+// Les pays non listés ici sont ajoutés à la fin dans l'ordre naturel.
+const COUNTRY_ORDER = [
+  "FR",  // 🇫🇷 Référence — toujours en premier
+  "DE",  // 🇩🇪
+  "ES",  // 🇪🇸
+  "IT",  // 🇮🇹
+  "NL",  // 🇳🇱
+  "BE",  // 🇧🇪
+  "PT",  // 🇵🇹
+  "GB",  // 🇬🇧
+  "US",  // 🇺🇸
+  "CA",  // 🇨🇦
+  "AU",  // 🇦🇺
+  "BR",  // 🇧🇷
+  "DK",  // 🇩🇰
+  "SE",  // 🇸🇪
+];
+
+function orderedCountryCodes(countries) {
+  if (!countries) return [];
+  const allCodes = Object.keys(countries);
+  // D'abord les pays dans COUNTRY_ORDER, dans l'ordre imposé,
+  // puis ajouter les pays restants à la fin (sécurité pour nouveaux pays)
+  const ordered = COUNTRY_ORDER.filter(c => allCodes.includes(c));
+  const rest = allCodes.filter(c => !COUNTRY_ORDER.includes(c));
+  return [...ordered, ...rest];
+}
 
 let state = {
   data: null,         // contenu de latest.json ou archive/YYYY-MM-DD.json
@@ -271,11 +305,18 @@ function fmtDateFR(iso) {
   return `${days[d.getDay()]} ${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
 }
 
+function fmtDateShort(iso) {
+  const d = new Date(iso + "T00:00:00");
+  const days = ['dim.', 'lun.', 'mar.', 'mer.', 'jeu.', 'ven.', 'sam.'];
+  const months = ['janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
+  return `${days[d.getDay()]} ${d.getDate()} ${months[d.getMonth()]}`;
+}
+
 // ─── Rendering ───────────────────────────────────────────────────
 
 function renderTabs() {
   if (!state.data || !state.data.countries) return;
-  const codes = Object.keys(state.data.countries);
+  const codes = orderedCountryCodes(state.data.countries);
   const tabs = document.getElementById('tabs');
   const btns = [
     `<button class="tab ${state.view === 'all' ? 'active' : ''}" data-view="all">Tous les pays</button>`,
@@ -324,10 +365,13 @@ function renderEntryRow(entry, ctx) {
 
 function renderCountrySection(code) {
   const c = state.data.countries[code];
+  // Date de ce pays (peut différer de la date principale de latest.json)
+  const countryDate = c.date ? `<span class="country-date">· ${fmtDateShort(c.date)}</span>` : '';
   if (c.status === 'failed') {
     return `<div class="country-section">
       <div class="country-header">
         <h3><span class="flag">${c.flag}</span>${c.country_name}</h3>
+        ${countryDate}
         <span class="country-source">source : ${c.source_name}</span>
       </div>
       <div class="empty-state">⚠ Scraping échoué : ${c.error || 'erreur inconnue'}</div>
@@ -342,6 +386,7 @@ function renderCountrySection(code) {
   return `<div class="country-section">
     <div class="country-header">
       <h3><span class="flag">${c.flag}</span>${c.country_name}</h3>
+      ${countryDate}
       <span class="country-source">source : <a href="${c.source_url}" target="_blank" rel="noopener">${c.source_name}</a></span>
     </div>
     <table class="table">
@@ -363,7 +408,7 @@ function renderCountrySection(code) {
 
 function renderChampions() {
   const all = [];
-  Object.keys(state.data.countries).forEach(code => {
+  orderedCountryCodes(state.data.countries).forEach(code => {
     const c = state.data.countries[code];
     if (c.status === 'failed') return;
     c.entries.forEach(e => {
@@ -409,7 +454,7 @@ function render() {
   if (state.view === 'champions') {
     main.innerHTML = renderChampions();
   } else if (state.view === 'all') {
-    const codes = Object.keys(state.data.countries);
+    const codes = orderedCountryCodes(state.data.countries);
     const html = codes.map(renderCountrySection).filter(Boolean).join('');
     main.innerHTML = html || '<div class="empty-state">Aucun résultat pour cette recherche.</div>';
   } else {
@@ -448,12 +493,12 @@ function updateHeader() {
 function exportCSV() {
   if (!state.data) return;
   const rows = [['Date', 'Pays', 'Rang', 'Chaine', 'Emission', 'Titre FR', 'Categorie', 'Telespectateurs', 'PDM (%)', 'Source URL']];
-  Object.keys(state.data.countries).forEach(code => {
+  orderedCountryCodes(state.data.countries).forEach(code => {
     const c = state.data.countries[code];
     if (c.status === 'failed') return;
     c.entries.forEach(e => {
       rows.push([
-        state.data.date, c.country_name, e.rank, e.channel, e.program,
+        c.date || state.data.date, c.country_name, e.rank, e.channel, e.program,
         e.program_fr || '', e.category || 'autre',
         e.viewers, e.share.toFixed(1).replace('.', ','), e.source_url
       ]);
@@ -475,13 +520,14 @@ function exportCSV() {
 function generatePress() {
   if (!state.data) return;
   let txt = `AUDIENCES TV — DIFFUSIONS DU ${fmtDateFR(state.data.date).toUpperCase()}\n${'='.repeat(60)}\n\n`;
-  Object.keys(state.data.countries).forEach(code => {
+  orderedCountryCodes(state.data.countries).forEach(code => {
     const c = state.data.countries[code];
     if (c.status === 'failed') {
       txt += `${c.flag}  ${c.country_name.toUpperCase()} — données indisponibles\n\n`;
       return;
     }
-    txt += `${c.flag}  ${c.country_name.toUpperCase()}\nSource : ${c.source_name}\n${'-'.repeat(60)}\n`;
+    const dateLine = c.date ? ` (${fmtDateShort(c.date)})` : '';
+    txt += `${c.flag}  ${c.country_name.toUpperCase()}${dateLine}\nSource : ${c.source_name}\n${'-'.repeat(60)}\n`;
     if (c.commentary) {
       txt += `\n${c.commentary}\n\n`;
     }
