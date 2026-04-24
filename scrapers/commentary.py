@@ -219,15 +219,28 @@ def _call_gemini_with_retry(api_key: str, payload: dict,
             # Cas succès
             if r.status_code == 200:
                 data = r.json()
+                candidate = data.get("candidates", [{}])[0]
                 text = (
-                    data.get("candidates", [{}])[0]
+                    candidate
                     .get("content", {})
                     .get("parts", [{}])[0]
                     .get("text", "")
                 ).strip()
+
+                # Détection de troncature : si Gemini a coupé net, on logue
+                # un avertissement pour qu'on sache qu'il faut ajuster maxOutputTokens
+                finish_reason = candidate.get("finishReason", "")
+                if finish_reason == "MAX_TOKENS":
+                    log.warning(
+                        f"{country_code} : réponse tronquée par MAX_TOKENS — "
+                        f"envisager d'augmenter maxOutputTokens "
+                        f"(texte actuel : {len(text)} chars, {len(text.split())} mots)"
+                    )
+
                 if text:
                     return text
-                log.warning(f"{country_code} : réponse Gemini vide")
+                log.warning(f"{country_code} : réponse Gemini vide "
+                           f"(finishReason={finish_reason})")
                 return None
 
             # 429 → on attend et on réessaie
@@ -301,7 +314,9 @@ def generate_commentary(country_code: str, country_data: dict) -> Optional[str]:
         },
         "generationConfig": {
             "temperature": 0.6,  # légèrement plus créatif qu'avant, sans dériver
-            "maxOutputTokens": 500,  # 5-6 phrases denses
+            # Le français est ~1.5x plus verbeux en tokens que l'anglais.
+            # 1500 tokens = ~1200 mots = confortable pour 5-6 phrases denses.
+            "maxOutputTokens": 1500,
             "topP": 0.9,
         },
     }
