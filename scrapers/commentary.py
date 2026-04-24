@@ -371,9 +371,18 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
     Charge latest.json, génère un commentaire pour chaque pays, puis réécrit le fichier.
     À appeler APRÈS tous les scrapers (une seule fois par run).
 
+    Logique de regénération (par défaut) :
+    - Si le commentaire existant a été écrit pour les MÊMES données que celles
+      présentes aujourd'hui (même date pour ce pays) → on garde.
+    - Sinon → on regénère (nouveau jour de données, commentaire obsolète).
+
+    Cette logique est robuste aux échecs transitoires de l'API Gemini :
+    si on a un 429 aujourd'hui, le commentaire d'hier reste affiché tant qu'on
+    n'a pas pu en générer un nouveau.
+
     Args:
-        force: si True, regénère les commentaires même s'ils existent déjà
-               (utile quand on change le prompt ou le modèle)
+        force: si True, regénère TOUS les commentaires même s'ils sont à jour
+               (utile seulement quand on change le modèle ou le prompt)
     """
     if not latest_path.exists():
         log.error(f"latest.json introuvable : {latest_path}")
@@ -396,14 +405,21 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
             skipped += 1
             continue
 
-        # Idempotence : on garde le commentaire existant sauf si force=True
-        if not force and country_data.get("commentary"):
-            log.info(f"{code} : commentaire déjà présent, on garde")
+        current_date = country_data.get("date", "")
+        existing_commentary = country_data.get("commentary")
+        existing_date = country_data.get("commentary_date", "")
+
+        # Si force=False et le commentaire existant est à jour (même date
+        # que les données actuelles), on le garde
+        if not force and existing_commentary and existing_date == current_date:
+            log.info(f"{code} : commentaire déjà à jour pour le {current_date}, on garde")
             skipped += 1
             continue
 
         # Court-circuit : si les 2 premiers pays échouent, le quota est
         # manifestement épuisé, inutile de s'acharner sur les suivants.
+        # NB : on ne touche pas aux commentaires existants même obsolètes —
+        # mieux vaut un commentaire un peu ancien que rien du tout.
         if consecutive_429_failures >= 2:
             log.warning(
                 f"{code} : quota Gemini manifestement épuisé après "
@@ -412,13 +428,14 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
             skipped += 1
             continue
 
-        # Rate-limiting manuel entre les pays (sauf le premier)
-        if i > 0:
+        # Rate-limiting manuel entre les pays (sauf le premier appel de ce run)
+        if successes + failures > 0:
             time.sleep(RATE_LIMIT_DELAY)
 
         commentary = _timed_generate(code, country_data)
         if commentary:
             country_data["commentary"] = commentary
+            country_data["commentary_date"] = current_date  # track la date couverte
             successes += 1
             consecutive_429_failures = 0  # reset sur succès
         else:
@@ -438,8 +455,11 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(name)s] %(message)s")
-    # Par défaut, on regénère tout parce qu'on a changé de prompt/modèle.
-    # Pour ne regénérer que les pays sans commentaire, passer --idempotent.
-    force = "--idempotent" not in sys.argv
+    # Comportement par défaut : idempotent. On ne regénère un commentaire que
+    # si la date des données a changé (nouvelle soirée). Ça évite de cramer
+    # le quota sur des reruns et conserve les commentaires d'hier si Gemini
+    # est momentanément indisponible.
+    # Utiliser --force pour tout regénérer (ex: changement de prompt/modèle).
+    force = "--force" in sys.argv
     latest = ROOT / "docs" / "data" / "latest.json"
     enrich_latest_with_commentaries(latest, force=force)
