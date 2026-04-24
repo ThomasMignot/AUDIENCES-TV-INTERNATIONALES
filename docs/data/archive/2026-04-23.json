@@ -46,7 +46,7 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T15:40:26.123881Z",
+      "scraped_at": "2026-04-24T15:50:29.092624Z",
       "status": "partial",
       "error": null
     },
@@ -119,7 +119,7 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T15:40:27.085714Z",
+      "scraped_at": "2026-04-24T15:50:29.892392Z",
       "status": "ok",
       "error": null
     },
@@ -156,7 +156,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T15:40:31.779132Z",
+      "scraped_at": "2026-04-24T15:50:33.541922Z",
       "status": "partial",
       "error": null
     },
@@ -217,7 +217,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T15:40:30.159735Z",
+      "scraped_at": "2026-04-24T15:50:32.349177Z",
       "status": "partial",
       "error": null
     },
@@ -233,7 +233,7 @@
           "rank": 1,
           "channel": "M6",
           "channel_color": "coral",
-          "program": "UN P'TIT TRUC EN PLUS FILM",
+          "program": "UN P'TIT TRUC EN PLUS",
           "program_fr": null,
           "viewers": 5501000,
           "share": 32.5,
@@ -245,7 +245,7 @@
           "rank": 2,
           "channel": "TF1",
           "channel_color": "blue",
-          "program": "FLASHBACK SERIE",
+          "program": "FLASHBACK",
           "program_fr": null,
           "viewers": 2373000,
           "share": 13.1,
@@ -257,7 +257,7 @@
           "rank": 3,
           "channel": "France 3",
           "channel_color": "amber",
-          "program": "L'ECOLE DES ESPIONS TELEFILM",
+          "program": "L'ECOLE DES ESPIONS",
           "program_fr": null,
           "viewers": 1486000,
           "share": 8.5,
@@ -269,7 +269,7 @@
           "rank": 4,
           "channel": "France 2",
           "channel_color": "red",
-          "program": "ENVOYE SPECIAL MAGAZINE",
+          "program": "ENVOYE SPECIAL",
           "program_fr": null,
           "viewers": 1396000,
           "share": 8.2,
@@ -281,7 +281,7 @@
           "rank": 5,
           "channel": "France 5",
           "channel_color": "purple",
-          "program": "LA FOUDRE : UN ECLAIR DE GENIE DOCUMENTAIRE",
+          "program": "LA FOUDRE : UN ECLAIR DE GENIE",
           "program_fr": null,
           "viewers": 780000,
           "share": 4.4,
@@ -290,10 +290,10 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T15:40:25.129082Z",
+      "scraped_at": "2026-04-24T15:50:28.190302Z",
       "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-24T15:40:31.781255Z"
+  "last_updated": "2026-04-24T15:50:33.543804Z"
 }
