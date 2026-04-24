@@ -48,8 +48,7 @@
       ],
       "scraped_at": "2026-04-24T08:23:57.616700Z",
       "status": "partial",
-      "error": null,
-      "commentary": "Le journal télévisé de Das Erste, \"Tagesthemen\", s'impose largement en tête des audiences du prime time allemand ce 23 avril, captant près d'un quart du public présent. Le \"heute journal\" de ZDF, bien que second, enregistre un recul significatif par rapport à son record de la veille, qui incluait une météo particulièrement suivie. La troisième place est occupée par \"Germany's Next Topmodel\" sur ProSieben, qui se positionne loin derrière les deux chaînes publiques, soulignant la prédominance de l'information dans le paysage audiovisuel allemand ce soir-là."
+      "error": null
     },
     "ES": {
       "country_code": "ES",
@@ -122,8 +121,7 @@
       ],
       "scraped_at": "2026-04-24T08:23:58.401125Z",
       "status": "ok",
-      "error": null,
-      "commentary": "Sur la soirée du 23 avril 2026, Antena 3 conforte sa position avec \"El Hormiguero\", qui maintient une audience solide à 1,62 million de téléspectateurs, légèrement en deçà de ses performances des deux jours précédents. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième place, améliorant sa performance par rapport au 21 avril. Telecinco, avec \"Supervivientes Express\", enregistre une audience inférieure à celle de \"La Isla de las Tentaciones\" observée les jours précédents, tandis que les chaînes d'information continue Cuatro et La Sexta ferment le classement du prime time."
+      "error": null
     },
     "NL": {
       "country_code": "NL",
@@ -160,8 +158,7 @@
       ],
       "scraped_at": "2026-04-24T08:24:02.303677Z",
       "status": "partial",
-      "error": null,
-      "commentary": "La demi-finale de *Heel Holland Bakt Elke Dag* sur NPO 1 a rassemblé une audience significative de 731 000 téléspectateurs, marquant une légère baisse par rapport à la performance de *Het Verhaal van Nederland* la veille. RTL 4, avec *Debbie en Paul in Daar Gaan Ze Weer*, se positionne nettement en retrait avec 249 000 spectateurs, un écart notable par rapport aux chiffres enregistrés le 22 avril, où SBS 6 atteignait 618 000 téléspectateurs. Cette journée témoigne d'une concentration de l'audience sur la chaîne publique, tandis que les autres diffuseurs peinent à rivaliser sur ce créneau horaire."
+      "error": null
     }
   },
   "last_updated": "2026-04-24T08:24:02.305619Z"
