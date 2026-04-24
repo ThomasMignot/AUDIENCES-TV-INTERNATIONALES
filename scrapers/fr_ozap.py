@@ -93,34 +93,29 @@ def strip_accents(s: str) -> str:
     return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
 
 
-def find_evening_article_url(listing_soup: BeautifulSoup) -> Optional[str]:
+def _list_audience_candidates(listing_soup: BeautifulSoup) -> list[dict]:
     """
-    Parmi les articles de la page de tag, trouve le plus récent qui correspond
-    au récap soirée (prime time). On exclut :
-    - "access 20h", "pré-access" → créneaux avant le prime
-    - "Netflix", "SVOD", "radios" → autres médias
-    - "bilan", "saison" → articles bilan
-    - "samedi"/"dimanche" dans l'URL mais seulement si pas "soiree"
+    Collecte tous les articles 'Audiences' de la page de listing, en excluant
+    les formats qui NE sont pas des récaps de prime-time (access 20h,
+    pré-access, Netflix, radio, bilan de saison, SVOD, etc.).
 
-    Critère positif : l'article dont l'URL contient "-soiree-du-" OU
-    dont le titre démarre par "Audiences :" sans contenir les exclusions ci-dessus.
+    Retourne une liste ordonnée (plus récent en premier, puisque Ozap trie
+    ses articles par date descendante).
     """
-    # On regarde tous les liens vers /actu/audiences-...
     candidates = []
+    seen_urls = set()
+
     for a in listing_soup.find_all("a", href=True):
         href = a["href"]
         if not re.search(r"/actu/audiences?[-/]", href):
             continue
-        # Normaliser en URL absolue
         if href.startswith("/"):
             href = BASE_URL + href
         if not href.startswith(BASE_URL):
             continue
-        # Déduplication sur l'URL
-        if any(c["url"] == href for c in candidates):
+        if href in seen_urls:
             continue
 
-        # Récupérer le titre (souvent dans le <a> ou un parent)
         title = a.get_text(" ", strip=True)
         if not title:
             continue
@@ -128,7 +123,7 @@ def find_evening_article_url(listing_soup: BeautifulSoup) -> Optional[str]:
         title_lower = strip_accents(title.lower())
         href_lower = href.lower()
 
-        # EXCLUSIONS
+        # EXCLUSIONS — articles qui ne sont PAS un récap de prime-time
         if "access-20h" in href_lower or "access 20h" in title_lower:
             continue
         if "pre-access" in href_lower or "pré-access" in title.lower() or "pre-access" in title_lower:
@@ -144,45 +139,77 @@ def find_evening_article_url(listing_soup: BeautifulSoup) -> Optional[str]:
         if "top articles" in title_lower:
             continue
 
-        # INCLUSIONS — articles de prime-time
-        # Indicateurs forts (priorité 1) :
-        # - URL contient "-soiree-du-"
-        # - URL/titre contient "hier soir" (= récap du prime de la veille)
-        # - URL démarre par "audiences-samedi-" ou "audiences-dimanche-"
-        #   (les samedis/dimanches, Ozap utilise ce pattern d'URL)
-        is_prime = (
-            "-soiree-du-" in href_lower
-            or "hier-soir" in href_lower
-            or "hier soir" in title_lower
-            or re.search(r"/audiences-samedi[-/]", href_lower)
-            or re.search(r"/audiences-dimanche[-/]", href_lower)
-        )
-        # Fallback : titre commençant par "Audiences :" et non exclu,
-        # mais uniquement si on n'a rien trouvé de mieux.
-        # On exclut aussi les articles "Quel bilan" qui passent parfois entre
-        # les mailles (bilan est déjà filtré plus haut, ceinture-bretelles).
-        is_audiences_generic = (
-            (title_lower.startswith("audiences :") or title_lower.startswith("audiences:"))
-            and "quel bilan" not in title_lower
-        )
+        # On ne garde que les articles qui démarrent par "Audiences :"
+        # (ou "Audiences samedi/dimanche/lundi..." pour les weekends)
+        if not (
+            title_lower.startswith("audiences :") or title_lower.startswith("audiences:")
+            or re.match(r"^audiences\s+(samedi|dimanche|lundi|mardi|mercredi|jeudi|vendredi)\b", title_lower)
+        ):
+            continue
 
-        if is_prime:
-            candidates.append({"url": href, "title": title, "priority": 1})
-        elif is_audiences_generic:
-            candidates.append({"url": href, "title": title, "priority": 2})
+        seen_urls.add(href)
+        candidates.append({"url": href, "title": title})
 
-    # Les articles sont listés du plus récent au plus ancien sur Ozap,
-    # on prend le premier qui a priorité 1 (prime confirmé), sinon priorité 2
-    candidates.sort(key=lambda c: c["priority"])
+    return candidates
+
+
+# Pattern qui identifie un vrai article de récap prime-time : le chapeau
+# contient "Les audiences de la soirée du {jour} DD {mois} YYYY"
+# (ou "journée" pour les samedis/dimanches où Ozap publie un récap global).
+EVENING_CHAPO_PATTERN = re.compile(
+    r"audiences? de la (soir[ée]e|journ[ée]e) du\s+[a-zéû]+\s+\d{1,2}\s+[a-zéèûô]+\s+\d{4}",
+    re.IGNORECASE
+)
+
+
+def _is_evening_article(article_soup: BeautifulSoup) -> bool:
+    """
+    Vérifie que l'article contient bien le chapeau caractéristique
+    d'un récap soirée ET qu'on y trouve des logos de chaînes (sanity check).
+    """
+    text = article_soup.get_text(" ", strip=True)
+    if not EVENING_CHAPO_PATTERN.search(text):
+        return False
+    # Sanity check : au moins 3 logos de chaînes Ozap
+    channel_imgs = article_soup.find_all("img", src=re.compile(r"/channels/\d+\."))
+    return len(channel_imgs) >= 3
+
+
+def find_evening_article_url(listing_soup: BeautifulSoup,
+                              session: Optional[requests.Session] = None) -> Optional[tuple[str, BeautifulSoup]]:
+    """
+    Identifie l'article de récap soirée le plus récent.
+
+    Stratégie robuste : on liste tous les candidats "Audiences : ..." non
+    exclus, puis on les ouvre un par un (max 5) et on garde le premier qui
+    contient le pattern caractéristique "Les audiences de la soirée du ...".
+
+    Retourne (url, soup) pour éviter un re-fetch dans run().
+    """
+    candidates = _list_audience_candidates(listing_soup)
+    log.info(f"{len(candidates)} candidats 'Audiences' après filtrage de base")
+
     if not candidates:
         return None
 
-    top_priority = candidates[0]["priority"]
-    # Parmi les candidats de la meilleure priorité, on prend le premier
-    # (= le plus récent puisque Ozap est ordonné chronologiquement descendant)
-    best = next(c for c in candidates if c["priority"] == top_priority)
-    log.info(f"Article sélectionné : {best['title']} → {best['url']}")
-    return best["url"]
+    sess = session or requests
+    # On ne teste que les premiers candidats (les plus récents). Limite à 5
+    # pour éviter de boucler si Ozap a changé son format.
+    for cand in candidates[:5]:
+        try:
+            r = sess.get(cand["url"], headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            soup = BeautifulSoup(r.text, "html.parser")
+            if _is_evening_article(soup):
+                log.info(f"Article retenu : {cand['title']} → {cand['url']}")
+                return cand["url"], soup
+            else:
+                log.info(f"Candidat écarté (pas un récap soirée) : {cand['title']}")
+        except requests.RequestException as e:
+            log.warning(f"Erreur en ouvrant {cand['url']}: {e}")
+            continue
+
+    return None
 
 
 def extract_evening_date(article_soup: BeautifulSoup) -> Optional[date]:
@@ -461,35 +488,34 @@ def run(target_date: Optional[date] = None) -> CountryReport:
     log.info(f"=== Scraping {COUNTRY_NAME} ===")
 
     try:
+        session = requests.Session()
+        session.headers.update(HEADERS)
+
         # 1. Récupérer la page de listing
-        r = requests.get(LISTING_URL, headers=HEADERS, timeout=30)
+        r = session.get(LISTING_URL, timeout=30)
         r.raise_for_status()
         listing_soup = BeautifulSoup(r.text, "html.parser")
 
-        # 2. Identifier le bon article (soirée la plus récente)
-        article_url = find_evening_article_url(listing_soup)
-        if not article_url:
+        # 2. Identifier le bon article (et récupérer son contenu en même temps)
+        result = find_evening_article_url(listing_soup, session=session)
+        if not result:
             raise RuntimeError("Aucun article 'soirée' trouvé sur la page de listing")
+        article_url, article_soup = result
 
-        # 3. Récupérer l'article
-        r2 = requests.get(article_url, headers=HEADERS, timeout=30)
-        r2.raise_for_status()
-        article_soup = BeautifulSoup(r2.text, "html.parser")
-
-        # 4. Extraire la date de la soirée
+        # 3. Extraire la date de la soirée
         evening_date = extract_evening_date(article_soup) or date.today()
         log.info(f"Date de la soirée : {evening_date}")
 
-        # 5. Parser les programmes
+        # 4. Parser les programmes
         programs = parse_top_programs(article_soup, article_url)
         if not programs:
             raise RuntimeError("Aucun programme extrait de l'article")
 
-        # 6. Trier par téléspectateurs décroissant (sécurité — l'ordre DOM
+        # 5. Trier par téléspectateurs décroissant (sécurité — l'ordre DOM
         #    devrait déjà être correct puisque Ozap trie par PDM)
         programs.sort(key=lambda p: p["viewers"], reverse=True)
 
-        # 7. Top 5 strict — France = pays de référence, pas de seuil
+        # 6. Top 5 strict — France = pays de référence, pas de seuil
         top5 = programs[:5]
 
         entries = [
