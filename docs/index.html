@@ -569,6 +569,11 @@ document.getElementById('search').addEventListener('input', e => {
 });
 document.getElementById('date-picker').addEventListener('change', async e => {
   const iso = e.target.value;
+  // Garde-fou : ne pas charger une date postérieure à la dernière disponible
+  if (state.data && state.data.date && iso > state.data.date) {
+    e.target.value = state.data.date;
+    return;
+  }
   state.data = await loadData(iso);
   state.currentDate = iso;
   updateHeader();
@@ -582,11 +587,18 @@ document.getElementById('btn-press').addEventListener('click', generatePress);
 
 (async function init() {
   state.data = await loadData();
+  const picker = document.getElementById('date-picker');
   if (state.data) {
     state.currentDate = state.data.date;
-    document.getElementById('date-picker').value = state.data.date;
+    picker.value = state.data.date;
+    // Borner le date picker : on ne peut pas sélectionner une date
+    // postérieure à la dernière date disponible (latest.json).
+    // Ça évite de tomber sur des fichiers d'archive parfois créés à tort
+    // avec une date future (bug de scraper corrigé côté serveur).
+    picker.max = state.data.date;
   } else {
-    document.getElementById('date-picker').value = new Date().toISOString().slice(0, 10);
+    picker.value = new Date().toISOString().slice(0, 10);
+    picker.max = new Date().toISOString().slice(0, 10);
   }
   updateHeader();
   renderTabs();
