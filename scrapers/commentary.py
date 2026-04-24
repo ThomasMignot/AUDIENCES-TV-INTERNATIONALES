@@ -52,9 +52,6 @@ GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMI
 # est un compromis rapide/sûr qui laisse 5x de marge sous la limite.
 RATE_LIMIT_DELAY = 1.5
 
-# Retry en cas de 429/503 : délais en secondes avant chaque nouvelle tentative
-RETRY_DELAYS = [5.0, 12.0]  # total 17s d'attente max en cas de gros souci
-
 # Répertoire des archives pour le contexte historique
 ROOT = Path(__file__).resolve().parent.parent
 ARCHIVE_DIR = ROOT / "docs" / "data" / "archive"
@@ -216,12 +213,21 @@ def build_context_block(country_code: str) -> str:
 def _call_gemini_with_retry(api_key: str, payload: dict,
                              country_code: str) -> Optional[str]:
     """
-    Appelle l'API Gemini avec retry exponentiel sur 429 (rate limit).
-    Retourne le texte généré, ou None si tous les retries échouent.
+    Appelle l'API Gemini.
+
+    Politique :
+    - 200 → succès, on retourne le texte
+    - 429 (rate limit / quota jour épuisé) → échec IMMÉDIAT, pas de retry.
+      Les retries sur 429 étaient contre-productifs : quand le quota quotidien
+      est épuisé il le reste, et on perd 17s par pays pour rien.
+    - 503 (service unavailable) → retry court (3s puis 8s), souvent c'est une
+      panne transitoire côté Google
+    - autres erreurs réseau → retry court comme pour 503
     """
     url = f"{GEMINI_API_URL}?key={api_key}"
+    retry_delays = [3.0, 8.0]  # uniquement pour 503 et erreurs réseau
 
-    for attempt in range(len(RETRY_DELAYS) + 1):
+    for attempt in range(len(retry_delays) + 1):
         try:
             r = requests.post(url, json=payload, timeout=60)
 
@@ -236,8 +242,7 @@ def _call_gemini_with_retry(api_key: str, payload: dict,
                     .get("text", "")
                 ).strip()
 
-                # Détection de troncature : si Gemini a coupé net, on logue
-                # un avertissement pour qu'on sache qu'il faut ajuster maxOutputTokens
+                # Détection de troncature par MAX_TOKENS
                 finish_reason = candidate.get("finishReason", "")
                 if finish_reason == "MAX_TOKENS":
                     log.warning(
@@ -252,21 +257,29 @@ def _call_gemini_with_retry(api_key: str, payload: dict,
                            f"(finishReason={finish_reason})")
                 return None
 
-            # 429 → on attend et on réessaie
-            if r.status_code == 429 and attempt < len(RETRY_DELAYS):
-                delay = RETRY_DELAYS[attempt]
+            # 429 → on abandonne immédiatement, inutile de retry
+            if r.status_code == 429:
                 log.warning(
-                    f"{country_code} : 429 rate limit, retry #{attempt+1} dans {delay}s"
+                    f"{country_code} : 429 quota Gemini dépassé — on skip "
+                    f"(reset à minuit Pacific / 9h Paris)"
+                )
+                return None
+
+            # 503 → retry court
+            if r.status_code == 503 and attempt < len(retry_delays):
+                delay = retry_delays[attempt]
+                log.warning(
+                    f"{country_code} : 503 service indisponible, retry #{attempt+1} dans {delay}s"
                 )
                 time.sleep(delay)
                 continue
 
-            # Autres erreurs HTTP
+            # Autres erreurs HTTP → raise pour attrape ci-dessous
             r.raise_for_status()
 
         except requests.RequestException as e:
-            if attempt < len(RETRY_DELAYS):
-                delay = RETRY_DELAYS[attempt]
+            if attempt < len(retry_delays):
+                delay = retry_delays[attempt]
                 log.warning(
                     f"{country_code} : erreur réseau ({e}), retry #{attempt+1} dans {delay}s"
                 )
@@ -376,6 +389,7 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
     successes = 0
     failures = 0
     skipped = 0
+    consecutive_429_failures = 0
 
     for i, (code, country_data) in enumerate(countries.items()):
         if country_data.get("status") == "failed":
@@ -388,6 +402,16 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
             skipped += 1
             continue
 
+        # Court-circuit : si les 2 premiers pays échouent, le quota est
+        # manifestement épuisé, inutile de s'acharner sur les suivants.
+        if consecutive_429_failures >= 2:
+            log.warning(
+                f"{code} : quota Gemini manifestement épuisé après "
+                f"{consecutive_429_failures} échecs consécutifs, on skip le reste"
+            )
+            skipped += 1
+            continue
+
         # Rate-limiting manuel entre les pays (sauf le premier)
         if i > 0:
             time.sleep(RATE_LIMIT_DELAY)
@@ -396,11 +420,12 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
         if commentary:
             country_data["commentary"] = commentary
             successes += 1
+            consecutive_429_failures = 0  # reset sur succès
         else:
             failures += 1
+            consecutive_429_failures += 1
 
     # On réécrit le fichier même si certaines générations ont échoué
-    # (les commentaires réussis seront sauvegardés)
     latest_path.write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
     )
