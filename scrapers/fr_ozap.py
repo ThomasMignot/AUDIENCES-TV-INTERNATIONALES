@@ -58,7 +58,9 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.5",
-    "Accept-Encoding": "gzip, deflate, br",
+    # Pas d'Accept-Encoding explicite : on laisse requests/cloudscraper
+    # ajouter automatiquement seulement les encodages qu'ils savent décoder
+    # (sinon Ozap renvoie du Brotli non-décompressable et on reçoit des octets bruts)
     "Connection": "keep-alive",
     "Upgrade-Insecure-Requests": "1",
 }
@@ -534,6 +536,59 @@ def make_entry_fr(rank: int, channel: str, program: str, viewers: int,
     )
 
 
+def _looks_like_html(text: str) -> bool:
+    """
+    Vérifie qu'une réponse ressemble à du HTML lisible. Si la réponse est
+    compressée et que l'auto-décompression a échoué, on va recevoir une
+    chaîne de bytes corrompus que .text mappe en caractères étranges.
+    """
+    if len(text) < 200:
+        return False
+    # On cherche au moins UN marqueur HTML classique dans les 2000 premiers chars
+    sample = text[:2000].lower()
+    markers = ("<html", "<!doctype", "<head", "<body", "<a ", "<div", "<meta")
+    return any(m in sample for m in markers)
+
+
+def _try_decompress(raw_bytes: bytes) -> str:
+    """
+    Tente de décompresser des bytes bruts (brotli, gzip, deflate) en HTML UTF-8.
+    Retourne le HTML décodé, ou une chaîne vide si rien ne marche.
+    """
+    # Brotli
+    try:
+        import brotli  # type: ignore
+        decoded = brotli.decompress(raw_bytes).decode("utf-8", errors="replace")
+        if _looks_like_html(decoded):
+            log.info("Décompression brotli réussie")
+            return decoded
+    except Exception as e:
+        log.debug(f"Brotli: {e}")
+
+    # gzip
+    try:
+        import gzip
+        decoded = gzip.decompress(raw_bytes).decode("utf-8", errors="replace")
+        if _looks_like_html(decoded):
+            log.info("Décompression gzip réussie")
+            return decoded
+    except Exception as e:
+        log.debug(f"Gzip: {e}")
+
+    # deflate (zlib)
+    try:
+        import zlib
+        decoded = zlib.decompress(raw_bytes).decode("utf-8", errors="replace")
+        if _looks_like_html(decoded):
+            log.info("Décompression deflate réussie")
+            return decoded
+    except Exception as e:
+        log.debug(f"Deflate: {e}")
+
+    log.warning("Aucune décompression n'a fonctionné, HTML inutilisable")
+    return ""
+
+
 def run(target_date: Optional[date] = None) -> CountryReport:
     log.info(f"=== Scraping {COUNTRY_NAME} ===")
 
@@ -558,8 +613,17 @@ def run(target_date: Optional[date] = None) -> CountryReport:
         r = session.get(LISTING_URL, timeout=30)
         r.raise_for_status()
         log.info(f"DEBUG: listing HTTP {r.status_code}, {len(r.text)} chars, "
-                 f"content-type={r.headers.get('content-type', 'n/a')}")
-        listing_soup = BeautifulSoup(r.text, "html.parser")
+                 f"content-type={r.headers.get('content-type', 'n/a')}, "
+                 f"encoding={r.headers.get('content-encoding', 'none')}")
+
+        # Sanity check : la réponse doit contenir du HTML lisible
+        html = r.text
+        if not _looks_like_html(html):
+            log.warning("Réponse non-HTML détectée, tentative de décompression manuelle...")
+            html = _try_decompress(r.content)
+            log.info(f"DEBUG: après décompression : {len(html)} chars")
+
+        listing_soup = BeautifulSoup(html, "html.parser")
 
         # 2. Identifier le bon article (et récupérer son contenu en même temps)
         result = find_evening_article_url(listing_soup, session=session)
