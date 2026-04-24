@@ -1,0 +1,538 @@
+"""
+Scraper France — Ozap / Puremédias
+
+Source : https://www.ozap.com/tag/audiences_t14
+
+Stratégie :
+1. GET la page de tag "audiences" qui liste les articles récents
+2. Identifier le dernier article "soirée" (format J+1, publié vers 9h) —
+   on cherche un article dont le résumé commence par "Les audiences de la
+   soirée du {jour} {date}" pour exclure les articles access 20h, pré-access,
+   Netflix, radios, bilan saison, etc.
+3. GET cet article, extraire le top 5 prime time
+4. Format Ozap très stable : logo chaîne + TITRE + CATÉGORIE + X,X % + N téléspectateurs
+5. Extraire la date de la soirée depuis le résumé (pas la date de publication)
+
+France = pays de référence : on garde le TOP 5 strict, aucun seuil.
+"""
+from __future__ import annotations
+
+import logging
+import re
+import sys
+import unicodedata
+from datetime import date, datetime
+from pathlib import Path
+from typing import Optional
+
+import requests
+from bs4 import BeautifulSoup
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from common import (
+    AudienceEntry, CountryReport,
+    color_for, save_report, make_entry,
+)
+from translations import translate
+
+
+COUNTRY_CODE = "FR"
+COUNTRY_NAME = "France"
+FLAG = "🇫🇷"
+SOURCE_NAME = "Ozap · Puremédias"
+SOURCE_URL = "https://www.ozap.com/tag/audiences_t14"
+LISTING_URL = "https://www.ozap.com/tag/audiences_t14"
+BASE_URL = "https://www.ozap.com"
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+}
+
+# Mapping catégorie native Ozap → catégories internes du dashboard
+# Ozap utilise : FILM, SERIE, MAGAZINE, JEU, TELEFILM, DOCUMENTAIRE,
+#                HUMOUR, DIVERTISSEMENT, SPORT, JOURNAL TELEVISE, AUTRES
+OZAP_CATEGORY_MAP: dict[str, tuple[str, str]] = {
+    "FILM":              ("fiction", "🎬"),
+    "SERIE":             ("fiction", "🎬"),
+    "TELEFILM":          ("fiction", "🎬"),
+    "MAGAZINE":          ("info", "📰"),
+    "DOCUMENTAIRE":      ("info", "📰"),
+    "JOURNAL TELEVISE":  ("info", "📰"),
+    "INFORMATION":       ("info", "📰"),
+    "JEU":               ("divertissement", "🎤"),
+    "DIVERTISSEMENT":    ("divertissement", "🎤"),
+    "HUMOUR":            ("divertissement", "🎤"),
+    "TALK-SHOW":         ("divertissement", "🎤"),
+    "TELE-REALITE":      ("divertissement", "🎤"),
+    "MUSIQUE":           ("divertissement", "🎤"),
+    "SPORT":             ("sport", "⚽"),
+    "FOOTBALL":          ("sport", "⚽"),
+    "AUTRES":            ("autre", "📺"),
+}
+
+MONTHS_FR: dict[str, int] = {
+    "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4,
+    "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
+    "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
+}
+
+log = logging.getLogger("fr_ozap")
+
+
+def strip_accents(s: str) -> str:
+    """Retire les accents pour comparaison robuste."""
+    return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
+
+
+def find_evening_article_url(listing_soup: BeautifulSoup) -> Optional[str]:
+    """
+    Parmi les articles de la page de tag, trouve le plus récent qui correspond
+    au récap soirée (prime time). On exclut :
+    - "access 20h", "pré-access" → créneaux avant le prime
+    - "Netflix", "SVOD", "radios" → autres médias
+    - "bilan", "saison" → articles bilan
+    - "samedi"/"dimanche" dans l'URL mais seulement si pas "soiree"
+
+    Critère positif : l'article dont l'URL contient "-soiree-du-" OU
+    dont le titre démarre par "Audiences :" sans contenir les exclusions ci-dessus.
+    """
+    # On regarde tous les liens vers /actu/audiences-...
+    candidates = []
+    for a in listing_soup.find_all("a", href=True):
+        href = a["href"]
+        if not re.search(r"/actu/audiences?[-/]", href):
+            continue
+        # Normaliser en URL absolue
+        if href.startswith("/"):
+            href = BASE_URL + href
+        if not href.startswith(BASE_URL):
+            continue
+        # Déduplication sur l'URL
+        if any(c["url"] == href for c in candidates):
+            continue
+
+        # Récupérer le titre (souvent dans le <a> ou un parent)
+        title = a.get_text(" ", strip=True)
+        if not title:
+            continue
+
+        title_lower = strip_accents(title.lower())
+        href_lower = href.lower()
+
+        # EXCLUSIONS
+        if "access-20h" in href_lower or "access 20h" in title_lower:
+            continue
+        if "pre-access" in href_lower or "pré-access" in title.lower() or "pre-access" in title_lower:
+            continue
+        if "netflix" in href_lower or "netflix" in title_lower:
+            continue
+        if "/audiences-svod" in href_lower or "svod" in title_lower:
+            continue
+        if "radio" in title_lower or "radio" in href_lower:
+            continue
+        if "bilan" in title_lower:
+            continue
+        if "top articles" in title_lower:
+            continue
+
+        # INCLUSIONS — articles de prime-time
+        # Indicateurs forts (priorité 1) :
+        # - URL contient "-soiree-du-"
+        # - URL/titre contient "hier soir" (= récap du prime de la veille)
+        # - URL démarre par "audiences-samedi-" ou "audiences-dimanche-"
+        #   (les samedis/dimanches, Ozap utilise ce pattern d'URL)
+        is_prime = (
+            "-soiree-du-" in href_lower
+            or "hier-soir" in href_lower
+            or "hier soir" in title_lower
+            or re.search(r"/audiences-samedi[-/]", href_lower)
+            or re.search(r"/audiences-dimanche[-/]", href_lower)
+        )
+        # Fallback : titre commençant par "Audiences :" et non exclu,
+        # mais uniquement si on n'a rien trouvé de mieux.
+        # On exclut aussi les articles "Quel bilan" qui passent parfois entre
+        # les mailles (bilan est déjà filtré plus haut, ceinture-bretelles).
+        is_audiences_generic = (
+            (title_lower.startswith("audiences :") or title_lower.startswith("audiences:"))
+            and "quel bilan" not in title_lower
+        )
+
+        if is_prime:
+            candidates.append({"url": href, "title": title, "priority": 1})
+        elif is_audiences_generic:
+            candidates.append({"url": href, "title": title, "priority": 2})
+
+    # Les articles sont listés du plus récent au plus ancien sur Ozap,
+    # on prend le premier qui a priorité 1 (prime confirmé), sinon priorité 2
+    candidates.sort(key=lambda c: c["priority"])
+    if not candidates:
+        return None
+
+    top_priority = candidates[0]["priority"]
+    # Parmi les candidats de la meilleure priorité, on prend le premier
+    # (= le plus récent puisque Ozap est ordonné chronologiquement descendant)
+    best = next(c for c in candidates if c["priority"] == top_priority)
+    log.info(f"Article sélectionné : {best['title']} → {best['url']}")
+    return best["url"]
+
+
+def extract_evening_date(article_soup: BeautifulSoup) -> Optional[date]:
+    """
+    Cherche 'soirée du {jour} DD {mois} YYYY' dans le résumé/chapeau de l'article.
+    Fallback : extraire la date de publication et soustraire 1 jour.
+    """
+    text = article_soup.get_text(" ", strip=True)
+
+    # Pattern 1 : "soirée du {jour} DD {mois} YYYY"
+    m = re.search(
+        r"soir[ée]e du [a-zéû]+\s+(\d{1,2})\s+([a-zéèûô]+)\s+(\d{4})",
+        text, re.IGNORECASE
+    )
+    if m:
+        day = int(m.group(1))
+        month_name = strip_accents(m.group(2).lower())
+        year = int(m.group(3))
+        month = MONTHS_FR.get(month_name)
+        if month:
+            try:
+                return date(year, month, day)
+            except ValueError:
+                pass
+
+    # Pattern 2 : "journée du {jour} DD {mois} YYYY" (cas samedi/dimanche)
+    m = re.search(
+        r"journ[ée]e du [a-zéû]+\s+(\d{1,2})\s+([a-zéèûô]+)\s+(\d{4})",
+        text, re.IGNORECASE
+    )
+    if m:
+        day = int(m.group(1))
+        month_name = strip_accents(m.group(2).lower())
+        year = int(m.group(3))
+        month = MONTHS_FR.get(month_name)
+        if month:
+            try:
+                return date(year, month, day)
+            except ValueError:
+                pass
+
+    # Pattern 3 : date de publication → on retire 1 jour
+    m = re.search(
+        r"Publi[ée] le (\d{1,2})\s+([a-zéèûô]+)\s+(\d{4})",
+        text, re.IGNORECASE
+    )
+    if m:
+        day = int(m.group(1))
+        month_name = strip_accents(m.group(2).lower())
+        year = int(m.group(3))
+        month = MONTHS_FR.get(month_name)
+        if month:
+            try:
+                from datetime import timedelta
+                return date(year, month, day) - timedelta(days=1)
+            except ValueError:
+                pass
+
+    log.warning("Date de la soirée non trouvée dans l'article")
+    return None
+
+
+def parse_viewers_fr(text: str) -> Optional[int]:
+    """
+    "5 501 000 téléspectateurs" → 5501000
+    "552 000 téléspectateurs" → 552000
+    """
+    text = text.strip()
+    m = re.search(r"([\d][\d\s\u00a0]*\d)", text)
+    if not m:
+        return None
+    raw = m.group(1).replace("\u00a0", "").replace(" ", "")
+    try:
+        return int(raw)
+    except ValueError:
+        return None
+
+
+def parse_share_fr(text: str) -> Optional[float]:
+    """
+    "32.5 %" → 32.5 · "32,5 %" → 32.5 · "32.5" → 32.5
+    """
+    m = re.search(r"([\d]+[.,]?\d*)\s*%?", text.strip())
+    if not m:
+        return None
+    try:
+        return float(m.group(1).replace(",", "."))
+    except ValueError:
+        return None
+
+
+def extract_channel_from_img(img_tag) -> Optional[str]:
+    """
+    Les logos chaînes ont un alt= ou sont dans un <img src=...channels/N.jpg>.
+    On priorise l'attribut alt qui contient le nom en clair.
+    """
+    if img_tag is None:
+        return None
+    alt = img_tag.get("alt", "").strip()
+    if alt and alt not in ("", "commercial_link", "puremedias", "player2", "Webedia"):
+        return alt
+    # Fallback : analyser le src (moins fiable)
+    src = img_tag.get("src", "")
+    channel_id_match = re.search(r"/channels/(\d+)\.", src)
+    if channel_id_match:
+        # Mapping id → nom (depuis ce qu'on a vu sur la page)
+        id_to_name = {
+            "1": "TF1", "2": "France 2", "3": "France 3", "4": "Canal+",
+            "6": "M6", "13": "TMC", "43": "TFX", "336": "W9",
+            "499": "CSTAR", "532": "Gulli", "533": "Arte",
+            "534": "France 5", "723": "TF1 Series Film",
+            "725": "6ter", "726": "RMC Story", "727": "RMC Découverte",
+            "728": "RMC Life",
+        }
+        return id_to_name.get(channel_id_match.group(1))
+    return None
+
+
+def parse_top_programs(article_soup: BeautifulSoup, source_url: str) -> list[dict]:
+    """
+    Parse le top des programmes depuis un article Ozap.
+
+    Structure HTML observée (répétée pour chaque programme) :
+      <img alt="{ChaîneName}" src=".../channels/N.jpg">
+      TITRE DU PROGRAMME (souvent en MAJUSCULES)
+      CATEGORIE (FILM, SERIE, MAGAZINE, JEU, TELEFILM, ...)
+      X.X %   (ou X,X %)
+      NNN NNN téléspectateurs
+
+    Les entrées apparaissent par ordre décroissant de PDM.
+    On itère sur toutes les <img> dont le src contient /channels/ et on
+    parse les 4 lignes de texte qui suivent dans l'ordre du document.
+    """
+    programs = []
+
+    # Stratégie : trouver chaque <img> de chaîne, puis prendre le texte
+    # suivant dans le flux du document. On travaille avec la liste ordonnée
+    # des éléments texte/img pour respecter l'ordre d'apparition.
+    #
+    # On cherche toutes les img channel logos
+    channel_imgs = article_soup.find_all("img", src=re.compile(r"/channels/\d+\."))
+
+    for img in channel_imgs:
+        channel = extract_channel_from_img(img)
+        if not channel:
+            continue
+
+        # Trouver les 4 textes suivants (titre, catégorie, %, téléspectateurs)
+        # en parcourant les éléments suivants dans l'ordre du DOM.
+        texts_after = []
+        current = img
+        # Remonter au parent pour chercher les nœuds suivants
+        # Parcours en ordre DFS à partir du parent immédiat
+        parent = img.parent
+        if parent is None:
+            continue
+
+        # On collecte les textes apparaissant APRÈS cette image et AVANT
+        # la prochaine image channel (ou avant la fin du document).
+        next_imgs_channels = channel_imgs[channel_imgs.index(img) + 1:]
+        next_channel_img = next_imgs_channels[0] if next_imgs_channels else None
+
+        # Parcourir tous les éléments suivants jusqu'à la prochaine img channel
+        for sibling in img.find_all_next():
+            if sibling is next_channel_img:
+                break
+            if sibling.name == "img" and sibling.get("src", "").find("/channels/") != -1:
+                break  # sécurité double
+            text = sibling.get_text(" ", strip=True) if hasattr(sibling, "get_text") else str(sibling).strip()
+            if not text:
+                continue
+            # On ne veut que les textes "feuilles" (pas les conteneurs englobants)
+            # Heuristique : on prend les <p>, <div> sans enfant bloquant, <span> atomiques
+            # Simplement : on prend les lignes de texte dédupliquées
+            # En pratique on regarde les NavigableString ou les éléments text-only
+            if sibling.name in ("p", "div", "span") and sibling.find(["p", "div", "table"]) is None:
+                text_clean = sibling.get_text(" ", strip=True)
+                if text_clean and text_clean not in [t for t in texts_after]:
+                    texts_after.append(text_clean)
+                    if len(texts_after) >= 6:  # marge de sécurité
+                        break
+
+        if len(texts_after) < 4:
+            continue
+
+        # Maintenant, on identifie les 4 champs dans les textes récoltés :
+        # - Titre : première ligne (souvent en majuscules, non vide)
+        # - Catégorie : ligne courte en majuscules unique (FILM, SERIE, etc.)
+        # - PDM : contient "%"
+        # - Téléspectateurs : contient "téléspectateurs" ou "téléspectateur"
+        title = None
+        category_raw = None
+        share_val = None
+        viewers_val = None
+
+        for t in texts_after:
+            t_stripped = t.strip()
+            if not t_stripped:
+                continue
+            # Téléspectateurs
+            if viewers_val is None and ("téléspectateur" in t_stripped.lower() or "telespectateur" in strip_accents(t_stripped.lower())):
+                viewers_val = parse_viewers_fr(t_stripped)
+                continue
+            # PDM
+            if share_val is None and "%" in t_stripped and len(t_stripped) < 15:
+                share_val = parse_share_fr(t_stripped)
+                continue
+            # Catégorie : ligne courte, en majuscules, connue
+            up = t_stripped.upper()
+            if category_raw is None and up in OZAP_CATEGORY_MAP and len(t_stripped) < 30:
+                category_raw = up
+                continue
+            # Titre : première ligne non-attrapée, longueur raisonnable, contient des lettres
+            if title is None and len(t_stripped) >= 2 and len(t_stripped) < 200 and re.search(r"[A-Za-zÀ-ÿ]", t_stripped):
+                # Exclure les lignes trivialement non-titres
+                if "téléspectateur" in t_stripped.lower():
+                    continue
+                if t_stripped.lower() in ("médiamétrie", "medialimetrie"):
+                    continue
+                title = t_stripped
+                continue
+
+        if not title or viewers_val is None or share_val is None:
+            log.debug(f"Programme incomplet pour {channel}: title={title}, viewers={viewers_val}, share={share_val}")
+            continue
+
+        # Catégorie par défaut si Ozap ne donne rien de reconnu
+        if category_raw is None:
+            category_raw = "AUTRES"
+
+        programs.append({
+            "channel": channel,
+            "program": title,
+            "category_raw": category_raw,
+            "viewers": viewers_val,
+            "share": share_val,
+        })
+
+    # Dédupliquer par (channel, program) au cas où
+    seen = set()
+    deduped = []
+    for p in programs:
+        key = (p["channel"], p["program"])
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(p)
+
+    log.info(f"Programmes parsés : {len(deduped)}")
+    return deduped
+
+
+def make_entry_fr(rank: int, channel: str, program: str, viewers: int,
+                   share: float, source_url: str, category_raw: str) -> AudienceEntry:
+    """
+    Version FR de make_entry : on utilise la catégorie native Ozap
+    plutôt que de laisser categories.py deviner.
+    """
+    category, emoji = OZAP_CATEGORY_MAP.get(category_raw.upper(), ("autre", "📺"))
+    program_fr = translate(program)
+    return AudienceEntry(
+        rank=rank,
+        channel=channel,
+        channel_color=color_for(channel),
+        program=program,
+        program_fr=program_fr,
+        viewers=viewers,
+        share=share,
+        source_url=source_url,
+        category=category,
+        category_emoji=emoji,
+    )
+
+
+def run(target_date: Optional[date] = None) -> CountryReport:
+    log.info(f"=== Scraping {COUNTRY_NAME} ===")
+
+    try:
+        # 1. Récupérer la page de listing
+        r = requests.get(LISTING_URL, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        listing_soup = BeautifulSoup(r.text, "html.parser")
+
+        # 2. Identifier le bon article (soirée la plus récente)
+        article_url = find_evening_article_url(listing_soup)
+        if not article_url:
+            raise RuntimeError("Aucun article 'soirée' trouvé sur la page de listing")
+
+        # 3. Récupérer l'article
+        r2 = requests.get(article_url, headers=HEADERS, timeout=30)
+        r2.raise_for_status()
+        article_soup = BeautifulSoup(r2.text, "html.parser")
+
+        # 4. Extraire la date de la soirée
+        evening_date = extract_evening_date(article_soup) or date.today()
+        log.info(f"Date de la soirée : {evening_date}")
+
+        # 5. Parser les programmes
+        programs = parse_top_programs(article_soup, article_url)
+        if not programs:
+            raise RuntimeError("Aucun programme extrait de l'article")
+
+        # 6. Trier par téléspectateurs décroissant (sécurité — l'ordre DOM
+        #    devrait déjà être correct puisque Ozap trie par PDM)
+        programs.sort(key=lambda p: p["viewers"], reverse=True)
+
+        # 7. Top 5 strict — France = pays de référence, pas de seuil
+        top5 = programs[:5]
+
+        entries = [
+            make_entry_fr(
+                rank=i + 1,
+                channel=p["channel"],
+                program=p["program"],
+                viewers=p["viewers"],
+                share=p["share"],
+                source_url=article_url,
+                category_raw=p["category_raw"],
+            )
+            for i, p in enumerate(top5)
+        ]
+
+        log.info(f"Top 5 retenu : {[(e.channel, e.program, e.viewers) for e in entries]}")
+
+        status = "ok" if len(entries) == 5 else "partial"
+
+        return CountryReport(
+            country_code=COUNTRY_CODE, country_name=COUNTRY_NAME, flag=FLAG,
+            date=evening_date.isoformat(),
+            source_name=SOURCE_NAME, source_url=article_url,
+            entries=entries,
+            scraped_at=datetime.utcnow().isoformat() + "Z",
+            status=status,
+        )
+
+    except Exception as e:
+        log.exception("Scraping failed")
+        return CountryReport(
+            country_code=COUNTRY_CODE, country_name=COUNTRY_NAME, flag=FLAG,
+            date=(target_date or date.today()).isoformat(),
+            source_name=SOURCE_NAME, source_url=SOURCE_URL,
+            entries=[],
+            scraped_at=datetime.utcnow().isoformat() + "Z",
+            status="failed", error=str(e),
+        )
+
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(name)s] %(message)s")
+    report = run()
+    save_report(report)
+    if report.status == "failed":
+        sys.exit(1)
