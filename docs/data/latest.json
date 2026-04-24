@@ -46,10 +46,9 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T14:43:00.877838Z",
+      "scraped_at": "2026-04-24T14:47:45.919020Z",
       "status": "partial",
-      "error": null,
-      "commentary": "Sur le prime time allemand du 23 avril 2026, les journaux télévisés de Das Erste et ZDF dominent largement les audiences. Le programme d'information de Das Erste réalise une performance particulièrement solide, dépassant les 4,9 millions de téléspectateurs et s'adjugeant 23% de part de marché. Le \"heute journal\" de ZDF, bien que second, enregistre une audience nettement inférieure, tandis que \"Germany's Next Topmodel\" sur ProSieben peine à rivaliser avec les offres publiques. Cette configuration souligne la prégnance des rendez-vous d'information dans le paysage audiovisuel allemand, même face à des programmes de divertissement populaires."
+      "error": null
     },
     "ES": {
       "country_code": "ES",
@@ -120,9 +119,10 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T14:43:01.712020Z",
+      "scraped_at": "2026-04-24T14:47:46.804462Z",
       "status": "ok",
-      "error": null
+      "error": null,
+      "commentary": "Antena 3 confirme sa position dominante avec *El Hormiguero*, qui maintient une audience solide à 1,62 million de téléspectateurs et 13,4% de part de marché, se plaçant ainsi en tête des programmes de prime time. La chaîne publique La 1 suit avec *La Revuelta*, qui enregistre 1,41 million de spectateurs, une performance en légère hausse par rapport aux jours précédents. Telecinco, avec *Supervivientes Express*, se positionne en troisième place, tandis que les chaînes Cuatro et La Sexta, avec leurs programmes d'information, occupent les dernières places du classement du prime time."
     },
     "NL": {
       "country_code": "NL",
@@ -157,10 +157,9 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:43:05.516873Z",
+      "scraped_at": "2026-04-24T14:47:50.993176Z",
       "status": "partial",
-      "error": null,
-      "commentary": "La demi-finale de \"Heel Holland Bakt Elke Dag\" sur NPO 1 a dominé le prime time néerlandais avec 731 000 téléspectateurs. Ce score reste légèrement inférieur à celui de \"Het Verhaal van Nederland\" diffusé la veille sur la même chaîne, qui avait rassemblé 792 000 spectateurs. Le programme de RTL 4, \"Debbie en Paul in Daar Gaan Ze Weer\", peine à rivaliser, réunissant seulement 249 000 personnes, un chiffre bien éloigné des performances de SBS 6 observées le 22 avril."
+      "error": null
     },
     "IT": {
       "country_code": "IT",
@@ -219,7 +218,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:43:04.127427Z",
+      "scraped_at": "2026-04-24T14:47:49.425898Z",
       "status": "partial",
       "error": null
     },
@@ -231,10 +230,10 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-04-24T14:42:59.949873Z",
+      "scraped_at": "2026-04-24T14:47:45.022124Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing"
     }
   },
-  "last_updated": "2026-04-24T14:43:05.519487Z"
+  "last_updated": "2026-04-24T14:47:50.995808Z"
 }
