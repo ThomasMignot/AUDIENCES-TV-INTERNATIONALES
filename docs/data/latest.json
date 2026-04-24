@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "countries": {
     "DE": {
       "country_code": "DE",
@@ -46,10 +46,10 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T14:01:44.164405Z",
+      "scraped_at": "2026-04-24T14:31:48.421474Z",
       "status": "partial",
       "error": null,
-      "commentary": "Le magazine d'information *Tagesthemen* sur Das Erste s'impose nettement en tête des audiences du prime time allemand ce 23 avril, captant près d'un quart du public, un score significativement supérieur à celui du *heute journal* du ZDF. Ce dernier enregistre une audience plus modeste, bien qu'il se positionne devant le divertissement de ProSieben, *Germany's Next Topmodel*. La performance de Das Erste contraste avec les données des jours précédents où le *heute journal* du ZDF avait connu des pics d'audience plus importants, notamment le 22 avril avec une offre combinée incluant la météo."
+      "commentary": "Le journal télévisé de Das Erste, \"Tagesthemen\", s'impose nettement en tête des audiences du prime time allemand ce 23 avril 2026, captant une part de marché significative de 23,0%. Le \"heute journal\" de ZDF, bien que deuxième, enregistre une audience inférieure à celle observée le 22 avril avec son bulletin météo associé. L'émission de divertissement \"Germany's Next Topmodel\" sur ProSieben se positionne en troisième place, loin derrière les programmes d'information des chaînes publiques."
     },
     "ES": {
       "country_code": "ES",
@@ -120,10 +120,10 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T14:01:44.945655Z",
+      "scraped_at": "2026-04-24T14:31:49.117932Z",
       "status": "ok",
       "error": null,
-      "commentary": "Antena 3 confirme sa domination sur le prime time espagnol avec \"El Hormiguero\", qui réunit ce 23 avril 1,62 million de téléspectateurs et 13,4% de part de marché. La chaîne publique La 1 se positionne en deuxième place avec \"La Revuelta\", qui enregistre 1,41 million de spectateurs, marquant une légère hausse par rapport à la veille. Telecinco, avec \"Supervivientes Express\", se maintient sous la barre des 1,1 million de téléspectateurs, une performance stable mais inférieure à celle de \"La Isla de las Tentaciones\" observée les jours précédents. Les chaînes thématiques Cuatro et La Sexta ferment ce classement, avec des programmes d'information et de divertissement qui peinent à dépasser les 900 000 spectateurs."
+      "commentary": "Antena 3 confirme sa domination sur le prime time espagnol avec \"El Hormiguero\", qui maintient une audience solide à 1,62 million de téléspectateurs, légèrement en retrait par rapport à ses performances des deux jours précédents. La chaîne publique La 1 suit avec \"La Revuelta\", qui progresse par rapport à la veille pour atteindre 1,41 million de curieux. Telecinco, avec \"Supervivientes Express\", se positionne en troisième place, tandis que les chaînes d'information Cuatro et La Sexta ferment ce classement du prime time."
     },
     "NL": {
       "country_code": "NL",
@@ -158,10 +158,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:01:48.772557Z",
+      "scraped_at": "2026-04-24T14:31:52.391796Z",
       "status": "partial",
       "error": null,
-      "commentary": "Le divertissement \"Halve finale Heel Holland Bakt Elke Dag\" sur NPO 1 a largement dominé le prime time néerlandais ce 23 avril 2026, attirant 731 000 téléspectateurs. Ce chiffre représente une baisse par rapport à la performance de \"Het Verhaal van Nederland\" le 22 avril, qui avait rassemblé 792 000 personnes sur la même chaîne. En comparaison, \"Debbie en Paul in Daar Gaan Ze Weer\" sur RTL 4 se positionne nettement en retrait avec 249 000 spectateurs, soulignant l'écart important dans les préférences du public ce soir-là."
+      "commentary": "La diffusion de la demi-finale de *Heel Holland Bakt Elke Dag* sur NPO 1 a rassemblé 731 000 téléspectateurs, un chiffre significativement supérieur à celui de la veille pour *Het Verhaal van Nederland* (792 k). La chaîne RTL 4, avec *Debbie en Paul in Daar Gaan Ze Weer*, se positionne nettement en retrait avec 249 000 spectateurs. L'écart entre les deux programmes les plus suivis du prime time souligne une forte polarisation de l'audience ce mercredi 23 avril."
     },
     "IT": {
       "country_code": "IT",
@@ -220,11 +220,23 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:01:47.433418Z",
+      "scraped_at": "2026-04-24T14:31:51.181920Z",
       "status": "partial",
       "error": null,
-      "commentary": "La fiction de Rai 1, \"Uno Sbirro in Appennino\", s'impose nettement en tête des audiences du prime time, captant plus de 3 millions de téléspectateurs et dépassant les 20% de part de marché. Ce score place la fiction en nette supériorité face à \"Forbidden Fruit\" sur Canale 5, qui réunit 1,92 million de personnes. La chaîne La7, avec son magazine d'information \"Piazzapulita\", se positionne en troisième place, un résultat inférieur à celui enregistré par \"DiMartedì\" le 21 avril. TV8 ferme la marche de ce classement, témoignant d'une faible pénétration sur le segment du prime time ce soir-là."
+      "commentary": "La fiction de Rai 1, \"Uno Sbirro in Appennino\", s'impose nettement en tête des audiences du prime time italien ce 23 avril 2026, captant plus de 3 millions de téléspectateurs et dépassant les 20% de part de marché. Canale 5, avec \"Forbidden Fruit\", se positionne en seconde place mais accuse un écart significatif avec la chaîne publique, tandis que La7 et TV8 restent sur des scores plus modestes. Cette performance de Rai 1 contraste avec les chiffres du début de semaine, où les compétitions de Coppa Italia sur Canale 5 et Italia 1 avaient dominé, témoignant de la volatilité des audiences en fonction des événements sportifs."
+    },
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-04-24",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "entries": [],
+      "scraped_at": "2026-04-24T14:31:47.625403Z",
+      "status": "failed",
+      "error": "Aucun article 'soirée' trouvé sur la page de listing"
     }
   },
-  "last_updated": "2026-04-24T14:01:48.775131Z"
+  "last_updated": "2026-04-24T14:31:52.430006Z"
 }

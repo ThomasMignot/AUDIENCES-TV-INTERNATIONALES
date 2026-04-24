@@ -12,7 +12,19 @@
       "scraped_at": "2026-04-24T13:55:16.999220Z",
       "status": "failed",
       "error": "415 Client Error: Unsupported Media Type for url: https://barloventocomunicacion.es/audiencias-tv-ayer/"
+    },
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-04-24",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "entries": [],
+      "scraped_at": "2026-04-24T14:31:47.625403Z",
+      "status": "failed",
+      "error": "Aucun article 'soirée' trouvé sur la page de listing"
     }
   },
-  "last_updated": "2026-04-24T13:55:17.000241Z"
+  "last_updated": "2026-04-24T14:31:47.626591Z"
 }
