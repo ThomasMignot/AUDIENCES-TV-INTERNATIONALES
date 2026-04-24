@@ -46,7 +46,7 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T15:14:24.683154Z",
+      "scraped_at": "2026-04-24T15:21:39.831329Z",
       "status": "partial",
       "error": null
     },
@@ -119,7 +119,7 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T15:14:25.396392Z",
+      "scraped_at": "2026-04-24T15:21:40.697707Z",
       "status": "ok",
       "error": null
     },
@@ -156,7 +156,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T15:14:28.650254Z",
+      "scraped_at": "2026-04-24T15:21:46.006007Z",
       "status": "partial",
       "error": null
     },
@@ -217,10 +217,9 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T15:14:27.496496Z",
+      "scraped_at": "2026-04-24T15:21:44.301326Z",
       "status": "partial",
-      "error": null,
-      "commentary": "La fiction de Rai 1, « Uno Sbirro in Appennino », s'impose en tête des audiences du prime time italien le 23 avril, rassemblant 3,17 millions de téléspectateurs, soit 20,1% de part de marché. Cette performance place la chaîne publique en position de leader face à Canale 5, dont la série « Forbidden Fruit » enregistre 1,92 million de curieux et 13,4% de PDM. La chaîne privée, qui avait dominé le classement sur les deux soirées précédentes notamment grâce à la retransmission de la Coppa Italia, voit son offre de divertissement moins performante en comparaison. La7, avec son magazine politique « Piazzapulita », capte 874 000 téléspectateurs (6,7% PDM), un score en retrait par rapport à son débat du 21 avril qui avait attiré 1,57 million de personnes. La faiblesse de la contre-programmation sur les chaînes de la TNT, illustrée par les 329 000 téléspectateurs de la rediffusion cinématographique sur TV8, confirme la prédominance du duopole Rai-Mediaset sur ce créneau horaire."
+      "error": null
     },
     "FR": {
       "country_code": "FR",
@@ -291,10 +290,10 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T15:14:23.859747Z",
+      "scraped_at": "2026-04-24T15:21:38.667512Z",
       "status": "ok",
       "error": null
     }
   },
-  "last_updated": "2026-04-24T15:14:28.653098Z"
+  "last_updated": "2026-04-24T15:21:46.008671Z"
 }
