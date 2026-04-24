@@ -380,6 +380,42 @@ def extract_channel_from_img(img_tag) -> Optional[str]:
     return None
 
 
+def _split_title_and_category(raw_title: str) -> tuple[str, Optional[str]]:
+    """
+    Détache la catégorie collée à la fin d'un titre.
+
+    Ex:
+      "UN P'TIT TRUC EN PLUS FILM" → ("UN P'TIT TRUC EN PLUS", "FILM")
+      "FLASHBACK SERIE"           → ("FLASHBACK", "SERIE")
+      "TROPIQUES CRIMINELS"       → ("TROPIQUES CRIMINELS", None)
+      "DESTRUCTION DE POMPEI : SCENARIO D'UNE APOCALYPSE DOCUMENTAIRE"
+                                  → ("DESTRUCTION DE POMPEI : SCENARIO D'UNE APOCALYPSE", "DOCUMENTAIRE")
+
+    On cherche le suffixe dans l'ensemble des catégories Ozap connues.
+    Priorise les suffixes les plus longs (DOCUMENTAIRE avant DOC...).
+    """
+    if not raw_title:
+        return raw_title, None
+
+    stripped = raw_title.strip()
+    # Teste les catégories par longueur décroissante pour éviter qu'une
+    # catégorie courte (JEU) capture prématurément un cas qui termine par
+    # une catégorie plus longue (TELEJEU si ça existait).
+    sorted_categories = sorted(OZAP_CATEGORY_MAP.keys(), key=len, reverse=True)
+
+    upper = stripped.upper()
+    for cat in sorted_categories:
+        # Match strict : la catégorie doit être en fin, précédée d'un espace
+        # (pour ne pas couper un vrai mot qui se terminerait par "FILM", etc.)
+        suffix = " " + cat
+        if upper.endswith(suffix) and len(stripped) > len(suffix):
+            new_title = stripped[: -len(suffix)].strip()
+            # Garde le titre intact (casse d'origine)
+            return new_title, cat
+
+    return stripped, None
+
+
 def parse_top_programs(article_soup: BeautifulSoup, source_url: str) -> list[dict]:
     """
     Parse le top des programmes depuis un article Ozap.
@@ -487,6 +523,18 @@ def parse_top_programs(article_soup: BeautifulSoup, source_url: str) -> list[dic
         if not title or viewers_val is None or share_val is None:
             log.debug(f"Programme incomplet pour {channel}: title={title}, viewers={viewers_val}, share={share_val}")
             continue
+
+        # Si la catégorie est collée à la fin du titre (cas fréquent quand Ozap
+        # utilise une seule balise pour titre+catégorie), on la détache.
+        # Ex: "UN P'TIT TRUC EN PLUS FILM" → title="UN P'TIT TRUC EN PLUS", category="FILM"
+        title, extracted_category = _split_title_and_category(title)
+        if extracted_category and category_raw is None:
+            category_raw = extracted_category
+        elif extracted_category and category_raw != extracted_category:
+            # Le titre avait une catégorie ET on en a trouvé une séparée : on
+            # préfère celle séparée (plus fiable), mais on a quand même nettoyé
+            # le titre, donc c'est tout bon.
+            pass
 
         # Catégorie par défaut si Ozap ne donne rien de reconnu
         if category_raw is None:
