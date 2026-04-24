@@ -46,10 +46,10 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-24T14:38:29.193290Z",
+      "scraped_at": "2026-04-24T14:43:00.877838Z",
       "status": "partial",
       "error": null,
-      "commentary": "Le journal télévisé de Das Erste, \"Tagesthemen\", s'impose nettement en tête des audiences du prime time allemand ce 23 avril, captant près d'un quart du public présent. Le \"heute journal\" de ZDF, bien que second, accuse un écart significatif en nombre de téléspectateurs et en part de marché. \"Germany's Next Topmodel\" sur ProSieben, troisième du classement, réalise une performance plus modeste, témoignant d'une concentration des audiences sur les offres d'information des chaînes publiques."
+      "commentary": "Sur le prime time allemand du 23 avril 2026, les journaux télévisés de Das Erste et ZDF dominent largement les audiences. Le programme d'information de Das Erste réalise une performance particulièrement solide, dépassant les 4,9 millions de téléspectateurs et s'adjugeant 23% de part de marché. Le \"heute journal\" de ZDF, bien que second, enregistre une audience nettement inférieure, tandis que \"Germany's Next Topmodel\" sur ProSieben peine à rivaliser avec les offres publiques. Cette configuration souligne la prégnance des rendez-vous d'information dans le paysage audiovisuel allemand, même face à des programmes de divertissement populaires."
     },
     "ES": {
       "country_code": "ES",
@@ -120,10 +120,9 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-24T14:38:29.935626Z",
+      "scraped_at": "2026-04-24T14:43:01.712020Z",
       "status": "ok",
-      "error": null,
-      "commentary": "Antena 3 confirme sa position dominante sur le prime time espagnol avec \"El Hormiguero\", qui maintient une audience solide à 1,62 million de téléspectateurs, malgré une légère érosion par rapport aux jours précédents. La chaîne publique La 1, avec \"La Revuelta\", se positionne en challenger direct, attirant 1,41 million de curieux. Telecinco et ses programmes de divertissement, représentés ici par \"Supervivientes Express\", peinent à dépasser le million de téléspectateurs, tandis que les chaînes thématiques Cuatro et La Sexta ferment la marche avec leurs magazines d'information."
+      "error": null
     },
     "NL": {
       "country_code": "NL",
@@ -158,10 +157,10 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:38:33.060810Z",
+      "scraped_at": "2026-04-24T14:43:05.516873Z",
       "status": "partial",
       "error": null,
-      "commentary": "La demi-finale de \"Heel Holland Bakt Elke Dag\" sur NPO 1 enregistre une audience significative de 731 000 téléspectateurs, confirmant la force du programme dans le paysage audiovisuel néerlandais. Ce chiffre, bien que légèrement inférieur à celui de \"Het Verhaal van Nederland\" la veille (792 000), positionne NPO 1 nettement en tête des audiences du prime time. Le programme de RTL 4, \"Debbie en Paul in Daar Gaan Ze Weer\", peine à rivaliser avec 249 000 spectateurs, marquant un écart notable avec le leader."
+      "commentary": "La demi-finale de \"Heel Holland Bakt Elke Dag\" sur NPO 1 a dominé le prime time néerlandais avec 731 000 téléspectateurs. Ce score reste légèrement inférieur à celui de \"Het Verhaal van Nederland\" diffusé la veille sur la même chaîne, qui avait rassemblé 792 000 spectateurs. Le programme de RTL 4, \"Debbie en Paul in Daar Gaan Ze Weer\", peine à rivaliser, réunissant seulement 249 000 personnes, un chiffre bien éloigné des performances de SBS 6 observées le 22 avril."
     },
     "IT": {
       "country_code": "IT",
@@ -220,7 +219,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-24T14:38:31.930911Z",
+      "scraped_at": "2026-04-24T14:43:04.127427Z",
       "status": "partial",
       "error": null
     },
@@ -232,10 +231,10 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-04-24T14:38:28.413654Z",
+      "scraped_at": "2026-04-24T14:42:59.949873Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing"
     }
   },
-  "last_updated": "2026-04-24T14:38:33.063554Z"
+  "last_updated": "2026-04-24T14:43:05.519487Z"
 }
