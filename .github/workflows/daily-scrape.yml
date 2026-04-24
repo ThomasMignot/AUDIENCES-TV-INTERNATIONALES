@@ -2,10 +2,16 @@ name: Daily TV audience scrape
 
 on:
   schedule:
-    # 9h00 heure de Paris = 7h UTC (été) / 8h UTC (hiver)
-    # On lance à 8h UTC pour couvrir les deux cas, les scrapers gèrent
-    # les articles pas encore publiés.
+    # Deux passages : certaines sources publient plus tôt que d'autres.
+    # - 8h UTC = 9h hiver / 10h été Paris : premier essai, rattrape les
+    #   sources rapides (DE, ES, IT publient souvent avant 9h Paris)
+    # - 9h UTC = 10h hiver / 11h été Paris : retry pour les sources
+    #   plus lentes (Ozap FR publie parfois vers 10h heure Paris)
+    # Les scrapers sont idempotents : s'ils tournent deux fois avec les
+    # mêmes données, ils réécrivent simplement l'entrée. Les commentaires
+    # Gemini sont préservés (fix commentary_date dans commentary.py).
     - cron: '0 8 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch:  # permet de lancer manuellement depuis l'interface GitHub
 
 permissions:
