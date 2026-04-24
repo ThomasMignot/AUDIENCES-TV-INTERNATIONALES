@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-24",
+  "countries": {
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-04-24",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [],
+      "scraped_at": "2026-04-24T13:55:16.999220Z",
+      "status": "failed",
+      "error": "415 Client Error: Unsupported Media Type for url: https://barloventocomunicacion.es/audiencias-tv-ayer/"
+    }
+  },
+  "last_updated": "2026-04-24T13:55:17.000241Z"
+}
