@@ -93,6 +93,20 @@ def parse_share_percent(text: str) -> float:
 
 # Palette pastel cohérente, reprise par le dashboard
 CHANNEL_COLORS: dict[str, str] = {
+     # France
+    "TF1": "blue", "France 2": "red", "France 3": "amber",
+    "France 4": "teal", "France 5": "purple",
+    "M6": "coral", "W9": "pink", "6ter": "pink",
+    "Arte": "purple", "Canal+": "green", "Canal +": "green",
+    "TMC": "blue", "TFX": "coral", "TF1 Series Film": "blue",
+    "TF1 Séries Films": "blue",
+    "C8": "amber", "CStar": "teal", "CSTAR": "teal",
+    "Gulli": "pink", "RMC Story": "coral", "RMC Découverte": "amber",
+    "RMC Decouverte": "amber", "RMC Life": "teal",
+    "NRJ 12": "red", "NRJ12": "red",
+    "TV Breizh": "teal", "Paris Première": "purple", "Paris Premiere": "purple",
+    "Chérie 25": "pink", "Cherie 25": "pink",
+    "LCI": "blue", "Franceinfo": "blue", "BFM TV": "red", "CNews": "blue",
     # Allemagne
     "ZDF": "amber", "Das Erste": "blue", "ARD": "blue",
     "RTL": "red", "ProSieben": "pink", "Sat.1": "green",
