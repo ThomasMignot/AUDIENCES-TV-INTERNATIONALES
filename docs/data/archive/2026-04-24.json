@@ -70,7 +70,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-25T10:30:40.802643Z",
+      "scraped_at": "2026-04-25T11:25:53.249652Z",
       "status": "ok",
       "error": null
     },
@@ -143,7 +143,7 @@
           "category_emoji": "🎬"
         }
       ],
-      "scraped_at": "2026-04-25T10:30:38.767036Z",
+      "scraped_at": "2026-04-25T11:25:51.722222Z",
       "status": "ok",
       "error": null
     },
@@ -192,7 +192,7 @@
           "category_emoji": "🎤"
         }
       ],
-      "scraped_at": "2026-04-25T10:30:39.867461Z",
+      "scraped_at": "2026-04-25T11:25:52.545303Z",
       "status": "partial",
       "error": null
     },
@@ -265,10 +265,35 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-25T10:30:51.361977Z",
+      "scraped_at": "2026-04-25T11:25:55.356778Z",
       "status": "ok",
+      "error": null
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-04-24",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "RTL 4",
+          "channel_color": "red",
+          "program": "The Voice of Holland",
+          "program_fr": "The Voice",
+          "viewers": 943000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/finale-heel-holland-bakt-halve-finale-tvoh-kijkcijfers",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        }
+      ],
+      "scraped_at": "2026-04-25T11:25:57.692736Z",
+      "status": "partial",
       "error": null
     }
   },
-  "last_updated": "2026-04-25T10:30:51.363772Z"
+  "last_updated": "2026-04-25T11:25:57.694782Z"
 }
