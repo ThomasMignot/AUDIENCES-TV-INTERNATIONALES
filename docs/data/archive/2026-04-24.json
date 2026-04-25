@@ -8,10 +8,71 @@
       "date": "2026-04-24",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-04-24T13:55:16.999220Z",
-      "status": "failed",
-      "error": "415 Client Error: Unsupported Media Type for url: https://barloventocomunicacion.es/audiencias-tv-ayer/"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Tu Cara Me Suena",
+          "program_fr": null,
+          "viewers": 1589000,
+          "share": 20.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-abril-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 2,
+          "channel": "DAZN LaLiga",
+          "channel_color": "gray",
+          "program": "Futbol:Liga Española (R.Betis-R.Madrid)",
+          "program_fr": null,
+          "viewers": 849000,
+          "share": 8.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-abril-de-2026/",
+          "category": "sport",
+          "category_emoji": "⚽"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "¡De Viernes!",
+          "program_fr": null,
+          "viewers": 799000,
+          "share": 10.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-abril-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "El Blockbuster (Sisu)",
+          "program_fr": null,
+          "viewers": 712000,
+          "share": 6.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-abril-de-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 5,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Superestrellas:Liam Neeson (Retribution(2023))",
+          "program_fr": null,
+          "viewers": 710000,
+          "share": 6.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-abril-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺"
+        }
+      ],
+      "scraped_at": "2026-04-25T10:30:40.802643Z",
+      "status": "ok",
+      "error": null
     },
     "FR": {
       "country_code": "FR",
@@ -19,12 +80,195 @@
       "flag": "🇫🇷",
       "date": "2026-04-24",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/tag/audiences_t14",
-      "entries": [],
-      "scraped_at": "2026-04-24T14:47:45.022124Z",
-      "status": "failed",
-      "error": "Aucun article 'soirée' trouvé sur la page de listing"
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-mask-singer-sur-tf1-face-au-jeu-la-carte-aux-tresors-de-france-3/654522",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "TROPIQUES CRIMINELS \\ LA PRAIRIE",
+          "program_fr": null,
+          "viewers": 3174000,
+          "share": 19.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-mask-singer-sur-tf1-face-au-jeu-la-carte-aux-tresors-de-france-3/654522",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MASK SINGER",
+          "program_fr": null,
+          "viewers": 2652000,
+          "share": 16.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-mask-singer-sur-tf1-face-au-jeu-la-carte-aux-tresors-de-france-3/654522",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "PEKIN EXPRESS \\ AU ROYAUME DES DRAGONS - EPISODE 8",
+          "program_fr": null,
+          "viewers": 1233000,
+          "share": 7.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-mask-singer-sur-tf1-face-au-jeu-la-carte-aux-tresors-de-france-3/654522",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA CARTE AUX TRESORS \\ CAP ATLANTIQUE : LA BAULE - GUERANDE",
+          "program_fr": null,
+          "viewers": 1121000,
+          "share": 7.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-mask-singer-sur-tf1-face-au-jeu-la-carte-aux-tresors-de-france-3/654522",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "FLIC STORY",
+          "program_fr": null,
+          "viewers": 1065000,
+          "share": 7.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-mask-singer-sur-tf1-face-au-jeu-la-carte-aux-tresors-de-france-3/654522",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        }
+      ],
+      "scraped_at": "2026-04-25T10:30:38.767036Z",
+      "status": "ok",
+      "error": null
+    },
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-04-24",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4176999,
+          "share": 21.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 2,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "SOKO Leipzig",
+          "program_fr": null,
+          "viewers": 3482000,
+          "share": 16.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 3,
+          "channel": "RTL",
+          "channel_color": "red",
+          "program": "Let's dance Folge 8",
+          "program_fr": "Danse avec les stars",
+          "viewers": 2860000,
+          "share": 14.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        }
+      ],
+      "scraped_at": "2026-04-25T10:30:39.867461Z",
+      "status": "partial",
+      "error": null
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-04-24",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Grande Fratello Vip",
+          "program_fr": "Secret Story",
+          "viewers": 1888000,
+          "share": 17.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-aprile-2026",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 2,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Spider-Man – Far From Home",
+          "program_fr": null,
+          "viewers": 934000,
+          "share": 6.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 3,
+          "channel": "La7",
+          "channel_color": "green",
+          "program": "Propaganda Live",
+          "program_fr": null,
+          "viewers": 880000,
+          "share": 6.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Vespucci – Il Viaggio più Lungo",
+          "program_fr": null,
+          "viewers": 459000,
+          "share": 2.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 5,
+          "channel": "Rai 4",
+          "channel_color": "gray",
+          "program": "Take Cover",
+          "program_fr": null,
+          "viewers": 373000,
+          "share": 2.1,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        }
+      ],
+      "scraped_at": "2026-04-25T10:30:51.361977Z",
+      "status": "ok",
+      "error": null
     }
   },
-  "last_updated": "2026-04-24T14:47:45.022384Z"
+  "last_updated": "2026-04-25T10:30:51.363772Z"
 }
