@@ -70,7 +70,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-27T09:51:17.010353Z",
+      "scraped_at": "2026-04-27T15:27:50.997789Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction « Tatort: Gegen die Zeit » diffusée sur Das Erste enregistre 7,60 millions de téléspectateurs, captant 30,9% de part de marché, confirmant la domination de la chaîne publique sur la case du dimanche soir. Ce score est nettement supérieur à celui du « heute journal / Wetter » de ZDF, qui rassemble 3,98 millions de personnes et 19,1% de PDA. Comparé aux cinq dernières soirées, Das Erste s'impose comme leader du prime time sur la semaine, avec quatre victoires sur cinq. L'écart entre les deux chaînes publiques se creuse significativement le dimanche, journée où le format « Tatort » continue de fidéliser un large public, notamment sur les franges plus âgées du téléspectat. Le positionnement de cette fiction culte sur Das Erste démontre l'efficacité d'une stratégie de contenu forte sur un jour donné pour asseoir une audience globale sur la semaine.",
@@ -145,7 +145,7 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-27T09:51:17.737821Z",
+      "scraped_at": "2026-04-27T15:27:51.746451Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne publique La 1 s'impose en tête des audiences du prime time vendredi 26 avril avec 1,33 million de téléspectateurs pour son offre cinématographique, devançant Telecinco et Antena 3. Ce résultat place le film \"Pelicula de la Semana\" légèrement au-dessus de la moyenne de la case de La 1 sur la semaine écoulée, qui s'établit autour de 1,2 million de spectateurs. Le divertissement \"Supervivientes:Conexion Honduras\" de Telecinco obtient une part d'audience supérieure à celle de la fiction d'Antena 3, confirmant la primeauté des formats de flux sur la création originale dans cette case horaire. La Sexta et Cuatro se positionnent en lutte pour la quatrième place, avec des programmes d'information qui réalisent des performances stables par rapport aux jours précédents. Antena 3, leader sur la semaine, voit son offre de fiction \"Una Nueva Vida\" se hisser en troisième position, mais sans atteindre les scores de ses émissions habituelles en access et en début de prime.",
@@ -155,13 +155,26 @@
       "country_code": "NL",
       "country_name": "Pays-Bas",
       "flag": "🇳🇱",
-      "date": "2026-04-26",
+      "date": "2026-04-25",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-04-27T09:51:21.097139Z",
-      "status": "failed",
-      "error": "Aucun programme extrait de l'article",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Over Mijn Lijk",
+          "program_fr": null,
+          "viewers": 780000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-laatste-rust-en-vreugd-ontroert-kijkers-komt-er-een-nieuw-seizoen-kijkcijfers",
+          "category": "autre",
+          "category_emoji": "📺"
+        }
+      ],
+      "scraped_at": "2026-04-27T15:27:55.844590Z",
+      "status": "partial",
+      "error": null,
       "commentary": "La soirée du 25 avril voit RTL 4 s'imposer sur SBS 6 avec le divertissement « Only Joling zwaait af » attirant 445 000 téléspectateurs, loin devant les 186 000 de « Marco Borsato geen hit op SBS ». Cette performance de RTL 4 contraste avec le leadership de NPO 1 sur les deux soirées précédentes, qui avait notamment diffusé « Het Verhaal van Nederland » (792 k) et « Halve finale Heel Holland Bakt Elke Dag » (731 k). La veille, RTL 4 avait pourtant dominé avec « The Voice of Holland » (943 k), démontrant la volatilité des audiences sur ce marché segmenté. Le chiffre du jour pour RTL 4, bien que leader face à SBS 6, reste inférieur de moitié à celui de son programme phare de la veille. L'observation des programmes diffusés sur NPO 1 suggère une stratégie de programmes forts dans la case du prime, tandis que RTL 4 semble tester des formats plus légers en fin de semaine.",
       "commentary_date": "2026-04-25"
     },
@@ -234,7 +247,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-27T09:51:19.787349Z",
+      "scraped_at": "2026-04-27T15:27:54.352170Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « Roberta Valente – Notaio in Sorrento », s'impose en tête du prime time du 26 avril avec 3,14 millions de téléspectateurs et 20,7% de part de marché. Ce score la place en légère progression par rapport à la fiction « Uno Sbirro in Appennino » diffusée le 23 avril, qui avait rassemblé 3,17 millions de personnes pour 20,1% de PDA. La chaîne publique renoue ainsi avec sa position de leader historique, après une semaine où Canale 5 avait dominé les audiences à trois reprises, notamment grâce à des programmes de flux comme « Amici » et « Grande Fratello Vip ». La présence de La7 et de chaînes thématiques comme Iris et Rai 4 dans le top 4 témoigne d'une fragmentation des audiences sur les offres moins généralistes. La contre-programmation semble fonctionner pour Rai 1, qui s'appuie sur la fiction nationale face aux offres plus populaires de ses concurrents.",
@@ -309,12 +322,12 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-27T09:51:16.206985Z",
+      "scraped_at": "2026-04-27T15:27:50.019313Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 3, \"L'Inspecteur Barnaby\", se positionne en tête des audiences avec 2,79 millions de téléspectateurs et 15,8% de part d'audience, devançant la fiction de France 2, \"Papy fait de la résistance\", qui rassemble 2,51 millions de personnes (14,7% PDM). Cette performance place les chaînes publiques en tête du prime time, une configuration inhabituelle par rapport à la semaine précédente où M6 dominait avec une rediffusion de \"Un p'tit truc en plus\" (5,50 M, 32,5% le 23 avril). La stratégie de France 3 semble porter ses fruits en proposant une offre fictionnelle forte dans sa case habituelle, tandis que TF1, avec \"Fast and Furious Hobbs and Shaw\", enregistre 2,28 millions de téléspectateurs (15,0% PDM), se retrouvant derrière les deux chaînes publiques. L'information de M6, \"Capital\", obtient 1,95 million de curieux (12,1% PDM), démontrant la difficulté des magazines d'information à rivaliser avec la fiction dans cette case. Canal+ ferme la marche avec \"Émissions cryptées\" et 846 000 spectateurs (4,6% PDM).",
       "commentary_date": "2026-04-26"
     }
   },
-  "last_updated": "2026-04-27T09:51:21.100251Z"
+  "last_updated": "2026-04-27T15:27:55.847506Z"
 }
