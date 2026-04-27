@@ -27,7 +27,7 @@ import logging
 import os
 import sys
 import time
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -446,11 +446,88 @@ def enrich_latest_with_commentaries(latest_path: Path, force: bool = False) -> N
     latest_path.write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+    # Synchroniser les commentaires vers les archives correspondantes.
+    # Comme ça quand on consulte une date passée, l'analyse de ce jour-là
+    # est toujours visible (sans dépendre de latest.json qui change tous les jours).
+    sync_count = _sync_commentaries_to_archives(data)
+    if sync_count:
+        log.info(f"Synchronisé {sync_count} commentaires vers les archives")
+
     total_elapsed = time.monotonic() - t_start
     log.info(
         f"Terminé en {total_elapsed:.1f}s : {successes} générés · "
         f"{failures} échecs · {skipped} conservés/skippés"
     )
+
+
+def _sync_commentaries_to_archives(latest_data: dict) -> int:
+    """
+    Pour chaque pays présent dans latest.json avec un commentaire, on
+    s'assure que ce commentaire est aussi présent dans l'archive correspondante
+    (docs/data/archive/{date_du_pays}.json).
+
+    Ça permet au dashboard de retrouver l'analyse même quand on navigue dans
+    le passé. Sans ça, archive/2026-04-23.json ne contient jamais de commentary
+    parce que le commentary.py n'écrit que dans latest.json.
+
+    Retourne le nombre de commentaires effectivement synchronisés.
+    """
+    countries = latest_data.get("countries", {})
+    sync_count = 0
+
+    # Regrouper les pays par date d'archive cible (souvent tous le même jour,
+    # mais parfois NL ou DE ont une date différente parce qu'ils publient en
+    # décalé)
+    by_date: dict[str, dict] = {}
+    for code, country_data in countries.items():
+        commentary = country_data.get("commentary")
+        date_str = country_data.get("date")
+        if not commentary or not date_str:
+            continue
+        by_date.setdefault(date_str, {})[code] = country_data
+
+    for date_str, country_dict in by_date.items():
+        archive_path = ARCHIVE_DIR / f"{date_str}.json"
+        if not archive_path.exists():
+            log.debug(f"Pas d'archive pour {date_str}, skip sync")
+            continue
+
+        try:
+            archive_data = json.loads(archive_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, ValueError):
+            log.warning(f"Archive {date_str} corrompue, skip sync")
+            continue
+
+        archive_countries = archive_data.get("countries", {})
+        archive_modified = False
+
+        for code, src_country_data in country_dict.items():
+            archive_entry = archive_countries.get(code)
+            if not archive_entry:
+                continue  # le pays n'existait pas dans cette archive
+
+            new_commentary = src_country_data.get("commentary")
+            new_commentary_date = src_country_data.get("commentary_date")
+            old_commentary = archive_entry.get("commentary")
+
+            # On ne met à jour que si le commentaire a changé (évite les
+            # écritures inutiles sur disque)
+            if new_commentary != old_commentary:
+                archive_entry["commentary"] = new_commentary
+                if new_commentary_date:
+                    archive_entry["commentary_date"] = new_commentary_date
+                archive_modified = True
+                sync_count += 1
+
+        if archive_modified:
+            archive_data["last_updated"] = datetime.utcnow().isoformat() + "Z"
+            archive_path.write_text(
+                json.dumps(archive_data, ensure_ascii=False, indent=2),
+                encoding="utf-8"
+            )
+
+    return sync_count
 
 
 if __name__ == "__main__":
