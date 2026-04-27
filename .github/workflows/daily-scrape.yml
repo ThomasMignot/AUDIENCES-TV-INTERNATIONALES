@@ -2,16 +2,23 @@ name: Daily TV audience scrape
 
 on:
   schedule:
-    # Deux passages : certaines sources publient plus tôt que d'autres.
-    # - 8h UTC = 9h hiver / 10h été Paris : premier essai, rattrape les
-    #   sources rapides (DE, ES, IT publient souvent avant 9h Paris)
-    # - 9h UTC = 10h hiver / 11h été Paris : retry pour les sources
-    #   plus lentes (Ozap FR publie parfois vers 10h heure Paris)
-    # Les scrapers sont idempotents : s'ils tournent deux fois avec les
-    # mêmes données, ils réécrivent simplement l'entrée. Les commentaires
-    # Gemini sont préservés (fix commentary_date dans commentary.py).
-    - cron: '0 8 * * *'
-    - cron: '0 9 * * *'
+    # IMPORTANT — minutes décalées (pas 0) parce que GitHub Actions a des
+    # crons "best effort" sur le tier gratuit. Les heures pile (8h00, 9h00)
+    # sont saturées et souvent retardées ou skippées. Les minutes
+    # décalées (17, 32, 47) ont une probabilité d'exécution bien meilleure.
+    #
+    # Trois passages quotidiens :
+    # - 8h17 UTC = 10h17 Paris (été) / 9h17 (hiver) : sources rapides (DE, ES, IT)
+    # - 9h32 UTC = 11h32 Paris (été) / 10h32 (hiver) : retry pour FR (Ozap)
+    # - 12h47 UTC = 14h47 Paris (été) / 13h47 (hiver) : rattrapage des
+    #   audiences du dimanche soir (Ozap publie souvent vers 12h-13h le lundi)
+    #
+    # Les scrapers sont idempotents : tourner 3x dans la journée n'a pas
+    # d'effet de bord. Les commentaires Gemini ne sont regénérés que si
+    # la date des données a changé (cf. commentary_date dans commentary.py).
+    - cron: '17 8 * * *'
+    - cron: '32 9 * * *'
+    - cron: '47 12 * * *'
   workflow_dispatch:  # permet de lancer manuellement depuis l'interface GitHub
 
 permissions:
