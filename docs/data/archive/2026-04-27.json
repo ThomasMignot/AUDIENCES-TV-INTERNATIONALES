@@ -8,13 +8,326 @@
       "date": "2026-04-27",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-04-27T09:18:56.351891Z",
-      "status": "failed",
-      "error": "Aucun programme extrait de l'article",
-      "commentary": "La soirée du 25 avril voit RTL 4 s'imposer sur SBS 6 avec le divertissement « Only Joling zwaait af » attirant 445 000 téléspectateurs, loin devant les 186 000 de « Marco Borsato geen hit op SBS ». Cette performance de RTL 4 contraste avec le leadership de NPO 1 sur les deux soirées précédentes, qui avait notamment diffusé « Het Verhaal van Nederland » (792 k) et « Halve finale Heel Holland Bakt Elke Dag » (731 k). La veille, RTL 4 avait pourtant dominé avec « The Voice of Holland » (943 k), démontrant la volatilité des audiences sur ce marché segmenté. Le chiffre du jour pour RTL 4, bien que leader face à SBS 6, reste inférieur de moitié à celui de son programme phare de la veille. L'observation des programmes diffusés sur NPO 1 suggère une stratégie de programmes forts dans la case du prime, tandis que RTL 4 semble tester des formats plus légers en fin de semaine.",
-      "commentary_date": "2026-04-25"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Koningsdagconcerten",
+          "program_fr": null,
+          "viewers": 568000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-koninklijk-bezoek-aan-dokkum-trekt-veel-kijkers",
+          "category": "autre",
+          "category_emoji": "📺"
+        }
+      ],
+      "scraped_at": "2026-04-28T16:20:04.526103Z",
+      "status": "partial",
+      "error": null,
+      "commentary": "Le concert du Koningsdag sur NPO 1 rassemble 568 000 téléspectateurs le 27 avril, se plaçant en tête du prime time. Cette performance s'inscrit dans une semaine où la chaîne publique a majoritairement occupé la première position, avec trois des quatre soirées précédentes. La comparaison avec les chiffres des jours précédents révèle un recul par rapport à des programmes comme \"Het Verhaal van Nederland\" (792 000 téléspectateurs le 22 avril) ou \"Over Mijn Lijk\" (780 000 le 25 avril). Le 24 avril, RTL 4 s'était distingué avec \"The Voice of Holland\" (943 000 téléspectateurs), démontrant la capacité des chaînes privées à mobiliser sur des formats d'envergure. La faible audience individuelle, caractéristique du marché néerlandais, rend particulièrement sensible la performance des programmes dans leur case respective.",
+      "commentary_date": "2026-04-27"
+    },
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-04-27",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "ALTER EGO",
+          "program_fr": null,
+          "viewers": 3300000,
+          "share": 18.8,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MEURTRES AU PARADIS \\ THERAPIE DE COUPLES",
+          "program_fr": null,
+          "viewers": 2479000,
+          "share": 14.0,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "MARIES AU PREMIER REGARD",
+          "program_fr": null,
+          "viewers": 1989000,
+          "share": 11.2,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA FINE FLEUR",
+          "program_fr": null,
+          "viewers": 1947000,
+          "share": 11.6,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "THALASSA, AVENTURES EXTREMES \\ ISLANDE : VOYAGE AU CENTRE DE LA MER",
+          "program_fr": null,
+          "viewers": 766000,
+          "share": 4.3,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+          "category": "info",
+          "category_emoji": "📰"
+        }
+      ],
+      "scraped_at": "2026-04-28T16:19:59.810767Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 s'assure la première place du prime ce lundi 27 avril avec sa fiction \"Alter Ego\", réunissant 3,30 millions de téléspectateurs et 18,8% de part d'audience. Cette performance la place cependant derrière les scores obtenus par France 3 le vendredi précédent avec \"Meurtres en Arbois\" (3,31 M, 20,4%) ou par France 2 le jeudi avec \"Tropiques Criminels\" (3,17 M, 19,6%). La fiction de France 2, \"Meurtres au Paradis\", se positionne en deuxième chaîne avec 2,48 millions de curieux, une audience en retrait par rapport à ses performances de début de semaine. M6, avec \"Mariés au premier regard\", occupe la troisième marche du podium, témoignant de la difficulté pour les programmes de flux de rivaliser avec les offres de fiction des chaînes historiques en milieu de semaine. La fragmentation de l'audience, accentuée par la TNT, continue de structurer la compétition, rendant les stratégies de lead-in et de contre-programmation déterminantes.",
+      "commentary_date": "2026-04-27"
+    },
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-04-27",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Sarah Kohr - Bis auf den Grund",
+          "program_fr": null,
+          "viewers": 5472000,
+          "share": 24.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4902000,
+          "share": 23.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 3,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal",
+          "program_fr": null,
+          "viewers": 3469000,
+          "share": 17.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "100 Jahre Kruger Nationalpark mit D",
+          "program_fr": null,
+          "viewers": 2742000,
+          "share": 12.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Arena",
+          "program_fr": null,
+          "viewers": 1866000,
+          "share": 8.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺"
+        }
+      ],
+      "scraped_at": "2026-04-28T16:20:00.616200Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le prime time du 27 avril 2026 voit une fiction de la chaîne privée « Autre chaîne » s'installer en tête avec 5,47 millions de téléspectateurs, une performance qui la distingue des journaux d'information des chaînes publiques. Le « Tagesschau » de Das Erste, avec 4,90 millions de fidèles, confirme sa présence régulière dans le trio de tête, bien que sa part de marché de 23,4% soit légèrement inférieure à celle observée le 25 avril (29,2%). Le « heute journal » de ZDF capte 3,47 millions de téléspectateurs, une audience en retrait par rapport aux chiffres enregistrés le 22 avril (6,12 millions). Le paysage concurrentiel reste marqué par la prédominance des chaînes publiques, mais l'émergence d'une offre privée en première partie de soirée suggère une diversification des stratégies de captation d'audience. La semaine précédente, Das Erste avait mené le classement cinq soirées sur sept, soulignant la résilience de sa programmation face aux offres concurrentes.",
+      "commentary_date": "2026-04-27"
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-04-27",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Bad Gyal)",
+          "program_fr": null,
+          "viewers": 1617000,
+          "share": 12.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-abril/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Quevedo)",
+          "program_fr": null,
+          "viewers": 1288000,
+          "share": 10.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-abril/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "La Isla de las Tentaciones:Express",
+          "program_fr": "L'Île de la tentation",
+          "viewers": 1202000,
+          "share": 9.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-abril/",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 4,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 1014000,
+          "share": 8.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-abril/",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 931000,
+          "share": 7.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-abril/",
+          "category": "info",
+          "category_emoji": "📰"
+        }
+      ],
+      "scraped_at": "2026-04-28T16:20:01.324967Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Antena 3 confirme sa domination du prime time, s'adjugeant cinq des six soirées de la semaine écoulée, dont celle du 27 avril avec « El Hormiguero » qui rassemble 1,62 million de téléspectateurs et 12,9% de part de marché. La chaîne publique La 1, avec « La Revuelta », se positionne solidement en deuxième place, atteignant 1,29 million de fidèles (10,2% PDM), une performance stable par rapport à la semaine précédente. La compétition pour la troisième marche du podium reste vive, Telecinco, malgré un score de 1,20 million pour « La Isla de las Tentaciones:Express », voit sa part de marché légèrement inférieure à celle de La 1. La Sexta et Cuatro, avec leurs formats d'information, maintiennent des positions similaires, témoignant d'une certaine stabilité dans les préférences du public pour ces cases. La stratégie d'Antena 3 semble axée sur la fidélisation de son access, « El Hormiguero », qui sert de puissant lead-in pour ses programmes de prime time.",
+      "commentary_date": "2026-04-27"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-04-27",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "La Buona Stella",
+          "program_fr": null,
+          "viewers": 2736000,
+          "share": 17.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-aprile-2026",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "I Cesaroni – Il Ritorno",
+          "program_fr": null,
+          "viewers": 2140000,
+          "share": 15.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-aprile-2026",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 3,
+          "channel": "La7",
+          "channel_color": "green",
+          "program": "La Torre di Babele",
+          "program_fr": null,
+          "viewers": 1024000,
+          "share": 5.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 4,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "97 minuti",
+          "program_fr": null,
+          "viewers": 955000,
+          "share": 5.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-aprile-2026",
+          "category": "autre",
+          "category_emoji": "📺"
+        },
+        {
+          "rank": 5,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "Quarta Repubblica",
+          "program_fr": null,
+          "viewers": 759000,
+          "share": 6.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-aprile-2026",
+          "category": "info",
+          "category_emoji": "📰"
+        }
+      ],
+      "scraped_at": "2026-04-28T16:20:03.360672Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 27 avril 2026, Rai 1 reprend la tête du prime time avec la fiction « La Buona Stella », attirant 2,74 millions de téléspectateurs et 17,3% de part de marché. Ce score la positionne au-dessus de la performance de la semaine précédente pour « Roberta Valente » (3,14 M, 20,7%), mais confirme la capacité de la chaîne publique à mobiliser son audience sur ce créneau. Canale 5, avec « I Cesaroni – Il Ritorno », se classe second avec 2,14 millions de téléspectateurs (15,2%), un chiffre inférieur à ses meilleures performances de la semaine, notamment la finale d'« Amici » qui avait rassemblé 2,88 millions de personnes. La7 maintient sa position sur la case information avec « La Torre di Babele » et 1,02 million de curieux (5,7%), un résultat stable par rapport à « Piazzapulita » le mercredi. Italia 1 et Rete 4 ferment la marche, témoignant d'une certaine difficulté à capter une large audience face aux offres plus établies des deux grands duopoles. La compétition pour le leadership du prime time reste ainsi animée, avec des stratégies de programmation variées selon les chaînes.",
+      "commentary_date": "2026-04-27"
     }
   },
-  "last_updated": "2026-04-27T09:18:56.353909Z"
+  "last_updated": "2026-04-28T16:20:45.522687Z"
 }
