@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/On_va_d%C3%A9guster"
         }
       ],
-      "scraped_at": "2026-04-29T10:16:53.955155Z",
+      "scraped_at": "2026-04-29T10:22:15.892432Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 prend la tête des audiences du prime ce 28 avril avec une fiction qui rassemble 2,74 millions de téléspectateurs, soit 14,9% de part de marché. Ce score place la chaîne publique devant TF1 et son divertissement \"Koh-Lanta\", qui enregistre 2,55 millions de curieux (14,2% PDM). La performance de France 3 est notable au regard de son leadership sur deux soirées de la semaine écoulée, confirmant une stratégie de programmation axée sur la fiction française en milieu de semaine. France 2, avec sa série documentaire \"Tchernobyl\", se positionne en troisième position avec 1,61 million de téléspectateurs (8,6% PDM), un score inférieur à celui obtenu par ses fictions ou événements sportifs récents. La fragmentation des audiences, accentuée par la TNT, continue de limiter la portée des offres des chaînes historiques, comme l'illustre le score de M6 avec sa série internationale.",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=heute%20journal"
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=Die%20geheime%20Welt%20des%20Adels"
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+geheime+Welt+des+Adels%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 4,
@@ -139,7 +139,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=Die%20Anstalt"
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+Anstalt%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=Deutschland%20sucht%20den%20Superstar%20Fol"
+          "wikipedia_url": "https://www.google.com/search?q=%22Deutschland+sucht+den+Superstar+Fol%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-04-29T10:16:57.966769Z",
+      "scraped_at": "2026-04-29T10:22:19.249184Z",
       "status": "ok",
       "error": null,
       "commentary": "Le bulletin d'information « Tagesschau » sur Das Erste s'établit en tête du prime time du 28 avril avec 4,64 millions de téléspectateurs et 22,6% de part de marché, une performance en légère baisse par rapport à la semaine précédente. Le journal du soir de la ZDF, « heute journal », enregistre 2,66 millions de curieux, soit 14,9% de PDM, marquant un recul notable par rapport à certaines soirées de la semaine passée où il avait dépassé les 3 millions. La concurrence entre les chaînes publiques et privées se manifeste dans la lutte pour la troisième place, occupée ce soir-là par une offre de la chaîne « Autre chaîne » avec 2,21 millions de téléspectateurs. Cette stratégie de programmation, avec des documentaires thématiques en milieu de semaine, semble viser un public différent des formats de divertissement plus habituels des chaînes privées. La semaine écoulée a vu Das Erste dominer les audiences sur cinq des sept soirées, confirmant sa position de leader sur le segment informationnel du prime time.",
@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=El%20Hormiguero%20%28Macarena%20Gomez%29"
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Macarena+Gomez%29%22+Antena+3+ratings"
         },
         {
           "rank": 2,
@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=La%20Isla%20de%20las%20Tentaciones"
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Isla+de+las+Tentaciones%22+Telecinco+ratings"
         },
         {
           "rank": 3,
@@ -206,7 +206,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=La%20Revuelta%20%28Maria%20Galiana%29"
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Maria+Galiana%29%22+La+1+ratings"
         },
         {
           "rank": 4,
@@ -219,7 +219,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
         },
         {
           "rank": 5,
@@ -232,10 +232,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=El%20Intermedio"
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-04-29T10:16:59.575588Z",
+      "scraped_at": "2026-04-29T10:22:20.200364Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 28 avril, Antena 3 maintient sa position dominante sur la case du prime time avec « El Hormiguero », qui réunit 1,61 million de téléspectateurs et 12,5% de part de marché. Ce chiffre est stable par rapport à la semaine précédente, où le même programme, avec une invitée différente, avait enregistré 1,62 million de fidèles. La compétition pour la deuxième place oppose cette semaine « La Isla de las Tentaciones » sur Telecinco (1,28 M, 10,0%) à « La Revuelta » sur La 1 (1,23 M, 9,7%), marquant une légère inversion par rapport au 21 avril où Telecinco devançait La 1. La chaîne publique, La 1, semble consolider sa troisième position structurelle, notamment grâce à des programmes comme « La Revuelta », qui a su attirer un public plus large certains soirs de la semaine. Le duopole historique Antena 3/Telecinco est ainsi complété par une offre publique de plus en plus structurée sur la soirée.",
@@ -260,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-28-aprile-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Inspector_Montalbano_%28TV_series%29"
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+Commissario+Montalbano%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -273,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-28-aprile-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Fratello_VIP"
+          "wikipedia_url": "https://www.google.com/search?q=%22Grande+Fratello+Vip%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -286,7 +286,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-28-aprile-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Davide_Casaleggio"
+          "wikipedia_url": "https://www.google.com/search?q=%22DiMarted%C3%AC%22+La7+ratings"
         },
         {
           "rank": 4,
@@ -299,7 +299,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-28-aprile-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Belve"
+          "wikipedia_url": "https://www.google.com/search?q=%22Belve%22+Rai+2+ratings"
         },
         {
           "rank": 5,
@@ -312,10 +312,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-28-aprile-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Matano"
+          "wikipedia_url": "https://www.google.com/search?q=%22Le+Iene+presentano%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-04-29T10:17:05.632610Z",
+      "scraped_at": "2026-04-29T10:22:22.638661Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction « Il Commissario Montalbano » sur Rai 1 s'impose ce dimanche 28 avril avec 3,01 millions de téléspectateurs et 17,4% de part de marché, reprenant ainsi le leadership du prime time. Cette performance contraste avec la soirée du 21 avril où la chaîne publique avait diffusé une rediffusion du même programme, attirant 2,85 millions de fidèles. Canale 5, avec « Grande Fratello Vip », se positionne en deuxième place mais enregistre une légère érosion par rapport à ses scores précédents, passant de 1,89 million le jeudi 24 avril à 1,83 million ce dimanche. La chaîne privée semble marquer le pas sur cette case horaire, malgré une PDM de 15,5% qui reste significative dans le paysage concurrentiel. Sur La7, le magazine d'information « DiMartedì » confirme sa présence dans le trio de tête avec 1,53 million de téléspectateurs et 9,8% de PDM, un score stable par rapport à la semaine précédente. La stratégie de Rai 1 semble donc porter ses fruits en capitalisant sur des valeurs sûres de la fiction nationale face à la concurrence des formats de divertissement de Canale 5.",
@@ -340,7 +340,7 @@
           "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-mafs-married-at-first-sight-kyle-danique-reacties",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=Een%20Vergetelijk%20Mooie%20Reis"
+          "wikipedia_url": "https://www.google.com/search?q=%22Een+Vergetelijk+Mooie+Reis%22+NPO+1+ratings"
         },
         {
           "rank": 2,
@@ -353,15 +353,15 @@
           "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-mafs-married-at-first-sight-kyle-danique-reacties",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Special:Search?search=Bureau%20Onrecht"
+          "wikipedia_url": "https://www.google.com/search?q=%22Bureau+Onrecht%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-04-29T10:17:07.560697Z",
+      "scraped_at": "2026-04-29T10:22:23.903152Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 28 avril voit NPO 1 maintenir sa position de leader avec « Een Vergetelijk Mooie Reis », attirant 809 000 téléspectateurs. Ce chiffre est légèrement supérieur à celui du programme diffusé le 25 avril, « Over Mijn Lijk » (780 000 téléspectateurs), mais inférieur à la performance de « Het Verhaal van Nederland » le 22 avril (792 000 téléspectateurs). La chaîne publique confirme ainsi sa domination sur la case, ayant assuré quatre des cinq soirées de la semaine précédente. SBS 6 se positionne en second avec « Bureau Onrecht » (330 000 téléspectateurs), une audience notablement plus faible que celle de « Mr. Frank Visser Doet Uitspraak » le 22 avril (618 000 téléspectateurs). La comparaison avec RTL 4, qui avait pourtant atteint 943 000 téléspectateurs le 24 avril avec « The Voice of Holland », souligne une fragmentation des audiences sur le marché néerlandais. La stratégie de NPO 1 semble porter ses fruits en matière de fidélisation sur cette case horaire.",
       "commentary_date": "2026-04-28"
     }
   },
-  "last_updated": "2026-04-29T10:17:07.563032Z"
+  "last_updated": "2026-04-29T10:22:23.905292Z"
 }
