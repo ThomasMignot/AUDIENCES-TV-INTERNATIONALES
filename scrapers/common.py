@@ -6,7 +6,8 @@ from __future__ import annotations
 
 import json
 import re
-from dataclasses import asdict, dataclass
+import unicodedata
+from dataclasses import asdict, dataclass, field
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Optional
@@ -29,6 +30,7 @@ class AudienceEntry:
     source_url: str             # lien direct vers l'article qui fournit ce chiffre
     category: str = "autre"     # "fiction" | "divertissement" | "info" | "sport" | "autre"
     category_emoji: str = "📺"  # emoji associé à la catégorie
+    wikipedia_url: str = ""     # lien Wikipédia dans la langue du pays (généré auto par make_entry)
 
 
 @dataclass
@@ -143,18 +145,131 @@ def color_for(channel: str) -> str:
     return CHANNEL_COLORS.get(channel.strip(), "gray")
 
 
+# ─── Liens Wikipédia par pays ──────────────────────────────────────
+
+# Code pays → code langue Wikipédia (= sous-domaine wikipedia.org)
+COUNTRY_TO_WIKI_LANG: dict[str, str] = {
+    "FR": "fr",
+    "DE": "de",
+    "ES": "es",
+    "IT": "it",
+    "NL": "nl",
+    "BE": "fr",   # Belgique francophone par défaut (à raffiner si besoin)
+    "PT": "pt",
+    "GB": "en",
+    "US": "en",
+    "CA": "en",   # Canada anglophone par défaut
+    "AU": "en",
+    "BR": "pt",
+    "DK": "da",
+    "SE": "sv",
+}
+
+# Mots qu'on enlève en début/fin de titre avant de générer l'URL
+# (ex: "FILM", "SERIE", "TELEFILM" qui viennent d'Ozap et ne sont pas
+# dans les vrais titres des programmes)
+TITLE_NOISE_SUFFIXES = (
+    "FILM", "SERIE", "TELEFILM", "MAGAZINE", "DOCUMENTAIRE",
+    "JEU", "DIVERTISSEMENT", "HUMOUR", "MUSIQUE", "SPORT",
+    "TALK-SHOW", "JOURNAL TELEVISE", "INFORMATION", "AUTRES",
+)
+
+
+def _clean_program_for_wiki(program: str) -> str:
+    """
+    Nettoie un nom de programme avant d'en faire une URL Wikipédia.
+    - Retire les suffixes parasites (FILM, SERIE, ...)
+    - Coupe au premier ":" ou "<" (sous-titres / épisodes)
+      Ex: "EL HORMIGUERO <BAD GYAL>" → "EL HORMIGUERO"
+          "LA ISLA DE LAS TENTACIONES:EXPRESS" → "LA ISLA DE LAS TENTACIONES"
+          "Tatort: Gegen die Zeit" → "Tatort"
+    - Met en title case si le titre est tout en majuscules (cas Ozap, Barlovento)
+    """
+    if not program:
+        return ""
+
+    cleaned = program.strip()
+
+    # Retirer les suffixes parasites en fin (ex: "UN P'TIT TRUC EN PLUS FILM")
+    upper = cleaned.upper()
+    for suffix in sorted(TITLE_NOISE_SUFFIXES, key=len, reverse=True):
+        suffix_with_space = " " + suffix
+        if upper.endswith(suffix_with_space):
+            cleaned = cleaned[: -len(suffix_with_space)].strip()
+            upper = cleaned.upper()
+            break
+
+    # Couper au premier "<" (sous-titres entre chevrons type Barlovento)
+    if "<" in cleaned:
+        cleaned = cleaned.split("<", 1)[0].strip()
+
+    # Couper au premier ":" suivi d'espace ou texte (sous-titres)
+    # Garder "N.C.I.S." mais couper "Tatort: Gegen die Zeit"
+    m = re.search(r":\s*[A-Za-zÀ-ÿ]", cleaned)
+    if m and m.start() > 1:  # >1 pour ne pas couper "N:foo"
+        cleaned = cleaned[: m.start()].strip()
+
+    # Couper aux séparateurs "/" et " - " et " – " (variantes éditoriales)
+    for sep in [" / ", " - ", " – ", " — "]:
+        if sep in cleaned:
+            cleaned = cleaned.split(sep, 1)[0].strip()
+
+    # Si tout en majuscules (cas Ozap, Barlovento), title case
+    if cleaned.isupper() and len(cleaned) > 3:
+        # Title case basique en respectant les apostrophes : UN P'TIT → Un P'tit
+        cleaned = " ".join(
+            w.capitalize() if "'" not in w else
+            "'".join(part.capitalize() for part in w.split("'"))
+            for w in cleaned.split()
+        )
+
+    return cleaned
+
+
+def wikipedia_url_for(program: str, country_code: str) -> str:
+    """
+    Génère un lien Wikipédia vers la fiche du programme dans la langue du pays.
+    Si le titre n'est pas exploitable, renvoie une URL de recherche.
+
+    Exemples :
+      ("Un P'tit Truc en Plus", "FR") → https://fr.wikipedia.org/wiki/Un_P%27tit_truc_en_plus
+      ("Tatort", "DE") → https://de.wikipedia.org/wiki/Tatort
+      ("El Hormiguero", "ES") → https://es.wikipedia.org/wiki/El_Hormiguero
+    """
+    if not program:
+        return ""
+
+    lang = COUNTRY_TO_WIKI_LANG.get(country_code, "en")
+    cleaned = _clean_program_for_wiki(program)
+
+    if not cleaned:
+        return f"https://{lang}.wikipedia.org/wiki/Special:Search?search="
+
+    # Wikipédia utilise les underscores comme séparateurs et accepte
+    # les caractères accentués dans les URLs (encodés en UTF-8).
+    # On laisse `requests`-style URL encoding faire son boulot via quote.
+    from urllib.parse import quote
+    title_url = quote(cleaned.replace(" ", "_"), safe="")
+    return f"https://{lang}.wikipedia.org/wiki/{title_url}"
+
+
 def make_entry(
     rank: int, channel: str, program: str, viewers: int, share: float,
     source_url: str, program_fr: Optional[str] = None,
+    country_code: Optional[str] = None,
 ) -> AudienceEntry:
     """
-    Crée une AudienceEntry avec catégorisation automatique.
-    Centralise la logique commune à tous les scrapers.
+    Crée une AudienceEntry avec catégorisation automatique et lien Wikipédia.
+
+    `country_code` est optionnel pour rétrocompatibilité, mais le passer
+    génère un lien Wikipédia dans la langue du pays (sinon fallback en).
     """
     # Import local pour éviter import circulaire au chargement du module
     from categories import categorize, category_badge
     cat = categorize(program)
     badge = category_badge(cat)
+    # Génération du lien Wikipédia. Si pas de country_code, on fallback sur EN.
+    wiki = wikipedia_url_for(program, country_code or "")
     return AudienceEntry(
         rank=rank,
         channel=channel,
@@ -166,6 +281,7 @@ def make_entry(
         source_url=source_url,
         category=cat,
         category_emoji=badge["emoji"],
+        wikipedia_url=wiki,
     )
 
 
@@ -194,16 +310,26 @@ def save_report(report: CountryReport) -> None:
     """
     Enregistre le rapport d'un pays.
     1. Met à jour data/archive/YYYY-MM-DD.json (le jour des diffusions de ce pays)
-    2. Met à jour data/latest.json qui AGRÈGE TOUS les pays scrapés récemment,
-       chacun avec sa propre date (certaines sources publient avec plus de retard).
+    2. Met à jour data/latest.json qui AGRÈGE TOUS les pays scrapés récemment.
 
     IMPORTANT : latest.json n'est JAMAIS écrasé par l'archive d'un seul jour.
     On merge systématiquement l'entrée de ce pays dans le latest existant,
     en PRÉSERVANT les autres pays déjà présents ET les champs commentary /
     commentary_date qui auraient été ajoutés par commentary.py.
+
+    BONUS : si une entrée n'a pas de wikipedia_url (ancien format ou scraper
+    qui ne passe pas country_code), on génère le lien à la sauvegarde.
+    Ça permet de migrer les anciennes entrées en douceur.
     """
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Migration en douceur : compléter wikipedia_url manquant pour les
+    # scrapers qui n'auraient pas encore été mis à jour pour passer
+    # country_code à make_entry.
+    for entry in report.entries:
+        if not entry.wikipedia_url:
+            entry.wikipedia_url = wikipedia_url_for(entry.program, report.country_code)
 
     archive_path = ARCHIVE_DIR / f"{report.date}.json"
     latest_path = DATA_DIR / "latest.json"
@@ -219,7 +345,6 @@ def save_report(report: CountryReport) -> None:
     if "countries" not in existing_archive:
         existing_archive = {"date": report.date, "countries": {}}
 
-    # Préserver commentary / commentary_date si déjà présents pour ce pays
     old_archive_entry = existing_archive["countries"].get(report.country_code, {})
     new_archive_entry = _merge_preserve(old_archive_entry, _report_to_dict(report))
     existing_archive["countries"][report.country_code] = new_archive_entry
@@ -237,19 +362,16 @@ def save_report(report: CountryReport) -> None:
             if isinstance(loaded, dict) and "countries" in loaded:
                 existing_latest = loaded
         except (json.JSONDecodeError, ValueError):
-            pass  # fichier corrompu ou ancien format, on repart de zéro
+            pass
 
     if "countries" not in existing_latest:
         existing_latest["countries"] = {}
 
-    # On remplace UNIQUEMENT l'entrée de ce pays (les autres restent intactes),
-    # en PRÉSERVANT les champs commentary / commentary_date qui s'y trouvaient.
     old_latest_entry = existing_latest["countries"].get(report.country_code, {})
     new_latest_entry = _merge_preserve(old_latest_entry, _report_to_dict(report))
     existing_latest["countries"][report.country_code] = new_latest_entry
     existing_latest["last_updated"] = datetime.utcnow().isoformat() + "Z"
 
-    # La "date principale" de latest.json = la date la plus récente parmi tous les pays
     all_dates = [
         c.get("date") for c in existing_latest["countries"].values()
         if c.get("date")
