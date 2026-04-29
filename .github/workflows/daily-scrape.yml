@@ -2,23 +2,30 @@ name: Daily TV audience scrape
 
 on:
   schedule:
-    # IMPORTANT — minutes décalées (pas 0) parce que GitHub Actions a des
-    # crons "best effort" sur le tier gratuit. Les heures pile (8h00, 9h00)
-    # sont saturées et souvent retardées ou skippées. Les minutes
-    # décalées (17, 32, 47) ont une probabilité d'exécution bien meilleure.
+    # SIX passages quotidiens pour compenser le caractère "best effort" des
+    # crons GitHub Actions sur le tier gratuit. GitHub peut skipper un cron
+    # individuel sans avertissement quand sa file d'attente est saturée.
+    # Avec 6 crons, la probabilité qu'aucun ne tourne devient très faible.
     #
-    # Trois passages quotidiens :
-    # - 8h17 UTC = 10h17 Paris (été) / 9h17 (hiver) : sources rapides (DE, ES, IT)
-    # - 9h32 UTC = 11h32 Paris (été) / 10h32 (hiver) : retry pour FR (Ozap)
-    # - 12h47 UTC = 14h47 Paris (été) / 13h47 (hiver) : rattrapage des
-    #   audiences du dimanche soir (Ozap publie souvent vers 12h-13h le lundi)
+    # Toutes les heures sont en UTC. Les minutes sont décalées (pas 0 ni 30)
+    # parce que les heures rondes sont saturées et plus susceptibles d'être
+    # skippées.
     #
-    # Les scrapers sont idempotents : tourner 3x dans la journée n'a pas
-    # d'effet de bord. Les commentaires Gemini ne sont regénérés que si
-    # la date des données a changé (cf. commentary_date dans commentary.py).
-    - cron: '17 8 * * *'
-    - cron: '32 9 * * *'
-    - cron: '47 12 * * *'
+    # Plage couverte : 7h22 → 14h36 UTC = 9h22 → 16h36 Paris (été)
+    #                                      8h22 → 15h36 Paris (hiver)
+    #
+    # Les scrapers sont idempotents : tourner 6× dans la journée n'a pas
+    # d'effet de bord sur le contenu. Les commentaires Gemini ne sont
+    # regénérés que si la date des données a changé (cf. commentary_date
+    # dans commentary.py), donc 5-6 requêtes Gemini par jour seulement,
+    # peu importe le nombre de crons qui tournent.
+    - cron: '22 7 * * *'   # 9h22 Paris (été) — sources rapides allemande/espagnole/italienne
+    - cron: '13 9 * * *'   # 11h13 Paris — retry pour FR (Ozap publie souvent vers 10h-11h)
+    - cron: '47 10 * * *'  # 12h47 Paris — sécurité midi
+    - cron: '36 12 * * *'  # 14h36 Paris — rattrapage mi-journée (Ozap parfois en retard le lundi)
+    - cron: '17 14 * * *'  # 16h17 Paris — dernière chance
+    - cron: '8 16 * * *'   # 18h08 Paris — filet de sécurité fin journée
+
   workflow_dispatch:  # permet de lancer manuellement depuis l'interface GitHub
 
 permissions:
