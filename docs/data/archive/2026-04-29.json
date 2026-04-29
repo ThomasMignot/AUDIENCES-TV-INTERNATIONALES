@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-29",
+  "countries": {
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-04-29",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [],
+      "scraped_at": "2026-04-29T09:45:28.406412Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite",
+      "commentary": "Le 28 avril, Antena 3 maintient sa position dominante sur la case du prime time avec « El Hormiguero », qui réunit 1,61 million de téléspectateurs et 12,5% de part de marché. Ce chiffre est stable par rapport à la semaine précédente, où le même programme, avec une invitée différente, avait enregistré 1,62 million de fidèles. La compétition pour la deuxième place oppose cette semaine « La Isla de las Tentaciones » sur Telecinco (1,28 M, 10,0%) à « La Revuelta » sur La 1 (1,23 M, 9,7%), marquant une légère inversion par rapport au 21 avril où Telecinco devançait La 1. La chaîne publique, La 1, semble consolider sa troisième position structurelle, notamment grâce à des programmes comme « La Revuelta », qui a su attirer un public plus large certains soirs de la semaine. Le duopole historique Antena 3/Telecinco est ainsi complété par une offre publique de plus en plus structurée sur la soirée.",
+      "commentary_date": "2026-04-28"
+    }
+  },
+  "last_updated": "2026-04-29T09:45:35.032933Z"
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "countries": {
     "DE": {
       "country_code": "DE",
@@ -70,7 +70,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-29T08:52:20.420157Z",
+      "scraped_at": "2026-04-29T09:45:27.506186Z",
       "status": "ok",
       "error": null,
       "commentary": "Le bulletin d'information « Tagesschau » sur Das Erste s'établit en tête du prime time du 28 avril avec 4,64 millions de téléspectateurs et 22,6% de part de marché, une performance en légère baisse par rapport à la semaine précédente. Le journal du soir de la ZDF, « heute journal », enregistre 2,66 millions de curieux, soit 14,9% de PDM, marquant un recul notable par rapport à certaines soirées de la semaine passée où il avait dépassé les 3 millions. La concurrence entre les chaînes publiques et privées se manifeste dans la lutte pour la troisième place, occupée ce soir-là par une offre de la chaîne « Autre chaîne » avec 2,21 millions de téléspectateurs. Cette stratégie de programmation, avec des documentaires thématiques en milieu de semaine, semble viser un public différent des formats de divertissement plus habituels des chaînes privées. La semaine écoulée a vu Das Erste dominer les audiences sur cinq des sept soirées, confirmant sa position de leader sur le segment informationnel du prime time.",
@@ -80,74 +80,13 @@
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero (Macarena Gomez)",
-          "program_fr": null,
-          "viewers": 1607000,
-          "share": 12.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤"
-        },
-        {
-          "rank": 2,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "La Isla de las Tentaciones",
-          "program_fr": "L'Île de la tentation",
-          "viewers": 1282000,
-          "share": 10.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤"
-        },
-        {
-          "rank": 3,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "La Revuelta (Maria Galiana)",
-          "program_fr": null,
-          "viewers": 1231000,
-          "share": 9.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤"
-        },
-        {
-          "rank": 4,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
-          "program_fr": null,
-          "viewers": 945000,
-          "share": 7.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
-          "category": "info",
-          "category_emoji": "📰"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "El Intermedio",
-          "program_fr": null,
-          "viewers": 920000,
-          "share": 7.1,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-abril-2026/",
-          "category": "info",
-          "category_emoji": "📰"
-        }
-      ],
-      "scraped_at": "2026-04-29T08:52:21.148038Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-04-29T09:45:28.406412Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite",
       "commentary": "Le 28 avril, Antena 3 maintient sa position dominante sur la case du prime time avec « El Hormiguero », qui réunit 1,61 million de téléspectateurs et 12,5% de part de marché. Ce chiffre est stable par rapport à la semaine précédente, où le même programme, avec une invitée différente, avait enregistré 1,62 million de fidèles. La compétition pour la deuxième place oppose cette semaine « La Isla de las Tentaciones » sur Telecinco (1,28 M, 10,0%) à « La Revuelta » sur La 1 (1,23 M, 9,7%), marquant une légère inversion par rapport au 21 avril où Telecinco devançait La 1. La chaîne publique, La 1, semble consolider sa troisième position structurelle, notamment grâce à des programmes comme « La Revuelta », qui a su attirer un public plus large certains soirs de la semaine. Le duopole historique Antena 3/Telecinco est ainsi complété par une offre publique de plus en plus structurée sur la soirée.",
       "commentary_date": "2026-04-28"
     },
@@ -184,7 +123,7 @@
           "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-29T08:52:24.435762Z",
+      "scraped_at": "2026-04-29T09:45:33.223035Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 28 avril voit NPO 1 maintenir sa position de leader avec « Een Vergetelijk Mooie Reis », attirant 809 000 téléspectateurs. Ce chiffre est légèrement supérieur à celui du programme diffusé le 25 avril, « Over Mijn Lijk » (780 000 téléspectateurs), mais inférieur à la performance de « Het Verhaal van Nederland » le 22 avril (792 000 téléspectateurs). La chaîne publique confirme ainsi sa domination sur la case, ayant assuré quatre des cinq soirées de la semaine précédente. SBS 6 se positionne en second avec « Bureau Onrecht » (330 000 téléspectateurs), une audience notablement plus faible que celle de « Mr. Frank Visser Doet Uitspraak » le 22 avril (618 000 téléspectateurs). La comparaison avec RTL 4, qui avait pourtant atteint 943 000 téléspectateurs le 24 avril avec « The Voice of Holland », souligne une fragmentation des audiences sur le marché néerlandais. La stratégie de NPO 1 semble porter ses fruits en matière de fidélisation sur cette case horaire.",
@@ -259,7 +198,7 @@
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-29T08:52:23.150196Z",
+      "scraped_at": "2026-04-29T09:45:31.582154Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction « Il Commissario Montalbano » sur Rai 1 s'impose ce dimanche 28 avril avec 3,01 millions de téléspectateurs et 17,4% de part de marché, reprenant ainsi le leadership du prime time. Cette performance contraste avec la soirée du 21 avril où la chaîne publique avait diffusé une rediffusion du même programme, attirant 2,85 millions de fidèles. Canale 5, avec « Grande Fratello Vip », se positionne en deuxième place mais enregistre une légère érosion par rapport à ses scores précédents, passant de 1,89 million le jeudi 24 avril à 1,83 million ce dimanche. La chaîne privée semble marquer le pas sur cette case horaire, malgré une PDM de 15,5% qui reste significative dans le paysage concurrentiel. Sur La7, le magazine d'information « DiMartedì » confirme sa présence dans le trio de tête avec 1,53 million de téléspectateurs et 9,8% de PDM, un score stable par rapport à la semaine précédente. La stratégie de Rai 1 semble donc porter ses fruits en capitalisant sur des valeurs sûres de la fiction nationale face à la concurrence des formats de divertissement de Canale 5.",
@@ -269,55 +208,55 @@
       "country_code": "FR",
       "country_name": "France",
       "flag": "🇫🇷",
-      "date": "2026-04-28",
+      "date": "2026-04-27",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+      "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "A PRIORI \\ ELLE N'AVAIT PAS LE PIED MARIN",
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "ALTER EGO",
           "program_fr": null,
-          "viewers": 2740000,
-          "share": 14.9,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "viewers": 3300000,
+          "share": 18.8,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
           "category": "fiction",
           "category_emoji": "🎬"
         },
         {
           "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 9",
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MEURTRES AU PARADIS \\ THERAPIE DE COUPLES",
           "program_fr": null,
-          "viewers": 2552000,
-          "share": 14.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
-          "category": "divertissement",
-          "category_emoji": "🎤"
+          "viewers": 2479000,
+          "share": 14.0,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
+          "category": "fiction",
+          "category_emoji": "🎬"
         },
         {
           "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "TCHERNOBYL, UNE TRAGEDIE SANS FIN \\ EPISODE 1 - PREMIER JOUR",
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "MARIES AU PREMIER REGARD",
           "program_fr": null,
-          "viewers": 1610000,
-          "share": 8.6,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "viewers": 1989000,
+          "share": 11.2,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
           "category": "info",
           "category_emoji": "📰"
         },
         {
           "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LOCKERBIE : ATTENTAT EN PLEIN VOL \\ EPISODE PILOTE",
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA FINE FLEUR",
           "program_fr": null,
-          "viewers": 1042000,
-          "share": 5.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "viewers": 1947000,
+          "share": 11.6,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
           "category": "fiction",
           "category_emoji": "🎬"
         },
@@ -325,21 +264,21 @@
           "rank": 5,
           "channel": "France 5",
           "channel_color": "purple",
-          "program": "ON VA DEGUSTER : RETROUVER LE GOUT DE LA TOMATE",
+          "program": "THALASSA, AVENTURES EXTREMES \\ ISLANDE : VOYAGE AU CENTRE DE LA MER",
           "program_fr": null,
-          "viewers": 687000,
-          "share": 3.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "viewers": 766000,
+          "share": 4.3,
+          "source_url": "https://www.ozap.com/actu/audiences-la-premiere-saison-de-la-serie-alter-ego-sest-elle-achevee-sur-une-note-positive-sur-tf1/654563",
           "category": "info",
           "category_emoji": "📰"
         }
       ],
-      "scraped_at": "2026-04-29T08:52:19.595715Z",
+      "scraped_at": "2026-04-29T09:45:26.401502Z",
       "status": "ok",
       "error": null,
-      "commentary": "La fiction de France 3, « A PRIORI », s'impose en tête des audiences avec 2,74 millions de téléspectateurs et 14,9% de part de marché, confirmant la solidité de la chaîne sur ce genre en prime time, déjà leader deux fois dans la semaine. TF1, avec « KOH-LANTA », se positionne en deuxième place avec 2,55 millions de curieux (14,2% PDM), un score honorable mais inférieur aux meilleures performances de ses programmes phares observées plus tôt dans la semaine. La fiction historique de France 2, « TCHERNOBYL, UNE TRAGEDIE SANS FIN », peine à mobiliser un large public, rassemblant 1,61 million de personnes (8,6% PDM), loin des succès de ses soirées de fiction précédentes. M6, avec une série américaine, enregistre 1,04 million de téléspectateurs (5,7% PDM), illustrant les difficultés de la chaîne à rivaliser avec les offres des groupes publics sur cette case. La programmation de France 5, axée sur le documentaire, se maintient à un niveau de niche avec 687 000 spectateurs (3,7% PDM).",
-      "commentary_date": "2026-04-28"
+      "commentary": "TF1 s'impose en tête des audiences ce 27 avril avec sa fiction \"Alter Ego\", réunissant 3,30 millions de téléspectateurs, soit 18,8% de part de marché. Ce résultat place la chaîne privée devant France 2 et sa série \"Meurtres au Paradis\", qui enregistre 2,48 millions de curieux (14,0% PDM). La performance de TF1 contraste avec les chiffres de la veille où France 3 dominait le prime avec \"Meurtres en Arbois\" (3,31 M, 20.4%). La compétition entre les chaînes historiques se joue sur la durée, M6 parvenant à se maintenir à la troisième place avec \"Mariés au premier regard\" (1,99 M, 11.2%), tandis que France 3 accuse une baisse significative par rapport à ses succès des jours précédents. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public de plus en plus complexes pour les chaînes généralistes.",
+      "commentary_date": "2026-04-27"
     }
   },
-  "last_updated": "2026-04-29T08:52:24.438515Z"
+  "last_updated": "2026-04-29T09:45:33.225539Z"
 }
