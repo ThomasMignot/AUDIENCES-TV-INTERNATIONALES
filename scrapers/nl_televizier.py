@@ -466,11 +466,17 @@ def run(target_date: Optional[date] = None) -> CountryReport:
         if not rows:
             raise RuntimeError("Aucun programme extrait de l'article")
 
-        # 6. Tri par viewers (pas de dédup par chaîne — Televizier ne donne
-        # que 2-4 programmes par jour, mieux vaut tous les afficher même si
-        # 2 sont sur la même chaîne).
-        ranked = sorted(rows, key=lambda x: x["viewers"], reverse=True)[:5]
-        log.info(f"Top retenu : {[(r['channel'], r['program'], r['viewers']) for r in ranked]}")
+        # 6. Tri par viewers + dédup par chaîne (1 prog max par chaîne,
+        # cohérent avec FR/DE/ES/IT). Le programme le mieux classé par
+        # chaîne est conservé, les autres sont écartés.
+        top_by_channel: dict[str, dict] = {}
+        for row in rows:
+            ch = row["channel"]
+            if ch not in top_by_channel or row["viewers"] > top_by_channel[ch]["viewers"]:
+                top_by_channel[ch] = row
+
+        ranked = sorted(top_by_channel.values(), key=lambda x: x["viewers"], reverse=True)[:5]
+        log.info(f"Top retenu (1 prog max/chaîne) : {[(r['channel'], r['program'], r['viewers']) for r in ranked]}")
 
         entries = [
             make_entry(
