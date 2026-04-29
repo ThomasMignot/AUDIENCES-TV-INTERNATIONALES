@@ -226,18 +226,19 @@ def _clean_program_for_wiki(program: str) -> str:
     return cleaned
 
 
-def wikipedia_url_for(program: str, country_code: str) -> str:
+def wikipedia_url_for(program: str, country_code: str, channel: Optional[str] = None) -> str:
     """
-    Génère un lien Wikipédia vers la fiche du programme dans la langue du pays.
-    Utilise l'API Wikipédia pour vérifier que la page existe vraiment :
-    - Si la page existe au titre deviné → URL directe
-    - Sinon, recherche Wikipédia → URL du 1er résultat trouvé
-    - Si rien ne marche → URL de la page de recherche (fallback)
+    Génère un lien d'information sur le programme. Stratégie :
+    1. Si la page Wikipédia existe au titre deviné → URL directe
+    2. Sinon, recherche Wikipédia → URL du 1er résultat
+    3. Sinon, recherche Google avec titre + chaîne pré-rempli (articles récents)
 
-    Le résultat est mis en cache (en mémoire) pour ne pas re-pinguer
-    la même URL plusieurs fois dans un même run.
+    Le canal `channel` est optionnel mais améliore la pertinence du fallback
+    Google (ex: "El Hormiguero Antena 3" donne de meilleurs résultats que
+    juste "El Hormiguero").
 
-    Wikipédia n'a pas de rate limit pour ce volume (25 pings/jour max).
+    Le nom reste `wikipedia_url` pour rétrocompatibilité même quand on
+    renvoie un lien Google — ça évite de casser le JSON existant.
     """
     if not program:
         return ""
@@ -246,7 +247,7 @@ def wikipedia_url_for(program: str, country_code: str) -> str:
     cleaned = _clean_program_for_wiki(program)
 
     if not cleaned:
-        return f"https://{lang}.wikipedia.org/wiki/Special:Search?search="
+        return _google_search_url(program, channel, country_code)
 
     # 1. Essai de la page directe (titre deviné)
     direct = _check_wiki_page_exists(cleaned, lang)
@@ -258,9 +259,58 @@ def wikipedia_url_for(program: str, country_code: str) -> str:
     if found:
         return found
 
-    # 3. Fallback : page de recherche avec titre prérempli
-    from urllib.parse import quote
-    return f"https://{lang}.wikipedia.org/wiki/Special:Search?search={quote(cleaned)}"
+    # 3. Fallback : recherche Google avec titre + chaîne
+    # Plus utile qu'une page de recherche Wikipédia vide.
+    return _google_search_url(cleaned, channel, country_code)
+
+
+def _google_search_url(program: str, channel: Optional[str], country_code: str) -> str:
+    """
+    Génère une URL de recherche Google pré-remplie avec le titre du
+    programme + la chaîne (si fournie). Force le pays si possible pour
+    avoir des résultats locaux pertinents.
+
+    Ex: ("El Hormiguero", "Antena 3", "ES")
+        → https://www.google.com/search?q=%22El+Hormiguero%22+Antena+3+audiences&gl=es
+    """
+    from urllib.parse import quote_plus
+
+    # Construire la requête : titre entre guillemets pour exact-match,
+    # + nom de chaîne (si fourni) pour désambiguïser, + "audiences"/"audience"
+    # pour cibler les articles éditoriaux.
+    parts = [f'"{program}"']
+    if channel:
+        parts.append(channel)
+    # Mot-clé "audience" dans la langue du pays
+    audience_keyword = {
+        "FR": "audiences", "BE": "audiences", "CA": "audiences",
+        "DE": "Quoten",
+        "ES": "audiencia",
+        "IT": "ascolti",
+        "NL": "kijkcijfers",
+        "PT": "audiência", "BR": "audiência",
+        "GB": "ratings", "US": "ratings", "AU": "ratings",
+        "DK": "seertal", "SE": "tittarsiffror",
+    }.get(country_code, "ratings")
+    parts.append(audience_keyword)
+    query = " ".join(parts)
+
+    # Force la région Google pour résultats locaux
+    gl_param = {
+        "FR": "fr", "BE": "be", "CA": "ca",
+        "DE": "de",
+        "ES": "es",
+        "IT": "it",
+        "NL": "nl",
+        "PT": "pt", "BR": "br",
+        "GB": "uk", "US": "us", "AU": "au",
+        "DK": "dk", "SE": "se",
+    }.get(country_code, "")
+
+    url = f"https://www.google.com/search?q={quote_plus(query)}"
+    if gl_param:
+        url += f"&gl={gl_param}"
+    return url
 
 
 # Cache mémoire pour éviter de re-pinguer la même URL plusieurs fois
@@ -368,8 +418,9 @@ def make_entry(
     from categories import categorize, category_badge
     cat = categorize(program)
     badge = category_badge(cat)
-    # Génération du lien Wikipédia. Si pas de country_code, on fallback sur EN.
-    wiki = wikipedia_url_for(program, country_code or "")
+    # Génération du lien (Wikipédia avec vérif API, fallback Google).
+    # On passe la chaîne pour que le fallback Google puisse désambiguïser.
+    wiki = wikipedia_url_for(program, country_code or "", channel=channel)
     return AudienceEntry(
         rank=rank,
         channel=channel,
@@ -429,7 +480,9 @@ def save_report(report: CountryReport) -> None:
     # country_code à make_entry.
     for entry in report.entries:
         if not entry.wikipedia_url:
-            entry.wikipedia_url = wikipedia_url_for(entry.program, report.country_code)
+            entry.wikipedia_url = wikipedia_url_for(
+                entry.program, report.country_code, channel=entry.channel
+            )
 
     archive_path = ARCHIVE_DIR / f"{report.date}.json"
     latest_path = DATA_DIR / "latest.json"
