@@ -1,618 +1,396 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Audiences TV · Dashboard</title>
-<style>
-:root {
-  --bg: #fdfcf8;
-  --surface: #ffffff;
-  --border: rgba(0,0,0,0.1);
-  --border-strong: rgba(0,0,0,0.2);
-  --text: #1a1a1a;
-  --text-muted: #666;
-  --text-subtle: #999;
-  --accent: #0c447c;
-  --accent-bg: #e6f1fb;
-  --success: #27500a;
-  --success-bg: #eaf3de;
-  --warning: #633806;
-  --warning-bg: #faeeda;
-  --danger: #791f1f;
-  --danger-bg: #fcebeb;
-  --radius-sm: 6px;
-  --radius-md: 8px;
-  --radius-lg: 12px;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #1a1a1a; --surface: #242424;
-    --border: rgba(255,255,255,0.1); --border-strong: rgba(255,255,255,0.2);
-    --text: #f0f0f0; --text-muted: #aaa; --text-subtle: #777;
-  }
-}
-* { box-sizing: border-box; }
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: var(--bg); color: var(--text);
-  margin: 0; padding: 2rem 1rem; line-height: 1.6;
-}
-.container { max-width: 1100px; margin: 0 auto; }
-h1 { margin: 0 0 4px; font-size: 22px; font-weight: 500; }
-h3 { margin: 0; font-size: 15px; font-weight: 500; }
-.header {
-  display: flex; justify-content: space-between; align-items: baseline;
-  flex-wrap: wrap; gap: 12px; margin-bottom: 1.5rem;
-}
-.subtitle { font-size: 13px; color: var(--text-muted); margin: 0; }
-.header-right { display: flex; gap: 8px; align-items: center; }
-input, button, select {
-  font-family: inherit; font-size: 13px;
-  background: var(--surface); color: var(--text);
-  border: 0.5px solid var(--border-strong);
-  border-radius: var(--radius-md); padding: 6px 10px;
-  height: 32px;
-}
-input[type="date"] { width: 150px; }
-button { cursor: pointer; transition: background 0.1s; }
-button:hover { background: var(--border); }
-button:active { transform: scale(0.98); }
-.toolbar {
-  display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap;
-}
-.toolbar input[type="text"] { flex: 1; min-width: 200px; }
-.tabs {
-  display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 1.5rem;
-  padding-bottom: 8px; border-bottom: 0.5px solid var(--border);
-}
-.tab {
-  padding: 5px 10px; font-size: 12px; cursor: pointer;
-  border: 0.5px solid var(--border-strong);
-  background: transparent; color: var(--text);
-  border-radius: var(--radius-md);
-}
-.tab.active {
-  background: var(--accent-bg); color: var(--accent);
-  border-color: var(--accent);
-}
-.tab-sep { width: 1px; background: var(--border); margin: 0 6px; }
-.status-pill {
-  font-size: 12px; padding: 4px 10px; border-radius: var(--radius-md);
-}
-.status-ok { background: var(--success-bg); color: var(--success); }
-.status-warn { background: var(--warning-bg); color: var(--warning); }
-.status-fail { background: var(--danger-bg); color: var(--danger); }
-.country-section { margin-bottom: 2rem; }
-.country-header {
-  display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
-  padding-bottom: 8px; margin-bottom: 10px;
-  border-bottom: 0.5px solid var(--border);
-}
-.country-source { font-size: 12px; color: var(--text-subtle); }
-.country-source a { color: var(--text-muted); text-decoration: none; }
-.country-source a:hover { text-decoration: underline; }
-.country-date {
-  font-size: 12px; color: var(--text-muted);
-  font-weight: 500;
-}
-.flag { font-size: 16px; margin-right: 6px; }
-.table {
-  width: 100%; border-collapse: collapse; font-size: 13px;
-  table-layout: fixed;
-}
-.table th {
-  text-align: left; font-weight: 500; font-size: 11px;
-  color: var(--text-muted); padding: 8px;
-  border-bottom: 0.5px solid var(--border);
-  text-transform: uppercase; letter-spacing: 0.3px;
-}
-.table td {
-  padding: 10px 8px; border-bottom: 0.5px solid var(--border);
-  vertical-align: middle;
-}
-.table tr:last-child td { border-bottom: none; }
-.rank { color: var(--text-subtle); font-variant-numeric: tabular-nums; font-size: 12px; }
-.channel-pill {
-  font-weight: 500; font-size: 11px; padding: 3px 8px;
-  border-radius: var(--radius-md); display: inline-block;
-  text-align: center; white-space: nowrap;
-}
-.program-name { font-weight: 500; }
-.program-fr {
-  font-size: 12px; color: var(--text-muted);
-  font-style: italic; margin-top: 2px;
-}
-.category-badge {
-  display: inline-block;
-  font-size: 11px;
-  color: var(--text-muted);
-  margin-left: 6px;
-  white-space: nowrap;
-  font-weight: 400;
-  opacity: 0.85;
-}
-.commentary {
-  font-size: 13px;
-  line-height: 1.55;
-  color: var(--text);
-  padding: 14px 16px;
-  background: var(--accent-bg);
-  border-left: 3px solid var(--accent);
-  border-radius: var(--radius-sm);
-  margin: 16px 16px 8px 16px;
-  font-style: normal;
-}
-.commentary::before {
-  content: "📝 Analyse — ";
-  font-weight: 600;
-  color: var(--accent);
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-.num-cell { text-align: right; font-variant-numeric: tabular-nums; }
-.share-cell { color: var(--text-muted); }
-.source-link {
-  font-size: 12px; color: var(--accent);
-  text-decoration: none; white-space: nowrap;
-}
-.source-link:hover { text-decoration: underline; }
-.empty-state {
-  padding: 2rem; text-align: center;
-  color: var(--text-subtle); font-size: 13px;
-  border: 0.5px dashed var(--border); border-radius: var(--radius-md);
-}
-.loading {
-  text-align: center; padding: 3rem;
-  color: var(--text-muted); font-size: 14px;
-}
-.press-modal {
-  margin-top: 1rem; padding: 1rem;
-  background: var(--surface); border: 0.5px solid var(--border-strong);
-  border-radius: var(--radius-lg);
-}
-.press-modal textarea {
-  width: 100%; min-height: 300px; padding: 12px;
-  font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 12px;
-  border: 0.5px solid var(--border); border-radius: var(--radius-md);
-  background: var(--bg); color: var(--text); resize: vertical;
-  line-height: 1.6;
-}
-.press-header {
-  display: flex; justify-content: space-between; align-items: center;
-  margin-bottom: 10px;
-}
-footer {
-  margin-top: 3rem; padding-top: 1rem; border-top: 0.5px solid var(--border);
-  font-size: 12px; color: var(--text-subtle); text-align: center;
-}
-</style>
-</head>
-<body>
+"""
+Utilitaires partagés par tous les scrapers.
+Format de données normalisé, helpers de parsing, I/O.
+"""
+from __future__ import annotations
 
-<div class="container">
+import json
+import re
+import unicodedata
+from dataclasses import asdict, dataclass, field
+from datetime import date, datetime, timedelta
+from pathlib import Path
+from typing import Optional
 
-<div class="header">
-  <div>
-    <h1>Audiences TV — prime time</h1>
-    <p class="subtitle" id="subtitle">Chargement…</p>
-  </div>
-  <div class="header-right">
-    <input type="date" id="date-picker" />
-    <div class="status-pill status-ok" id="status">● chargement</div>
-  </div>
-</div>
+ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "docs" / "data"
+ARCHIVE_DIR = DATA_DIR / "archive"
 
-<div class="toolbar">
-  <input type="text" id="search" placeholder="Rechercher une émission ou une chaîne…" />
-  <button id="btn-export">📥 Export CSV</button>
-  <button id="btn-press">📋 Mode presse</button>
-</div>
 
-<div class="tabs" id="tabs"></div>
+@dataclass
+class AudienceEntry:
+    """Une ligne d'audience : un programme sur une chaîne, un soir donné."""
+    rank: int                   # 1 à 5 (top 5 prime)
+    channel: str                # "ZDF", "TF1", "BBC One"...
+    channel_color: str          # clé de palette : blue, red, amber, green, teal, purple, pink, coral
+    program: str                # titre original
+    program_fr: Optional[str]   # titre français si adaptation officielle, sinon None
+    viewers: int                # nombre de téléspectateurs (entier)
+    share: float                # part de marché en % (ex: 17.8)
+    source_url: str             # lien direct vers l'article qui fournit ce chiffre
+    category: str = "autre"     # "fiction" | "divertissement" | "info" | "sport" | "autre"
+    category_emoji: str = "📺"  # emoji associé à la catégorie
+    wikipedia_url: str = ""     # lien Wikipédia dans la langue du pays (généré auto par make_entry)
 
-<div id="main-content">
-  <div class="loading">Chargement des données…</div>
-</div>
 
-<div id="press-modal" class="press-modal" style="display: none;"></div>
+@dataclass
+class CountryReport:
+    """Le top 5 d'un pays pour une date donnée."""
+    country_code: str           # "DE", "ES", "IT"...
+    country_name: str           # "Allemagne", "Espagne"...
+    flag: str                   # emoji drapeau
+    date: str                   # "2026-04-21" (date des diffusions, pas du scraping)
+    source_name: str            # "DWDL.de · Die Quoten"
+    source_url: str             # URL de la page source générale
+    entries: list[AudienceEntry]
+    scraped_at: str             # ISO timestamp du moment où on a scrapé
+    status: str                 # "ok" | "partial" | "failed"
+    error: Optional[str] = None
 
-<footer>
-  <p>Données collectées automatiquement chaque matin · <a href="https://github.com/ThomasMignot/AUDIENCES-TV-INTERNATIONALES" style="color: var(--text-muted);">code source</a></p>
-</footer>
 
-</div>
+# ─── Helpers de parsing ────────────────────────────────────────────
 
-<script>
-const COLOR_MAP = {
-  red:   { bg: "#FCEBEB", fg: "#791F1F" },
-  blue:  { bg: "#E6F1FB", fg: "#0C447C" },
-  amber: { bg: "#FAEEDA", fg: "#633806" },
-  green: { bg: "#EAF3DE", fg: "#27500A" },
-  teal:  { bg: "#E1F5EE", fg: "#085041" },
-  purple:{ bg: "#EEEDFE", fg: "#3C3489" },
-  pink:  { bg: "#FBEAF0", fg: "#72243E" },
-  coral: { bg: "#FAECE7", fg: "#712B13" },
-  gray:  { bg: "#F1EFE8", fg: "#444441" }
-};
+def parse_german_number(text: str) -> float:
+    """
+    Convertit un nombre au format allemand/français en float.
+    Ex: "3,42" → 3.42 · "1.234,56" → 1234.56
+    """
+    cleaned = text.strip().replace(" ", "").replace("\u00a0", "")
+    if "," in cleaned and "." in cleaned:
+        cleaned = cleaned.replace(".", "").replace(",", ".")
+    else:
+        cleaned = cleaned.replace(",", ".")
+    return float(cleaned)
 
-// Ordre d'affichage des pays : la France en PREMIER (pays de référence),
-// puis les autres par ordre géographique / d'importance médiatique.
-// Les pays non listés ici sont ajoutés à la fin dans l'ordre naturel.
-const COUNTRY_ORDER = [
-  "FR",  // 🇫🇷 Référence — toujours en premier
-  "DE",  // 🇩🇪
-  "ES",  // 🇪🇸
-  "IT",  // 🇮🇹
-  "NL",  // 🇳🇱
-  "BE",  // 🇧🇪
-  "PT",  // 🇵🇹
-  "GB",  // 🇬🇧
-  "US",  // 🇺🇸
-  "CA",  // 🇨🇦
-  "AU",  // 🇦🇺
-  "BR",  // 🇧🇷
-  "DK",  // 🇩🇰
-  "SE",  // 🇸🇪
-];
 
-function orderedCountryCodes(countries) {
-  if (!countries) return [];
-  const allCodes = Object.keys(countries);
-  // D'abord les pays dans COUNTRY_ORDER, dans l'ordre imposé,
-  // puis ajouter les pays restants à la fin (sécurité pour nouveaux pays)
-  const ordered = COUNTRY_ORDER.filter(c => allCodes.includes(c));
-  const rest = allCodes.filter(c => !COUNTRY_ORDER.includes(c));
-  return [...ordered, ...rest];
+def parse_viewers_millions(text: str) -> int:
+    """
+    "3,42 Millionen" → 3420000 · "1,05 Mio." → 1050000
+    Gère aussi "940.000" ou "940 000" → 940000
+    """
+    text = text.strip()
+    m = re.search(r"([\d.,]+)\s*(?:Mio|Million|M)", text, re.IGNORECASE)
+    if m:
+        return int(parse_german_number(m.group(1)) * 1_000_000)
+    m = re.search(r"([\d.,\s]+)", text)
+    if m:
+        raw = m.group(1).strip()
+        if "." in raw and "," not in raw and len(raw.replace(".", "")) >= 4:
+            return int(raw.replace(".", ""))
+        if " " in raw:
+            return int(raw.replace(" ", ""))
+        return int(parse_german_number(raw))
+    raise ValueError(f"Impossible de parser le nombre de téléspectateurs: {text!r}")
+
+
+def parse_share_percent(text: str) -> float:
+    """ "17,8 Prozent" → 17.8 · "22.3%" → 22.3 """
+    m = re.search(r"([\d.,]+)\s*(?:%|Prozent)", text)
+    if not m:
+        raise ValueError(f"Impossible de parser la PDM: {text!r}")
+    return parse_german_number(m.group(1))
+
+
+# ─── Couleurs des chaînes ──────────────────────────────────────────
+
+# Palette pastel cohérente, reprise par le dashboard
+CHANNEL_COLORS: dict[str, str] = {
+    # France
+    "TF1": "blue", "France 2": "red", "France 3": "amber",
+    "France 4": "teal", "France 5": "purple",
+    "M6": "coral", "W9": "pink", "6ter": "pink",
+    "Arte": "purple", "Canal+": "green", "Canal +": "green",
+    "TMC": "blue", "TFX": "coral", "TF1 Series Film": "blue",
+    "TF1 Séries Films": "blue",
+    "C8": "amber", "CStar": "teal", "CSTAR": "teal",
+    "Gulli": "pink", "RMC Story": "coral", "RMC Découverte": "amber",
+    "RMC Decouverte": "amber", "RMC Life": "teal",
+    "NRJ 12": "red", "NRJ12": "red",
+    "TV Breizh": "teal", "Paris Première": "purple", "Paris Premiere": "purple",
+    "Chérie 25": "pink", "Cherie 25": "pink",
+    "LCI": "blue", "Franceinfo": "blue", "BFM TV": "red", "CNews": "blue",
+    # Allemagne
+    "ZDF": "amber", "Das Erste": "blue", "ARD": "blue",
+    "RTL": "red", "ProSieben": "pink", "Sat.1": "green",
+    "SAT.1": "green", "Kabel Eins": "teal", "RTL2": "coral", "RTLzwei": "coral",
+    "VOX": "purple",
+    # Espagne
+    "La 1": "red", "TVE": "red", "Antena 3": "amber", "A3": "amber",
+    "Telecinco": "blue", "T5": "blue", "La Sexta": "green",
+    "Cuatro": "purple",
+    # Italie
+    "Rai 1": "blue", "Rai 2": "teal", "Rai 3": "coral",
+    "Canale 5": "red", "Italia 1": "amber", "Rete 4": "purple",
+    "La7": "green",
+    # UK
+    "BBC One": "red", "BBC Two": "amber", "ITV1": "blue", "ITV": "blue",
+    "Channel 4": "teal", "Channel 5": "purple",
+    # USA
+    "CBS": "blue", "NBC": "pink", "ABC": "amber", "Fox": "coral",
+    "CW": "green", "The CW": "green",
+    # Pays-Bas
+    "NPO 1": "amber", "NPO 2": "teal", "NPO 3": "coral",
+    "RTL 4": "red", "SBS 6": "blue", "Net 5": "purple",
+    # Portugal
+    "SIC": "red", "TVI": "blue", "RTP1": "amber", "RTP2": "teal",
+    "CMTV": "coral",
+    # Australie
+    "Seven": "red", "Nine": "blue", "Ten": "amber",
+    "SBS": "purple",
 }
 
-let state = {
-  data: null,         // contenu de latest.json ou archive/YYYY-MM-DD.json
-  view: "all",        // "all" | "champions" | code pays ("DE", "ES", ...)
-  search: "",
-  currentDate: null,  // date actuellement affichée
-  maxDate: null       // date la plus récente disponible (celle de latest.json au chargement)
-};
 
-// ─── Loading ─────────────────────────────────────────────────────
+def color_for(channel: str) -> str:
+    """Retourne la couleur du pill pour une chaîne. Fallback 'gray' si inconnue."""
+    return CHANNEL_COLORS.get(channel.strip(), "gray")
 
-async function loadData(isoDate) {
-  // Si on demande la date la plus récente (ou aucune date), on charge
-  // latest.json qui contient les commentaires Gemini. Sinon on va dans
-  // les archives (qui peuvent ne pas avoir tous les commentaires).
-  const useLatest = !isoDate || (state.maxDate && isoDate === state.maxDate);
-  const url = useLatest ? `./data/latest.json` : `./data/archive/${isoDate}.json`;
-  try {
-    const r = await fetch(url + "?t=" + Date.now());
-    if (!r.ok) throw new Error("not found");
-    return await r.json();
-  } catch (e) {
-    return null;
-  }
+
+# ─── Liens Wikipédia par pays ──────────────────────────────────────
+
+# Code pays → code langue Wikipédia (= sous-domaine wikipedia.org)
+COUNTRY_TO_WIKI_LANG: dict[str, str] = {
+    "FR": "fr",
+    "DE": "de",
+    "ES": "es",
+    "IT": "it",
+    "NL": "nl",
+    "BE": "fr",   # Belgique francophone par défaut (à raffiner si besoin)
+    "PT": "pt",
+    "GB": "en",
+    "US": "en",
+    "CA": "en",   # Canada anglophone par défaut
+    "AU": "en",
+    "BR": "pt",
+    "DK": "da",
+    "SE": "sv",
 }
 
-// ─── Formatters ──────────────────────────────────────────────────
+# Mots qu'on enlève en début/fin de titre avant de générer l'URL
+# (ex: "FILM", "SERIE", "TELEFILM" qui viennent d'Ozap et ne sont pas
+# dans les vrais titres des programmes)
+TITLE_NOISE_SUFFIXES = (
+    "FILM", "SERIE", "TELEFILM", "MAGAZINE", "DOCUMENTAIRE",
+    "JEU", "DIVERTISSEMENT", "HUMOUR", "MUSIQUE", "SPORT",
+    "TALK-SHOW", "JOURNAL TELEVISE", "INFORMATION", "AUTRES",
+)
 
-function fmtViewers(n) {
-  if (n >= 1_000_000) return (n / 1_000_000).toFixed(2).replace('.', ',') + ' M';
-  return Math.round(n / 1000) + ' K';
-}
 
-function fmtPDM(n) {
-  return n.toFixed(1).replace('.', ',') + ' %';
-}
+def _clean_program_for_wiki(program: str) -> str:
+    """
+    Nettoie un nom de programme avant d'en faire une URL Wikipédia.
+    - Retire les suffixes parasites (FILM, SERIE, ...)
+    - Coupe au premier ":" ou "<" (sous-titres / épisodes)
+      Ex: "EL HORMIGUERO <BAD GYAL>" → "EL HORMIGUERO"
+          "LA ISLA DE LAS TENTACIONES:EXPRESS" → "LA ISLA DE LAS TENTACIONES"
+          "Tatort: Gegen die Zeit" → "Tatort"
+    - Met en title case si le titre est tout en majuscules (cas Ozap, Barlovento)
+    """
+    if not program:
+        return ""
 
-function fmtDateFR(iso) {
-  const d = new Date(iso + "T00:00:00");
-  const days = ['dimanche', 'lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi'];
-  const months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
-  return `${days[d.getDay()]} ${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
-}
+    cleaned = program.strip()
 
-function fmtDateShort(iso) {
-  const d = new Date(iso + "T00:00:00");
-  const days = ['dim.', 'lun.', 'mar.', 'mer.', 'jeu.', 'ven.', 'sam.'];
-  const months = ['janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
-  return `${days[d.getDay()]} ${d.getDate()} ${months[d.getMonth()]}`;
-}
+    # Retirer les suffixes parasites en fin (ex: "UN P'TIT TRUC EN PLUS FILM")
+    upper = cleaned.upper()
+    for suffix in sorted(TITLE_NOISE_SUFFIXES, key=len, reverse=True):
+        suffix_with_space = " " + suffix
+        if upper.endswith(suffix_with_space):
+            cleaned = cleaned[: -len(suffix_with_space)].strip()
+            upper = cleaned.upper()
+            break
 
-// ─── Rendering ───────────────────────────────────────────────────
+    # Couper au premier "<" (sous-titres entre chevrons type Barlovento)
+    if "<" in cleaned:
+        cleaned = cleaned.split("<", 1)[0].strip()
 
-function renderTabs() {
-  if (!state.data || !state.data.countries) return;
-  const codes = orderedCountryCodes(state.data.countries);
-  const tabs = document.getElementById('tabs');
-  const btns = [
-    `<button class="tab ${state.view === 'all' ? 'active' : ''}" data-view="all">Tous les pays</button>`,
-    `<button class="tab ${state.view === 'champions' ? 'active' : ''}" data-view="champions">🏆 Champions du jour</button>`,
-    `<span class="tab-sep"></span>`,
-  ];
-  codes.forEach(code => {
-    const c = state.data.countries[code];
-    btns.push(`<button class="tab ${state.view === code ? 'active' : ''}" data-view="${code}">${c.flag} ${code}</button>`);
-  });
-  tabs.innerHTML = btns.join('');
-  tabs.querySelectorAll('.tab').forEach(btn => {
-    btn.addEventListener('click', () => {
-      state.view = btn.dataset.view;
-      render();
-    });
-  });
-}
+    # Couper au premier ":" suivi d'espace ou texte (sous-titres)
+    # Garder "N.C.I.S." mais couper "Tatort: Gegen die Zeit"
+    m = re.search(r":\s*[A-Za-zÀ-ÿ]", cleaned)
+    if m and m.start() > 1:  # >1 pour ne pas couper "N:foo"
+        cleaned = cleaned[: m.start()].strip()
 
-function matchSearch(entry, q) {
-  if (!q) return true;
-  const lower = q.toLowerCase();
-  return entry.program.toLowerCase().includes(lower) ||
-         (entry.program_fr && entry.program_fr.toLowerCase().includes(lower)) ||
-         entry.channel.toLowerCase().includes(lower);
-}
+    # Couper aux séparateurs "/" et " - " et " – " (variantes éditoriales)
+    for sep in [" / ", " - ", " – ", " — "]:
+        if sep in cleaned:
+            cleaned = cleaned.split(sep, 1)[0].strip()
 
-function renderEntryRow(entry, ctx) {
-  const c = COLOR_MAP[entry.channel_color] || COLOR_MAP.gray;
-  const frLine = entry.program_fr ? `<div class="program-fr">↳ ${entry.program_fr}</div>` : '';
-  const categoryBadge = entry.category && entry.category !== 'autre'
-    ? `<span class="category-badge">${entry.category_emoji || '📺'} ${entry.category}</span>`
-    : '';
-  const prefix = ctx === 'champions'
-    ? `<td class="rank">${entry._globalRank <= 3 ? ['🥇','🥈','🥉'][entry._globalRank - 1] : entry._globalRank}</td><td><span style="font-size:13px">${entry._flag}</span></td>`
-    : `<td class="rank">${entry.rank}</td>`;
-  return `<tr>
-    ${prefix}
-    <td><span class="channel-pill" style="background:${c.bg}; color:${c.fg};">${entry.channel}</span></td>
-    <td><div class="program-name">${entry.program}${categoryBadge}</div>${frLine}</td>
-    <td class="num-cell">${fmtViewers(entry.viewers)}</td>
-    <td class="num-cell share-cell">${fmtPDM(entry.share)}</td>
-    <td class="num-cell"><a class="source-link" href="${entry.source_url}" target="_blank" rel="noopener">voir →</a></td>
-  </tr>`;
-}
+    # Si tout en majuscules (cas Ozap, Barlovento), title case
+    if cleaned.isupper() and len(cleaned) > 3:
+        # Title case basique en respectant les apostrophes : UN P'TIT → Un P'tit
+        cleaned = " ".join(
+            w.capitalize() if "'" not in w else
+            "'".join(part.capitalize() for part in w.split("'"))
+            for w in cleaned.split()
+        )
 
-function renderCountrySection(code) {
-  const c = state.data.countries[code];
-  // Date de ce pays (peut différer de la date principale de latest.json)
-  const countryDate = c.date ? `<span class="country-date">· ${fmtDateShort(c.date)}</span>` : '';
-  if (c.status === 'failed') {
-    return `<div class="country-section">
-      <div class="country-header">
-        <h3><span class="flag">${c.flag}</span>${c.country_name}</h3>
-        ${countryDate}
-        <span class="country-source">source : ${c.source_name}</span>
-      </div>
-      <div class="empty-state">⚠ Scraping échoué : ${c.error || 'erreur inconnue'}</div>
-    </div>`;
-  }
-  const filtered = c.entries.filter(e => matchSearch(e, state.search));
-  if (filtered.length === 0 && state.search) return '';
-  const rows = filtered.map(e => renderEntryRow(e, 'country')).join('');
-  const commentaryBlock = c.commentary
-    ? `<div class="commentary">${c.commentary}</div>`
-    : '';
-  return `<div class="country-section">
-    <div class="country-header">
-      <h3><span class="flag">${c.flag}</span>${c.country_name}</h3>
-      ${countryDate}
-      <span class="country-source">source : <a href="${c.source_url}" target="_blank" rel="noopener">${c.source_name}</a></span>
-    </div>
-    <table class="table">
-      <colgroup>
-        <col style="width:32px"><col style="width:80px"><col>
-        <col style="width:90px"><col style="width:70px"><col style="width:58px">
-      </colgroup>
-      <thead><tr>
-        <th>#</th><th>Chaîne</th><th>Émission</th>
-        <th style="text-align:right">Téléspec.</th>
-        <th style="text-align:right">PDM</th>
-        <th style="text-align:right">Source</th>
-      </tr></thead>
-      <tbody>${rows || '<tr><td colspan="6" class="empty-state">Aucun résultat</td></tr>'}</tbody>
-    </table>
-    ${commentaryBlock}
-  </div>`;
-}
+    return cleaned
 
-function renderChampions() {
-  const all = [];
-  orderedCountryCodes(state.data.countries).forEach(code => {
-    const c = state.data.countries[code];
-    if (c.status === 'failed') return;
-    c.entries.forEach(e => {
-      if (matchSearch(e, state.search)) {
-        all.push({ ...e, _flag: c.flag, _country: code });
-      }
-    });
-  });
-  all.sort((a, b) => b.viewers - a.viewers);
-  const top15 = all.slice(0, 15).map((e, i) => ({ ...e, _globalRank: i + 1 }));
-  if (top15.length === 0) {
-    return `<div class="empty-state">Aucun résultat pour cette recherche.</div>`;
-  }
-  const rows = top15.map(e => renderEntryRow(e, 'champions')).join('');
-  return `<div class="country-section">
-    <div class="country-header">
-      <h3>🏆 Top 15 mondial toutes chaînes confondues</h3>
-      <span class="country-source">classement par nombre de téléspectateurs</span>
-    </div>
-    <table class="table">
-      <colgroup>
-        <col style="width:36px"><col style="width:30px"><col style="width:80px"><col>
-        <col style="width:90px"><col style="width:70px"><col style="width:58px">
-      </colgroup>
-      <thead><tr>
-        <th>#</th><th></th><th>Chaîne</th><th>Émission</th>
-        <th style="text-align:right">Téléspec.</th>
-        <th style="text-align:right">PDM</th>
-        <th style="text-align:right">Source</th>
-      </tr></thead>
-      <tbody>${rows}</tbody>
-    </table>
-  </div>`;
-}
 
-function render() {
-  const main = document.getElementById('main-content');
-  if (!state.data) {
-    main.innerHTML = `<div class="empty-state">Aucune donnée disponible pour cette date.</div>`;
-    return;
-  }
-  document.getElementById('press-modal').style.display = 'none';
-  if (state.view === 'champions') {
-    main.innerHTML = renderChampions();
-  } else if (state.view === 'all') {
-    const codes = orderedCountryCodes(state.data.countries);
-    const html = codes.map(renderCountrySection).filter(Boolean).join('');
-    main.innerHTML = html || '<div class="empty-state">Aucun résultat pour cette recherche.</div>';
-  } else {
-    main.innerHTML = renderCountrySection(state.view);
-  }
-}
+def wikipedia_url_for(program: str, country_code: str) -> str:
+    """
+    Génère un lien Wikipédia vers la fiche du programme dans la langue du pays.
+    Si le titre n'est pas exploitable, renvoie une URL de recherche.
 
-function updateHeader() {
-  if (!state.data) {
-    document.getElementById('subtitle').textContent = 'Aucune donnée';
-    document.getElementById('status').textContent = '● pas de données';
-    document.getElementById('status').className = 'status-pill status-fail';
-    return;
-  }
-  document.getElementById('subtitle').textContent = `Diffusions du ${fmtDateFR(state.data.date)}`;
-  const countries = Object.values(state.data.countries);
-  const ok = countries.filter(c => c.status === 'ok').length;
-  const partial = countries.filter(c => c.status === 'partial').length;
-  const failed = countries.filter(c => c.status === 'failed').length;
-  const total = countries.length;
-  const status = document.getElementById('status');
-  if (failed === 0 && partial === 0) {
-    status.textContent = `● ${ok}/${total} sources`;
-    status.className = 'status-pill status-ok';
-  } else if (failed === 0) {
-    status.textContent = `● ${ok}/${total} complètes`;
-    status.className = 'status-pill status-warn';
-  } else {
-    status.textContent = `⚠ ${failed}/${total} en échec`;
-    status.className = 'status-pill status-fail';
-  }
-}
+    Exemples :
+      ("Un P'tit Truc en Plus", "FR") → https://fr.wikipedia.org/wiki/Un_P%27tit_truc_en_plus
+      ("Tatort", "DE") → https://de.wikipedia.org/wiki/Tatort
+      ("El Hormiguero", "ES") → https://es.wikipedia.org/wiki/El_Hormiguero
+    """
+    if not program:
+        return ""
 
-// ─── Exports ─────────────────────────────────────────────────────
+    lang = COUNTRY_TO_WIKI_LANG.get(country_code, "en")
+    cleaned = _clean_program_for_wiki(program)
 
-function exportCSV() {
-  if (!state.data) return;
-  const rows = [['Date', 'Pays', 'Rang', 'Chaine', 'Emission', 'Titre FR', 'Categorie', 'Telespectateurs', 'PDM (%)', 'Source URL']];
-  orderedCountryCodes(state.data.countries).forEach(code => {
-    const c = state.data.countries[code];
-    if (c.status === 'failed') return;
-    c.entries.forEach(e => {
-      rows.push([
-        c.date || state.data.date, c.country_name, e.rank, e.channel, e.program,
-        e.program_fr || '', e.category || 'autre',
-        e.viewers, e.share.toFixed(1).replace('.', ','), e.source_url
-      ]);
-    });
-  });
-  const csv = rows.map(r => r.map(cell => {
-    const s = String(cell);
-    return /[",;\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
-  }).join(';')).join('\n');
-  const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `audiences_${state.data.date}.csv`;
-  a.click();
-  URL.revokeObjectURL(url);
-}
+    if not cleaned:
+        return f"https://{lang}.wikipedia.org/wiki/Special:Search?search="
 
-function generatePress() {
-  if (!state.data) return;
-  let txt = `AUDIENCES TV — DIFFUSIONS DU ${fmtDateFR(state.data.date).toUpperCase()}\n${'='.repeat(60)}\n\n`;
-  orderedCountryCodes(state.data.countries).forEach(code => {
-    const c = state.data.countries[code];
-    if (c.status === 'failed') {
-      txt += `${c.flag}  ${c.country_name.toUpperCase()} — données indisponibles\n\n`;
-      return;
-    }
-    const dateLine = c.date ? ` (${fmtDateShort(c.date)})` : '';
-    txt += `${c.flag}  ${c.country_name.toUpperCase()}${dateLine}\nSource : ${c.source_name}\n${'-'.repeat(60)}\n`;
-    if (c.commentary) {
-      txt += `\n${c.commentary}\n\n`;
-    }
-    c.entries.forEach(e => {
-      const frPart = e.program_fr ? ` (${e.program_fr})` : '';
-      const catPart = e.category_emoji && e.category !== 'autre' ? ` ${e.category_emoji}` : '';
-      txt += `${e.rank}. ${e.channel} — ${e.program}${catPart}${frPart}\n`;
-      txt += `   ${fmtViewers(e.viewers)} téléspectateurs · ${fmtPDM(e.share)} PDM\n`;
-    });
-    txt += '\n';
-  });
-  const modal = document.getElementById('press-modal');
-  modal.style.display = 'block';
-  modal.innerHTML = `
-    <div class="press-header">
-      <h3>Mode presse — texte prêt à copier</h3>
-      <div style="display:flex; gap:6px;">
-        <button id="press-copy">📋 Copier</button>
-        <button id="press-close">✕ Fermer</button>
-      </div>
-    </div>
-    <textarea id="press-text" readonly>${txt}</textarea>
-  `;
-  document.getElementById('press-copy').onclick = () => {
-    navigator.clipboard.writeText(document.getElementById('press-text').value);
-    document.getElementById('press-copy').textContent = '✓ Copié';
-  };
-  document.getElementById('press-close').onclick = () => {
-    modal.style.display = 'none';
-  };
-  modal.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
+    # Wikipédia utilise les underscores comme séparateurs et accepte
+    # les caractères accentués dans les URLs (encodés en UTF-8).
+    # On laisse `requests`-style URL encoding faire son boulot via quote.
+    from urllib.parse import quote
+    title_url = quote(cleaned.replace(" ", "_"), safe="")
+    return f"https://{lang}.wikipedia.org/wiki/{title_url}"
 
-// ─── Event listeners ─────────────────────────────────────────────
 
-document.getElementById('search').addEventListener('input', e => {
-  state.search = e.target.value;
-  render();
-});
-document.getElementById('date-picker').addEventListener('change', async e => {
-  const iso = e.target.value;
-  // Garde-fou : ne pas charger une date postérieure à la date MAX disponible
-  // (on compare à state.maxDate et PAS à state.data.date, qui change quand
-  // on navigue dans le passé).
-  if (state.maxDate && iso > state.maxDate) {
-    e.target.value = state.maxDate;
-    return;
-  }
-  state.data = await loadData(iso);
-  state.currentDate = iso;
-  updateHeader();
-  renderTabs();
-  render();
-});
-document.getElementById('btn-export').addEventListener('click', exportCSV);
-document.getElementById('btn-press').addEventListener('click', generatePress);
+def make_entry(
+    rank: int, channel: str, program: str, viewers: int, share: float,
+    source_url: str, program_fr: Optional[str] = None,
+    country_code: Optional[str] = None,
+) -> AudienceEntry:
+    """
+    Crée une AudienceEntry avec catégorisation automatique et lien Wikipédia.
 
-// ─── Init ────────────────────────────────────────────────────────
+    `country_code` est optionnel pour rétrocompatibilité, mais le passer
+    génère un lien Wikipédia dans la langue du pays (sinon fallback en).
+    """
+    # Import local pour éviter import circulaire au chargement du module
+    from categories import categorize, category_badge
+    cat = categorize(program)
+    badge = category_badge(cat)
+    # Génération du lien Wikipédia. Si pas de country_code, on fallback sur EN.
+    wiki = wikipedia_url_for(program, country_code or "")
+    return AudienceEntry(
+        rank=rank,
+        channel=channel,
+        channel_color=color_for(channel),
+        program=program,
+        program_fr=program_fr,
+        viewers=viewers,
+        share=share,
+        source_url=source_url,
+        category=cat,
+        category_emoji=badge["emoji"],
+        wikipedia_url=wiki,
+    )
 
-(async function init() {
-  state.data = await loadData();
-  const picker = document.getElementById('date-picker');
-  if (state.data) {
-    state.currentDate = state.data.date;
-    state.maxDate = state.data.date;  // date max = celle de latest.json
-    picker.value = state.data.date;
-    // Borner le date picker : on ne peut pas sélectionner une date
-    // postérieure à la dernière date disponible.
-    picker.max = state.data.date;
-  } else {
-    const today = new Date().toISOString().slice(0, 10);
-    state.maxDate = today;
-    picker.value = today;
-    picker.max = today;
-  }
-  updateHeader();
-  renderTabs();
-  render();
-})();
-</script>
 
-</body>
-</html>
+# ─── Champs à PRÉSERVER lors de la réécriture d'un pays ──────────
+# Ces champs sont ajoutés par commentary.py APRÈS le scraping.
+# Les scrapers ne doivent pas les écraser quand ils sauvegardent.
+PRESERVED_FIELDS = ("commentary", "commentary_date")
+
+
+def _merge_preserve(old_entry: dict, new_entry: dict) -> dict:
+    """
+    Retourne new_entry enrichi des champs préservés qu'on trouvait dans old_entry.
+    Utilisé pour ne pas effacer les commentaires générés par commentary.py
+    quand un scraper réécrit son entrée dans latest.json / archive/*.json.
+    """
+    merged = dict(new_entry)
+    for field in PRESERVED_FIELDS:
+        if field in old_entry and field not in merged:
+            merged[field] = old_entry[field]
+    return merged
+
+
+# ─── I/O sur disque ────────────────────────────────────────────────
+
+def save_report(report: CountryReport) -> None:
+    """
+    Enregistre le rapport d'un pays.
+    1. Met à jour data/archive/YYYY-MM-DD.json (le jour des diffusions de ce pays)
+    2. Met à jour data/latest.json qui AGRÈGE TOUS les pays scrapés récemment.
+
+    IMPORTANT : latest.json n'est JAMAIS écrasé par l'archive d'un seul jour.
+    On merge systématiquement l'entrée de ce pays dans le latest existant,
+    en PRÉSERVANT les autres pays déjà présents ET les champs commentary /
+    commentary_date qui auraient été ajoutés par commentary.py.
+
+    BONUS : si une entrée n'a pas de wikipedia_url (ancien format ou scraper
+    qui ne passe pas country_code), on génère le lien à la sauvegarde.
+    Ça permet de migrer les anciennes entrées en douceur.
+    """
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Migration en douceur : compléter wikipedia_url manquant pour les
+    # scrapers qui n'auraient pas encore été mis à jour pour passer
+    # country_code à make_entry.
+    for entry in report.entries:
+        if not entry.wikipedia_url:
+            entry.wikipedia_url = wikipedia_url_for(entry.program, report.country_code)
+
+    archive_path = ARCHIVE_DIR / f"{report.date}.json"
+    latest_path = DATA_DIR / "latest.json"
+
+    # ── 1. Mettre à jour l'archive du jour concerné ──────────────
+    existing_archive: dict = {}
+    if archive_path.exists():
+        try:
+            existing_archive = json.loads(archive_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, ValueError):
+            existing_archive = {}
+
+    if "countries" not in existing_archive:
+        existing_archive = {"date": report.date, "countries": {}}
+
+    old_archive_entry = existing_archive["countries"].get(report.country_code, {})
+    new_archive_entry = _merge_preserve(old_archive_entry, _report_to_dict(report))
+    existing_archive["countries"][report.country_code] = new_archive_entry
+    existing_archive["last_updated"] = datetime.utcnow().isoformat() + "Z"
+
+    archive_path.write_text(
+        json.dumps(existing_archive, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+    # ── 2. Mettre à jour latest.json en PRÉSERVANT les autres pays ──
+    existing_latest: dict = {"countries": {}}
+    if latest_path.exists():
+        try:
+            loaded = json.loads(latest_path.read_text(encoding="utf-8"))
+            if isinstance(loaded, dict) and "countries" in loaded:
+                existing_latest = loaded
+        except (json.JSONDecodeError, ValueError):
+            pass
+
+    if "countries" not in existing_latest:
+        existing_latest["countries"] = {}
+
+    old_latest_entry = existing_latest["countries"].get(report.country_code, {})
+    new_latest_entry = _merge_preserve(old_latest_entry, _report_to_dict(report))
+    existing_latest["countries"][report.country_code] = new_latest_entry
+    existing_latest["last_updated"] = datetime.utcnow().isoformat() + "Z"
+
+    all_dates = [
+        c.get("date") for c in existing_latest["countries"].values()
+        if c.get("date")
+    ]
+    if all_dates:
+        existing_latest["date"] = max(all_dates)
+
+    latest_path.write_text(
+        json.dumps(existing_latest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"✓ {report.country_code} — {len(report.entries)} entrées sauvegardées pour {report.date}")
+
+
+def _report_to_dict(report: CountryReport) -> dict:
+    """Sérialise un CountryReport en dict JSON-compatible."""
+    d = asdict(report)
+    return d
+
+
+def yesterday() -> date:
+    """Date de la veille (données de la veille, scrapées aujourd'hui)."""
+    return date.today() - timedelta(days=1)
