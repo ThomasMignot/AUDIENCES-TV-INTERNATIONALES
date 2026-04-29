@@ -229,12 +229,15 @@ def _clean_program_for_wiki(program: str) -> str:
 def wikipedia_url_for(program: str, country_code: str) -> str:
     """
     Génère un lien Wikipédia vers la fiche du programme dans la langue du pays.
-    Si le titre n'est pas exploitable, renvoie une URL de recherche.
+    Utilise l'API Wikipédia pour vérifier que la page existe vraiment :
+    - Si la page existe au titre deviné → URL directe
+    - Sinon, recherche Wikipédia → URL du 1er résultat trouvé
+    - Si rien ne marche → URL de la page de recherche (fallback)
 
-    Exemples :
-      ("Un P'tit Truc en Plus", "FR") → https://fr.wikipedia.org/wiki/Un_P%27tit_truc_en_plus
-      ("Tatort", "DE") → https://de.wikipedia.org/wiki/Tatort
-      ("El Hormiguero", "ES") → https://es.wikipedia.org/wiki/El_Hormiguero
+    Le résultat est mis en cache (en mémoire) pour ne pas re-pinguer
+    la même URL plusieurs fois dans un même run.
+
+    Wikipédia n'a pas de rate limit pour ce volume (25 pings/jour max).
     """
     if not program:
         return ""
@@ -245,12 +248,109 @@ def wikipedia_url_for(program: str, country_code: str) -> str:
     if not cleaned:
         return f"https://{lang}.wikipedia.org/wiki/Special:Search?search="
 
-    # Wikipédia utilise les underscores comme séparateurs et accepte
-    # les caractères accentués dans les URLs (encodés en UTF-8).
-    # On laisse `requests`-style URL encoding faire son boulot via quote.
+    # 1. Essai de la page directe (titre deviné)
+    direct = _check_wiki_page_exists(cleaned, lang)
+    if direct:
+        return direct
+
+    # 2. Recherche Wikipédia → 1er résultat
+    found = _search_wiki(cleaned, lang)
+    if found:
+        return found
+
+    # 3. Fallback : page de recherche avec titre prérempli
     from urllib.parse import quote
-    title_url = quote(cleaned.replace(" ", "_"), safe="")
-    return f"https://{lang}.wikipedia.org/wiki/{title_url}"
+    return f"https://{lang}.wikipedia.org/wiki/Special:Search?search={quote(cleaned)}"
+
+
+# Cache mémoire pour éviter de re-pinguer la même URL plusieurs fois
+# pendant un run (6 cron/jour × 5 pays × 5 programmes pourraient générer
+# beaucoup de requêtes redondantes sinon).
+_WIKI_CACHE: dict[tuple[str, str], Optional[str]] = {}
+
+
+def _check_wiki_page_exists(title: str, lang: str) -> Optional[str]:
+    """
+    Vérifie via l'API REST de Wikipédia si une page existe au titre exact.
+    Retourne l'URL canonique si elle existe, None sinon.
+
+    API utilisée : /api/rest_v1/page/summary/{title} qui renvoie 200 si
+    la page existe (ou redirige vers la page canonique), 404 sinon.
+    """
+    cache_key = ("exists", lang, title)
+    if cache_key in _WIKI_CACHE:
+        return _WIKI_CACHE[cache_key]
+
+    from urllib.parse import quote
+    import requests as _requests
+
+    url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{quote(title.replace(' ', '_'))}"
+    try:
+        r = _requests.get(
+            url,
+            headers={"User-Agent": "AudiencesTV-Dashboard/1.0 (veille personnelle)"},
+            timeout=5,
+        )
+        if r.status_code == 200:
+            data = r.json()
+            # Wikipédia peut renvoyer une page de désambiguïsation ("disambiguation")
+            # ou une redirection. On les accepte toutes : c'est mieux qu'une 404.
+            page_url = data.get("content_urls", {}).get("desktop", {}).get("page")
+            if page_url:
+                _WIKI_CACHE[cache_key] = page_url
+                return page_url
+            # Fallback : URL construite depuis le titre canonique retourné
+            canonical = data.get("title", title).replace(" ", "_")
+            page_url = f"https://{lang}.wikipedia.org/wiki/{quote(canonical)}"
+            _WIKI_CACHE[cache_key] = page_url
+            return page_url
+        # 404 : la page n'existe pas
+        _WIKI_CACHE[cache_key] = None
+        return None
+    except Exception:
+        # En cas d'erreur réseau, on ne cache pas (on retentera plus tard)
+        return None
+
+
+def _search_wiki(query: str, lang: str) -> Optional[str]:
+    """
+    Cherche un terme sur Wikipédia et retourne l'URL du 1er résultat.
+    Utilise l'API search qui est bien plus tolérante que les URL directes.
+    """
+    cache_key = ("search", lang, query)
+    if cache_key in _WIKI_CACHE:
+        return _WIKI_CACHE[cache_key]
+
+    from urllib.parse import quote
+    import requests as _requests
+
+    api_url = f"https://{lang}.wikipedia.org/w/api.php"
+    try:
+        r = _requests.get(
+            api_url,
+            params={
+                "action": "query",
+                "list": "search",
+                "srsearch": query,
+                "srlimit": 1,
+                "format": "json",
+            },
+            headers={"User-Agent": "AudiencesTV-Dashboard/1.0 (veille personnelle)"},
+            timeout=5,
+        )
+        if r.status_code == 200:
+            data = r.json()
+            results = data.get("query", {}).get("search", [])
+            if results:
+                title = results[0].get("title", "").replace(" ", "_")
+                if title:
+                    page_url = f"https://{lang}.wikipedia.org/wiki/{quote(title)}"
+                    _WIKI_CACHE[cache_key] = page_url
+                    return page_url
+        _WIKI_CACHE[cache_key] = None
+        return None
+    except Exception:
+        return None
 
 
 def make_entry(
