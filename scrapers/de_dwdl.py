@@ -91,10 +91,12 @@ PROGRAM_TO_CHANNEL: list[tuple[re.Pattern, str]] = [
         r"frontal|37 Grad|Laim und|Terra X|ZDFzeit|ZDFinfo|Die Spezialisten|"
         r"Notruf Hafenkante|Die Bergretter|Ein Sommer|Das Traumschiff|"
         r"Kreuzfahrt ins Gl(?:ü|u)ck|L(?:ä|a)ndermagazin|ZDF-Magazin|"
-        r"Neuer Wind im Alten Land|Herzkino|"  # NEW v3 (cas du 26 avril)
-        r"Inspector Barnaby|Inspektor Barnaby|"  # NEW v3 (rebaptisé sur ZDF)
-        r"Das Quiz mit Jörg Pilawa|"  # NEW v3
-        r"Die Spur|"  # NEW v3 (téléfilms ZDF)
+        r"Neuer Wind im Alten Land|Herzkino|"
+        r"Inspector Barnaby|Inspektor Barnaby|"
+        r"Das Quiz mit Jörg Pilawa|"
+        r"Die Spur|"
+        r"Die geheime Welt des Adels|Die Anstalt|"  # NEW v4 (ZDF docs/satire)
+        r"Jochen Breyer|"  # NEW v4 (presentateur ZDF)
         r"ZDF)",
         re.IGNORECASE), "ZDF"),
 
