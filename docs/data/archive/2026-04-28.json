@@ -1,6 +1,81 @@
 {
   "date": "2026-04-28",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-04-28",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "A PRIORI \\ ELLE N'AVAIT PAS LE PIED MARIN",
+          "program_fr": null,
+          "viewers": 2740000,
+          "share": 14.9,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 9",
+          "program_fr": null,
+          "viewers": 2552000,
+          "share": 14.2,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "category": "divertissement",
+          "category_emoji": "🎤"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "TCHERNOBYL, UNE TRAGEDIE SANS FIN \\ EPISODE 1 - PREMIER JOUR",
+          "program_fr": null,
+          "viewers": 1610000,
+          "share": 8.6,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "category": "info",
+          "category_emoji": "📰"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LOCKERBIE : ATTENTAT EN PLEIN VOL \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 1042000,
+          "share": 5.7,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "category": "fiction",
+          "category_emoji": "🎬"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ON VA DEGUSTER : RETROUVER LE GOUT DE LA TOMATE",
+          "program_fr": null,
+          "viewers": 687000,
+          "share": 3.7,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+          "category": "info",
+          "category_emoji": "📰"
+        }
+      ],
+      "scraped_at": "2026-04-29T08:52:19.595715Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 3, « A PRIORI », s'impose en tête des audiences avec 2,74 millions de téléspectateurs et 14,9% de part de marché, confirmant la solidité de la chaîne sur ce genre en prime time, déjà leader deux fois dans la semaine. TF1, avec « KOH-LANTA », se positionne en deuxième place avec 2,55 millions de curieux (14,2% PDM), un score honorable mais inférieur aux meilleures performances de ses programmes phares observées plus tôt dans la semaine. La fiction historique de France 2, « TCHERNOBYL, UNE TRAGEDIE SANS FIN », peine à mobiliser un large public, rassemblant 1,61 million de personnes (8,6% PDM), loin des succès de ses soirées de fiction précédentes. M6, avec une série américaine, enregistre 1,04 million de téléspectateurs (5,7% PDM), illustrant les difficultés de la chaîne à rivaliser avec les offres des groupes publics sur cette case. La programmation de France 5, axée sur le documentaire, se maintient à un niveau de niche avec 687 000 spectateurs (3,7% PDM).",
+      "commentary_date": "2026-04-28"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -151,45 +226,6 @@
       "commentary": "Le 28 avril, Antena 3 maintient sa position dominante sur la case du prime time avec « El Hormiguero », qui réunit 1,61 million de téléspectateurs et 12,5% de part de marché. Ce chiffre est stable par rapport à la semaine précédente, où le même programme, avec une invitée différente, avait enregistré 1,62 million de fidèles. La compétition pour la deuxième place oppose cette semaine « La Isla de las Tentaciones » sur Telecinco (1,28 M, 10,0%) à « La Revuelta » sur La 1 (1,23 M, 9,7%), marquant une légère inversion par rapport au 21 avril où Telecinco devançait La 1. La chaîne publique, La 1, semble consolider sa troisième position structurelle, notamment grâce à des programmes comme « La Revuelta », qui a su attirer un public plus large certains soirs de la semaine. Le duopole historique Antena 3/Telecinco est ainsi complété par une offre publique de plus en plus structurée sur la soirée.",
       "commentary_date": "2026-04-28"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-04-28",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Een Vergetelijk Mooie Reis",
-          "program_fr": null,
-          "viewers": 809000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-mafs-married-at-first-sight-kyle-danique-reacties",
-          "category": "autre",
-          "category_emoji": "📺"
-        },
-        {
-          "rank": 2,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "Bureau Onrecht",
-          "program_fr": null,
-          "viewers": 330000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-mafs-married-at-first-sight-kyle-danique-reacties",
-          "category": "autre",
-          "category_emoji": "📺"
-        }
-      ],
-      "scraped_at": "2026-04-29T08:52:24.435762Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le prime time du 28 avril voit NPO 1 maintenir sa position de leader avec « Een Vergetelijk Mooie Reis », attirant 809 000 téléspectateurs. Ce chiffre est légèrement supérieur à celui du programme diffusé le 25 avril, « Over Mijn Lijk » (780 000 téléspectateurs), mais inférieur à la performance de « Het Verhaal van Nederland » le 22 avril (792 000 téléspectateurs). La chaîne publique confirme ainsi sa domination sur la case, ayant assuré quatre des cinq soirées de la semaine précédente. SBS 6 se positionne en second avec « Bureau Onrecht » (330 000 téléspectateurs), une audience notablement plus faible que celle de « Mr. Frank Visser Doet Uitspraak » le 22 avril (618 000 téléspectateurs). La comparaison avec RTL 4, qui avait pourtant atteint 943 000 téléspectateurs le 24 avril avec « The Voice of Holland », souligne une fragmentation des audiences sur le marché néerlandais. La stratégie de NPO 1 semble porter ses fruits en matière de fidélisation sur cette case horaire.",
-      "commentary_date": "2026-04-28"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -265,81 +301,45 @@
       "commentary": "La fiction « Il Commissario Montalbano » sur Rai 1 s'impose ce dimanche 28 avril avec 3,01 millions de téléspectateurs et 17,4% de part de marché, reprenant ainsi le leadership du prime time. Cette performance contraste avec la soirée du 21 avril où la chaîne publique avait diffusé une rediffusion du même programme, attirant 2,85 millions de fidèles. Canale 5, avec « Grande Fratello Vip », se positionne en deuxième place mais enregistre une légère érosion par rapport à ses scores précédents, passant de 1,89 million le jeudi 24 avril à 1,83 million ce dimanche. La chaîne privée semble marquer le pas sur cette case horaire, malgré une PDM de 15,5% qui reste significative dans le paysage concurrentiel. Sur La7, le magazine d'information « DiMartedì » confirme sa présence dans le trio de tête avec 1,53 million de téléspectateurs et 9,8% de PDM, un score stable par rapport à la semaine précédente. La stratégie de Rai 1 semble donc porter ses fruits en capitalisant sur des valeurs sûres de la fiction nationale face à la concurrence des formats de divertissement de Canale 5.",
       "commentary_date": "2026-04-28"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-04-28",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 3",
+          "channel": "NPO 1",
           "channel_color": "amber",
-          "program": "A PRIORI \\ ELLE N'AVAIT PAS LE PIED MARIN",
+          "program": "Een Vergetelijk Mooie Reis",
           "program_fr": null,
-          "viewers": 2740000,
-          "share": 14.9,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
-          "category": "fiction",
-          "category_emoji": "🎬"
+          "viewers": 809000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-mafs-married-at-first-sight-kyle-danique-reacties",
+          "category": "autre",
+          "category_emoji": "📺"
         },
         {
           "rank": 2,
-          "channel": "TF1",
+          "channel": "SBS 6",
           "channel_color": "blue",
-          "program": "KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 9",
+          "program": "Bureau Onrecht",
           "program_fr": null,
-          "viewers": 2552000,
-          "share": 14.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
-          "category": "divertissement",
-          "category_emoji": "🎤"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "TCHERNOBYL, UNE TRAGEDIE SANS FIN \\ EPISODE 1 - PREMIER JOUR",
-          "program_fr": null,
-          "viewers": 1610000,
-          "share": 8.6,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
-          "category": "info",
-          "category_emoji": "📰"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LOCKERBIE : ATTENTAT EN PLEIN VOL \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 1042000,
-          "share": 5.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
-          "category": "fiction",
-          "category_emoji": "🎬"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ON VA DEGUSTER : RETROUVER LE GOUT DE LA TOMATE",
-          "program_fr": null,
-          "viewers": 687000,
-          "share": 3.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-lockerbie-attentat-en-plein-vol-sur-m6-a-t-elle-surclasse-koh-lanta-les-reliques-du-destin-et-A-priori/654566",
-          "category": "info",
-          "category_emoji": "📰"
+          "viewers": 330000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-mafs-married-at-first-sight-kyle-danique-reacties",
+          "category": "autre",
+          "category_emoji": "📺"
         }
       ],
-      "scraped_at": "2026-04-29T08:52:19.595715Z",
-      "status": "ok",
+      "scraped_at": "2026-04-29T08:52:24.435762Z",
+      "status": "partial",
       "error": null,
-      "commentary": "La fiction de France 3, « A PRIORI », s'impose en tête des audiences avec 2,74 millions de téléspectateurs et 14,9% de part de marché, confirmant la solidité de la chaîne sur ce genre en prime time, déjà leader deux fois dans la semaine. TF1, avec « KOH-LANTA », se positionne en deuxième place avec 2,55 millions de curieux (14,2% PDM), un score honorable mais inférieur aux meilleures performances de ses programmes phares observées plus tôt dans la semaine. La fiction historique de France 2, « TCHERNOBYL, UNE TRAGEDIE SANS FIN », peine à mobiliser un large public, rassemblant 1,61 million de personnes (8,6% PDM), loin des succès de ses soirées de fiction précédentes. M6, avec une série américaine, enregistre 1,04 million de téléspectateurs (5,7% PDM), illustrant les difficultés de la chaîne à rivaliser avec les offres des groupes publics sur cette case. La programmation de France 5, axée sur le documentaire, se maintient à un niveau de niche avec 687 000 spectateurs (3,7% PDM).",
+      "commentary": "Le prime time du 28 avril voit NPO 1 maintenir sa position de leader avec « Een Vergetelijk Mooie Reis », attirant 809 000 téléspectateurs. Ce chiffre est légèrement supérieur à celui du programme diffusé le 25 avril, « Over Mijn Lijk » (780 000 téléspectateurs), mais inférieur à la performance de « Het Verhaal van Nederland » le 22 avril (792 000 téléspectateurs). La chaîne publique confirme ainsi sa domination sur la case, ayant assuré quatre des cinq soirées de la semaine précédente. SBS 6 se positionne en second avec « Bureau Onrecht » (330 000 téléspectateurs), une audience notablement plus faible que celle de « Mr. Frank Visser Doet Uitspraak » le 22 avril (618 000 téléspectateurs). La comparaison avec RTL 4, qui avait pourtant atteint 943 000 téléspectateurs le 24 avril avec « The Voice of Holland », souligne une fragmentation des audiences sur le marché néerlandais. La stratégie de NPO 1 semble porter ses fruits en matière de fidélisation sur cette case horaire.",
       "commentary_date": "2026-04-28"
     }
   },
-  "last_updated": "2026-04-29T08:52:24.438515Z"
+  "last_updated": "2026-04-29T08:52:39.885626Z"
 }
