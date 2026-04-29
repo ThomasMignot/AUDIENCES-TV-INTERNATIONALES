@@ -1,32 +1,31 @@
 """
-Scraper Espagne — Barlovento Comunicación
+Scraper Espagne — Barlovento Comunicación (v2 — robustesse renforcée)
 
 Source : https://barloventocomunicacion.es/audiencias-tv-ayer/
-Publie chaque matin les audiences de la veille avec une structure très stable.
 
-Format du prime time (partie qui nous intéresse) :
-
-    A continuación, se detallan los programas con mejores audiencias en el prime time
-    del [jour], [DD] de [mois] de [YYYY] (con emisión entre las 22:00 y las 24:00 horas):
+Format de la section prime time :
+    "A continuación, se detallan los programas con mejores audiencias en el
+    prime time del [jour], [DD] de [mois] de [YYYY] (con emisión entre las
+    22:00 y las 24:00 horas):
 
     1. (La1) **BARRIO ESPERANZA <ESPERANZA>**: 15,3% y 1.611.000.
     2. (Antena3) **UNA NUEVA VIDA**: 9,8% y 954.000.
-    3. (Telecinco) **SUPERVIVIENTES:CONEXION HONDURAS**: 11,6% y 924.000.
-    ...
+    ..."
 
-Stratégie :
-1. Fetch la page
-2. Extraire la date depuis l'intro ou le titre H3
-3. Parser les lignes numérotées de la section prime time
-4. Dédupliquer par chaîne (1 entrée max par chaîne)
-5. Garder le top 5
+Stratégie v2 :
+1. Fetch la page récap "audiencias-tv-ayer" qui contient le résumé du jour
+2. Si la section prime time n'est pas trouvée (page modifiée), fallback :
+   suivre le lien "Audiencias DD de mois" vers l'article daily détaillé
+3. Patterns multiples pour matcher différentes variantes de format
+4. Logs détaillés pour diagnostiquer les échecs
+5. Dédup par chaîne (1 entrée max), top 5
 """
 from __future__ import annotations
 
 import logging
 import re
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -55,7 +54,6 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "es-ES,es;q=0.9,en;q=0.5",
-    "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive",
     "Upgrade-Insecure-Requests": "1",
 }
@@ -82,6 +80,7 @@ CHANNEL_NORMALIZE = {
     "divinity": "Divinity",
     "paramount": "Paramount Network",
     "paramount network": "Paramount Network",
+    "tv3": "TV3",
 }
 
 MONTHS_ES = {
@@ -94,37 +93,61 @@ log = logging.getLogger("es_barlovento")
 
 def extract_date(soup: BeautifulSoup, full_text: str) -> Optional[date]:
     """
-    Cherche la date dans plusieurs endroits possibles :
-    - Titre H3 : "Audiencias 19 de abril 2026"
-    - Texte : "del domingo 19 de abril de 2026"
+    Cherche la date des audiences.
+    Priorité au pattern "del [jour] DD de mes de YYYY" qui apparaît dans
+    l'intro du prime time (date des audiences = la veille du jour de scraping).
     """
-    patterns = [
+    # Pattern 1 : "prime time del [jour] DD de [mois] de YYYY"
+    # C'est la formule la plus fiable car elle indique explicitement la date
+    # des audiences (et pas la date d'aujourd'hui).
+    m = re.search(
+        r"prime time del\s+\w+\s+(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})",
+        full_text, re.IGNORECASE,
+    )
+    if m:
+        try:
+            month = MONTHS_ES.get(m.group(2).lower())
+            if month:
+                return date(int(m.group(3)), month, int(m.group(1)))
+        except ValueError:
+            pass
+
+    # Pattern 2 : "ayer [jour] DD de mes" (présent dans l'intro)
+    m = re.search(
+        r"ayer\s+\w+\s+(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})",
+        full_text, re.IGNORECASE,
+    )
+    if m:
+        try:
+            month = MONTHS_ES.get(m.group(2).lower())
+            if month:
+                return date(int(m.group(3)), month, int(m.group(1)))
+        except ValueError:
+            pass
+
+    # Pattern 3 : "Audiencias DD de mes YYYY" (titre H3, fallback)
+    m = re.search(
         r"Audiencias\s+(\d{1,2})\s+de\s+(\w+)\s+(?:de\s+)?(\d{4})",
-        r"del\s+\w+\s+(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})",
-        r"(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})",
-    ]
-    for pattern in patterns:
-        m = re.search(pattern, full_text, re.IGNORECASE)
-        if not m:
-            continue
-        day = int(m.group(1))
-        month_name = m.group(2).lower()
-        year = int(m.group(3))
-        if month_name in MONTHS_ES:
-            try:
-                return date(year, MONTHS_ES[month_name], day)
-            except ValueError:
-                continue
+        full_text, re.IGNORECASE,
+    )
+    if m:
+        try:
+            month = MONTHS_ES.get(m.group(2).lower())
+            if month:
+                return date(int(m.group(3)), month, int(m.group(1)))
+        except ValueError:
+            pass
+
     return None
 
 
 def normalize_channel(raw: str) -> str:
-    """Normalise le nom d'une chaîne ("La1" → "La 1", "A3" → "Antena 3")."""
+    """Normalise le nom d'une chaîne."""
     return CHANNEL_NORMALIZE.get(raw.strip().lower(), raw.strip())
 
 
 def parse_spanish_number(num_str: str) -> int:
-    """ "1.611.000" → 1611000 (le point est séparateur de milliers en espagnol) """
+    """ "1.611.000" → 1611000 (le point = séparateur de milliers en espagnol) """
     return int(num_str.replace(".", "").replace(",", ""))
 
 
@@ -133,29 +156,39 @@ def parse_prime_time_section(full_text: str) -> list[dict]:
     Extrait les lignes numérotées de la section prime time.
     Format type : "1. (La1) **BARRIO ESPERANZA <ESPERANZA>**: 15,3% y 1.611.000."
     """
-    # Trouver le début de la section prime time
+    # Plusieurs patterns testés du plus spécifique au plus permissif.
+    # Le format de Barlovento varie selon les jours, on prévoit large.
     prime_markers = [
-        r"en el prime time[^\n]*\(con emisión entre las 22",
-        r"mejores audiencias en el prime time",
-        r"prime time[^\n]*?(?:22:00|22 h)",
+        r"mejores audiencias en el prime time",  # le plus stable
+        r"detallan los programas[^.]{0,200}?prime time",
+        r"en el prime time[^.]*?(?:22:00|22\s*h|22\.00)",
+        r"prime time[^.]{0,200}?(?:22:00|22\s*h|22\.00)",
     ]
     start_idx = None
+    matched_pattern = None
     for marker in prime_markers:
-        m = re.search(marker, full_text, re.IGNORECASE)
+        m = re.search(marker, full_text, re.IGNORECASE | re.DOTALL)
         if m:
             start_idx = m.end()
+            matched_pattern = marker[:60]
             break
+
     if start_idx is None:
-        log.error("Section prime time non trouvée")
+        # Diagnostic : où trouve-t-on "prime time" dans le texte ?
+        prime_time_occurrences = list(re.finditer(r"prime[\s-]*time", full_text, re.IGNORECASE))
+        log.error(f"Section prime time non trouvée. {len(prime_time_occurrences)} occurrences "
+                  f"de 'prime time' dans {len(full_text)} chars de texte.")
+        for m in prime_time_occurrences[:5]:
+            ctx = full_text[max(0, m.start()-30):m.end()+100]
+            log.error(f"  Contexte : {ctx!r}")
         return []
+
+    log.info(f"Section prime time trouvée via : {matched_pattern!r}")
 
     # Limiter le scope aux ~3000 premiers caractères après le marqueur
     scope = full_text[start_idx:start_idx + 3000]
 
     # Pattern : "1. (Chaîne) PROGRAMME : XX,X% y X.XXX.XXX"
-    # Le programme peut contenir des : (ex: "SUPERVIVIENTES:CONEXION HONDURAS")
-    # Astuce : on utilise le pattern "share%" comme ancre robuste (digit,digit% ou digit%)
-    # et on capture tout ce qui est entre ) et ce share% comme program
     row_pattern = re.compile(
         r"(?P<rank>\d{1,2})\.\s*"
         r"\((?P<channel>[^)]+)\)\s*"
@@ -172,8 +205,6 @@ def parse_prime_time_section(full_text: str) -> list[dict]:
             viewers = parse_spanish_number(m.group("viewers"))
             channel = normalize_channel(m.group("channel"))
             program = m.group("program").strip().strip("*").strip()
-            # Nettoyer : enlever les "< >" de métadonnées mais garder les infos
-            # Ex: "BARRIO ESPERANZA <ESPERANZA>" → on garde tel quel, c'est lisible
             rows.append({
                 "rank": int(m.group("rank")),
                 "channel": channel,
@@ -188,41 +219,44 @@ def parse_prime_time_section(full_text: str) -> list[dict]:
     return rows
 
 
+def find_daily_article_url(soup: BeautifulSoup) -> Optional[str]:
+    """
+    Sur la page récap, cherche le lien vers l'article daily détaillé du jour
+    (ex: /audiencias-diarias/audiencias-27-de-abril/).
+    Utilisé en fallback si la page récap ne contient pas la section prime time.
+    """
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/audiencias-diarias/audiencias-" in href:
+            full_url = href if href.startswith("http") else f"https://barloventocomunicacion.es{href}"
+            log.info(f"Article daily trouvé : {full_url}")
+            return full_url
+    return None
+
+
 def format_program_title(raw: str) -> str:
     """
     Transforme 'BARRIO ESPERANZA <ESPERANZA>' en 'Barrio Esperanza (Esperanza)'.
-    Barlovento écrit tout en majuscules, on rend ça plus lisible.
-
-    Règles :
-    - Title case (première lettre de chaque mot en majuscule)
-    - Les articles / prépositions courts (de, la, el, y, en, a, al, los, las, un, una)
-      restent en minuscules SAUF en début de titre
-    - Les sigles connus (TV, CSI, MasterChef, NCIS, OT, UFC) sont préservés
     """
     text = raw.replace("<", "(").replace(">", ")").strip()
 
-    # Mots qui restent en minuscules (sauf s'ils sont le premier mot)
     LOWERCASE_WORDS = {
         "de", "del", "la", "el", "los", "las", "y", "o", "u",
         "en", "a", "al", "con", "por", "para", "sin", "sobre",
         "un", "una", "unos", "unas", "the", "of", "and", "in", "on",
     }
-    # Sigles à préserver tels quels (en MAJUSCULES)
     KEEP_UPPER = {"TV", "CSI", "NCIS", "OT", "UFC", "NBA", "NFL", "UK", "US", "EE", "UU", "DNI", "IVA", "PIB"}
 
-    # Séparer en tokens en préservant la ponctuation
     tokens = re.findall(r"\w+|[^\w\s]+|\s+", text, re.UNICODE)
     result = []
-    word_count = 0  # compte les mots (pour savoir si c'est le premier)
+    word_count = 0
     for tok in tokens:
         if tok.isspace() or not tok.strip():
             result.append(tok)
             continue
         if not any(c.isalnum() for c in tok):
-            # Ponctuation seule
             result.append(tok)
             continue
-        # C'est un mot
         word_count += 1
         upper_tok = tok.upper()
         lower_tok = tok.lower()
@@ -232,38 +266,63 @@ def format_program_title(raw: str) -> str:
         elif word_count > 1 and lower_tok in LOWERCASE_WORDS:
             result.append(lower_tok)
         else:
-            # Capitalize : première majuscule, reste minuscule
             result.append(tok[0].upper() + tok[1:].lower())
 
     return "".join(result)
 
 
 def run(target_date: Optional[date] = None) -> CountryReport:
-    log.info(f"=== Scraping {COUNTRY_NAME} ===")
+    log.info(f"=== Scraping {COUNTRY_NAME} (v2) ===")
 
     try:
+        # 1. Fetcher la page récap principale
         r = requests.get(SOURCE_URL, headers=HEADERS, timeout=30)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         full_text = soup.get_text(" ", strip=True)
+        log.info(f"DEBUG: page récap HTTP {r.status_code}, {len(r.text)} chars HTML, "
+                 f"{len(full_text)} chars text, encoding={r.encoding}")
 
-        # Extraire la date des audiences (date de la veille dans le cas nominal)
-        effective_date = extract_date(soup, full_text) or date.today()
-        log.info(f"Date effective : {effective_date}")
+        # 2. Extraire la date des audiences (= la veille du scraping en nominal)
+        # IMPORTANT : ne PAS faire fallback sur date.today(), sinon on archive
+        # à la date d'aujourd'hui des données de la veille → archives futures.
+        effective_date = extract_date(soup, full_text)
+        if effective_date is None:
+            effective_date = date.today() - timedelta(days=1)
+            log.warning(f"Date non extraite, fallback sur hier : {effective_date}")
+        else:
+            log.info(f"Date effective : {effective_date}")
 
-        # Parser la section prime time
+        # 3. Parser la section prime time depuis la page récap
         rows = parse_prime_time_section(full_text)
-        if not rows:
-            raise RuntimeError("Aucune ligne prime time extraite")
 
-        # Déduplication : 1 entrée max par chaîne (la plus grosse audience)
+        # 4. FALLBACK : si la section prime time n'est pas dans la page récap,
+        # on suit le lien vers l'article daily et on parse celui-là.
+        if not rows:
+            log.info("Section prime time absente de la page récap, fallback sur article daily")
+            daily_url = find_daily_article_url(soup)
+            if daily_url:
+                try:
+                    r2 = requests.get(daily_url, headers=HEADERS, timeout=30)
+                    r2.raise_for_status()
+                    daily_soup = BeautifulSoup(r2.text, "html.parser")
+                    daily_text = daily_soup.get_text(" ", strip=True)
+                    log.info(f"DEBUG: article daily {len(daily_text)} chars text")
+                    rows = parse_prime_time_section(daily_text)
+                except requests.RequestException as e:
+                    log.warning(f"Erreur en chargeant l'article daily : {e}")
+
+        if not rows:
+            raise RuntimeError("Aucune ligne prime time extraite (page récap + article daily)")
+
+        # 5. Déduplication : 1 entrée max par chaîne (la plus grosse audience)
         top_by_channel: dict[str, dict] = {}
         for row in rows:
             ch = row["channel"]
             if ch not in top_by_channel or row["viewers"] > top_by_channel[ch]["viewers"]:
                 top_by_channel[ch] = row
 
-        # Tri par viewers, top 5
+        # 6. Tri par viewers, top 5
         ranked = sorted(top_by_channel.values(), key=lambda x: x["viewers"], reverse=True)[:5]
 
         if not ranked:
@@ -271,13 +330,13 @@ def run(target_date: Optional[date] = None) -> CountryReport:
 
         log.info(f"Top 5 retenu : {[(r['channel'], r['program'], r['viewers']) for r in ranked]}")
 
-        # Chercher l'URL de l'article détaillé du jour (lien "Audiencias XX de mois YYYY")
+        # 7. Chercher l'URL de l'article détaillé pour mettre dans source_url
         detail_url = SOURCE_URL
         for a in soup.find_all("a", href=True):
             href = a["href"]
             text = a.get_text(strip=True)
             if "audiencias-diarias" in href and effective_date.strftime("%d") in text:
-                detail_url = href
+                detail_url = href if href.startswith("http") else f"https://barloventocomunicacion.es{href}"
                 break
 
         entries = [
@@ -306,9 +365,11 @@ def run(target_date: Optional[date] = None) -> CountryReport:
 
     except Exception as e:
         log.exception("Scraping failed")
+        # Fallback de date : hier (cohérent avec les autres scrapers)
+        fallback_date = target_date or (date.today() - timedelta(days=1))
         return CountryReport(
             country_code=COUNTRY_CODE, country_name=COUNTRY_NAME, flag=FLAG,
-            date=(target_date or date.today()).isoformat(),
+            date=fallback_date.isoformat(),
             source_name=SOURCE_NAME, source_url=SOURCE_URL,
             entries=[],
             scraped_at=datetime.utcnow().isoformat() + "Z",
