@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Der+Alte%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Der_Alte"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Praxis+mit+Meerblick%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Anne_Werner"
         },
         {
           "rank": 4,
@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22SOKO+Leipzig%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Leipzig_Homicide"
         },
         {
           "rank": 5,
@@ -72,10 +72,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Let%27s+dance+Folge+9%22+RTL+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Wayne_Carpendale"
         }
       ],
-      "scraped_at": "2026-05-02T10:31:29.654139Z",
+      "scraped_at": "2026-05-02T11:34:47.865941Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 1er mai voit le journal de 20h de Das Erste s'établir en tête avec 4,62 millions de téléspectateurs et 25,4% de part de marché. Ce chiffre est légèrement supérieur à sa moyenne des sept derniers jours, qui s'établit à 4,6 millions de téléspectateurs. La fiction de la chaîne concurrente, « Der Alte », réalise une performance notable avec 4,23 millions de fidèles, démontrant la force des programmes de flux sur les chaînes publiques allemandes. La compétition pour le leadership du prime time reste ainsi largement dominée par ARD et ZDF, qui placent trois programmes dans le top 5. La présence de RTL, avec « Let's dance », se positionne plus bas dans le classement, témoignant de la difficulté des chaînes privées à rivaliser sur cette case horaire face aux offres généralistes.",
@@ -100,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-mayo-de-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Superestrellas%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Superestrella"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-mayo-de-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tu_cara_me_suena_%28Spanish_TV_series%29"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-mayo-de-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aniversario_de_Arena_M%C3%A9xico"
         },
         {
           "rank": 4,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-05-02T10:31:31.320633Z",
+      "scraped_at": "2026-05-02T11:34:50.028655Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 1er mai, la soirée de prime time en Espagne voit une répartition des audiences contrastée, marquant une légère inflexion par rapport aux tendances récentes. Antena 3, avec son divertissement « Tu Cara Me Suena », réalise une performance solide à 11.9% de part de marché, bien que légèrement en retrait par rapport aux pics de la semaine précédente, notamment le 24 avril où le même programme atteignait 20.3%. La chaîne publique La 1 parvient à se hisser en tête du classement en nombre brut de téléspectateurs avec la diffusion du film « Superestrellas:Clint Eastwood (Gran Torino) » (1.03 million), mais sa part de marché reste contenue à 10.4%. La stratégie de La 1 semble viser un public plus large, tandis qu'Antena 3 capitalise sur des formats établis et une fidélisation de son audience. La compétition pour le lead-in, avec « El Hormiguero » d'Antena 3 qui a dominé les access sur la semaine, influence potentiellement la capacité des autres chaînes à capter une part significative du public en début de soirée. Telecinco, quant à elle, maintient une présence significative avec « ¡De Viernes ! » (10.5% PDM), confirmant la résilience de ses programmes de flux dans le paysage audiovisuel espagnol.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Delitti+in+Paradiso%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-05-02T10:31:34.323727Z",
+      "scraped_at": "2026-05-02T11:34:53.847354Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 1er mai, Canale 5 s'empare du leadership du prime time avec la diffusion du film « Il diavolo veste Prada », attirant 2,19 millions de téléspectateurs et 15,1% de part de marché. Cette performance place la chaîne privée devant Rai 1, qui avec « Someone like You », réunit 1,79 million de personnes (11,9% PDM), marquant un recul par rapport à ses succès des soirées précédentes. La chaîne publique Rai 3, avec la retransmission du « Concerto Primo Maggio », se positionne en troisième place avec 1,71 million de téléspectateurs et une part de marché plus solide (12,8%) sur cette case horaire culturelle. Le programme d'information « Quarto Grado » sur Italia 1 obtient 1,44 million de téléspectateurs (12,2% PDM), démontrant une certaine stabilité dans cette case du mardi soir. La chaîne Rai 2, avec « Delitti in Paradiso », enregistre une audience plus confidentielle de 819 000 téléspectateurs (4,7% PDM).",
@@ -276,12 +276,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Familie+Gillis+en+Vandaag+Inside%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-05-02T10:31:36.004905Z",
+      "scraped_at": "2026-05-02T11:34:55.959600Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 1er mai 2026, NPO 1 s'impose en tête du prime time aux Pays-Bas avec « The Voice of Holland », attirant 881 000 téléspectateurs. Ce divertissement, diffusé sur la chaîne publique, devance largement le programme d'information de SBS 6, « Familie Gillis en Vandaag Inside », qui enregistre 439 000 curieux. Comparé aux données de la semaine précédente, le score de « The Voice of Holland » sur NPO 1 est inférieur à celui de sa diffusion le 24 avril sur RTL 4 (943 000 téléspectateurs). La stratégie de NPO 1 semble privilégier les formats de divertissement forts pour capter une audience significative, comme le montre sa domination sur six soirées de la semaine écoulée. La présence de SBS 6, chaîne du groupe Talpa Network, dans le top 2 illustre la concurrence entre acteurs privés et publics sur ce marché aux audiences individuelles modérées.",
       "commentary_date": "2026-05-01"
     }
   },
-  "last_updated": "2026-05-02T10:31:48.522274Z"
+  "last_updated": "2026-05-02T11:34:55.961681Z"
 }
