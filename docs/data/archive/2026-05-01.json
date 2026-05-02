@@ -161,47 +161,6 @@
       "commentary": "Le 1er mai, la soirée de prime time en Espagne voit une répartition des audiences contrastée, marquant une légère inflexion par rapport aux tendances récentes. Antena 3, avec son divertissement « Tu Cara Me Suena », réalise une performance solide à 11.9% de part de marché, bien que légèrement en retrait par rapport aux pics de la semaine précédente, notamment le 24 avril où le même programme atteignait 20.3%. La chaîne publique La 1 parvient à se hisser en tête du classement en nombre brut de téléspectateurs avec la diffusion du film « Superestrellas:Clint Eastwood (Gran Torino) » (1.03 million), mais sa part de marché reste contenue à 10.4%. La stratégie de La 1 semble viser un public plus large, tandis qu'Antena 3 capitalise sur des formats établis et une fidélisation de son audience. La compétition pour le lead-in, avec « El Hormiguero » d'Antena 3 qui a dominé les access sur la semaine, influence potentiellement la capacité des autres chaînes à capter une part significative du public en début de soirée. Telecinco, quant à elle, maintient une présence significative avec « ¡De Viernes ! » (10.5% PDM), confirmant la résilience de ses programmes de flux dans le paysage audiovisuel espagnol.",
       "commentary_date": "2026-05-01"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-01",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "The Voice of Holland",
-          "program_fr": "The Voice",
-          "viewers": 881000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/slechte-start-jan-willem-ruimt-op-finale-tvoh-flikken-maastricht",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22The+Voice+of+Holland%22+NPO+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "Familie Gillis en Vandaag Inside",
-          "program_fr": null,
-          "viewers": 439000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/slechte-start-jan-willem-ruimt-op-finale-tvoh-flikken-maastricht",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Familie+Gillis+en+Vandaag+Inside%22+SBS+6+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-02T10:31:36.004905Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le 1er mai 2026, NPO 1 s'impose en tête du prime time aux Pays-Bas avec « The Voice of Holland », attirant 881 000 téléspectateurs. Ce divertissement, diffusé sur la chaîne publique, devance largement le programme d'information de SBS 6, « Familie Gillis en Vandaag Inside », qui enregistre 439 000 curieux. Comparé aux données de la semaine précédente, le score de « The Voice of Holland » sur NPO 1 est inférieur à celui de sa diffusion le 24 avril sur RTL 4 (943 000 téléspectateurs). La stratégie de NPO 1 semble privilégier les formats de divertissement forts pour capter une audience significative, comme le montre sa domination sur six soirées de la semaine écoulée. La présence de SBS 6, chaîne du groupe Talpa Network, dans le top 2 illustre la concurrence entre acteurs privés et publics sur ce marché aux audiences individuelles modérées.",
-      "commentary_date": "2026-05-01"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +241,47 @@
       "commentary": "Ce 1er mai, Canale 5 s'empare du leadership du prime time avec la diffusion du film « Il diavolo veste Prada », attirant 2,19 millions de téléspectateurs et 15,1% de part de marché. Cette performance place la chaîne privée devant Rai 1, qui avec « Someone like You », réunit 1,79 million de personnes (11,9% PDM), marquant un recul par rapport à ses succès des soirées précédentes. La chaîne publique Rai 3, avec la retransmission du « Concerto Primo Maggio », se positionne en troisième place avec 1,71 million de téléspectateurs et une part de marché plus solide (12,8%) sur cette case horaire culturelle. Le programme d'information « Quarto Grado » sur Italia 1 obtient 1,44 million de téléspectateurs (12,2% PDM), démontrant une certaine stabilité dans cette case du mardi soir. La chaîne Rai 2, avec « Delitti in Paradiso », enregistre une audience plus confidentielle de 819 000 téléspectateurs (4,7% PDM).",
       "commentary_date": "2026-05-01"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-04-30",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-film-culte-mais-ou-est-donc-passee-la-7eme-compagnie-a-t-il-encore-fait-le-plein-sur-tf1/654616",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-05-01",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MAIS OU EST DONC PASSEE LA 7E COMPAGNIE",
-          "program_fr": null,
-          "viewers": 3343000,
-          "share": 20.6,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-culte-mais-ou-est-donc-passee-la-7eme-compagnie-a-t-il-encore-fait-le-plein-sur-tf1/654616",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mais_o%C3%B9_est_donc_pass%C3%A9e_la_septi%C3%A8me_compagnie_%3F"
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "The Voice of Holland",
+          "program_fr": "The Voice",
+          "viewers": 881000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/slechte-start-jan-willem-ruimt-op-finale-tvoh-flikken-maastricht",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22The+Voice+of+Holland%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "L'OUBLIEE D'AMBOISE",
+          "channel": "SBS 6",
+          "channel_color": "blue",
+          "program": "Familie Gillis en Vandaag Inside",
           "program_fr": null,
-          "viewers": 2827000,
-          "share": 17.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-culte-mais-ou-est-donc-passee-la-7eme-compagnie-a-t-il-encore-fait-le-plein-sur-tf1/654616",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "UN P'TIT TRUC EN PLUS, BIEN PLUS QU'UN FILM",
-          "program_fr": null,
-          "viewers": 1514000,
-          "share": 9.6,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-culte-mais-ou-est-donc-passee-la-7eme-compagnie-a-t-il-encore-fait-le-plein-sur-tf1/654616",
+          "viewers": 439000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/slechte-start-jan-willem-ruimt-op-finale-tvoh-flikken-maastricht",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Un_p%27tit_truc_en_plus"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ENVOYE SPECIAL MAGAZINE ( économique, politique, sociologique )",
-          "program_fr": null,
-          "viewers": 1097000,
-          "share": 6.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-culte-mais-ou-est-donc-passee-la-7eme-compagnie-a-t-il-encore-fait-le-plein-sur-tf1/654616",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jared_Kushner"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "DES GENS BIEN \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 684000,
-          "share": 4.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-culte-mais-ou-est-donc-passee-la-7eme-compagnie-a-t-il-encore-fait-le-plein-sur-tf1/654616",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Smallville"
+          "wikipedia_url": "https://www.google.com/search?q=%22Familie+Gillis+en+Vandaag+Inside%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-05-02T10:31:24.741358Z",
-      "status": "ok",
+      "scraped_at": "2026-05-02T10:31:36.004905Z",
+      "status": "partial",
       "error": null,
-      "commentary": "TF1 reprend la tête du classement des audiences ce mardi 30 avril avec la diffusion de \"Mais où est donc passée la 7ème compagnie\", attirant 3,34 millions de téléspectateurs, soit 20,6% de part d'audience. Cette performance permet à la chaîne privée de devancer France 3, dont la fiction \"L'oubliée d'Amboise\" réunit 2,83 millions de personnes (17,3% PDM). La semaine précédente, France 3 avait mené trois soirées sur sept, témoignant d'une lutte concurrentielle dynamique entre les deux chaînes généralistes. La M6, avec un format d'information sur \"Un p'tit truc en plus\", se positionne en troisième place avec 1,51 million de curieux (9,6% PDM), un score inférieur à celui du film le 23 avril (5,50 M, 32,5% PDM). France 2 et Arte ferment la marche avec des scores plus modestes, illustrant la difficulté des chaînes publiques à rivaliser sur ce créneau face aux offres de fiction et aux événements plus populaires.",
-      "commentary_date": "2026-04-30"
+      "commentary": "Le 1er mai 2026, NPO 1 s'impose en tête du prime time aux Pays-Bas avec « The Voice of Holland », attirant 881 000 téléspectateurs. Ce divertissement, diffusé sur la chaîne publique, devance largement le programme d'information de SBS 6, « Familie Gillis en Vandaag Inside », qui enregistre 439 000 curieux. Comparé aux données de la semaine précédente, le score de « The Voice of Holland » sur NPO 1 est inférieur à celui de sa diffusion le 24 avril sur RTL 4 (943 000 téléspectateurs). La stratégie de NPO 1 semble privilégier les formats de divertissement forts pour capter une audience significative, comme le montre sa domination sur six soirées de la semaine écoulée. La présence de SBS 6, chaîne du groupe Talpa Network, dans le top 2 illustre la concurrence entre acteurs privés et publics sur ce marché aux audiences individuelles modérées.",
+      "commentary_date": "2026-05-01"
     }
   },
-  "last_updated": "2026-05-02T10:31:36.007810Z"
+  "last_updated": "2026-05-02T10:31:48.522274Z"
 }
