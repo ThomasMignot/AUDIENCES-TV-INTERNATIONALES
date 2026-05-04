@@ -442,32 +442,60 @@ function renderTrend(trend) {
 }
 
 async function searchAcrossArchives(query) {
-  // Charge en parallèle les 30 derniers jours d'archives
+  // Charge en parallèle :
+  // - latest.json (les données les plus fraîches, peut contenir des
+  //   pays avec une date supérieure à state.maxDate dans certains cas)
+  // - les archives des 30 derniers jours
+  // On dédoublonne ensuite par (pays, date, programme) pour éviter
+  // qu'un même programme apparaisse 2 fois s'il est à la fois dans
+  // latest.json et dans archive/{date}.json.
   if (!state.maxDate) return [];
   const dates = getDateRangeIsos(state.maxDate, SEARCH_DAYS_BACK);
-  const archives = await Promise.all(dates.map(loadArchive));
 
-  // Pour chaque archive, on collecte les entrées qui matchent
-  const results = [];
+  // On force le chargement de latest.json en plus des archives par date
+  const archivesPromise = Promise.all(dates.map(loadArchive));
+  const latestPromise = (async () => {
+    try {
+      const r = await fetch(`./data/latest.json?t=${Date.now()}`);
+      if (!r.ok) return null;
+      return await r.json();
+    } catch (e) {
+      return null;
+    }
+  })();
+
+  const [archives, latest] = await Promise.all([archivesPromise, latestPromise]);
+
+  // Construit la liste {archive, defaultDate} en commençant par latest
+  // (priorité aux données fraîches en cas de doublon).
+  const sources = [];
+  if (latest) sources.push({ archive: latest, defaultDate: latest.date });
   for (let i = 0; i < archives.length; i++) {
-    const archive = archives[i];
-    if (!archive || !archive.countries) continue;
-    const date = dates[i];
+    if (archives[i]) sources.push({ archive: archives[i], defaultDate: dates[i] });
+  }
+
+  const seen = new Set();  // clés "country|date|program" pour dédoublonner
+  const results = [];
+  for (const { archive, defaultDate } of sources) {
+    if (!archive.countries) continue;
     Object.keys(archive.countries).forEach(code => {
       const c = archive.countries[code];
       if (!c || c.status === 'failed' || !c.entries) return;
+      const countryDate = c.date || defaultDate;
       c.entries.forEach(e => {
-        if (matchSearch(e, query)) {
-          results.push({
-            ...e,
-            _date: c.date || date,
-            _country: code,
-            _country_name: c.country_name,
-            _flag: c.flag,
-            _source_url: c.source_url,
-            _source_name: c.source_name,
-          });
-        }
+        if (!matchSearch(e, query)) return;
+        const dedupKey = `${code}|${countryDate}|${e.program.toLowerCase()}`;
+        if (seen.has(dedupKey)) return;
+        seen.add(dedupKey);
+        results.push({
+          ...e,
+          _date: countryDate,
+          _country: code,
+          _country_name: c.country_name,
+          _flag: c.flag,
+          _source_url: c.source_url,
+          _source_name: c.source_name,
+        });
       });
     });
   }
