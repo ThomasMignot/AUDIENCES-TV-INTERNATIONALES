@@ -177,6 +177,25 @@ button:active { transform: scale(0.98); }
 }
 .num-cell { text-align: right; font-variant-numeric: tabular-nums; }
 .share-cell { color: var(--text-muted); }
+.trend {
+  display: inline-block;
+  width: 14px;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  margin-right: 4px;
+}
+.trend-up    { color: #1a7e3e; }
+.trend-down  { color: #c0392b; }
+.trend-equal { color: var(--text-muted); }
+.trend-empty {
+  display: inline-block;
+  width: 14px;
+  text-align: center;
+  color: var(--text-subtle);
+  font-size: 11px;
+  margin-right: 4px;
+}
 .empty-state {
   padding: 2rem; text-align: center;
   color: var(--text-subtle); font-size: 13px;
@@ -292,15 +311,22 @@ async function loadData(isoDate) {
 // Quand l'utilisateur tape une recherche, on charge les archives en
 // parallèle et on cherche dans tous les fichiers disponibles.
 // Cache mémoire pour ne pas re-télécharger les mêmes archives.
+//
+// Le même cache sert aussi pour la fonctionnalité "tendance" qui
+// compare l'audience d'un programme à sa dernière diffusion connue.
 
 const ARCHIVE_CACHE = new Map();  // ISO date → data | null
 const SEARCH_DAYS_BACK = 30;
+const TREND_THRESHOLD = 0.01;  // 1% : sous ce seuil → "égal"
+
+// Indique si les archives ont été préchargées (pour savoir si la
+// tendance est calculable au moment du render).
+let archivesPreloaded = false;
 
 async function loadArchive(isoDate) {
   if (ARCHIVE_CACHE.has(isoDate)) {
     return ARCHIVE_CACHE.get(isoDate);
   }
-  // On utilise latest.json si c'est la date max (commentaires Gemini frais)
   const useLatest = state.maxDate && isoDate === state.maxDate;
   const url = useLatest ? `./data/latest.json` : `./data/archive/${isoDate}.json`;
   try {
@@ -316,7 +342,6 @@ async function loadArchive(isoDate) {
 }
 
 function getDateRangeIsos(maxDateIso, daysBack) {
-  // Génère la liste des dates ISO de [maxDate-daysBack+1] à maxDate (inclus)
   const result = [];
   const max = new Date(maxDateIso + "T00:00:00");
   for (let i = 0; i < daysBack; i++) {
@@ -325,6 +350,95 @@ function getDateRangeIsos(maxDateIso, daysBack) {
     result.push(d.toISOString().slice(0, 10));
   }
   return result;
+}
+
+// Précharge les 30 derniers jours en arrière-plan, sans bloquer le
+// premier rendu. Une fois fini, on rerend pour afficher les flèches
+// de tendance qui n'étaient pas calculables avant.
+async function preloadArchives() {
+  if (!state.maxDate) return;
+  const dates = getDateRangeIsos(state.maxDate, SEARCH_DAYS_BACK);
+  await Promise.all(dates.map(loadArchive));
+  archivesPreloaded = true;
+  // Rerend pour faire apparaître les flèches de tendance
+  render();
+}
+
+// Cherche la dernière diffusion d'un programme dans le même pays,
+// avant la date de référence. Retourne {viewers} ou null si non trouvé.
+//
+// On compare les noms en lower-case et trim. On ignore les variantes
+// "Tatort: Gegen die Zeit" vs "Tatort: Spurlos" (épisodes différents)
+// en coupant tout ce qui suit ":" ou " - " pour matcher la base du titre.
+function findPreviousAiring(programName, countryCode, beforeDate) {
+  const baseTitle = normalizeTitleForCompare(programName);
+  if (!baseTitle) return null;
+
+  // Parcours par dates décroissantes à partir de beforeDate-1
+  const dates = getDateRangeIsos(state.maxDate, SEARCH_DAYS_BACK);
+  const sortedDates = dates.filter(d => d < beforeDate).sort().reverse();
+
+  for (const d of sortedDates) {
+    const archive = ARCHIVE_CACHE.get(d);
+    if (!archive || !archive.countries) continue;
+    const country = archive.countries[countryCode];
+    if (!country || !country.entries) continue;
+    for (const entry of country.entries) {
+      if (normalizeTitleForCompare(entry.program) === baseTitle) {
+        return { viewers: entry.viewers, date: country.date || d };
+      }
+    }
+  }
+  return null;
+}
+
+function normalizeTitleForCompare(title) {
+  if (!title) return "";
+  let t = title.trim().toLowerCase();
+  // Couper aux séparateurs courants pour matcher la base du titre
+  // (Tatort: Gegen die Zeit → tatort, NCIS: Los Angeles → ncis)
+  for (const sep of [": ", " : ", " - ", " – ", " — ", "<", "  "]) {
+    if (t.includes(sep)) {
+      t = t.split(sep, 1)[0].trim();
+      break;
+    }
+  }
+  return t;
+}
+
+// Calcule la tendance entre les viewers d'aujourd'hui et la dernière diffusion.
+// Retourne { direction: 'up'|'down'|'equal'|null, prevViewers, prevDate }.
+// direction = null si pas de précédent connu.
+function computeTrend(currentViewers, programName, countryCode, currentDate) {
+  if (!archivesPreloaded) return { direction: null };
+  const prev = findPreviousAiring(programName, countryCode, currentDate);
+  if (!prev) return { direction: null };
+  const diff = (currentViewers - prev.viewers) / prev.viewers;
+  let direction;
+  if (Math.abs(diff) < TREND_THRESHOLD) direction = 'equal';
+  else if (diff > 0) direction = 'up';
+  else direction = 'down';
+  return { direction, prevViewers: prev.viewers, prevDate: prev.date };
+}
+
+// Rendu HTML de l'icône de tendance.
+// Utilise un <span> tooltip-friendly avec title= qui montre l'audience précédente.
+function renderTrend(trend) {
+  if (!trend || !trend.direction) {
+    // Si les archives ne sont pas encore chargées, on affiche un placeholder
+    // discret qui sera remplacé au prochain render (après preloadArchives).
+    return archivesPreloaded
+      ? '<span class="trend-empty" title="Pas de diffusion précédente connue">·</span>'
+      : '<span class="trend-empty">·</span>';
+  }
+  const symbols = {
+    up:    { icon: '▲', cls: 'trend-up',    label: 'audience en hausse' },
+    down:  { icon: '▼', cls: 'trend-down',  label: 'audience en baisse' },
+    equal: { icon: '=', cls: 'trend-equal', label: 'audience stable' },
+  };
+  const s = symbols[trend.direction];
+  const tooltip = `${s.label} vs ${fmtViewers(trend.prevViewers)} le ${fmtDateShort(trend.prevDate)}`;
+  return `<span class="trend ${s.cls}" title="${escapeHtml(tooltip)}">${s.icon}</span>`;
 }
 
 async function searchAcrossArchives(query) {
@@ -346,7 +460,7 @@ async function searchAcrossArchives(query) {
         if (matchSearch(e, query)) {
           results.push({
             ...e,
-            _date: c.date || date,  // date du pays (peut différer de la date archive)
+            _date: c.date || date,
             _country: code,
             _country_name: c.country_name,
             _flag: c.flag,
@@ -459,6 +573,23 @@ function renderEntryRow(entry, ctx, countryCode) {
     ? `<a href="${escapeHtml(wikiUrl)}" target="_blank" rel="noopener">${escapeHtml(entry.program)}</a>`
     : escapeHtml(entry.program);
 
+  // Flèche de tendance : compare aux archives passées pour le même
+  // programme dans le même pays. Si pas d'archive précédente trouvée
+  // (programme jamais diffusé avant dans nos données), pas de flèche.
+  // La date de référence est celle du pays (entry.date n'existe pas,
+  // on doit récupérer celle du country) — pour les rendus simples
+  // on prend state.data.date par défaut.
+  const refCountry = countryCode || entry._country;
+  const refDate = entry._date  // mode recherche multi-dates
+    || (state.data && state.data.countries && state.data.countries[refCountry]
+        ? state.data.countries[refCountry].date
+        : null)
+    || (state.data && state.data.date);
+  const trend = refCountry && refDate
+    ? computeTrend(entry.viewers, entry.program, refCountry, refDate)
+    : { direction: null };
+  const trendIcon = renderTrend(trend);
+
   const prefix = ctx === 'champions'
     ? `<td class="rank">${entry._globalRank <= 3 ? ['🥇','🥈','🥉'][entry._globalRank - 1] : entry._globalRank}</td><td><span style="font-size:13px">${entry._flag}</span></td>`
     : `<td class="rank">${entry.rank}</td>`;
@@ -466,7 +597,7 @@ function renderEntryRow(entry, ctx, countryCode) {
     ${prefix}
     <td><span class="channel-pill" style="background:${c.bg}; color:${c.fg};">${escapeHtml(entry.channel)}</span></td>
     <td><div class="program-name">${programLink}${categoryBadge}</div>${frLine}</td>
-    <td class="num-cell">${fmtViewers(entry.viewers)}</td>
+    <td class="num-cell">${trendIcon}${fmtViewers(entry.viewers)}</td>
     <td class="num-cell share-cell">${fmtPDM(entry.share)}</td>
   </tr>`;
 }
@@ -580,12 +711,14 @@ function renderSearchResults(results) {
       const programLink = wikiUrl
         ? `<a href="${escapeHtml(wikiUrl)}" target="_blank" rel="noopener">${escapeHtml(e.program)}</a>`
         : escapeHtml(e.program);
+      const trend = computeTrend(e.viewers, e.program, e._country, e._date);
+      const trendIcon = renderTrend(trend);
       return `<tr>
         <td class="rank">${e.rank}</td>
         <td><span style="font-size:14px">${e._flag}</span></td>
         <td><span class="channel-pill" style="background:${c.bg}; color:${c.fg};">${escapeHtml(e.channel)}</span></td>
         <td><div class="program-name">${programLink}${categoryBadge}</div>${frLine}</td>
-        <td class="num-cell">${fmtViewers(e.viewers)}</td>
+        <td class="num-cell">${trendIcon}${fmtViewers(e.viewers)}</td>
         <td class="num-cell share-cell">${fmtPDM(e.share)}</td>
       </tr>`;
     }).join('');
@@ -792,6 +925,11 @@ document.getElementById('btn-press').addEventListener('click', generatePress);
   updateHeader();
   renderTabs();
   render();
+
+  // Précharge les 30 derniers jours en arrière-plan pour calculer
+  // les flèches de tendance. Le rerender se fait automatiquement
+  // une fois le préchargement terminé.
+  preloadArchives();
 })();
 </script>
 
