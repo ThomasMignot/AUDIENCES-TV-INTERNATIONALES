@@ -299,7 +299,12 @@ async function loadData(isoDate) {
   const useLatest = !isoDate || (state.maxDate && isoDate === state.maxDate);
   const url = useLatest ? `./data/latest.json` : `./data/archive/${isoDate}.json`;
   try {
-    const r = await fetch(url + "?t=" + Date.now());
+    // Force no-cache pour latest.json (change souvent, jusqu'à 6× par jour).
+    // Pour les archives passées, le cache navigateur est OK.
+    const fetchOpts = useLatest
+      ? { cache: 'no-cache', headers: { 'Cache-Control': 'no-cache' } }
+      : {};
+    const r = await fetch(url + "?t=" + Date.now(), fetchOpts);
     if (!r.ok) throw new Error("not found");
     return await r.json();
   } catch (e) {
@@ -330,7 +335,11 @@ async function loadArchive(isoDate) {
   const useLatest = state.maxDate && isoDate === state.maxDate;
   const url = useLatest ? `./data/latest.json` : `./data/archive/${isoDate}.json`;
   try {
-    const r = await fetch(url + "?t=" + Date.now());
+    // Force no-cache pour latest.json (change souvent)
+    const fetchOpts = useLatest
+      ? { cache: 'no-cache', headers: { 'Cache-Control': 'no-cache' } }
+      : {};
+    const r = await fetch(url + "?t=" + Date.now(), fetchOpts);
     if (!r.ok) throw new Error("not found");
     const data = await r.json();
     ARCHIVE_CACHE.set(isoDate, data);
@@ -452,11 +461,28 @@ async function searchAcrossArchives(query) {
   if (!state.maxDate) return [];
   const dates = getDateRangeIsos(state.maxDate, SEARCH_DAYS_BACK);
 
-  // On force le chargement de latest.json en plus des archives par date
+  console.group(`🔍 Recherche "${query}"`);
+  console.log('state.maxDate =', state.maxDate);
+  console.log('dates considérées =', dates);
+
+  // IMPORTANT : on force le rechargement de latest.json sans cache navigateur
+  // pour s'assurer d'avoir la version la plus fraîche (les scrapers tournent
+  // 6× par jour donc latest.json change souvent).
+  // Pour les archives plus anciennes, on garde le cache mémoire (elles ne
+  // changent quasi jamais une fois écrites).
+
+  // Vide explicitement l'éventuelle entrée maxDate du cache pour la
+  // forcer à se re-télécharger
+  ARCHIVE_CACHE.delete(state.maxDate);
+
   const archivesPromise = Promise.all(dates.map(loadArchive));
+  // Force fetch de latest.json sans cache navigateur (no-cache + timestamp)
   const latestPromise = (async () => {
     try {
-      const r = await fetch(`./data/latest.json?t=${Date.now()}`);
+      const r = await fetch(`./data/latest.json?nocache=${Date.now()}`, {
+        cache: 'no-cache',
+        headers: { 'Cache-Control': 'no-cache' },
+      });
       if (!r.ok) return null;
       return await r.json();
     } catch (e) {
@@ -466,6 +492,17 @@ async function searchAcrossArchives(query) {
 
   const [archives, latest] = await Promise.all([archivesPromise, latestPromise]);
 
+  console.log('latest.json date =', latest?.date);
+  console.log('latest.json countries =', latest?.countries ? Object.keys(latest.countries) : null);
+  if (latest?.countries) {
+    Object.keys(latest.countries).forEach(code => {
+      const c = latest.countries[code];
+      console.log(`  ${code} (date ${c.date}, ${c.entries?.length || 0} entries):`,
+        c.entries?.map(e => e.program));
+    });
+  }
+  console.log('Archives chargées :', archives.filter(a => a).length, '/', archives.length);
+
   // Construit la liste {archive, defaultDate} en commençant par latest
   // (priorité aux données fraîches en cas de doublon).
   const sources = [];
@@ -474,8 +511,10 @@ async function searchAcrossArchives(query) {
     if (archives[i]) sources.push({ archive: archives[i], defaultDate: dates[i] });
   }
 
-  const seen = new Set();  // clés "country|date|program" pour dédoublonner
+  const seen = new Set();
   const results = [];
+  let totalChecked = 0;
+  let totalMatched = 0;
   for (const { archive, defaultDate } of sources) {
     if (!archive.countries) continue;
     Object.keys(archive.countries).forEach(code => {
@@ -483,9 +522,14 @@ async function searchAcrossArchives(query) {
       if (!c || c.status === 'failed' || !c.entries) return;
       const countryDate = c.date || defaultDate;
       c.entries.forEach(e => {
+        totalChecked++;
         if (!matchSearch(e, query)) return;
+        totalMatched++;
         const dedupKey = `${code}|${countryDate}|${e.program.toLowerCase()}`;
-        if (seen.has(dedupKey)) return;
+        if (seen.has(dedupKey)) {
+          console.log(`  [dédup] skip ${dedupKey}`);
+          return;
+        }
         seen.add(dedupKey);
         results.push({
           ...e,
@@ -496,9 +540,13 @@ async function searchAcrossArchives(query) {
           _source_url: c.source_url,
           _source_name: c.source_name,
         });
+        console.log(`  [match] ${code} ${countryDate} → ${e.program}`);
       });
     });
   }
+
+  console.log(`Total : ${totalChecked} entrées vérifiées, ${totalMatched} matches, ${results.length} résultats finaux`);
+  console.groupEnd();
 
   // Tri : par date décroissante, puis par viewers décroissant à date égale
   results.sort((a, b) => {
@@ -577,10 +625,13 @@ function renderTabs() {
 
 function matchSearch(entry, q) {
   if (!q) return true;
-  const lower = q.toLowerCase();
-  return entry.program.toLowerCase().includes(lower) ||
-         (entry.program_fr && entry.program_fr.toLowerCase().includes(lower)) ||
-         entry.channel.toLowerCase().includes(lower);
+  // Recherche insensible à la casse ET aux accents (Tatort/tatort/Tätort/Tatört)
+  const normalize = s => (s || '').toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const lower = normalize(q);
+  return normalize(entry.program).includes(lower) ||
+         (entry.program_fr && normalize(entry.program_fr).includes(lower)) ||
+         normalize(entry.channel).includes(lower);
 }
 
 function escapeHtml(s) {
