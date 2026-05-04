@@ -148,47 +148,6 @@
       "commentary": "La soirée du 3 mai voit La 1 s'installer en tête des audiences avec 1,26 million de téléspectateurs pour sa \"Pelicula de la Semana\", un score en léger retrait par rapport à la semaine précédente (1,33 M). La Sexta talonne avec 1,20 million pour un magazine d'information, démontrant une capacité à capter une part significative du public. Telecinco, avec \"Supervivientes: Conexion Honduras\", enregistre 870 000 téléspectateurs et 11,2% de part de marché, un chiffre inférieur à ses performances habituelles sur ce programme phare, notamment comparé aux 14,6% du 30 avril. Antena 3, habituellement dominant en access avec \"El Hormiguero\", propose une fiction qui n'atteint que 812 000 curieux, marquant une baisse par rapport à ses programmes de divertissement ou de fiction diffusés plus tôt dans la semaine. La compétition pour le leadership du prime time, bien que dominée par Antena 3 sur la semaine écoulée, semble plus ouverte ce dimanche, avec une fragmentation des audiences entre les chaînes généralistes et une offre sportive qui capte une part de marché notable.",
       "commentary_date": "2026-05-03"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-02",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Geen concurrentie",
-          "program_fr": null,
-          "viewers": 580000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-derde-seizoen-te-veel-finale-wie-is-de-mol-scoort-historisch-laag",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Geen+concurrentie%22+RTL+4+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "Niet gezapt",
-          "program_fr": null,
-          "viewers": 389000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-derde-seizoen-te-veel-finale-wie-is-de-mol-scoort-historisch-laag",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Niet+gezapt%22+SBS+6+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-04T12:23:59.957034Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le prime time du 2 mai voit RTL 4 s'imposer avec « Geen concurrentie » et 580 000 téléspectateurs, une performance notable dans un marché néerlandais où NPO 1 domine habituellement les soirées. Cette audience pour RTL 4 représente une hausse significative par rapport à ses performances des jours précédents, où la chaîne n'apparaît que sporadiquement dans le trio de tête. La semaine écoulée a été largement marquée par la suprématie de NPO 1, qui a remporté 5 des 6 soirées, atteignant des pics comme les 949 000 téléspectateurs pour « Het verhaal van Nederland ». La performance de SBS 6 avec « Niet gezapt » (389 k) confirme une certaine stabilité, mais la chaîne reste distancée par les deux principaux acteurs. La compétition semble donc se concentrer entre NPO 1 et RTL 4, cette dernière cherchant à consolider ses acquis face à un diffuseur public aux programmes fédérateurs.",
-      "commentary_date": "2026-05-02"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -268,87 +227,7 @@
       "error": null,
       "commentary": "La fiction « Roberta Valente » sur Rai 1 s'impose en tête des audiences du prime time italien avec 3,42 millions de téléspectateurs et 19,7% de part de marché. Ce score est en progression par rapport à la semaine précédente, où le même programme avait rassemblé 3,14 millions de personnes (20,7% PDM) le 26 avril. Rai 3 confirme sa position de challenger sur le créneau information avec « Report », qui attire 1,85 million de curieux, une légère hausse par rapport à ses scores passés. Canale 5, malgré une offre de fiction et de divertissement variée, se positionne en troisième position avec « Racconto di una Notte », démontrant une certaine difficulté à rivaliser avec les performances de Rai 1 sur ce type de contenu. La chaîne privée enregistre 1,58 million de téléspectateurs, un chiffre stable par rapport à la semaine précédente. La TNT confirme sa capacité à capter des audiences significatives, notamment avec le sport sur TV8 et le divertissement sur Nove, qui se disputent une part de marché autour de 7%.",
       "commentary_date": "2026-05-03"
-    },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-05-02",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-lepreuve-des-battles-dans-the-voice-sur-tf1/654625",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LES MYSTERES DES GROTTES DU REGULUS",
-          "program_fr": null,
-          "viewers": 4080000,
-          "share": 24.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-lepreuve-des-battles-dans-the-voice-sur-tf1/654625",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Myst%C3%A8res_des_grottes_du_R%C3%A9gulus"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE VOICE LA PLUS BELLE VOIX",
-          "program_fr": "The Voice",
-          "viewers": 2666000,
-          "share": 15.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-lepreuve-des-battles-dans-the-voice-sur-tf1/654625",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_%3A_La_Plus_Belle_Voix"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "100 POUR 100 LOGIQUE: LA REPONSE EST SOUS VOS YEUX",
-          "program_fr": null,
-          "viewers": 2498000,
-          "share": 16.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-lepreuve-des-battles-dans-the-voice-sur-tf1/654625",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/100_%25_logique"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LES TRAITRES SERONT-ILS DEMASQUES ?",
-          "program_fr": null,
-          "viewers": 1164000,
-          "share": 6.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-lepreuve-des-battles-dans-the-voice-sur-tf1/654625",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
-          "program_fr": null,
-          "viewers": 930000,
-          "share": 5.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-lepreuve-des-battles-dans-the-voice-sur-tf1/654625",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
-        }
-      ],
-      "scraped_at": "2026-05-04T12:23:45.504383Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction française diffusée sur France 3 s'impose en tête des audiences ce jeudi 2 mai, attirant 4,08 millions de téléspectateurs et captant 24,9% de part de marché. Cette performance permet à la chaîne publique de confirmer sa domination sur la case du prime time, qu'elle a déjà occupée lors de trois soirées de la semaine écoulée. TF1, avec son divertissement phare « The Voice », se positionne en deuxième place avec 2,67 millions de curieux (15,9% PDM), un score inférieur à ses performances des 25 et 27 avril, où elle avait dépassé les 3 millions de téléspectateurs. France 2, avec « 100 pour 100 logique », parvient à se maintenir à un niveau d'audience honorable (2,50 M, 16,6% PDM), mais ne parvient pas à déloger la fiction de France 3. La chaîne M6, proposant « Les Traîtres », enregistre une audience plus modeste (1,16 M, 6,9% PDM), démontrant la difficulté de ce type de programme à rivaliser avec les offres des deux principales chaînes généralistes dans cette case.",
-      "commentary_date": "2026-05-02"
     }
   },
-  "last_updated": "2026-05-04T12:23:59.959791Z"
+  "last_updated": "2026-05-04T12:24:29.829197Z"
 }
