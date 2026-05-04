@@ -288,6 +288,85 @@ async function loadData(isoDate) {
   }
 }
 
+// ─── Recherche multi-archives (30 derniers jours) ─────────────────
+// Quand l'utilisateur tape une recherche, on charge les archives en
+// parallèle et on cherche dans tous les fichiers disponibles.
+// Cache mémoire pour ne pas re-télécharger les mêmes archives.
+
+const ARCHIVE_CACHE = new Map();  // ISO date → data | null
+const SEARCH_DAYS_BACK = 30;
+
+async function loadArchive(isoDate) {
+  if (ARCHIVE_CACHE.has(isoDate)) {
+    return ARCHIVE_CACHE.get(isoDate);
+  }
+  // On utilise latest.json si c'est la date max (commentaires Gemini frais)
+  const useLatest = state.maxDate && isoDate === state.maxDate;
+  const url = useLatest ? `./data/latest.json` : `./data/archive/${isoDate}.json`;
+  try {
+    const r = await fetch(url + "?t=" + Date.now());
+    if (!r.ok) throw new Error("not found");
+    const data = await r.json();
+    ARCHIVE_CACHE.set(isoDate, data);
+    return data;
+  } catch (e) {
+    ARCHIVE_CACHE.set(isoDate, null);
+    return null;
+  }
+}
+
+function getDateRangeIsos(maxDateIso, daysBack) {
+  // Génère la liste des dates ISO de [maxDate-daysBack+1] à maxDate (inclus)
+  const result = [];
+  const max = new Date(maxDateIso + "T00:00:00");
+  for (let i = 0; i < daysBack; i++) {
+    const d = new Date(max);
+    d.setDate(d.getDate() - i);
+    result.push(d.toISOString().slice(0, 10));
+  }
+  return result;
+}
+
+async function searchAcrossArchives(query) {
+  // Charge en parallèle les 30 derniers jours d'archives
+  if (!state.maxDate) return [];
+  const dates = getDateRangeIsos(state.maxDate, SEARCH_DAYS_BACK);
+  const archives = await Promise.all(dates.map(loadArchive));
+
+  // Pour chaque archive, on collecte les entrées qui matchent
+  const results = [];
+  for (let i = 0; i < archives.length; i++) {
+    const archive = archives[i];
+    if (!archive || !archive.countries) continue;
+    const date = dates[i];
+    Object.keys(archive.countries).forEach(code => {
+      const c = archive.countries[code];
+      if (!c || c.status === 'failed' || !c.entries) return;
+      c.entries.forEach(e => {
+        if (matchSearch(e, query)) {
+          results.push({
+            ...e,
+            _date: c.date || date,  // date du pays (peut différer de la date archive)
+            _country: code,
+            _country_name: c.country_name,
+            _flag: c.flag,
+            _source_url: c.source_url,
+            _source_name: c.source_name,
+          });
+        }
+      });
+    });
+  }
+
+  // Tri : par date décroissante, puis par viewers décroissant à date égale
+  results.sort((a, b) => {
+    if (a._date !== b._date) return b._date.localeCompare(a._date);
+    return b.viewers - a.viewers;
+  });
+
+  return results;
+}
+
 function fmtViewers(n) {
   if (n >= 1_000_000) return (n / 1_000_000).toFixed(2).replace('.', ',') + ' M';
   return Math.round(n / 1000) + ' K';
@@ -475,13 +554,85 @@ function renderChampions() {
   </div>`;
 }
 
-function render() {
+function renderSearchResults(results) {
+  if (results.length === 0) {
+    return `<div class="empty-state">
+      Aucun résultat trouvé sur les ${SEARCH_DAYS_BACK} derniers jours pour « ${escapeHtml(state.search)} ».
+    </div>`;
+  }
+
+  // Grouper par date pour un affichage chronologique
+  const byDate = {};
+  results.forEach(r => {
+    if (!byDate[r._date]) byDate[r._date] = [];
+    byDate[r._date].push(r);
+  });
+  const sortedDates = Object.keys(byDate).sort().reverse();
+
+  const blocks = sortedDates.map(date => {
+    const rows = byDate[date].map(e => {
+      const c = COLOR_MAP[e.channel_color] || COLOR_MAP.gray;
+      const frLine = e.program_fr ? `<div class="program-fr">↳ ${escapeHtml(e.program_fr)}</div>` : '';
+      const categoryBadge = e.category && e.category !== 'autre'
+        ? `<span class="category-badge">${e.category_emoji || '📺'} ${e.category}</span>`
+        : '';
+      const wikiUrl = e.wikipedia_url || fallbackWikipediaUrl(e.program, e._country);
+      const programLink = wikiUrl
+        ? `<a href="${escapeHtml(wikiUrl)}" target="_blank" rel="noopener">${escapeHtml(e.program)}</a>`
+        : escapeHtml(e.program);
+      return `<tr>
+        <td class="rank">${e.rank}</td>
+        <td><span style="font-size:14px">${e._flag}</span></td>
+        <td><span class="channel-pill" style="background:${c.bg}; color:${c.fg};">${escapeHtml(e.channel)}</span></td>
+        <td><div class="program-name">${programLink}${categoryBadge}</div>${frLine}</td>
+        <td class="num-cell">${fmtViewers(e.viewers)}</td>
+        <td class="num-cell share-cell">${fmtPDM(e.share)}</td>
+      </tr>`;
+    }).join('');
+    return `<div class="country-section">
+      <div class="country-header">
+        <h3>${fmtDateFR(date)}</h3>
+        <span class="country-source">${byDate[date].length} résultat${byDate[date].length > 1 ? 's' : ''}</span>
+      </div>
+      <table class="table">
+        <colgroup>
+          <col style="width:32px"><col style="width:30px"><col style="width:80px"><col>
+          <col style="width:90px"><col style="width:70px">
+        </colgroup>
+        <thead><tr>
+          <th>#</th><th></th><th>Chaîne</th><th>Émission</th>
+          <th style="text-align:right">Téléspec.</th>
+          <th style="text-align:right">PDM</th>
+        </tr></thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>`;
+  });
+
+  return `<div class="search-results-header" style="font-size:13px; color: var(--text-muted); margin-bottom: 1rem;">
+    🔍 ${results.length} résultat${results.length > 1 ? 's' : ''} pour « ${escapeHtml(state.search)} »
+    sur les ${SEARCH_DAYS_BACK} derniers jours
+  </div>` + blocks.join('');
+}
+
+async function render() {
   const main = document.getElementById('main-content');
   if (!state.data) {
     main.innerHTML = `<div class="empty-state">Aucune donnée disponible pour cette date.</div>`;
     return;
   }
   document.getElementById('press-modal').style.display = 'none';
+
+  // Si une recherche est en cours, on cherche dans toutes les archives
+  // (sauf si on est explicitement sur la vue Champions du jour, où on
+  // veut garder le focus sur la date courante).
+  if (state.search && state.view !== 'champions') {
+    main.innerHTML = `<div class="loading">Recherche dans les ${SEARCH_DAYS_BACK} derniers jours…</div>`;
+    const results = await searchAcrossArchives(state.search);
+    main.innerHTML = renderSearchResults(results);
+    return;
+  }
+
   if (state.view === 'champions') {
     main.innerHTML = renderChampions();
   } else if (state.view === 'all') {
@@ -595,9 +746,19 @@ function generatePress() {
   modal.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
+// Debounce : attend 300ms après la dernière frappe avant de déclencher
+// la recherche multi-archives (évite de spammer le réseau).
+let searchDebounceTimer = null;
 document.getElementById('search').addEventListener('input', e => {
   state.search = e.target.value;
-  render();
+  if (searchDebounceTimer) clearTimeout(searchDebounceTimer);
+  // Si la recherche est vide, on rerend immédiatement (revient à la vue normale)
+  if (!state.search) {
+    render();
+    return;
+  }
+  // Sinon, on attend que l'utilisateur ait fini de taper
+  searchDebounceTimer = setTimeout(() => render(), 300);
 });
 document.getElementById('date-picker').addEventListener('change', async e => {
   const iso = e.target.value;
