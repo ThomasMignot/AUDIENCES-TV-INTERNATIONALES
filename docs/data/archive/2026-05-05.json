@@ -1,6 +1,86 @@
 {
   "date": "2026-05-05",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-05",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CAPITAINE MARLEAU \\ COMPAGNON",
+          "program_fr": null,
+          "viewers": 3923000,
+          "share": 22.4,
+          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LES AVENTURIERS DE KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 10",
+          "program_fr": null,
+          "viewers": 3035000,
+          "share": 16.7,
+          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_%3A_Les_Reliques_du_destin"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "UN PAS DE COTE THEATRE",
+          "program_fr": null,
+          "viewers": 1128000,
+          "share": 6.3,
+          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/C%C3%B4t%C3%A9_cour_et_c%C3%B4t%C3%A9_jardin"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CITADEL \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 1068000,
+          "share": 5.7,
+          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9pisodes_de_Star_Wars%3A_The_Clone_Wars"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "USTENSILES DE CUISINE : UN BUSINESS LOUCHE",
+          "program_fr": null,
+          "viewers": 778000,
+          "share": 4.2,
+          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ustensile_de_cuisine"
+        }
+      ],
+      "scraped_at": "2026-05-06T13:20:35.246988Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 5 mai, France 2 s'impose avec une fiction, \"Capitaine Marleau\", qui enregistre 3,92 millions de téléspectateurs et 22,4% de part d'audience, confirmant la puissance de ce rendez-vous face à la concurrence. TF1, avec \"Koh-Lanta\", se positionne en seconde place, attirant 3,04 millions de personnes, soit 16,7% de PDA, une performance solide mais inférieure à celle de sa concurrente directe. La troisième chaîne publique, France 3, qui avait mené le classement trois soirs cette semaine, se retrouve cette fois en retrait avec une offre théâtrale à 1,13 million de curieux. M6, avec le lancement de la série \"Citadel\", peine à dépasser le million de téléspectateurs (1,07 M, 5,7% de PDA), illustrant la difficulté de s'imposer face aux locomotives des chaînes historiques. La fragmentation de l'audience, déjà soulignée par la présence de la TNT, semble toujours contraindre les chaînes à rechercher des marqueurs forts pour fidéliser leur public.",
+      "commentary_date": "2026-05-05"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -148,47 +228,6 @@
       "commentary": "Le programme d'access d'Antena 3, \"El Hormiguero\", confirme sa position dominante avec 12.3% de part de marché, malgré une légère érosion par rapport aux 16h du 4 mai (12.7%). La rencontre de Ligue des Champions sur Movistar Liga de Campeones se positionne en deuxième force, témoignant de la capacité du sport à capter une audience significative, dépassant Telecinco et sa télé-réalité \"La Isla de las Tentaciones\". La chaîne publique La 1, avec \"La Revuelta\", maintient une présence solide dans le trio de tête, signe d'une stratégie de contre-programmation payante. La compétition pour la deuxième place du prime reste vive, avec Movistar Liga de Campeones et Telecinco se disputant l'audience, tandis que la TNT peine à s'immiscer dans ce classement dominé par les généralistes et les chaînes thématiques sportives. Les chiffres de ce 5 mai s'inscrivent dans la tendance de la semaine, où Antena 3 a mené quatre soirées sur sept.",
       "commentary_date": "2026-05-05"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-05",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Het Bevrijdingsconcert",
-          "program_fr": null,
-          "viewers": 1100000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-bevrijdingsconcert-maakt-indruk-reacties-splinter-chabot-tineke-schouten",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Het+Bevrijdingsconcert%22+NPO+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "De Bondgenoten",
-          "program_fr": null,
-          "viewers": 915000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-bevrijdingsconcert-maakt-indruk-reacties-splinter-chabot-tineke-schouten",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22De+Bondgenoten%22+SBS+6+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-06T13:20:48.971004Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "La diffusion du « Het Bevrijdingsconcert » sur NPO 1 enregistre 1,10 million de téléspectateurs ce 5 mai, une performance solide dans un marché néerlandais où les audiences individuelles restent contenues. Ce chiffre contraste avec les 809 000 téléspectateurs pour « Een Vergetelijk Mooie Reis » la semaine précédente, marquant une hausse pour la chaîne publique. La fiction de SBS 6, « De Bondgenoten », se positionne en deuxième place avec 915 000 spectateurs, une audience significative pour la chaîne privée face à la programmation événementielle de NPO 1. L'historique de la semaine précédente montre NPO 1 en tête du prime time sur quatre soirées, confortant sa position de leader sur la période. La comparaison avec le 1,95 million de téléspectateurs pour la « Dodenherdenking » le 4 mai souligne la nature fluctuante des audiences lors de soirées spéciales. La présence de SBS 6 et de RTL 4 dans les classements hebdomadaires atteste de la compétition entre chaînes privées et publiques pour capter l'attention des téléspectateurs.",
-      "commentary_date": "2026-05-05"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -269,86 +308,47 @@
       "commentary": "Le 5 mai, Rai 1 retrouve la tête du prime time avec la fiction « Il Commissario Montalbano » et 2,95 millions de téléspectateurs, soit 17,5% de part de marché. Ce score marque un léger recul par rapport à la fiction du 30 avril (« Uno Sbirro in Appennino » à 3,02 M, 18,9% PDM), mais reste supérieur à la moyenne des succès de Rai 1 observés sur la semaine écoulée. Canale 5, malgré la présence de son divertissement « Grande Fratello Vip » (2,22 M, 18,6% PDM), ne parvient pas à réitérer les performances de ses deux soirées précédentes qui dépassaient les 2,7 millions de curieux. La chaîne privée avait pourtant dominé quatre des sept soirées précédentes, témoignant d'une lutte concurrentielle intense pour la première place du prime time. La chaîne d'information La7 confirme sa position de troisième acteur, avec « DiMartedì » atteignant 1,54 million de téléspectateurs, un chiffre stable par rapport à la semaine précédente.",
       "commentary_date": "2026-05-05"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-05",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CAPITAINE MARLEAU \\ COMPAGNON",
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Het Bevrijdingsconcert",
           "program_fr": null,
-          "viewers": 3923000,
-          "share": 22.4,
-          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
+          "viewers": 1100000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-bevrijdingsconcert-maakt-indruk-reacties-splinter-chabot-tineke-schouten",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Het+Bevrijdingsconcert%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "TF1",
+          "channel": "SBS 6",
           "channel_color": "blue",
-          "program": "LES AVENTURIERS DE KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 10",
+          "program": "De Bondgenoten",
           "program_fr": null,
-          "viewers": 3035000,
-          "share": 16.7,
-          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_%3A_Les_Reliques_du_destin"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "UN PAS DE COTE THEATRE",
-          "program_fr": null,
-          "viewers": 1128000,
-          "share": 6.3,
-          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/C%C3%B4t%C3%A9_cour_et_c%C3%B4t%C3%A9_jardin"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CITADEL \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 1068000,
-          "share": 5.7,
-          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
+          "viewers": 915000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-bevrijdingsconcert-maakt-indruk-reacties-splinter-chabot-tineke-schouten",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9pisodes_de_Star_Wars%3A_The_Clone_Wars"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "USTENSILES DE CUISINE : UN BUSINESS LOUCHE",
-          "program_fr": null,
-          "viewers": 778000,
-          "share": 4.2,
-          "source_url": "https://www.ozap.com/actu/audiences-de-retour-en-inedit-sur-france-2-capitaine-marleau-a-t-elle-surclasse-koh-lanta-sur-tf1/654972",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ustensile_de_cuisine"
+          "wikipedia_url": "https://www.google.com/search?q=%22De+Bondgenoten%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-05-06T13:20:35.246988Z",
-      "status": "ok",
+      "scraped_at": "2026-05-06T13:20:48.971004Z",
+      "status": "partial",
       "error": null,
-      "commentary": "Ce 5 mai, France 2 s'impose avec une fiction, \"Capitaine Marleau\", qui enregistre 3,92 millions de téléspectateurs et 22,4% de part d'audience, confirmant la puissance de ce rendez-vous face à la concurrence. TF1, avec \"Koh-Lanta\", se positionne en seconde place, attirant 3,04 millions de personnes, soit 16,7% de PDA, une performance solide mais inférieure à celle de sa concurrente directe. La troisième chaîne publique, France 3, qui avait mené le classement trois soirs cette semaine, se retrouve cette fois en retrait avec une offre théâtrale à 1,13 million de curieux. M6, avec le lancement de la série \"Citadel\", peine à dépasser le million de téléspectateurs (1,07 M, 5,7% de PDA), illustrant la difficulté de s'imposer face aux locomotives des chaînes historiques. La fragmentation de l'audience, déjà soulignée par la présence de la TNT, semble toujours contraindre les chaînes à rechercher des marqueurs forts pour fidéliser leur public.",
+      "commentary": "La diffusion du « Het Bevrijdingsconcert » sur NPO 1 enregistre 1,10 million de téléspectateurs ce 5 mai, une performance solide dans un marché néerlandais où les audiences individuelles restent contenues. Ce chiffre contraste avec les 809 000 téléspectateurs pour « Een Vergetelijk Mooie Reis » la semaine précédente, marquant une hausse pour la chaîne publique. La fiction de SBS 6, « De Bondgenoten », se positionne en deuxième place avec 915 000 spectateurs, une audience significative pour la chaîne privée face à la programmation événementielle de NPO 1. L'historique de la semaine précédente montre NPO 1 en tête du prime time sur quatre soirées, confortant sa position de leader sur la période. La comparaison avec le 1,95 million de téléspectateurs pour la « Dodenherdenking » le 4 mai souligne la nature fluctuante des audiences lors de soirées spéciales. La présence de SBS 6 et de RTL 4 dans les classements hebdomadaires atteste de la compétition entre chaînes privées et publiques pour capter l'attention des téléspectateurs.",
       "commentary_date": "2026-05-05"
     }
   },
-  "last_updated": "2026-05-06T13:20:48.973974Z"
+  "last_updated": "2026-05-06T13:22:15.747106Z"
 }
