@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-06",
+  "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-06",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canal+",
+          "channel_color": "green",
+          "program": "EMISSIONS CRYPTEES",
+          "program_fr": null,
+          "viewers": 3441000,
+          "share": 17.4,
+          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENCHAINES \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 2117000,
+          "share": 10.9,
+          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Frankie_Muniz"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "GREY'S ANATOMY \\ UN GESTE D'AMOUR",
+          "program_fr": "Grey's Anatomy",
+          "viewers": 1991000,
+          "share": 10.2,
+          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "SECRETS D'HISTOIRE \\ MME DE STAEL, LA LIBERTE A TOUT PRIX",
+          "program_fr": null,
+          "viewers": 1546000,
+          "share": 8.7,
+          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAUCHEMAR EN CUISINE \\ LANGERON",
+          "program_fr": null,
+          "viewers": 1319000,
+          "share": 6.8,
+          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
+        }
+      ],
+      "scraped_at": "2026-05-07T13:20:56.731427Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Canal+ s'impose en tête des audiences du prime time du 6 juin avec 3,44 millions de téléspectateurs et 17,4% de part de marché pour \"Émissions cryptées\", une performance notable face aux chaînes historiques. France 2 et TF1 se disputent la deuxième place, avec respectivement 2,12 millions (10,9% PDM) et 1,99 million (10,2% PDM) pour leurs offres de fiction. France 3 et M6 ferment ce classement des chaînes gratuites, avec des scores de 1,55 million (8,7% PDM) et 1,32 million (6,8% PDM) pour leurs magazines d'information. L'absence de données historiques récentes empêche toute comparaison immédiate sur l'évolution des performances de ces programmes. La domination de la chaîne cryptée sur les généralistes souligne une tendance de fragmentation des audiences, accentuée par la TNT, mais qui ne se traduit pas nécessairement par une érosion systématique des offres de flux traditionnelles.",
+      "commentary_date": "2026-06-06"
+    }
+  },
+  "last_updated": "2026-05-07T13:22:17.150158Z"
+}

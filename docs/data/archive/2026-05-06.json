@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-05-06",
   "countries": {
     "DE": {
       "country_code": "DE",
@@ -161,47 +161,6 @@
       "commentary": "Le divertissement d'Antena 3, « El Hormiguero », s'affirme comme un pilier de la case access, réunissant 1,79 million de téléspectateurs et 14,3% de part de marché ce 6 mai. Cette performance place la chaîne en tête des audiences du prime, une position qu'elle a occupée quatre soirs sur les sept derniers jours. La chaîne publique La 1 voit son divertissement « La Revuelta » atteindre 1,20 million de curieux (9,7% PDM), se classant derrière « El Hormiguero » mais devant Cuatro et Telecinco. Ce dernier, avec « La Isla de las Tentaciones », enregistre 1,11 million de téléspectateurs (8,9% PDM), un score inférieur à celui de la veille (1,31 M, 10,5%). La compétition pour le leadership du prime time reste donc marquée par la puissance de l'access d'Antena 3, qui assure un lead-in solide pour les programmes suivants, tandis que les chaînes concurrentes cherchent à capter l'audience avec des formats variés, du divertissement à la retransmission sportive.",
       "commentary_date": "2026-05-06"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-06",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Het Verhaal van Nederland",
-          "program_fr": null,
-          "viewers": 887000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-start-nieuw-seizoen-zeeman-confronteert-rtl5",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Het+Verhaal+van+Nederland%22+NPO+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Married at First Sight",
-          "program_fr": "Mariés au premier regard",
-          "viewers": 624000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-start-nieuw-seizoen-zeeman-confronteert-rtl5",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Married+at+First+Sight%22+RTL+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-07T13:21:14.966264Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le 6 mai 2026, NPO 1 s'impose en tête du prime time néerlandais avec 887 000 téléspectateurs pour le documentaire « Het Verhaal van Nederland », tandis que RTL 4 réunit 624 000 curieux pour « Married at First Sight ». Cette performance de NPO 1 se situe en retrait par rapport à son score du 29 avril (949 000 téléspectateurs) pour le même programme, mais reste supérieure à celui du 1er mai avec « The Voice of Holland » (881 000). La chaîne publique mène ainsi la concurrence sur la semaine, ayant occupé la première place du podium lors de quatre soirées sur six. Le programme de RTL 4 affiche quant à lui une légère progression par rapport à la semaine précédente. La case du lundi et du mardi, marquées par des événements commémoratifs et des programmes de flux, avaient précédemment vu NPO 1 enregistrer des chiffres significativement plus élevés.",
-      "commentary_date": "2026-05-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +241,47 @@
       "commentary": "Ce 6 mai, Canale 5 reprend la tête du prime time avec « Battiti Live Spring » et 18.0% de part de marché, contre 16.7% la semaine précédente pour une offre similaire. La chaîne Mediaset confirme sa domination sur la semaine, ayant occupé la première place quatre soirs sur sept. Rai 3, avec « Chi l’ha Visto? », se maintient à un niveau solide en deuxième position avec 11.6% de PDM, une légère progression par rapport aux 10.0% du 29 avril. La cérémonie des « David di Donatello » sur Rai 1 peine à mobiliser, réunissant 12.2% de PDM, loin des succès de ses fictions des jours précédents. La compétition pour le leadership du prime time semble s'orienter vers une lutte entre les programmes de divertissement de Canale 5 et les offres plus événementielles ou documentaires de Rai 1, tandis que Rai 3 consolide sa position sur ce créneau horaire. La chaîne privée Italia 1, avec 5.8% pour son film, reste en retrait face aux généralistes.",
       "commentary_date": "2026-05-06"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-06-06",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-05-06",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Het Verhaal van Nederland",
           "program_fr": null,
-          "viewers": 3441000,
-          "share": 17.4,
-          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
+          "viewers": 887000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-start-nieuw-seizoen-zeeman-confronteert-rtl5",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Het+Verhaal+van+Nederland%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "France 2",
+          "channel": "RTL 4",
           "channel_color": "red",
-          "program": "ENCHAINES \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 2117000,
-          "share": 10.9,
-          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Frankie_Muniz"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "GREY'S ANATOMY \\ UN GESTE D'AMOUR",
-          "program_fr": "Grey's Anatomy",
-          "viewers": 1991000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "SECRETS D'HISTOIRE \\ MME DE STAEL, LA LIBERTE A TOUT PRIX",
-          "program_fr": null,
-          "viewers": 1546000,
-          "share": 8.7,
-          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAUCHEMAR EN CUISINE \\ LANGERON",
-          "program_fr": null,
-          "viewers": 1319000,
-          "share": 6.8,
-          "source_url": "https://www.ozap.com/actu/audiences-record-pour-canal-premiere-chaine-de-france-avec-la-qualification-du-psg-en-finale-de-ligue-des-champions-toutes-les-autres-chaines-sous-les-2-millions/654987",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
+          "program": "Married at First Sight",
+          "program_fr": "Mariés au premier regard",
+          "viewers": 624000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkcijfers-start-nieuw-seizoen-zeeman-confronteert-rtl5",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Married+at+First+Sight%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-07T13:20:56.731427Z",
-      "status": "ok",
+      "scraped_at": "2026-05-07T13:21:14.966264Z",
+      "status": "partial",
       "error": null,
-      "commentary": "Canal+ s'impose en tête des audiences du prime time du 6 juin avec 3,44 millions de téléspectateurs et 17,4% de part de marché pour \"Émissions cryptées\", une performance notable face aux chaînes historiques. France 2 et TF1 se disputent la deuxième place, avec respectivement 2,12 millions (10,9% PDM) et 1,99 million (10,2% PDM) pour leurs offres de fiction. France 3 et M6 ferment ce classement des chaînes gratuites, avec des scores de 1,55 million (8,7% PDM) et 1,32 million (6,8% PDM) pour leurs magazines d'information. L'absence de données historiques récentes empêche toute comparaison immédiate sur l'évolution des performances de ces programmes. La domination de la chaîne cryptée sur les généralistes souligne une tendance de fragmentation des audiences, accentuée par la TNT, mais qui ne se traduit pas nécessairement par une érosion systématique des offres de flux traditionnelles.",
-      "commentary_date": "2026-06-06"
+      "commentary": "Le 6 mai 2026, NPO 1 s'impose en tête du prime time néerlandais avec 887 000 téléspectateurs pour le documentaire « Het Verhaal van Nederland », tandis que RTL 4 réunit 624 000 curieux pour « Married at First Sight ». Cette performance de NPO 1 se situe en retrait par rapport à son score du 29 avril (949 000 téléspectateurs) pour le même programme, mais reste supérieure à celui du 1er mai avec « The Voice of Holland » (881 000). La chaîne publique mène ainsi la concurrence sur la semaine, ayant occupé la première place du podium lors de quatre soirées sur six. Le programme de RTL 4 affiche quant à lui une légère progression par rapport à la semaine précédente. La case du lundi et du mardi, marquées par des événements commémoratifs et des programmes de flux, avaient précédemment vu NPO 1 enregistrer des chiffres significativement plus élevés.",
+      "commentary_date": "2026-05-06"
     }
   },
-  "last_updated": "2026-05-07T13:21:15.076035Z"
+  "last_updated": "2026-05-07T13:22:17.149549Z"
 }
