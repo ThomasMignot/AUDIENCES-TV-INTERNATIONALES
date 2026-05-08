@@ -1,6 +1,86 @@
 {
   "date": "2026-05-07",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-07",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "ON A RETROUVE LA 7E COMPAGNIE",
+          "program_fr": null,
+          "viewers": 3484000,
+          "share": 20.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/On_a_retrouv%C3%A9_la_septi%C3%A8me_compagnie"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "CASSANDRE \\ PAIN BENI",
+          "program_fr": null,
+          "viewers": 2862000,
+          "share": 16.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cassandre_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "TOP CHEF",
+          "program_fr": "Top Chef",
+          "viewers": 1248000,
+          "share": 7.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENVOYE SPECIAL MAGAZINE ( économique, politique, sociologique )",
+          "program_fr": null,
+          "viewers": 1099000,
+          "share": 6.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+        },
+        {
+          "rank": 5,
+          "channel": "Canal+",
+          "channel_color": "green",
+          "program": "EMISSIONS CRYPTEES",
+          "program_fr": null,
+          "viewers": 973000,
+          "share": 5.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/VideoCrypt"
+        }
+      ],
+      "scraped_at": "2026-05-08T11:58:17.807529Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête du prime time ce 7 mai avec la diffusion d'une fiction, attirant 3,48 millions de téléspectateurs et 20,4% de part d'audience. Cette performance la replace devant France 3, dont la série \"Cassandre\" enregistre 2,86 millions de curieux (16,5% PDM), après que la chaîne publique ait dominé le classement quatre soirées sur les sept jours précédents. La fiction de TF1 progresse légèrement par rapport à la rediffusion du même titre le 30 avril (3,34 M, 20.6%), confirmant la stabilité de son attractivité sur ce créneau. M6 voit son divertissement \"Top Chef\" chuter à 1,25 million de téléspectateurs (7,0% PDM), une audience inférieure à celle de la semaine précédente (1,51 M, 9.6%) et moins performante que celle de France 2 avec son magazine \"Envoyé Spécial\", qui réalise 1,10 million (6,6% PDM). La fragmentation du marché, accentuée par la TNT, continue de peser sur les chaînes historiques, limitant la portée des programmes en dehors des événements les plus fédérateurs.",
+      "commentary_date": "2026-05-07"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,34 +241,6 @@
       "commentary": "Antena 3 s'affirme comme leader du prime time sur la semaine, avec quatre soirées en tête. La case historique d' \"El Hormiguero\" enregistre 1,77 million de téléspectateurs et 14,4% de part de marché, une performance solide qui fait le lien avec le programme principal. La chaîne publique La 1, avec \"La Revuelta\", confirme sa remontée, atteignant 1,22 million de fidèles et 10,1% de PDM, se positionnant ainsi comme un concurrent notable face au duopole traditionnel. Telecinco, dont \"Supervivientes Express\" se classe troisième avec 1,08 million de téléspectateurs (8,8% PDM), semble subir une pression accrue dans cette case horaire. L'information sur Cuatro et La Sexta peine à dépasser le million de téléspectateurs, témoignant d'une fragmentation des audiences sur cette tranche. Comparé à la semaine précédente, \"El Hormiguero\" maintient son attractivité, se stabilisant autour de 1,7 million de téléspectateurs.",
       "commentary_date": "2026-05-07"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-07",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Eva",
-          "program_fr": null,
-          "viewers": 875000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-gemist-kijkcijfers-mafs-married-at-first-sight-kyle-danique-koppelssessie-rtl-videoland",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Eva%22+NPO+1+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-08T11:58:39.044786Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le divertissement « Eva » sur NPO 1 rassemble 875 000 téléspectateurs ce 7 mai, se plaçant en tête des audiences de prime time. Cette performance positionne la chaîne publique en leader sur 4 des 6 soirées de la semaine écoulée, confirmant une dynamique favorable. Par rapport au « Het Verhaal van Nederland » de la veille (887 000), le programme enregistre une légère érosion, mais reste dans une fourchette de réception proche. La compétition sur le marché néerlandais, bien que segmentée, voit NPO 1 s'affirmer face à RTL 4 et SBS 6, ces dernières proposant des formats de flux ou de téléréalité moins puissants. La stratégie de NPO 1 semble s'appuyer sur des rendez-vous fédérateurs, comme en témoignent les chiffres des événements commémoratifs et des émissions de divertissement phare.",
-      "commentary_date": "2026-05-07"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -269,86 +321,34 @@
       "commentary": "La fiction « Buonvino » sur Rai 1 s'impose en tête des audiences du prime time du 7 mai avec 3,35 millions de téléspectateurs et 20,3% de part de marché. Ce score la place en nette amélioration par rapport à « Uno Sbirro in Appennino » du 30 avril, qui avait réuni 3,02 millions de personnes pour 18,9% de PDM. La fiction turque « Forbidden Fruit » sur Canale 5, habituelle concurrente de Rai 1, enregistre quant à elle 1,72 million de curieux, soit 12,0% de PDM, un chiffre inférieur à ses performances des jours précédents. Sur la semaine écoulée, Canale 5 a pourtant été le leader du prime time quatre soirs sur sept, témoignant d'une stratégie offensive sur cette case horaire. L'information et les magazines d'actualité, représentés par « Le Iene » sur Italia 1 et « Dritto e Rovescio » sur Rete 4, se positionnent en retrait, captant des audiences plus modestes.",
       "commentary_date": "2026-05-07"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-07",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "ON A RETROUVE LA 7E COMPAGNIE",
-          "program_fr": null,
-          "viewers": 3484000,
-          "share": 20.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/On_a_retrouv%C3%A9_la_septi%C3%A8me_compagnie"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
+          "channel": "NPO 1",
           "channel_color": "amber",
-          "program": "CASSANDRE \\ PAIN BENI",
+          "program": "Eva",
           "program_fr": null,
-          "viewers": 2862000,
-          "share": 16.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cassandre_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "TOP CHEF",
-          "program_fr": "Top Chef",
-          "viewers": 1248000,
-          "share": 7.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
+          "viewers": 875000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-gemist-kijkcijfers-mafs-married-at-first-sight-kyle-danique-koppelssessie-rtl-videoland",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ENVOYE SPECIAL MAGAZINE ( économique, politique, sociologique )",
-          "program_fr": null,
-          "viewers": 1099000,
-          "share": 6.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
-        },
-        {
-          "rank": 5,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
-          "program_fr": null,
-          "viewers": 973000,
-          "share": 5.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-numero-de-top-chef-exceptionnellement-diffuse-un-jeudi-soir/654838",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/VideoCrypt"
+          "wikipedia_url": "https://www.google.com/search?q=%22Eva%22+NPO+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-08T11:58:17.807529Z",
-      "status": "ok",
+      "scraped_at": "2026-05-08T11:58:39.044786Z",
+      "status": "partial",
       "error": null,
-      "commentary": "TF1 reprend la tête du prime time ce 7 mai avec la diffusion d'une fiction, attirant 3,48 millions de téléspectateurs et 20,4% de part d'audience. Cette performance la replace devant France 3, dont la série \"Cassandre\" enregistre 2,86 millions de curieux (16,5% PDM), après que la chaîne publique ait dominé le classement quatre soirées sur les sept jours précédents. La fiction de TF1 progresse légèrement par rapport à la rediffusion du même titre le 30 avril (3,34 M, 20.6%), confirmant la stabilité de son attractivité sur ce créneau. M6 voit son divertissement \"Top Chef\" chuter à 1,25 million de téléspectateurs (7,0% PDM), une audience inférieure à celle de la semaine précédente (1,51 M, 9.6%) et moins performante que celle de France 2 avec son magazine \"Envoyé Spécial\", qui réalise 1,10 million (6,6% PDM). La fragmentation du marché, accentuée par la TNT, continue de peser sur les chaînes historiques, limitant la portée des programmes en dehors des événements les plus fédérateurs.",
+      "commentary": "Le divertissement « Eva » sur NPO 1 rassemble 875 000 téléspectateurs ce 7 mai, se plaçant en tête des audiences de prime time. Cette performance positionne la chaîne publique en leader sur 4 des 6 soirées de la semaine écoulée, confirmant une dynamique favorable. Par rapport au « Het Verhaal van Nederland » de la veille (887 000), le programme enregistre une légère érosion, mais reste dans une fourchette de réception proche. La compétition sur le marché néerlandais, bien que segmentée, voit NPO 1 s'affirmer face à RTL 4 et SBS 6, ces dernières proposant des formats de flux ou de téléréalité moins puissants. La stratégie de NPO 1 semble s'appuyer sur des rendez-vous fédérateurs, comme en témoignent les chiffres des événements commémoratifs et des émissions de divertissement phare.",
       "commentary_date": "2026-05-07"
     }
   },
-  "last_updated": "2026-05-08T11:58:39.047371Z"
+  "last_updated": "2026-05-08T11:59:04.736303Z"
 }
