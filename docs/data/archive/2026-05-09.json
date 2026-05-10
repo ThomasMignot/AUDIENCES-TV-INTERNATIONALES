@@ -1,6 +1,86 @@
 {
   "date": "2026-05-09",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-09",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LES MYSTERES DU CLOS DES LILAS",
+          "program_fr": null,
+          "viewers": 3288000,
+          "share": 20.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Myst%C3%A8res_du_Clos_des_Lilas"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "THE VOICE, LA PLUS BELLE VOIX",
+          "program_fr": "The Voice",
+          "viewers": 2679000,
+          "share": 16.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_%3A_La_Plus_Belle_Voix"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "QUI RESTERA DANS LA LUMIERE ?",
+          "program_fr": null,
+          "viewers": 1565000,
+          "share": 10.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LES TRAITRES SERONT-ILS DEMASQUES ?",
+          "program_fr": null,
+          "viewers": 1174000,
+          "share": 7.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ECHAPPEES BELLES",
+          "program_fr": null,
+          "viewers": 1051000,
+          "share": 6.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+        }
+      ],
+      "scraped_at": "2026-05-10T10:50:42.262205Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'impose ce 9 mai avec 3,29 millions de téléspectateurs et 20,6% de part d'audience pour sa fiction, marquant une inversion par rapport aux soirées précédentes où France 2 dominait le classement. La chaîne publique se positionne ainsi devant TF1 et sa marque \"The Voice, la plus belle voix\", qui rassemble 2,68 millions de personnes et 16,4% de PDA, une performance en légère hausse par rapport à la semaine précédente. La stratégie de France 3 semble porter ses fruits en s'appuyant sur la fiction en case de prime, tandis que les divertissements de TF1 et France 2 peinent à reproduire les scores des jours précédents. M6, avec \"Les Traîtres seront-ils démasqués ?\", enregistre 1,17 million de téléspectateurs, confirmant la difficulté pour la chaîne privée de s'imposer face aux offres de France Télévisions. La fragmentation de l'audience, accentuée par la TNT, continue de structurer le paysage audiovisuel français.",
+      "commentary_date": "2026-05-09"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,47 +241,6 @@
       "commentary": "Antena 3 s'affirme comme le leader du prime time hebdomadaire, remportant 5 des 7 soirées analysées, notamment grâce à la performance de \"La Voz Kids: Audiciones\" qui rassemble 1,33 million de téléspectateurs et 14,6% de part de marché le 9 mai. Cette chaîne du groupe Atresmedia maintient une forte pression sur Telecinco, son concurrent historique, qui voit son divertissement \"Hay una Cosa Que Te Quiero Decir\" atteindre 956 000 spectateurs (10,6% PDM). La chaîne publique La 1, bien que remontant depuis 2023, se positionne en troisième position avec \"Informe Semanal\" (804 000 téléspectateurs, 7,8% PDM). La comparaison avec le 8 mai montre une baisse significative pour \"Tu Cara Me Suena\" (1,45 M, 18,5%) par rapport à son score de la veille, tandis que Telecinco et La 1 connaissent également un recul dans leurs cases respectives. La stratégie d'Antena 3 semble axée sur des formats de divertissement familial fédérateurs en début de soirée, capitalisant sur le lead-in de son access puissant \"El Hormiguero\". La fragmented des audiences se confirme sur les chaînes secondaires comme Cuatro et La Sexta, dont les programmes peinent à dépasser les 6% de part de marché.",
       "commentary_date": "2026-05-09"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-09",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Even Tot Hier",
-          "program_fr": null,
-          "viewers": 1400000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-even-tot-hier-scoort-nieuwe-rtl4-spelshow-valt-tegen",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Even+Tot+Hier%22+NPO+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Staatsloterijshow",
-          "program_fr": null,
-          "viewers": 594000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-even-tot-hier-scoort-nieuwe-rtl4-spelshow-valt-tegen",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Staatsloterijshow%22+RTL+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-10T10:50:54.311881Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Sur la soirée du 9 mai 2026 aux Pays-Bas, NPO 1 s'impose nettement avec \"Even Tot Hier\" qui rassemble 1,40 million de téléspectateurs. Cette performance place le divertissement public loin devant RTL 4 et son programme \"Staatsloterijshow\", qui n'atteint que 594 000 spectateurs. La chaîne publique confirme ainsi sa domination sur la case du prime time, ayant été leader six soirs sur les sept derniers jours, à l'exception notable du 5 mai avec le concert de la Libération. La comparaison avec la semaine précédente montre une reprise de la chaîne publique après des chiffres inférieurs en milieu de semaine, comme \"Het Verhaal van Nederland\" le 6 mai (887 000) ou \"Eva\" le 7 mai (875 000). Ce schéma récurrent illustre la capacité de NPO 1 à mobiliser un large public, notamment avec des formats de divertissement reconnus. La différence d'audience significative entre les deux principales chaînes généralistes met en lumière une tension concurrentielle marquée, où NPO 1 semble capter une part prépondérante de l'audience disponible.",
-      "commentary_date": "2026-05-09"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +321,47 @@
       "commentary": "Le divertissement « Amici » sur Canale 5 s'impose en tête des audiences du prime time ce 9 mai, rassemblant 2,90 millions de téléspectateurs et 22,2% de part de marché. Ce résultat est quasi stable par rapport à la semaine précédente où le même programme avait réuni 2,94 millions de personnes (22,2% PDM). La chaîne privée Mediaset maintient ainsi sa position face à Rai 1, dont le programme « Dalla Strada al Palco » enregistre 2,49 millions de curieux et 17,9% de PDM, une légère baisse par rapport à la précédente confrontation directe. La7, avec son magazine d'actualité « In Altre Parole », se positionne en troisième force avec 1,09 million de téléspectateurs (6,6% PDM), un score inférieur à ses performances des jours précédents. Cette soirée confirme la capacité de Canale 5 à capter un large public en divertissement, tandis que Rai 1 alterne entre succès de fiction et programmes plus légers. La lutte pour la deuxième place des audiences reste un enjeu notable entre les deux grands groupes audiovisuels.",
       "commentary_date": "2026-05-09"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-09",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 3",
+          "channel": "NPO 1",
           "channel_color": "amber",
-          "program": "LES MYSTERES DU CLOS DES LILAS",
+          "program": "Even Tot Hier",
           "program_fr": null,
-          "viewers": 3288000,
-          "share": 20.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Myst%C3%A8res_du_Clos_des_Lilas"
+          "viewers": 1400000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-even-tot-hier-scoort-nieuwe-rtl4-spelshow-valt-tegen",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Even+Tot+Hier%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE VOICE, LA PLUS BELLE VOIX",
-          "program_fr": "The Voice",
-          "viewers": 2679000,
-          "share": 16.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_%3A_La_Plus_Belle_Voix"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
+          "channel": "RTL 4",
           "channel_color": "red",
-          "program": "QUI RESTERA DANS LA LUMIERE ?",
+          "program": "Staatsloterijshow",
           "program_fr": null,
-          "viewers": 1565000,
-          "share": 10.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LES TRAITRES SERONT-ILS DEMASQUES ?",
-          "program_fr": null,
-          "viewers": 1174000,
-          "share": 7.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
-          "program_fr": null,
-          "viewers": 1051000,
-          "share": 6.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-qui-restera-dans-la-lumiere-avec-bruno-guillon-sur-france-2/654844",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+          "viewers": 594000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-even-tot-hier-scoort-nieuwe-rtl4-spelshow-valt-tegen",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Staatsloterijshow%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-10T10:50:42.262205Z",
-      "status": "ok",
+      "scraped_at": "2026-05-10T10:50:54.311881Z",
+      "status": "partial",
       "error": null,
-      "commentary": "France 3 s'impose ce 9 mai avec 3,29 millions de téléspectateurs et 20,6% de part d'audience pour sa fiction, marquant une inversion par rapport aux soirées précédentes où France 2 dominait le classement. La chaîne publique se positionne ainsi devant TF1 et sa marque \"The Voice, la plus belle voix\", qui rassemble 2,68 millions de personnes et 16,4% de PDA, une performance en légère hausse par rapport à la semaine précédente. La stratégie de France 3 semble porter ses fruits en s'appuyant sur la fiction en case de prime, tandis que les divertissements de TF1 et France 2 peinent à reproduire les scores des jours précédents. M6, avec \"Les Traîtres seront-ils démasqués ?\", enregistre 1,17 million de téléspectateurs, confirmant la difficulté pour la chaîne privée de s'imposer face aux offres de France Télévisions. La fragmentation de l'audience, accentuée par la TNT, continue de structurer le paysage audiovisuel français.",
+      "commentary": "Sur la soirée du 9 mai 2026 aux Pays-Bas, NPO 1 s'impose nettement avec \"Even Tot Hier\" qui rassemble 1,40 million de téléspectateurs. Cette performance place le divertissement public loin devant RTL 4 et son programme \"Staatsloterijshow\", qui n'atteint que 594 000 spectateurs. La chaîne publique confirme ainsi sa domination sur la case du prime time, ayant été leader six soirs sur les sept derniers jours, à l'exception notable du 5 mai avec le concert de la Libération. La comparaison avec la semaine précédente montre une reprise de la chaîne publique après des chiffres inférieurs en milieu de semaine, comme \"Het Verhaal van Nederland\" le 6 mai (887 000) ou \"Eva\" le 7 mai (875 000). Ce schéma récurrent illustre la capacité de NPO 1 à mobiliser un large public, notamment avec des formats de divertissement reconnus. La différence d'audience significative entre les deux principales chaînes généralistes met en lumière une tension concurrentielle marquée, où NPO 1 semble capter une part prépondérante de l'audience disponible.",
       "commentary_date": "2026-05-09"
     }
   },
-  "last_updated": "2026-05-10T10:50:54.314983Z"
+  "last_updated": "2026-05-10T10:51:09.977226Z"
 }
