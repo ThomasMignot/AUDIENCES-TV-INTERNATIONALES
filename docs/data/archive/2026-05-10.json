@@ -46,7 +46,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-anne-hathaway-dans-une-comedie-inedite-sur-tf1-a-t-elle-rivalise-avec-le-multi-cesarise-la-nuit-du-12-sur-france-2/655026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Inspecteur_Barnaby"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_25_d%27Inspecteur_Barnaby"
         },
         {
           "rank": 4,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Marco_Bellocchio"
         }
       ],
-      "scraped_at": "2026-05-11T18:01:52.163424Z",
+      "scraped_at": "2026-05-11T19:17:00.008162Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose à nouveau en tête des audiences du prime time ce 10 mai, avec la fiction « La Nuit du 12 » qui rassemble 3,10 millions de téléspectateurs et 17,3% de part d'audience. Cette performance place la chaîne publique en tête de la soirée, confirmant sa position de leader sur la semaine, avec 3 des 6 soirées dominées. La fiction de France 2 devance TF1 et sa programmation cinéma, qui enregistre 2,19 millions de spectateurs et 12,7% de PDA, un score inférieur à celui de « Le Diable s'habille en Prada » le 3 mai (3,39 M, 20.0%). France 3, avec « Inspecteur Barnaby », se positionne au coude-à-coude avec TF1, atteignant également 2,19 millions de téléspectateurs mais avec une part d'audience légèrement inférieure (11,7%). M6, avec son magazine « Capital », se maintient au-delà du million, à 1,73 million de curieux (10,1%), une case information qui peine à rivaliser avec les offres fictionnelles des chaînes historiques.",
@@ -100,7 +100,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tatort%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tatort"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Blind+Sherlock%22+Sat.1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Blind_Banker"
         },
         {
           "rank": 4,
@@ -139,7 +139,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Moonfall%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Moonfall"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22%3Anewstime%22+ProSieben+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Newstime"
         }
       ],
-      "scraped_at": "2026-05-11T18:01:57.121213Z",
+      "scraped_at": "2026-05-11T19:17:06.663675Z",
       "status": "ok",
       "error": null,
       "commentary": "Le format emblématique « Tatort » de Das Erste s'adjuge 6,36 millions de téléspectateurs et 28,3% de part de marché ce dimanche, consolidant la domination de la chaîne publique sur la case du prime time. Cette performance, bien que solide, marque un léger recul par rapport au précédent épisode de « Tatort » diffusé le 3 mai, qui avait rassemblé 7,18 millions de personnes pour 29,8% de PDA. Le « heute journal » de ZDF se positionne en deuxième position avec 3,87 millions de téléspectateurs, une audience stable par rapport à sa moyenne hebdomadaire. Sat.1 parvient à capter 1,72 million de fidèles avec son divertissement « Blind Sherlock », une performance en ligne avec son score de la semaine précédente. La concurrence sur les chaînes privées reste intense, avec ProSieben et d'autres diffuseurs luttant pour capter une audience plus jeune, traditionnellement ciblée par ces acteurs.",
@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-mayo-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+LaLiga+TV+por+M%2B+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         },
         {
           "rank": 2,
@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-mayo-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Pelicula+de+la+Semana+%28Cuestion+de+Sangre%29%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Peruvian_films"
         },
         {
           "rank": 3,
@@ -206,7 +206,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Supervivientes%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Supervivientes"
         },
         {
           "rank": 4,
@@ -219,7 +219,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-mayo-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+Movistar+Plus%2B+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         },
         {
           "rank": 5,
@@ -232,10 +232,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-mayo-2026/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Una+Nueva+Vida%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ver%C3%B3nica_Echegui"
         }
       ],
-      "scraped_at": "2026-05-11T18:01:58.115283Z",
+      "scraped_at": "2026-05-11T19:17:09.071681Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match de football opposant le FC Barcelone au Real Madrid sur TV por M+ capte 1,47 million de téléspectateurs et 11,6% de part de marché, se plaçant en tête des audiences du prime time du 10 mai. Cette performance place le sport en direct, diffusé sur une chaîne payante, devant les offres des chaînes généralistes historiques. La 1 parvient à mobiliser 985 000 personnes avec sa \"Pelicula de la Semana\", un score inférieur à celui obtenu le 3 mai avec \"Aquellos Que Dese\" (1,26 M). Telecinco et Antena 3, habituellement en lutte pour la tête, se retrouvent respectivement en troisième et cinquième position, avec des programmes de divertissement et de fiction qui peinent à rivaliser avec l'événement sportif. La stratégie de programmation de Movistar Plus+ semble porter ses fruits, le groupe plaçant un second match en quatrième position avec 889 000 spectateurs. La semaine précédente, Antena 3 avait dominé six soirées sur sept, démontrant la résilience de sa programmation face à la concurrence.",
@@ -273,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-10-maggio-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Romina_Power"
+          "wikipedia_url": "https://www.google.com/search?q=%22Racconto+di+una+Notte%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -286,7 +286,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-10-maggio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Che_tempo_che_fa"
+          "wikipedia_url": "https://www.google.com/search?q=%22Che+Tempo+Che+Fa%22+Nove+ratings"
         },
         {
           "rank": 4,
@@ -299,7 +299,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-10-maggio-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Report"
+          "wikipedia_url": "https://www.google.com/search?q=%22Report%22+Rai+3+ratings"
         },
         {
           "rank": 5,
@@ -312,15 +312,15 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-10-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/La_Liga"
+          "wikipedia_url": "https://www.google.com/search?q=%22LaLiga%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-11T18:02:02.587401Z",
+      "scraped_at": "2026-05-11T19:17:15.022079Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « Roberta Valente », s'impose en tête des audiences du prime time le 10 mai avec 3,52 millions de téléspectateurs et 20,4% de part de marché. Ce score est en légère progression par rapport à la diffusion de « Buonvino » la veille (3,35 M, 20,3%), confirmant la domination de la chaîne publique sur cette case horaire. Canale 5, avec « Racconto di una Notte », se positionne en deuxième place, mais à une distance significative, réalisant 1,64 million de curieux et 12,8% de PDA. Le programme de divertissement de Nove, « Che Tempo Che Fa », parvient à se hisser en troisième position, témoignant d'une fragmentation des audiences sur la soirée. La performance de « Report » sur Rai 3, avec 1,47 million de téléspectateurs (8,3%), est inférieure à celle de « Report » diffusé le 3 mai (1,85 M, 10,3%), illustrant la volatilité des programmes d'information.",
       "commentary_date": "2026-05-10"
     }
   },
-  "last_updated": "2026-05-11T18:02:02.589492Z"
+  "last_updated": "2026-05-11T19:17:15.024244Z"
 }
