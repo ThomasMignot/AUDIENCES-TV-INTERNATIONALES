@@ -1,6 +1,86 @@
 {
   "date": "2026-05-11",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-11",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MEURTRES AU PARADIS \\ LA DERNIERE PAGE",
+          "program_fr": null,
+          "viewers": 3568000,
+          "share": 20.6,
+          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
+        },
+        {
+          "rank": 2,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "MARIES AU PREMIER REGARD",
+          "program_fr": null,
+          "viewers": 1907000,
+          "share": 11.0,
+          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mari%C3%A9s_au_premier_regard_%28France%29"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "NO COUNTRY FOR OLD MEN",
+          "program_fr": null,
+          "viewers": 1719000,
+          "share": 11.2,
+          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/No_Country_for_Old_Men"
+        },
+        {
+          "rank": 4,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "BREF. 2",
+          "program_fr": null,
+          "viewers": 1386000,
+          "share": 7.9,
+          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_2_de_Bref."
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LE MONDE DE JAMY \\ FAUT-IL VRAIMENT SE METTRE AU SPORT ?",
+          "program_fr": null,
+          "viewers": 1086000,
+          "share": 6.2,
+          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Monde_de_Jamy"
+        }
+      ],
+      "scraped_at": "2026-05-12T13:27:27.411367Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 s'affirme comme leader du prime time sur la semaine écoulée, dominant six soirées sur sept avec une fiction policière qui enregistre 3,57 millions de téléspectateurs et 20,6% de part d'audience ce lundi. La chaîne publique confirme sa stratégie de proposer des univers familiers et des formats longs, attirant un public fidèle. M6, avec \"Mariés au premier regard\", maintient une présence dans le trio de tête avec 1,91 million de curieux, un score proche de sa moyenne hebdomadaire. TF1, quant à elle, voit sa fiction \"Bref. 2\" rassembler 1,39 million de personnes, un chiffre inférieur aux succès récents de ses programmes de flux comme \"Koh-Lanta\" ou \"The Voice\". La fragmentation des audiences, accentuée par la TNT, rend la bataille pour la deuxième partie de soirée particulièrement complexe pour les chaînes historiques. France 3, avec un film, se positionne en troisième position, démontrant la résilience des offres cinéma dans une case concurrencée.",
+      "commentary_date": "2026-05-11"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,47 +241,6 @@
       "commentary": "Antena 3 confirme sa domination sur le prime time espagnol, s'adjugeant six des sept soirées de la semaine passée selon les données Kantar Media. L'émission « El Hormiguero », diffusée en access, maintient une forte dynamique avec 1,76 million de téléspectateurs et 13,9% de part de marché ce 11 mai, un score en légère hausse par rapport à la semaine précédente (1,52 M à 1,79 M selon les invités). La chaîne publique La 1, avec son divertissement « D.Reg(la Revuelta) », peine à capitaliser sur le lead-in de son programme phare, réunissant 1,31 million de fidèles (10,3% PDM) face à la concurrence. Telecinco, bien que présent dans le top 3 avec « First Dates » (1,19 M, 9,4% PDM), semble souffrir d'une stratégie de programmation moins offensive sur cette case horaire. La Sexta et Cuatro se disputent les restes, avec leurs programmes d'information « El Intermedio » et « Horizonte » affichant des scores proches, respectivement 1,01 million et 995 000 téléspectateurs.",
       "commentary_date": "2026-05-11"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-11",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "RTL 5",
-          "channel_color": "gray",
-          "program": "Kees van der Spek Ontmaskert",
-          "program_fr": null,
-          "viewers": 388000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-meer-dan-miljoen-kijkers-voor-seizoensslot-kopen-zonder-kijken",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Kees+van+der+Spek+Ontmaskert%22+RTL+5+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "The Moneymakers",
-          "program_fr": null,
-          "viewers": 191000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-meer-dan-miljoen-kijkers-voor-seizoensslot-kopen-zonder-kijken",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22The+Moneymakers%22+SBS+6+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-12T13:27:51.139646Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
-      "commentary_date": "2026-05-11"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +321,47 @@
       "commentary": "Le prime time du 11 mai voit Rai 1 reprendre la tête des audiences avec son magazine « Ulisse » et 17.4% de part de marché, devançant de peu Canale 5 et sa fiction « I Cesaroni – Il Ritorno » (14.5%). Cette inversion par rapport au 4 mai, où la fiction de Canale 5 avait légèrement mieux performé, illustre la compétition constante entre les deux diffuseurs historiques pour capter le public du lundi soir. La chaîne publique confirme sa domination sur la semaine, ayant remporté quatre soirées sur sept, souvent grâce à des offres de fiction ou de divertissement grand public. Italia 1 et Rete 4 se positionnent en troisième et quatrième position avec des scores inférieurs à 8% de PDM, témoignant d'une fragmentation plus marquée sur les chaînes secondaires. La7, avec son programme d'information, peine à dépasser les 5% de part de marché, se positionnant comme une offre de niche politique.",
       "commentary_date": "2026-05-11"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-11",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "MEURTRES AU PARADIS \\ LA DERNIERE PAGE",
+          "channel": "RTL 5",
+          "channel_color": "gray",
+          "program": "Kees van der Spek Ontmaskert",
           "program_fr": null,
-          "viewers": 3568000,
-          "share": 20.6,
-          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
+          "viewers": 388000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-meer-dan-miljoen-kijkers-voor-seizoensslot-kopen-zonder-kijken",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Kees+van+der+Spek+Ontmaskert%22+RTL+5+ratings"
         },
         {
           "rank": 2,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "MARIES AU PREMIER REGARD",
-          "program_fr": null,
-          "viewers": 1907000,
-          "share": 11.0,
-          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mari%C3%A9s_au_premier_regard_%28France%29"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "NO COUNTRY FOR OLD MEN",
-          "program_fr": null,
-          "viewers": 1719000,
-          "share": 11.2,
-          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/No_Country_for_Old_Men"
-        },
-        {
-          "rank": 4,
-          "channel": "TF1",
+          "channel": "SBS 6",
           "channel_color": "blue",
-          "program": "BREF. 2",
+          "program": "The Moneymakers",
           "program_fr": null,
-          "viewers": 1386000,
-          "share": 7.9,
-          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_2_de_Bref."
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "LE MONDE DE JAMY \\ FAUT-IL VRAIMENT SE METTRE AU SPORT ?",
-          "program_fr": null,
-          "viewers": 1086000,
-          "share": 6.2,
-          "source_url": "https://www.ozap.com/actu/audiences-battue-par-france-2-m6-et-france-3-tf1-plonge-avec-la-suite-et-fin-de-bref2-talonnee-par-jamy-gourmaud-sur-france-5/655052",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Monde_de_Jamy"
+          "viewers": 191000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-meer-dan-miljoen-kijkers-voor-seizoensslot-kopen-zonder-kijken",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22The+Moneymakers%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-05-12T13:27:27.411367Z",
-      "status": "ok",
+      "scraped_at": "2026-05-12T13:27:51.139646Z",
+      "status": "partial",
       "error": null,
-      "commentary": "France 2 s'affirme comme leader du prime time sur la semaine écoulée, dominant six soirées sur sept avec une fiction policière qui enregistre 3,57 millions de téléspectateurs et 20,6% de part d'audience ce lundi. La chaîne publique confirme sa stratégie de proposer des univers familiers et des formats longs, attirant un public fidèle. M6, avec \"Mariés au premier regard\", maintient une présence dans le trio de tête avec 1,91 million de curieux, un score proche de sa moyenne hebdomadaire. TF1, quant à elle, voit sa fiction \"Bref. 2\" rassembler 1,39 million de personnes, un chiffre inférieur aux succès récents de ses programmes de flux comme \"Koh-Lanta\" ou \"The Voice\". La fragmentation des audiences, accentuée par la TNT, rend la bataille pour la deuxième partie de soirée particulièrement complexe pour les chaînes historiques. France 3, avec un film, se positionne en troisième position, démontrant la résilience des offres cinéma dans une case concurrencée.",
+      "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
       "commentary_date": "2026-05-11"
     }
   },
-  "last_updated": "2026-05-12T13:27:51.142831Z"
+  "last_updated": "2026-05-12T13:28:44.907746Z"
 }
