@@ -1,6 +1,86 @@
 {
   "date": "2026-05-12",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-12",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ALEXANDRA EHLE \\ LA PETITE GUERRIERE",
+          "program_fr": null,
+          "viewers": 3861000,
+          "share": 22.3,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alexandra_Ehle"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LES AVENTURIERS DE KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 11",
+          "program_fr": null,
+          "viewers": 2571000,
+          "share": 14.6,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_%3A_Les_Reliques_du_destin"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "RENAUD A COEUR PERDU",
+          "program_fr": null,
+          "viewers": 2262000,
+          "share": 14.9,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Renaud"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "BOB MARLEY : ONE LOVE",
+          "program_fr": null,
+          "viewers": 1000000,
+          "share": 6.0,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Bob_Marley"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ALIMENTS POLLUES : ON MANGE QUOI MAINTENANT ?",
+          "program_fr": null,
+          "viewers": 791000,
+          "share": 4.4,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Pollution_des_sols"
+        }
+      ],
+      "scraped_at": "2026-05-13T16:12:27.038639Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 3, \"Alexandra Ehle\", s'impose en tête des audiences du 12 mai avec 3,86 millions de téléspectateurs et 22,3% de part d'audience. Cette performance place la chaîne publique en tête d'une soirée où TF1, avec \"Koh-Lanta\" (2,57 M, 14,6% PDM), réalise une audience solide mais inférieure à celle du numéro précédent le 5 mai (3,04 M, 16,7% PDM). France 2, avec son offre d'information \"Renaud à cœur perdu\", se positionne en troisième position avec 2,26 millions de téléspectateurs, un score qui la maintient dans sa moyenne des soirées précédentes, souvent en tête sur la semaine. La stratégie de France 3 de programmer des fictions en première partie de soirée semble porter ses fruits, captant un public fidèle sur cette case horaire. La contre-programmation de M6 avec le film \"Bob Marley : One Love\" peine à trouver son public, ne rassemblant qu'un million de spectateurs.",
+      "commentary_date": "2026-05-12"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Antena 3 conforte sa position de leader du prime time en Espagne, avec \"El Hormiguero\" qui enregistre 1,58 million de téléspectateurs et 12,9% de part de marché ce dimanche 12 mai. Ce score, bien que légèrement inférieur aux pics de la semaine précédente (jusqu'à 1,79 M), maintient le programme en tête des audiences, surpassant \"La Revuelta\" de La 1 (1,34 M, 11,0%). La chaîne publique confirme néanmoins sa stratégie de contre-programmation avec un divertissement qui attire une audience significative, se plaçant en deuxième position. Telecinco, avec \"First Dates\" (1,09 M, 8,9%), se retrouve en troisième position, une performance moindre que celle de la veille où le programme avait rassemblé 1,19 million de fidèles. La Sexta et Cuatro ferment le top 5 avec leurs journaux d'information, témoignant d'une fragmentation des audiences en fin de semaine. L'analyse des données des sept derniers jours révèle la domination d'Antena 3 sur la période, avec six soirées en tête du classement.",
       "commentary_date": "2026-05-12"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-12",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-05-13T16:12:45.285785Z",
-      "status": "failed",
-      "error": "Aucun programme extrait de l'article",
-      "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
-      "commentary_date": "2026-05-11"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Ce 12 mai, la fiction « Il Commissario Montalbano » sur Rai 1 rassemble 2,76 millions de téléspectateurs et 16,9% de part de marché, confirmant la position de leader historique de la chaîne publique en prime time. Canale 5, avec « Grande Fratello Vip », se place en deuxième position avec 2,05 millions de fidèles, mais un taux de pénétration de 18,2% plus élevé sur sa cible. La diffusion de l'« Eurovision Song Contest » sur Rai 2 capte 1,86 million de personnes, soit 10,1% du public, un score inférieur à celui de la semaine précédente pour des programmes de divertissement familiaux. L'émission d'information « DiMartedì » sur La7 maintient une présence significative avec 1,39 million de téléspectateurs, une légère érosion par rapport aux chiffres du 5 mai. Par rapport à la semaine écoulée, la fiction de Rai 1 enregistre une baisse de 190 000 téléspectateurs, tandis que le divertissement de Canale 5 perd 170 000 spectateurs. La stratégie de Rai 1 semble privilégier la fiction nationale comme produit d'appel face à la concurrence du divertissement de flux de Canale 5.",
       "commentary_date": "2026-05-12"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-12",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ALEXANDRA EHLE \\ LA PETITE GUERRIERE",
-          "program_fr": null,
-          "viewers": 3861000,
-          "share": 22.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alexandra_Ehle"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LES AVENTURIERS DE KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 11",
-          "program_fr": null,
-          "viewers": 2571000,
-          "share": 14.6,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_%3A_Les_Reliques_du_destin"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "RENAUD A COEUR PERDU",
-          "program_fr": null,
-          "viewers": 2262000,
-          "share": 14.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Renaud"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "BOB MARLEY : ONE LOVE",
-          "program_fr": null,
-          "viewers": 1000000,
-          "share": 6.0,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Bob_Marley"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ALIMENTS POLLUES : ON MANGE QUOI MAINTENANT ?",
-          "program_fr": null,
-          "viewers": 791000,
-          "share": 4.4,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Pollution_des_sols"
-        }
-      ],
-      "scraped_at": "2026-05-13T16:12:27.038639Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 3, \"Alexandra Ehle\", s'impose en tête des audiences du 12 mai avec 3,86 millions de téléspectateurs et 22,3% de part d'audience. Cette performance place la chaîne publique en tête d'une soirée où TF1, avec \"Koh-Lanta\" (2,57 M, 14,6% PDM), réalise une audience solide mais inférieure à celle du numéro précédent le 5 mai (3,04 M, 16,7% PDM). France 2, avec son offre d'information \"Renaud à cœur perdu\", se positionne en troisième position avec 2,26 millions de téléspectateurs, un score qui la maintient dans sa moyenne des soirées précédentes, souvent en tête sur la semaine. La stratégie de France 3 de programmer des fictions en première partie de soirée semble porter ses fruits, captant un public fidèle sur cette case horaire. La contre-programmation de M6 avec le film \"Bob Marley : One Love\" peine à trouver son public, ne rassemblant qu'un million de spectateurs.",
-      "commentary_date": "2026-05-12"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-05-13T16:12:45.285785Z",
+      "status": "failed",
+      "error": "Aucun programme extrait de l'article",
+      "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
+      "commentary_date": "2026-05-11"
     }
   },
-  "last_updated": "2026-05-13T16:12:45.289071Z"
+  "last_updated": "2026-05-13T16:13:31.393839Z"
 }
