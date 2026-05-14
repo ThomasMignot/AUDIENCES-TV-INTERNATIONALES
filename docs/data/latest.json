@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Olivia%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Olivia"
         },
         {
           "rank": 4,
@@ -59,10 +59,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Wer+ohne+Schuld+ist%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Hilmer"
         }
       ],
-      "scraped_at": "2026-05-14T16:29:55.631609Z",
+      "scraped_at": "2026-05-14T17:24:44.611445Z",
       "status": "partial",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste, « Tagesschau », reprend la tête des audiences ce 13 mai avec 4,66 millions de téléspectateurs, soit 23,2% de part de marché. Cette performance, bien que solide, marque un léger repli par rapport à la moyenne des sept derniers jours, où le programme atteignait une moyenne de 4,61 millions de curieux (23,0% PDM). La soirée voit le « heute journal » du ZDF se positionner en deuxième place avec 3,64 millions de fidèles (18,7% PDM), confirmant la domination des chaînes publiques sur les formats d'information en semaine. La troisième et quatrième position sont occupées par des offres de chaînes non spécifiées, « Olivia » et « Wer ohne Schuld ist », qui captent des parts de marché significatives, témoignant d'une fragmentation des audiences en dehors des rendez-vous d'information traditionnels. La compétition pour le leadership en prime time semble se jouer davantage sur la durée des soirées, avec des films ou séries capables de mobiliser des auditoires plus larges que les chaînes publiques sur des cases spécifiques.",
@@ -87,7 +87,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28David+Bisbal%29%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Hormiguero"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 4,
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-mayo-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Belo_Horizonte"
         },
         {
           "rank": 5,
@@ -139,10 +139,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-mayo-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
         }
       ],
-      "scraped_at": "2026-05-14T16:29:57.231236Z",
+      "scraped_at": "2026-05-14T17:24:48.246634Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 maintient sa position dominante sur le prime espagnol, plaçant « El Hormiguero » en tête des audiences pour la sixième fois en sept jours, avec 1,83 million de téléspectateurs et 14,5% de part de marché ce 13 mai. Cette performance consolide la stratégie de la chaîne qui s'appuie sur un divertissement en access puissant comme lead-in. La chaîne publique La 1, avec « La Revuelta », se positionne en deuxième chaîne avec 1,34 million de téléspectateurs (10,7%), une audience stable par rapport à la veille où elle attirait 1,34 million (11,0%). La lutte pour la troisième place du prime reste ouverte, Telecinco et sa série « First Dates » (1,09 M, 8,7%) devançant de peu le magazine d'information « Horizonte » sur Cuatro (1,05 M, 8,4%). Le format court de « First Dates » semble offrir une certaine résilience face aux programmes plus longs ou aux offres d'information sur la TNT. La comparaison avec le week-end précédent montre une légère baisse des audiences pour « First Dates » sur Telecinco, passant de 1,19 million (9,4%) le 11 mai à 1,09 million (8,7%) le 13 mai.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-05-14T16:30:04.536119Z",
+      "scraped_at": "2026-05-14T17:24:54.169087Z",
       "status": "failed",
       "error": "Aucun programme extrait de l'article",
       "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-13-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Chi_l%27ha_visto%3F"
+          "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
         },
         {
           "rank": 3,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-13-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Pierdomenico_Baccalario"
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+richiamo+della+foresta%22+Italia+1+ratings"
         },
         {
           "rank": 4,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-13-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/A_Special_Day"
+          "wikipedia_url": "https://www.google.com/search?q=%22Una+Giornata+Particolare%22+La7+ratings"
         },
         {
           "rank": 5,
@@ -233,10 +233,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-13-maggio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Enrico_Brignano"
+          "wikipedia_url": "https://www.google.com/search?q=%22Enrico+Brignano+Show%22+Nove+ratings"
         }
       ],
-      "scraped_at": "2026-05-14T16:30:03.163173Z",
+      "scraped_at": "2026-05-14T17:24:51.552779Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 13 mai voit Rai 1 reprendre la tête du prime time avec le film « Succede anche nelle migliori famiglie », attirant 2,48 millions de téléspectateurs et 13,6% de part de marché. Ce score est inférieur aux excellents résultats enregistrés par la même chaîne en début de semaine, notamment les 3,52 millions pour « Roberta Valente » le 10 mai. La chaîne publique confirme toutefois sa domination sur la semaine, ayant placé un programme en tête du top 3 lors de cinq soirées sur sept. Rai 3 maintient une présence solide avec « Chi l’ha Visto? », qui réunit 1,55 million de personnes (9,7% PDM), un chiffre légèrement inférieur à sa performance de la semaine précédente. La compétition pour la deuxième partie de soirée reste ouverte, avec Italia 1 et La7 occupant respectivement les troisième et quatrième places, démontrant une fragmentation des audiences sur les cases moins exposées. Le divertissement sur Nove, avec « Enrico Brignano Show », peine à dépasser les 4% de part de marché, se positionnant derrière les offres plus établies.",
@@ -316,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Pollution_des_sols"
         }
       ],
-      "scraped_at": "2026-05-14T16:29:51.856546Z",
+      "scraped_at": "2026-05-14T17:24:40.506721Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 3, \"Alexandra Ehle\", s'impose en tête des audiences du 12 mai avec 3,86 millions de téléspectateurs et 22,3% de part d'audience. Cette performance place la chaîne publique en tête d'une soirée où TF1, avec \"Koh-Lanta\" (2,57 M, 14,6% PDM), réalise une audience solide mais inférieure à celle du numéro précédent le 5 mai (3,04 M, 16,7% PDM). France 2, avec son offre d'information \"Renaud à cœur perdu\", se positionne en troisième position avec 2,26 millions de téléspectateurs, un score qui la maintient dans sa moyenne des soirées précédentes, souvent en tête sur la semaine. La stratégie de France 3 de programmer des fictions en première partie de soirée semble porter ses fruits, captant un public fidèle sur cette case horaire. La contre-programmation de M6 avec le film \"Bob Marley : One Love\" peine à trouver son public, ne rassemblant qu'un million de spectateurs.",
       "commentary_date": "2026-05-12"
     }
   },
-  "last_updated": "2026-05-14T16:30:04.538752Z"
+  "last_updated": "2026-05-14T17:24:54.172161Z"
 }
