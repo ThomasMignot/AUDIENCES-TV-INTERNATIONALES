@@ -72,10 +72,10 @@
           "source_url": "https://www.ozap.com/actu/audiences-le-retour-dalexandra-ehle-large-leader-sur-france-3-devant-koh-lanta-sur-tf1-renaud-sur-france-2-plus-fort-que-bob-marley-sur-m6/655083",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Pollution_des_sols"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Orpaillage"
         }
       ],
-      "scraped_at": "2026-05-14T17:24:40.506721Z",
+      "scraped_at": "2026-05-14T18:25:18.429354Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 3, \"Alexandra Ehle\", s'impose en tête des audiences du 12 mai avec 3,86 millions de téléspectateurs et 22,3% de part d'audience. Cette performance place la chaîne publique en tête d'une soirée où TF1, avec \"Koh-Lanta\" (2,57 M, 14,6% PDM), réalise une audience solide mais inférieure à celle du numéro précédent le 5 mai (3,04 M, 16,7% PDM). France 2, avec son offre d'information \"Renaud à cœur perdu\", se positionne en troisième position avec 2,26 millions de téléspectateurs, un score qui la maintient dans sa moyenne des soirées précédentes, souvent en tête sur la semaine. La stratégie de France 3 de programmer des fictions en première partie de soirée semble porter ses fruits, captant un public fidèle sur cette case horaire. La contre-programmation de M6 avec le film \"Bob Marley : One Love\" peine à trouver son public, ne rassemblant qu'un million de spectateurs.",
@@ -336,5 +336,5 @@
       "commentary_date": "2026-05-11"
     }
   },
-  "last_updated": "2026-05-14T17:24:42.649733Z"
+  "last_updated": "2026-05-14T18:25:20.912407Z"
 }
