@@ -1,6 +1,86 @@
 {
   "date": "2026-05-15",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-15",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CAPITAINE MARLEAU \\ GRAND HOTEL",
+          "program_fr": null,
+          "viewers": 3115000,
+          "share": 19.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "THE VOICE : LA PLUS BELLE VOIX",
+          "program_fr": "The Voice",
+          "viewers": 2445000,
+          "share": 14.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "PEKIN EXPRESS \\ AU ROYAUME DES DRAGONS - EPISODE 11",
+          "program_fr": null,
+          "viewers": 1160000,
+          "share": 7.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/P%C3%A9kin_Express_%3A_Au_royaume_des_dragons"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "70 ANS D'EUROVISION : LA GRANDE HISTOIRE DU CONCOURS",
+          "program_fr": null,
+          "viewers": 1150000,
+          "share": 7.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Concours_Eurovision_de_la_chanson_2026"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LA ZONE D'INTERET",
+          "program_fr": null,
+          "viewers": 792000,
+          "share": 4.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Zone_d%27int%C3%A9r%C3%AAt"
+        }
+      ],
+      "scraped_at": "2026-05-16T10:50:41.332281Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 2, « Capitaine Marleau », s'impose en tête des audiences avec 3,12 millions de téléspectateurs et 19,4% de part de marché, confirmant la domination de la chaîne sur la case du prime time cette semaine. TF1, avec « The Voice : La Plus Belle Voix », se positionne en deuxième position, rassemblant 2,44 millions de personnes et 14,9% de PDA, un score stable par rapport à la semaine précédente. M6 et France 3 se disputent la troisième place, avec des scores de 1,16 million (7,0% PDM) et 1,15 million (7,2% PDM) respectivement, illustrant la difficulté des chaînes historiques à rivaliser avec les offres de flux des grandes chaînes généralistes. Le succès de la fiction sur France 2 démontre la fidélité du public pour ce genre en prime, tandis que la lutte pour la seconde partie de soirée reste ouverte. La fragmentation de l'audience, accentuée par la TNT, rend la conquête d'une large part de marché plus complexe pour l'ensemble des diffuseurs.",
+      "commentary_date": "2026-05-15"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Antena 3 confirme sa domination sur le prime time avec « Tu Cara Me Suena », réunissant 1,74 million de téléspectateurs et 21,6% de part de marché, un score supérieur à celui enregistré la semaine précédente pour le même programme (1,45 M, 18,5%). Ce succès se construit sur la puissance de son access, « El Hormiguero », qui a enregistré des scores avoisinant les 1,5 à 1,8 million de curieux en début de semaine. La stratégie de programmation d'Antena 3, axée sur des formats de divertissement fédérateurs, lui permet de creuser l'écart face à ses concurrents directs. Telecinco, avec « ¡De Viernes! », se positionne en deuxième chaîne avec 10% de part d'audience, une performance stable par rapport à la semaine passée. La chaîne publique La 1, bien que remontant depuis 2023, peine à rivaliser sur ce créneau, son offre de fiction et de cinéma se plaçant en quatrième et cinquième position. La compétition pour le leadership du prime time reste donc largement dominée par Antena 3, qui capitalise sur une offre de divertissement éprouvée.",
       "commentary_date": "2026-05-15"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-15",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-05-16T10:50:55.729848Z",
-      "status": "failed",
-      "error": "Aucun programme extrait de l'article",
-      "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
-      "commentary_date": "2026-05-11"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Ce 15 mai, Canale 5 reprend la tête du prime time avec le divertissement « Grande Fratello Vip », qui réunit 2,06 millions de téléspectateurs et 17,6% de part de marché, marquant une légère hausse par rapport à sa performance du 12 mai (2,05 M, 18,2%). Rai 1, bien que leader de la semaine, voit son programme « MilleunaCover Sanremo » se placer en deuxième position avec 1,85 million de téléspectateurs (12,8% PDM), un score inférieur à celui de la semaine précédente (1,93 M, 13,4%). La chaîne du service public Rai 2, avec « Ore 14 Sera », obtient 1,07 million de téléspectateurs (8,5% PDM), une performance en retrait par rapport à son score du 8 mai (1,19 M, 9,6%). TV8 se distingue en troisième position grâce à la diffusion d'un événement sportif de tennis, captant 1,43 million de curieux (7,5% PDM), un résultat significatif pour une chaîne de la TNT. La lutte pour la deuxième place entre Rai 1 et Canale 5 se poursuit, cette dernière tirant profit des formats de divertissement populaires en access et en prime.",
       "commentary_date": "2026-05-15"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-15",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CAPITAINE MARLEAU \\ GRAND HOTEL",
-          "program_fr": null,
-          "viewers": 3115000,
-          "share": 19.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE VOICE : LA PLUS BELLE VOIX",
-          "program_fr": "The Voice",
-          "viewers": 2445000,
-          "share": 14.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "PEKIN EXPRESS \\ AU ROYAUME DES DRAGONS - EPISODE 11",
-          "program_fr": null,
-          "viewers": 1160000,
-          "share": 7.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/P%C3%A9kin_Express_%3A_Au_royaume_des_dragons"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "70 ANS D'EUROVISION : LA GRANDE HISTOIRE DU CONCOURS",
-          "program_fr": null,
-          "viewers": 1150000,
-          "share": 7.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Concours_Eurovision_de_la_chanson_2026"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "LA ZONE D'INTERET",
-          "program_fr": null,
-          "viewers": 792000,
-          "share": 4.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-performances-de-the-voice-diffusee-exceptionnellement-hier-soir/654913",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Zone_d%27int%C3%A9r%C3%AAt"
-        }
-      ],
-      "scraped_at": "2026-05-16T10:50:41.332281Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 2, « Capitaine Marleau », s'impose en tête des audiences avec 3,12 millions de téléspectateurs et 19,4% de part de marché, confirmant la domination de la chaîne sur la case du prime time cette semaine. TF1, avec « The Voice : La Plus Belle Voix », se positionne en deuxième position, rassemblant 2,44 millions de personnes et 14,9% de PDA, un score stable par rapport à la semaine précédente. M6 et France 3 se disputent la troisième place, avec des scores de 1,16 million (7,0% PDM) et 1,15 million (7,2% PDM) respectivement, illustrant la difficulté des chaînes historiques à rivaliser avec les offres de flux des grandes chaînes généralistes. Le succès de la fiction sur France 2 démontre la fidélité du public pour ce genre en prime, tandis que la lutte pour la seconde partie de soirée reste ouverte. La fragmentation de l'audience, accentuée par la TNT, rend la conquête d'une large part de marché plus complexe pour l'ensemble des diffuseurs.",
-      "commentary_date": "2026-05-15"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-05-16T10:50:55.729848Z",
+      "status": "failed",
+      "error": "Aucun programme extrait de l'article",
+      "commentary": "Ce 11 mai, RTL 5 s'empare de la tête des audiences du prime time aux Pays-Bas avec \"Kees van der Spek Ontmaskert\" et 388 000 téléspectateurs, une performance notable dans un marché où les chiffres individuels restent modestes. SBS 6 suit avec \"The Moneymakers\" à 191 000 curieux, témoignant d'une lutte pour la deuxième position. La semaine précédente, NPO 1 avait dominé les soirées, notamment grâce à des événements comme \"Dodenherdenking\" (1,95 million) et des séries établies comme \"Flikken Maastricht\" (1,07 million). La performance de RTL 5 ce jour-là contraste avec la domination habituelle de la chaîne publique sur la semaine écoulée. La stratégie de RTL 5 semble viser un public intéressé par des formats d'investigation, se démarquant ainsi des programmes plus familiaux ou événementiels qui ont marqué les jours précédents.",
+      "commentary_date": "2026-05-11"
     }
   },
-  "last_updated": "2026-05-16T10:50:55.732385Z"
+  "last_updated": "2026-05-16T10:51:08.543143Z"
 }
