@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Wayne_Carpendale"
         }
       ],
-      "scraped_at": "2026-05-16T17:40:32.158949Z",
+      "scraped_at": "2026-05-16T19:52:04.330504Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 15 mai 2026, la fiction « Der Alte » sur une chaîne non spécifiée s'impose en tête du prime time avec 4,45 millions de téléspectateurs, devançant de peu le journal de 20h de Das Erste qui enregistre 4,29 millions de personnes. Cette performance consolide la présence des fictions allemandes dans les premières places, comme le montre la présence de « Praxis mit Meerblick » et « SOKO Leipzig » dans le top 5. Comparé à la semaine précédente, le score de « Tagesschau » sur Das Erste, bien que toujours élevé avec 22,2% de part de marché, est inférieur aux pics observés lors des journées précédentes, notamment le 9 mai avec 28,5%. La chaîne publique Das Erste, déjà leader sur la semaine, voit son programme d'information capter une part d'audience significative, mais la fiction semble tirer son épingle du jeu sur une case horaire concurrencée. Le divertissement de RTL, « Let's dance », se positionne en cinquième position avec 2,62 millions de téléspectateurs, soulignant la prédominance des chaînes publiques et de la fiction sur les audiences du prime time.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Plan+de+C1ne+%28los+Odiosos+Ocho%29%22+La+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-16T17:40:35.113697Z",
+      "scraped_at": "2026-05-16T19:52:08.980406Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur le prime time avec « Tu Cara Me Suena », réunissant 1,74 million de téléspectateurs et 21,6% de part de marché, un score supérieur à celui enregistré la semaine précédente pour le même programme (1,45 M, 18,5%). Ce succès se construit sur la puissance de son access, « El Hormiguero », qui a enregistré des scores avoisinant les 1,5 à 1,8 million de curieux en début de semaine. La stratégie de programmation d'Antena 3, axée sur des formats de divertissement fédérateurs, lui permet de creuser l'écart face à ses concurrents directs. Telecinco, avec « ¡De Viernes! », se positionne en deuxième chaîne avec 10% de part d'audience, une performance stable par rapport à la semaine passée. La chaîne publique La 1, bien que remontant depuis 2023, peine à rivaliser sur ce créneau, son offre de fiction et de cinéma se plaçant en quatrième et cinquième position. La compétition pour le leadership du prime time reste donc largement dominée par Antena 3, qui capitalise sur une offre de divertissement éprouvée.",
@@ -183,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Stars+on+Stage%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-16T17:40:42.891235Z",
+      "scraped_at": "2026-05-16T19:52:14.240537Z",
       "status": "partial",
       "error": null,
       "commentary": "Sur le marché néerlandais, la soirée du 15 mai voit RTL 4 s'installer en tête du prime time avec 649 000 téléspectateurs pour son divertissement « Stars on Stage ». Cette performance contraste avec les habitudes récentes, où NPO 1 dominait le classement hebdomadaire, s'appuyant notamment sur des succès comme « Flikken Maastricht » (1,07 M) et surtout « Even Tot Hier » (1,40 M) la semaine précédente. La présence de RTL 4 en tête illustre une tension concurrentielle récurrente avec la chaîne publique, bien que les audiences individuelles restent modestes dans un marché fragmenté. Le succès de « Stars on Stage » pourrait indiquer une stratégie de fidélisation sur cette case horaire, visant un public différent de celui attiré par les formats plus établis de NPO 1. Les chiffres des chaînes secondaires comme RTL 5 et SBS 6, présents dans l'historique avec des scores plus bas, confirment la prédominance des deux grands acteurs sur le prime.",
@@ -208,7 +208,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-15-maggio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grande+Fratello+Vip%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Fratello_VIP"
         },
         {
           "rank": 2,
@@ -263,7 +263,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Quarto+Grado%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-16T17:40:39.222062Z",
+      "scraped_at": "2026-05-16T19:52:12.526509Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 15 mai, Canale 5 reprend la tête du prime time avec le divertissement « Grande Fratello Vip », qui réunit 2,06 millions de téléspectateurs et 17,6% de part de marché, marquant une légère hausse par rapport à sa performance du 12 mai (2,05 M, 18,2%). Rai 1, bien que leader de la semaine, voit son programme « MilleunaCover Sanremo » se placer en deuxième position avec 1,85 million de téléspectateurs (12,8% PDM), un score inférieur à celui de la semaine précédente (1,93 M, 13,4%). La chaîne du service public Rai 2, avec « Ore 14 Sera », obtient 1,07 million de téléspectateurs (8,5% PDM), une performance en retrait par rapport à son score du 8 mai (1,19 M, 9,6%). TV8 se distingue en troisième position grâce à la diffusion d'un événement sportif de tennis, captant 1,43 million de curieux (7,5% PDM), un résultat significatif pour une chaîne de la TNT. La lutte pour la deuxième place entre Rai 1 et Canale 5 se poursuit, cette dernière tirant profit des formats de divertissement populaires en access et en prime.",
@@ -343,12 +343,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Zone_d%27int%C3%A9r%C3%AAt"
         }
       ],
-      "scraped_at": "2026-05-16T17:40:26.778249Z",
+      "scraped_at": "2026-05-16T19:51:58.262123Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 2, « Capitaine Marleau », s'impose en tête des audiences avec 3,12 millions de téléspectateurs et 19,4% de part de marché, confirmant la domination de la chaîne sur la case du prime time cette semaine. TF1, avec « The Voice : La Plus Belle Voix », se positionne en deuxième position, rassemblant 2,44 millions de personnes et 14,9% de PDA, un score stable par rapport à la semaine précédente. M6 et France 3 se disputent la troisième place, avec des scores de 1,16 million (7,0% PDM) et 1,15 million (7,2% PDM) respectivement, illustrant la difficulté des chaînes historiques à rivaliser avec les offres de flux des grandes chaînes généralistes. Le succès de la fiction sur France 2 démontre la fidélité du public pour ce genre en prime, tandis que la lutte pour la seconde partie de soirée reste ouverte. La fragmentation de l'audience, accentuée par la TNT, rend la conquête d'une large part de marché plus complexe pour l'ensemble des diffuseurs.",
       "commentary_date": "2026-05-15"
     }
   },
-  "last_updated": "2026-05-16T17:40:42.894503Z"
+  "last_updated": "2026-05-16T19:52:14.243499Z"
 }
