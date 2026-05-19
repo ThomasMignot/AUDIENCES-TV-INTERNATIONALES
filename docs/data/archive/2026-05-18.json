@@ -161,34 +161,6 @@
       "commentary": "Antena 3 confirme sa domination sur la case du prime time espagnol, s'arrogeant la tête des audiences six soirs sur sept durant la semaine écoulée. Le 18 mai, son divertissement « El Hormiguero » enregistre 1,76 million de téléspectateurs et 14,4% de part de marché, un score stable par rapport à la semaine précédente où le même programme réunissait 1,76 million de personnes (13,9% PDM). La chaîne publique La 1, avec « La Revuelta », se maintient en deuxième position avec 1,32 million de fidèles (10,8% PDM), consolidant ainsi sa remontée observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, quant à elle, voit son divertissement « First Dates » capter 1,18 million de téléspectateurs (9,6% PDM), une performance en légère hausse par rapport à ses scores des jours précédents. La stratégie d'Antena 3 semble s'appuyer sur la puissance de son access « El Hormiguero » pour assurer un lead-in solide à ses programmes de prime time.",
       "commentary_date": "2026-05-18"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-18",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Huizenruilers",
-          "program_fr": null,
-          "viewers": 580000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkers-verdeeld-over-curacao-uitzending-vandaag-inside",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_in_Dutch_television"
-        }
-      ],
-      "scraped_at": "2026-05-19T17:31:13.124477Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le programme « Huizenruilers » sur RTL 4 rassemble 580 000 téléspectateurs, se plaçant en tête des audiences du 18 mai. Cette performance est notable dans un marché néerlandais où les chiffres individuels restent modestes, la population totale étant de 17 millions d'habitants. Par comparaison, le 15 mai, le même diffuseur avait réuni 590 000 personnes avec « The House of Hide & Seek », démontrant une certaine stabilité de sa case premium. La compétition sur le prime time voit RTL 4 s'affirmer face à NPO 1, bien que cette dernière ne soit pas explicitement représentée dans les chiffres fournis pour cette soirée. L'historique récent indique que RTL 5 a mené le classement sur la semaine précédente, avec deux soirées en tête, suggérant une dynamique concurrentielle fluctuante entre les chaînes privées. La stratégie de RTL 4 semble reposer sur des formats de flux qui, bien que n'atteignant pas des seuils massifs, parviennent à capter une audience significative dans leur créneau.",
-      "commentary_date": "2026-05-18"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -269,86 +241,34 @@
       "commentary": "Le programme documentaire « Ulisse » sur Rai 1 s'impose en tête des audiences du prime time italien ce 18 mai, rassemblant 2,67 millions de téléspectateurs et captant 17,6% de part de marché. Cette performance le positionne légèrement au-dessus de son score de la semaine précédente (2,63 M, 17.4%), confirmant la force de cette case horaire pour la chaîne publique. Sur la même soirée, Canale 5 avec la fiction « I Cesaroni – Il Ritorno » voit sa part de marché reculer à 13,0% (2,16 M), un déclin notable par rapport aux 14,5% enregistrés le 11 mai avec le même programme. La chaîne privée du groupe Mediaset semble ainsi perdre du terrain face à la stratégie de Rai 1 qui, malgré la concurrence de programmes de flux comme le télé-crochet « Grande Fratello Vip » (enregistrant 18,2% le 12 mai), maintient une audience solide sur le format documentaire. Italia 1, avec le film d'action « Attacco al potere 3 », se maintient dans une position de troisième chaîne, avec 8,6% de PDM, un score en légère hausse par rapport à la semaine précédente. La7, avec son magazine d'information « La Torre di Babele », reste positionnée sur une niche, avec 5,2% de PDM, un résultat conforme à sa stratégie éditoriale.",
       "commentary_date": "2026-05-18"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-05-17",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-soiree-cinema-de-france-2-a-t-elle-une-nouvelle-fois-surclassee-celle-de-tf1/654918",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-05-18",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "UN HOMME EN COLERE (GUY RITCHIE)",
-          "program_fr": null,
-          "viewers": 3615000,
-          "share": 21.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-soiree-cinema-de-france-2-a-t-elle-une-nouvelle-fois-surclassee-celle-de-tf1/654918",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Guy_Ritchie"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
+          "channel": "RTL 4",
           "channel_color": "red",
-          "program": "ANATOMIE D'UNE CHUTE",
+          "program": "Huizenruilers",
           "program_fr": null,
-          "viewers": 2426000,
-          "share": 15.4,
-          "source_url": "https://www.ozap.com/actu/audiences-la-soiree-cinema-de-france-2-a-t-elle-une-nouvelle-fois-surclassee-celle-de-tf1/654918",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Anatomie_d%27une_chute"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "INSPECTEUR BARNABY \\ MEURTRE EN DIRECT",
-          "program_fr": null,
-          "viewers": 2217000,
-          "share": 12.0,
-          "source_url": "https://www.ozap.com/actu/audiences-la-soiree-cinema-de-france-2-a-t-elle-une-nouvelle-fois-surclassee-celle-de-tf1/654918",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Inspecteur_Barnaby"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "ZONE INTERDITE \\ ECRANS, SUCRE, MANQUE DE SOMMEIL : COMMENT SAUVER NOTRE CERVEAU",
-          "program_fr": null,
-          "viewers": 1818000,
-          "share": 10.6,
-          "source_url": "https://www.ozap.com/actu/audiences-la-soiree-cinema-de-france-2-a-t-elle-une-nouvelle-fois-surclassee-celle-de-tf1/654918",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ob%C3%A9sit%C3%A9"
-        },
-        {
-          "rank": 5,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
-          "program_fr": null,
-          "viewers": 820000,
-          "share": 4.3,
-          "source_url": "https://www.ozap.com/actu/audiences-la-soiree-cinema-de-france-2-a-t-elle-une-nouvelle-fois-surclassee-celle-de-tf1/654918",
+          "viewers": 580000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-kijkers-verdeeld-over-curacao-uitzending-vandaag-inside",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_in_Dutch_television"
         }
       ],
-      "scraped_at": "2026-05-19T17:30:54.894576Z",
-      "status": "ok",
+      "scraped_at": "2026-05-19T17:31:13.124477Z",
+      "status": "partial",
       "error": null,
-      "commentary": "TF1 reprend la tête du prime ce dimanche 17 mai avec la diffusion d'un film, réalisant 21,2% de part de marché, soit 3,62 millions de téléspectateurs. Ce score est inférieur de 1,4 point à celui obtenu par France 2 la veille, qui avait bénéficié de la soirée de l'Eurovision. France 2 se classe deuxième ce dimanche avec \"Anatomie d'une chute\", attirant 2,43 millions de personnes (15,4% PDM), une performance en retrait par rapport aux trois soirées précédentes où la chaîne avait largement dominé. France 3 consolide sa position avec \"Inspecteur Barnaby\", réunissant 2,22 millions de téléspectateurs (12,0% PDM), un chiffre stable par rapport à la moyenne de ses fictions de la semaine. M6, avec un magazine d'information, se retrouve en quatrième position, réalisant 1,82 million de curieux (10,6% PDM).",
-      "commentary_date": "2026-05-17"
+      "commentary": "Le programme « Huizenruilers » sur RTL 4 rassemble 580 000 téléspectateurs, se plaçant en tête des audiences du 18 mai. Cette performance est notable dans un marché néerlandais où les chiffres individuels restent modestes, la population totale étant de 17 millions d'habitants. Par comparaison, le 15 mai, le même diffuseur avait réuni 590 000 personnes avec « The House of Hide & Seek », démontrant une certaine stabilité de sa case premium. La compétition sur le prime time voit RTL 4 s'affirmer face à NPO 1, bien que cette dernière ne soit pas explicitement représentée dans les chiffres fournis pour cette soirée. L'historique récent indique que RTL 5 a mené le classement sur la semaine précédente, avec deux soirées en tête, suggérant une dynamique concurrentielle fluctuante entre les chaînes privées. La stratégie de RTL 4 semble reposer sur des formats de flux qui, bien que n'atteignant pas des seuils massifs, parviennent à capter une audience significative dans leur créneau.",
+      "commentary_date": "2026-05-18"
     }
   },
-  "last_updated": "2026-05-19T17:31:13.127419Z"
+  "last_updated": "2026-05-19T17:32:09.315974Z"
 }
