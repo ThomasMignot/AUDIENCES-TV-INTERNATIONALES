@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mama+ist+die+Best%28i%29e+Folge+1%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_soap_operas"
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 4,
@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mama+ist+die+Best%28i%29e+Folge+2%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Manuela_%28singer%29"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Udo+Rebell.+Rockstar.+Ikone%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-05-19T19:28:19.489054Z",
+      "scraped_at": "2026-05-19T20:20:20.986062Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 18 mai 2026 voit une chaîne non identifiée s'imposer avec la première partie de la fiction « Mama ist die Best(i)e », attirant 5,46 millions de téléspectateurs et 24,6% de part de marché. Cette performance place cette offre devant les journaux télévisés des chaînes publiques Das Erste et ZDF, qui enregistrent respectivement 4,86 millions (23,5% PDM) et 4,71 millions (23,6% PDM). La deuxième partie de cette même fiction, diffusée ensuite, maintient un public solide avec 3,87 millions de téléspectateurs, mais voit sa part de marché grimper à 26,1%, suggérant une forte fidélisation du public sur cette case horaire. Comparé à la semaine précédente, où Das Erste dominait le prime time quatre soirs sur sept, cette journée met en évidence une possible réorganisation des flux d'audience, notamment face à la forte consommation de divertissement lors de l'Eurovision le 16 mai. La présence de deux épisodes de la même série dans le top 5 illustre une stratégie de fidélisation du téléspectateur sur une même offre narrative.",
@@ -100,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Roberto+Leal%29%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Hormiguero"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Ronald+Araujo%29%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_composers_by_name"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 4,
@@ -139,7 +139,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-mayo-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Belo_Horizonte"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-mayo-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
         }
       ],
-      "scraped_at": "2026-05-19T19:28:20.698241Z",
+      "scraped_at": "2026-05-19T20:20:24.360118Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur la case du prime time espagnol, s'arrogeant la tête des audiences six soirs sur sept durant la semaine écoulée. Le 18 mai, son divertissement « El Hormiguero » enregistre 1,76 million de téléspectateurs et 14,4% de part de marché, un score stable par rapport à la semaine précédente où le même programme réunissait 1,76 million de personnes (13,9% PDM). La chaîne publique La 1, avec « La Revuelta », se maintient en deuxième position avec 1,32 million de fidèles (10,8% PDM), consolidant ainsi sa remontée observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, quant à elle, voit son divertissement « First Dates » capter 1,18 million de téléspectateurs (9,6% PDM), une performance en légère hausse par rapport à ses scores des jours précédents. La stratégie d'Antena 3 semble s'appuyer sur la puissance de son access « El Hormiguero » pour assurer un lead-in solide à ses programmes de prime time.",
@@ -183,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Huizenruilers%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-19T19:28:24.817557Z",
+      "scraped_at": "2026-05-19T20:20:31.815890Z",
       "status": "partial",
       "error": null,
       "commentary": "Le programme « Huizenruilers » sur RTL 4 rassemble 580 000 téléspectateurs, se plaçant en tête des audiences du 18 mai. Cette performance est notable dans un marché néerlandais où les chiffres individuels restent modestes, la population totale étant de 17 millions d'habitants. Par comparaison, le 15 mai, le même diffuseur avait réuni 590 000 personnes avec « The House of Hide & Seek », démontrant une certaine stabilité de sa case premium. La compétition sur le prime time voit RTL 4 s'affirmer face à NPO 1, bien que cette dernière ne soit pas explicitement représentée dans les chiffres fournis pour cette soirée. L'historique récent indique que RTL 5 a mené le classement sur la semaine précédente, avec deux soirées en tête, suggérant une dynamique concurrentielle fluctuante entre les chaînes privées. La stratégie de RTL 4 semble reposer sur des formats de flux qui, bien que n'atteignant pas des seuils massifs, parviennent à capter une audience significative dans leur créneau.",
@@ -208,7 +208,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-18-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ulisse%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ulisse"
         },
         {
           "rank": 2,
@@ -260,10 +260,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-18-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Torre+di+Babele%22+La7+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Edoardo_Bennato"
         }
       ],
-      "scraped_at": "2026-05-19T19:28:23.588126Z",
+      "scraped_at": "2026-05-19T20:20:29.866326Z",
       "status": "ok",
       "error": null,
       "commentary": "Le programme documentaire « Ulisse » sur Rai 1 s'impose en tête des audiences du prime time italien ce 18 mai, rassemblant 2,67 millions de téléspectateurs et captant 17,6% de part de marché. Cette performance le positionne légèrement au-dessus de son score de la semaine précédente (2,63 M, 17.4%), confirmant la force de cette case horaire pour la chaîne publique. Sur la même soirée, Canale 5 avec la fiction « I Cesaroni – Il Ritorno » voit sa part de marché reculer à 13,0% (2,16 M), un déclin notable par rapport aux 14,5% enregistrés le 11 mai avec le même programme. La chaîne privée du groupe Mediaset semble ainsi perdre du terrain face à la stratégie de Rai 1 qui, malgré la concurrence de programmes de flux comme le télé-crochet « Grande Fratello Vip » (enregistrant 18,2% le 12 mai), maintient une audience solide sur le format documentaire. Italia 1, avec le film d'action « Attacco al potere 3 », se maintient dans une position de troisième chaîne, avec 8,6% de PDM, un score en légère hausse par rapport à la semaine précédente. La7, avec son magazine d'information « La Torre di Babele », reste positionnée sur une niche, avec 5,2% de PDM, un résultat conforme à sa stratégie éditoriale.",
@@ -343,12 +343,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
         }
       ],
-      "scraped_at": "2026-05-19T19:28:16.251861Z",
+      "scraped_at": "2026-05-19T20:20:13.874088Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête du prime ce dimanche 17 mai avec la diffusion d'un film, réalisant 21,2% de part de marché, soit 3,62 millions de téléspectateurs. Ce score est inférieur de 1,4 point à celui obtenu par France 2 la veille, qui avait bénéficié de la soirée de l'Eurovision. France 2 se classe deuxième ce dimanche avec \"Anatomie d'une chute\", attirant 2,43 millions de personnes (15,4% PDM), une performance en retrait par rapport aux trois soirées précédentes où la chaîne avait largement dominé. France 3 consolide sa position avec \"Inspecteur Barnaby\", réunissant 2,22 millions de téléspectateurs (12,0% PDM), un chiffre stable par rapport à la moyenne de ses fictions de la semaine. M6, avec un magazine d'information, se retrouve en quatrième position, réalisant 1,82 million de curieux (10,6% PDM).",
       "commentary_date": "2026-05-17"
     }
   },
-  "last_updated": "2026-05-19T19:28:24.820669Z"
+  "last_updated": "2026-05-19T20:20:31.818523Z"
 }
