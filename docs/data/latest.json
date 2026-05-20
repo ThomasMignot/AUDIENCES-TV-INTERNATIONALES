@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 3,
@@ -62,7 +62,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Stralsund"
         }
       ],
-      "scraped_at": "2026-05-20T21:17:09.681554Z",
+      "scraped_at": "2026-05-20T22:12:44.014251Z",
       "status": "partial",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste réalise une performance solide avec 4,29 millions de téléspectateurs et 21,3% de part de marché. Ce chiffre le place en tête des audiences de la soirée, devant le « heute journal » de ZDF qui enregistre 2,94 millions de spectateurs (15,5% de PDM). Comparé à la semaine passée, ce résultat est inférieur aux pics observés, notamment le 16 mai avec 6,02 millions de spectateurs pour le journal, mais reste supérieur à la moyenne des sept derniers jours, qui s'établit autour de 4,8 millions de téléspectateurs pour ce programme. La présence du divertissement de RTL, « Bauer sucht Frau International », avec 2,35 millions de téléspectateurs (11,9% PDM), illustre la lutte des chaînes privées pour capter une audience plus jeune, tandis que les chaînes publiques conservent leur positionnement auprès des téléspectateurs plus âgés. La domination de Das Erste sur quatre soirées de la semaine passée confirme son ancrage historique, en particulier sur le créneau de l'information en début de soirée.",
@@ -100,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Mercedes+Mila%29%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Camilo_Jos%C3%A9_Cela"
         },
         {
           "rank": 3,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-mayo-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Belo_Horizonte"
         },
         {
           "rank": 4,
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 5,
@@ -139,10 +139,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-mayo-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
         }
       ],
-      "scraped_at": "2026-05-20T21:17:10.902316Z",
+      "scraped_at": "2026-05-20T22:12:47.383452Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination du prime time, s'adjugeant six des sept soirées de la semaine passée. Le programme « El Hormiguero » enregistre 1,71 million de téléspectateurs et 13,9% de part de marché, un score en retrait par rapport à la semaine précédente, où il atteignait 1,83 million le 13 mai. La chaîne publique La 1, avec « La Revuelta », se positionne en deuxième force, attirant 1,53 million de curieux, soit une légère hausse par rapport aux 1,32 million du 18 mai. La chaîne du groupe Mediaset, Telecinco, peine à retrouver son dynamisme habituel en access et prime, « First Dates » ne dépassant pas les 992 000 téléspectateurs. Le maintien de « El Hormiguero » en tête des audiences, malgré une légère érosion, illustre la puissance de ce rendez-vous quotidien dans la stratégie d'access d'Antena 3. La bataille pour la deuxième place, opposant La 1 et Telecinco, reste un enjeu structurel du marché espagnol.",
@@ -183,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Schiphol+Airport%22+RTL+5+ratings"
         }
       ],
-      "scraped_at": "2026-05-20T21:17:15.389766Z",
+      "scraped_at": "2026-05-20T22:12:53.835163Z",
       "status": "partial",
       "error": null,
       "commentary": "Ce dimanche 19 mai, le prime time néerlandais voit NPO 1 prendre la tête avec \"Hunted VIPS\" et ses 511 000 téléspectateurs, devançant RTL 5 et son programme \"Schiphol Airport\" (480 000). Cette performance de NPO 1 contraste avec la domination de SBS 6 en début de semaine, qui avait mené le classement du prime le 15 mai avec 594 000 spectateurs. RTL 4, bien que présent dans le top 2 du 15 mai, n'apparaît pas dans les données du 19 mai, signalant une possible fluctuation des stratégies de programmation des chaînes privées face à la chaîne publique. La faible densité d'audience, typique du marché néerlandais, se confirme avec des chiffres individuels relativement modestes pour des programmes de tête de chaîne. La compétition pour le leadership du prime time semble donc s'articuler autour de la capacité des chaînes à mobiliser des audiences spécifiques, potentiellement sur des formats de téléréalité ou de docu-fiction comme ceux présentés.",
@@ -208,7 +208,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-19-maggio-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+Commissario+Montalbano%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Inspector_Montalbano_%28TV_series%29"
         },
         {
           "rank": 2,
@@ -221,7 +221,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-19-maggio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grande+Fratello+Vip%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Fratello_VIP"
         },
         {
           "rank": 3,
@@ -234,7 +234,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-19-maggio-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22DiMarted%C3%AC%22+La7+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_Niscemi_landslide"
         },
         {
           "rank": 4,
@@ -247,7 +247,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-19-maggio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Belve+Crime%22+Rai+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Belve_%28TV_series%29"
         },
         {
           "rank": 5,
@@ -263,7 +263,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Inside%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-20T21:17:13.518033Z",
+      "scraped_at": "2026-05-20T22:12:51.572210Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « Il Commissario Montalbano », s'impose en tête des audiences de prime time avec 2,85 millions de téléspectateurs, représentant 17,6% de part de marché. Ce résultat la place en léger retrait par rapport à son score de 2,94 millions du 14 mai, mais confirme la domination de Rai 1 sur la case en semaine, malgré la présence du divertissement de Canale 5. « Grande Fratello Vip » sur Canale 5 attire 2,44 millions de fidèles (23,1% PDM), démontrant la capacité de la chaîne privée à mobiliser un public plus large sur ce type de format, bien qu'en deçà de ses pics récents. La chaîne d'information La7, avec « DiMartedì », se maintient dans sa niche politique et d'information, atteignant 1,43 million de téléspectateurs (9,3% PDM). L'analyse des sept derniers jours révèle une lutte constante entre Rai 1 et Canale 5 pour le leadership du prime time, souvent remportée par la chaîne publique grâce à ses offres de fiction ou d'événements spéciaux. La présence de « Eurovision Song Contest » le 16 mai sur Rai 1, avec 5,03 millions de téléspectateurs, illustre l'impact potentiel des événements en direct sur la hiérarchie des audiences.",
@@ -343,12 +343,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/XXL_%28chanson%29"
         }
       ],
-      "scraped_at": "2026-05-20T21:17:05.230306Z",
+      "scraped_at": "2026-05-20T22:12:38.138309Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction française sur France 3, avec « Alexandra Ehle \\ Cœur de Glace », s'impose en tête des audiences ce 19 mai, atteignant 3,86 millions de téléspectateurs et 23,2% de part de marché. Ce résultat place la chaîne publique en nette position de leader face à TF1 et son divertissement phare « Koh-Lanta », qui réunit 2,55 millions de personnes (15,0% PDM). Sur la semaine écoulée, France 3 démontre une capacité à fidéliser son public en première partie de soirée, notamment avec des fictions, obtenant la première place lors de deux soirées sur cinq. Cette performance contraste avec la stratégie de TF1, qui, bien que leader sur la semaine, voit sa case divertissement du lundi être dépassée par une offre de fiction plus ciblée. France 2, avec un magazine d'information, se positionne en troisième force, tandis que M6 et W9 se disputent les audiences sur des formats distincts.",
       "commentary_date": "2026-05-19"
     }
   },
-  "last_updated": "2026-05-20T21:17:15.392824Z"
+  "last_updated": "2026-05-20T22:12:53.837919Z"
 }
