@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Retour_vers_le_futur_2"
         }
       ],
-      "scraped_at": "2026-05-21T19:28:14.157293Z",
+      "scraped_at": "2026-05-21T20:26:44.092944Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce 20 mai avec le lancement de sa nouvelle fiction « L'OR BLEU », attirant 3,47 millions de téléspectateurs et captant 19,6% de part d'audience. Cette performance la place nettement devant TF1 et sa série « Grey's Anatomy », qui réunit 1,95 million de personnes (11,0% PDM), marquant une inversion de tendance par rapport aux jours précédents où TF1 dominait souvent la case. L'écart entre France 2 et ses concurrentes directes, TF1 et M6, se creuse significativement, cette dernière proposant « Top Chef » devant 1,43 million de curieux (8,1% PDM). La chaîne publique confirme ainsi sa capacité à mobiliser un large public en prime time, une stratégie qui a déjà porté ses fruits avec des succès comme « Capitanne Marleau » la semaine passée. La fiction française semble trouver son public, au détriment des programmes de divertissement plus établis, dans un paysage médiatique fragmenté où les chaînes de la TNT occupent des niches.",
@@ -100,7 +100,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22RTL+Fu%C3%9Fball%22+RTL+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2._Bundesliga"
         },
         {
           "rank": 2,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Nord+bei+Nordwest%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-05-21T19:28:18.686966Z",
+      "scraped_at": "2026-05-21T20:26:48.128272Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion du match de football sur RTL, attirant 5,67 millions de téléspectateurs et 25,5% de part de marché, positionne la chaîne privée en tête des audiences du 20 mai. Ce score la place en concurrence directe avec les chaînes publiques, dont Das Erste qui enregistre 4,61 millions de téléspectateurs avec son journal \"Tagesschau\". La performance de RTL contraste avec celle de la veille où le journal de Das Erste avait rassemblé 4,29 millions de personnes. La présence du sport en première partie de soirée sur RTL démontre une stratégie visant à capter une large audience, potentiellement plus jeune que le cœur de cible des chaînes publiques. Les autres programmes de cette soirée, notamment sur ZDF et des chaînes non identifiées, se situent dans une fourchette de 2,9 à 3,1 millions de téléspectateurs.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-05-21T19:28:19.722796Z",
+      "scraped_at": "2026-05-21T20:26:49.245860Z",
       "status": "ok",
       "error": null,
       "commentary": "Le leadership d'Antena 3 sur la semaine est confirmé par la première place de son divertissement \"El Hormiguero\", qui enregistre 12.6% de part de marché, un score stable par rapport à la semaine précédente. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième position, une performance notable dans un marché dominé par les groupes privés Mediaset et Atresmedia. La progression de La 1 depuis 2023 se manifeste par sa capacité à rivaliser dans cette case horaire du début de soirée. La chaîne Cuatro, en diffusant \"Horizonte\", parvient à capter une audience significative de 9.9%, démontrant une stratégie de contre-programmation efficace face aux offres plus légères. Telecinco, malgré la présence de son divertissement \"First Dates\", se retrouve en quatrième position, témoignant d'une certaine difficulté à s'imposer dans cette configuration concurrentielle.",
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Una+Giornata+Particolare%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-05-21T19:28:22.386841Z",
+      "scraped_at": "2026-05-21T20:26:51.894431Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 s'impose en tête du prime time du 20 mai avec « Battiti Live Spring » qui rassemble 2,12 millions de téléspectateurs, soit 18,5% de part de marché. Cette performance place la chaîne privée en tête devant les deux diffuseurs publics, Rai 1 et Rai 3. La semaine précédente, Rai 1 avait dominé le classement six soirs sur sept, démontrant une forte stabilité de son leadership. L'audience de « Chi l’ha Visto? » sur Rai 3, avec 1,65 million de personnes (11,0% PDM), reste relativement stable par rapport à ses scores récents. Le film diffusé sur Rai 1, « Comandante », enregistre un score plus modeste de 1,52 million de téléspectateurs (9,9% PDM), contrastant avec les succès habituels de la chaîne sur cette case horaire. La stratégie de Canale 5 semble porter ses fruits en proposant un divertissement musical à forte audience, fragmentant ainsi le public du prime time.",
@@ -329,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-05-21T19:28:23.600064Z",
+      "scraped_at": "2026-05-21T20:26:54.629582Z",
       "status": "failed",
       "error": "Aucun programme extrait de l'article",
       "commentary": "Ce dimanche 19 mai, le prime time néerlandais voit NPO 1 prendre la tête avec \"Hunted VIPS\" et ses 511 000 téléspectateurs, devançant RTL 5 et son programme \"Schiphol Airport\" (480 000). Cette performance de NPO 1 contraste avec la domination de SBS 6 en début de semaine, qui avait mené le classement du prime le 15 mai avec 594 000 spectateurs. RTL 4, bien que présent dans le top 2 du 15 mai, n'apparaît pas dans les données du 19 mai, signalant une possible fluctuation des stratégies de programmation des chaînes privées face à la chaîne publique. La faible densité d'audience, typique du marché néerlandais, se confirme avec des chiffres individuels relativement modestes pour des programmes de tête de chaîne. La compétition pour le leadership du prime time semble donc s'articuler autour de la capacité des chaînes à mobiliser des audiences spécifiques, potentiellement sur des formats de téléréalité ou de docu-fiction comme ceux présentés.",
       "commentary_date": "2026-05-19"
     }
   },
-  "last_updated": "2026-05-21T19:28:23.602388Z"
+  "last_updated": "2026-05-21T20:26:54.632237Z"
 }
