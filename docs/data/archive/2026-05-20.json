@@ -1,6 +1,86 @@
 {
   "date": "2026-05-20",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-20",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "L'OR BLEU \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 3468000,
+          "share": 19.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Donald_Gibb"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "GREY'S ANATOMY \\ UNE VIEILLE CONNAISSANCE",
+          "program_fr": "Grey's Anatomy",
+          "viewers": 1946000,
+          "share": 11.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "TOP CHEF",
+          "program_fr": "Top Chef",
+          "viewers": 1428000,
+          "share": 8.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "1936, LE FRONT POPULAIRE ENTRE JOIE ET COLERE",
+          "program_fr": null,
+          "viewers": 1235000,
+          "share": 7.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Louis_Aragon"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "RETOUR VERS LE FUTUR II",
+          "program_fr": null,
+          "viewers": 862000,
+          "share": 5.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Retour_vers_le_futur_2"
+        }
+      ],
+      "scraped_at": "2026-05-21T17:21:29.108507Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 s'impose ce 20 mai avec le lancement de sa nouvelle fiction « L'OR BLEU », attirant 3,47 millions de téléspectateurs et captant 19,6% de part d'audience. Cette performance la place nettement devant TF1 et sa série « Grey's Anatomy », qui réunit 1,95 million de personnes (11,0% PDM), marquant une inversion de tendance par rapport aux jours précédents où TF1 dominait souvent la case. L'écart entre France 2 et ses concurrentes directes, TF1 et M6, se creuse significativement, cette dernière proposant « Top Chef » devant 1,43 million de curieux (8,1% PDM). La chaîne publique confirme ainsi sa capacité à mobiliser un large public en prime time, une stratégie qui a déjà porté ses fruits avec des succès comme « Capitanne Marleau » la semaine passée. La fiction française semble trouver son public, au détriment des programmes de divertissement plus établis, dans un paysage médiatique fragmenté où les chaînes de la TNT occupent des niches.",
+      "commentary_date": "2026-05-20"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Le leadership d'Antena 3 sur la semaine est confirmé par la première place de son divertissement \"El Hormiguero\", qui enregistre 12.6% de part de marché, un score stable par rapport à la semaine précédente. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième position, une performance notable dans un marché dominé par les groupes privés Mediaset et Atresmedia. La progression de La 1 depuis 2023 se manifeste par sa capacité à rivaliser dans cette case horaire du début de soirée. La chaîne Cuatro, en diffusant \"Horizonte\", parvient à capter une audience significative de 9.9%, démontrant une stratégie de contre-programmation efficace face aux offres plus légères. Telecinco, malgré la présence de son divertissement \"First Dates\", se retrouve en quatrième position, témoignant d'une certaine difficulté à s'imposer dans cette configuration concurrentielle.",
       "commentary_date": "2026-05-20"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-20",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-05-21T17:21:43.243919Z",
-      "status": "failed",
-      "error": "Aucun programme extrait de l'article",
-      "commentary": "Ce dimanche 19 mai, le prime time néerlandais voit NPO 1 prendre la tête avec \"Hunted VIPS\" et ses 511 000 téléspectateurs, devançant RTL 5 et son programme \"Schiphol Airport\" (480 000). Cette performance de NPO 1 contraste avec la domination de SBS 6 en début de semaine, qui avait mené le classement du prime le 15 mai avec 594 000 spectateurs. RTL 4, bien que présent dans le top 2 du 15 mai, n'apparaît pas dans les données du 19 mai, signalant une possible fluctuation des stratégies de programmation des chaînes privées face à la chaîne publique. La faible densité d'audience, typique du marché néerlandais, se confirme avec des chiffres individuels relativement modestes pour des programmes de tête de chaîne. La compétition pour le leadership du prime time semble donc s'articuler autour de la capacité des chaînes à mobiliser des audiences spécifiques, potentiellement sur des formats de téléréalité ou de docu-fiction comme ceux présentés.",
-      "commentary_date": "2026-05-19"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Canale 5 s'impose en tête du prime time du 20 mai avec « Battiti Live Spring » qui rassemble 2,12 millions de téléspectateurs, soit 18,5% de part de marché. Cette performance place la chaîne privée en tête devant les deux diffuseurs publics, Rai 1 et Rai 3. La semaine précédente, Rai 1 avait dominé le classement six soirs sur sept, démontrant une forte stabilité de son leadership. L'audience de « Chi l’ha Visto? » sur Rai 3, avec 1,65 million de personnes (11,0% PDM), reste relativement stable par rapport à ses scores récents. Le film diffusé sur Rai 1, « Comandante », enregistre un score plus modeste de 1,52 million de téléspectateurs (9,9% PDM), contrastant avec les succès habituels de la chaîne sur cette case horaire. La stratégie de Canale 5 semble porter ses fruits en proposant un divertissement musical à forte audience, fragmentant ainsi le public du prime time.",
       "commentary_date": "2026-05-20"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-20",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "L'OR BLEU \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 3468000,
-          "share": 19.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Donald_Gibb"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "GREY'S ANATOMY \\ UNE VIEILLE CONNAISSANCE",
-          "program_fr": "Grey's Anatomy",
-          "viewers": 1946000,
-          "share": 11.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "TOP CHEF",
-          "program_fr": "Top Chef",
-          "viewers": 1428000,
-          "share": 8.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "1936, LE FRONT POPULAIRE ENTRE JOIE ET COLERE",
-          "program_fr": null,
-          "viewers": 1235000,
-          "share": 7.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Louis_Aragon"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "RETOUR VERS LE FUTUR II",
-          "program_fr": null,
-          "viewers": 862000,
-          "share": 5.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-demarrage-de-lor-bleu-la-nouvelle-saga-dete-de-france-2-avec-tom-leeb-et-barbara-probst/655183",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Retour_vers_le_futur_2"
-        }
-      ],
-      "scraped_at": "2026-05-21T17:21:29.108507Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 s'impose ce 20 mai avec le lancement de sa nouvelle fiction « L'OR BLEU », attirant 3,47 millions de téléspectateurs et captant 19,6% de part d'audience. Cette performance la place nettement devant TF1 et sa série « Grey's Anatomy », qui réunit 1,95 million de personnes (11,0% PDM), marquant une inversion de tendance par rapport aux jours précédents où TF1 dominait souvent la case. L'écart entre France 2 et ses concurrentes directes, TF1 et M6, se creuse significativement, cette dernière proposant « Top Chef » devant 1,43 million de curieux (8,1% PDM). La chaîne publique confirme ainsi sa capacité à mobiliser un large public en prime time, une stratégie qui a déjà porté ses fruits avec des succès comme « Capitanne Marleau » la semaine passée. La fiction française semble trouver son public, au détriment des programmes de divertissement plus établis, dans un paysage médiatique fragmenté où les chaînes de la TNT occupent des niches.",
-      "commentary_date": "2026-05-20"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-05-21T17:21:43.243919Z",
+      "status": "failed",
+      "error": "Aucun programme extrait de l'article",
+      "commentary": "Ce dimanche 19 mai, le prime time néerlandais voit NPO 1 prendre la tête avec \"Hunted VIPS\" et ses 511 000 téléspectateurs, devançant RTL 5 et son programme \"Schiphol Airport\" (480 000). Cette performance de NPO 1 contraste avec la domination de SBS 6 en début de semaine, qui avait mené le classement du prime le 15 mai avec 594 000 spectateurs. RTL 4, bien que présent dans le top 2 du 15 mai, n'apparaît pas dans les données du 19 mai, signalant une possible fluctuation des stratégies de programmation des chaînes privées face à la chaîne publique. La faible densité d'audience, typique du marché néerlandais, se confirme avec des chiffres individuels relativement modestes pour des programmes de tête de chaîne. La compétition pour le leadership du prime time semble donc s'articuler autour de la capacité des chaînes à mobiliser des audiences spécifiques, potentiellement sur des formats de téléréalité ou de docu-fiction comme ceux présentés.",
+      "commentary_date": "2026-05-19"
     }
   },
-  "last_updated": "2026-05-21T17:21:43.247329Z"
+  "last_updated": "2026-05-21T17:23:09.743502Z"
 }
