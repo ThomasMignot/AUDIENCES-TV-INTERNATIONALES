@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Epp"
+          "wikipedia_url": "https://www.google.com/search?q=%22Der+Z%C3%BCrich-Krimi%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 2,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Kriegst%C3%BCchtig%3F+70+Jahre+Bundeswehr%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-05-22T18:25:32.923444Z",
+      "scraped_at": "2026-05-22T20:25:21.508392Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 21 mai, la fiction de Das Erste, « Der Zürich-Krimi: Borchert und die », s'impose avec 4,17 millions de téléspectateurs et 20,8% de part de marché, mais le journal de la même chaîne, « Tagesschau », réalise une performance supérieure en termes de PDM avec 21,1%. Cette configuration illustre la capacité des chaînes publiques à capter une audience large en début de soirée, les informations de la « Tagesschau » servant de puissant lead-in. Le ZDF, avec son « heute journal », enregistre 2 millions de curieux et 10,6% de PDM, une audience moindre comparée aux chiffres enregistrés en milieu de semaine, notamment le 18 mai où le journal atteignait 4,71 millions. La présence du sport sur une chaîne tierce, avec 1,91 million de téléspectateurs, témoigne d'une concurrence sur les cases horaires, bien que les programmes des chaînes publiques restent dominants. La semaine précédente, le 16 mai, avait vu une audience exceptionnellement élevée pour l'Eurovision, dépassant les 8 millions de téléspectateurs, ce qui ramène les chiffres actuels à un niveau plus habituel pour le marché.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-05-22T18:25:34.560474Z",
+      "scraped_at": "2026-05-22T20:25:23.578961Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur la case du prime time espagnol, plaçant systématiquement ses programmes en tête des audiences sur la semaine écoulée, comme en témoigne le score de 1,64 million de téléspectateurs pour \"El Hormiguero\" le 21 mai. La chaîne publique La 1, avec \"La Revuelta\", progresse et se positionne en deuxième force, atteignant 1,34 million de spectateurs ce soir-là, une performance notable par rapport à la moyenne de la semaine. Telecinco, bien que leader historique sur certaines cases, voit son divertissement phare \"Supervivientes\" se classer quatrième avec 999 000 fidèles, un chiffre inférieur à ses scores récents, illustrant une certaine érosion face à la contre-programmation d'Antena 3 et La 1. La chaîne Cuatro parvient à se hisser dans le top 5 grâce à son offre d'information avec \"Horizonte: Avance\", démontrant l'appétence du public pour ce genre en fin de soirée. La stratégie d'Antena 3 de s'appuyer sur des figures populaires dans \"El Hormiguero\" semble porter ses fruits, assurant un lead-in solide pour les programmes suivants. La répartition des audiences sur la soirée du 21 mai reflète une compétition accrue entre les offres généralistes, où la fidélisation des téléspectateurs reste un enjeu majeur.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-05-22T18:25:42.583794Z",
+      "scraped_at": "2026-05-22T20:25:28.435235Z",
       "status": "failed",
       "error": "Aucun programme extrait de l'article",
       "commentary": "Ce dimanche 19 mai, le prime time néerlandais voit NPO 1 prendre la tête avec \"Hunted VIPS\" et ses 511 000 téléspectateurs, devançant RTL 5 et son programme \"Schiphol Airport\" (480 000). Cette performance de NPO 1 contraste avec la domination de SBS 6 en début de semaine, qui avait mené le classement du prime le 15 mai avec 594 000 spectateurs. RTL 4, bien que présent dans le top 2 du 15 mai, n'apparaît pas dans les données du 19 mai, signalant une possible fluctuation des stratégies de programmation des chaînes privées face à la chaîne publique. La faible densité d'audience, typique du marché néerlandais, se confirme avec des chiffres individuels relativement modestes pour des programmes de tête de chaîne. La compétition pour le leadership du prime time semble donc s'articuler autour de la capacité des chaînes à mobiliser des audiences spécifiques, potentiellement sur des formats de téléréalité ou de docu-fiction comme ceux présentés.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Piazzapulita%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-05-22T18:25:38.129734Z",
+      "scraped_at": "2026-05-22T20:25:27.032233Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 21 mai voit Rai 1 reprendre la tête des audiences avec « Un futuro aprile » et 14,4% de part de marché, dépassant Canale 5 et sa fiction « Forbidden Fruit » (14,3%). Cette performance marque un retour au leadership pour Rai 1, qui avait été détrônée la veille par Canale 5 avec « Battiti Live Spring » (18,5%). La chaîne publique avait cependant dominé la majorité des soirées précédentes, s'appuyant sur des programmes à fort potentiel comme « Il Commissario Montalbano » ou « Ulisse ». La chaîne généraliste Rai 2 se positionne en troisième force avec « Ore 14 Sera » et 9,0% de PDM, dans une case horaire où le divertissement et les séries peinent à rivaliser avec les offres de ses concurrentes principales. La7, spécialisée dans l'information et le débat politique, occupe la cinquième place avec « Piazzapulita » et 7,0% de PDM, une performance conforme à sa stratégie de niche.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Retour_vers_le_futur_2"
         }
       ],
-      "scraped_at": "2026-05-22T18:25:28.325009Z",
+      "scraped_at": "2026-05-22T20:25:15.566424Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce 20 mai avec le lancement de sa nouvelle fiction « L'OR BLEU », attirant 3,47 millions de téléspectateurs et captant 19,6% de part d'audience. Cette performance la place nettement devant TF1 et sa série « Grey's Anatomy », qui réunit 1,95 million de personnes (11,0% PDM), marquant une inversion de tendance par rapport aux jours précédents où TF1 dominait souvent la case. L'écart entre France 2 et ses concurrentes directes, TF1 et M6, se creuse significativement, cette dernière proposant « Top Chef » devant 1,43 million de curieux (8,1% PDM). La chaîne publique confirme ainsi sa capacité à mobiliser un large public en prime time, une stratégie qui a déjà porté ses fruits avec des succès comme « Capitanne Marleau » la semaine passée. La fiction française semble trouver son public, au détriment des programmes de divertissement plus établis, dans un paysage médiatique fragmenté où les chaînes de la TNT occupent des niches.",
       "commentary_date": "2026-05-20"
     }
   },
-  "last_updated": "2026-05-22T18:25:42.586952Z"
+  "last_updated": "2026-05-22T20:25:28.438486Z"
 }
