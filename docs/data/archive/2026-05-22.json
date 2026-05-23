@@ -1,6 +1,86 @@
 {
   "date": "2026-05-22",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-22",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "FINALE DE LA COUPE DE FRANCE \\ LENS - NICE RETRANSMISSION D'EVENEMENTS SPORTIFS",
+          "program_fr": null,
+          "viewers": 4061000,
+          "share": 24.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_de_France_de_football_2025-2026"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LE CRIME DE LA TOUR EIFFEL",
+          "program_fr": null,
+          "viewers": 3046000,
+          "share": 18.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Crime_de_la_tour_Eiffel"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MASK SINGER",
+          "program_fr": null,
+          "viewers": 2122000,
+          "share": 12.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mask_Singer"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "PEKIN EXPRESS \\ AU ROYAUME DES DRAGONS - EPISODE 12 - FINALE",
+          "program_fr": null,
+          "viewers": 1051000,
+          "share": 6.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/P%C3%A9kin_Express_%3A_Au_royaume_des_dragons"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "THE OLD OAK",
+          "program_fr": null,
+          "viewers": 610000,
+          "share": 3.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Old_Oak"
+        }
+      ],
+      "scraped_at": "2026-05-23T09:16:33.763832Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La retransmission de la finale de la Coupe de France sur France 2 s'impose ce 22 mai avec 4,06 millions de téléspectateurs et 24,7% de part de marché, confirmant la capacité de la chaîne publique à mobiliser un large public autour de l'événementiel sportif. Ce score est supérieur aux meilleures performances de la semaine précédente, notamment le 3,86 millions pour une fiction sur France 3 le 19 mai. La fiction de France 3, « Le Crime de la Tour Eiffel », parvient à se positionner en deuxième place avec 3,05 millions de curieux, démontrant la solidité de la case fiction sur la chaîne. Sur cette même soirée, TF1 et M6 voient leurs programmes de divertissement, « Mask Singer » et la finale de « Pékin Express », réaliser des scores plus modestes, respectivement 2,12 millions et 1,05 million de téléspectateurs. Cette dynamique illustre une tension concurrentielle où les événements en direct et les fictions à fort potentiel d'audience semblent encore tirer leur épingle du jeu face aux formats de divertissement plus établis.",
+      "commentary_date": "2026-05-22"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,47 +241,6 @@
       "commentary": "Antena 3 confirme sa domination du prime time avec « Tu Cara Me Suena », qui réunit 1,45 million de téléspectateurs et 19,1% de part de marché, un score en retrait par rapport aux 1,74 million du 15 mai. La chaîne du groupe Atresmedia maintient ainsi son leadership hebdomadaire sur cette case, malgré une légère érosion comparée à la semaine précédente. Telecinco, avec « ¡De Viernes! », se positionne en deuxième place avec 701 000 fidèles (9,5% PDM), une audience inférieure à celle de la semaine passée (782 000). La 1, chaîne publique, voit son programme de cinéma « Oppenheimer » atteindre 594 000 spectateurs (6,9% PDM), un résultat en deçà de celui de « La Revuelta » observé plus tôt dans la semaine. La Sexta et La 2 complètent ce classement, témoignant d'une fragmentation des audiences en fin de semaine.",
       "commentary_date": "2026-05-22"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-22",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Ik Vertrek",
-          "program_fr": null,
-          "viewers": 907000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/stars-on-stage-kijkers-winnaar-ik-vertrek-vandaag-inside-kijkcijfers",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ik+Vertrek%22+NPO+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Stars on Stage",
-          "program_fr": null,
-          "viewers": 612000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/stars-on-stage-kijkers-winnaar-ik-vertrek-vandaag-inside-kijkcijfers",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Stars+on+Stage%22+RTL+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-23T09:16:42.184138Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le programme \"Ik Vertrek\" sur NPO 1 enregistre 907 000 téléspectateurs, s'imposant en tête du prime time ce 22 mai 2026. Cette performance place la chaîne publique dans une position de leader face à RTL 4, dont le divertissement \"Stars on Stage\" rassemble 612 000 curieux. La semaine précédente, le paysage concurrentiel du prime time néerlandais, marqué par une audience moyenne plus faible, avait vu SBS 6 et RTL 4 se disputer le leadership avec des scores inférieurs à 600 000 téléspectateurs. L'observation des programmes diffusés mi-mai, tels que \"The House of Hide & Seek\" ou \"Huizenruilers\", suggère une stratégie de RTL 4 axée sur des formats de flux moins fédérateurs. La nette victoire de NPO 1 ce jeudi peut s'expliquer par la force intrinsèque du format \"Ik Vertrek\", un programme qui semble mieux capter l'attention du public que les offres de ses concurrents privés dans la case.",
-      "commentary_date": "2026-05-22"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +321,47 @@
       "commentary": "Canale 5 s'impose en tête du prime time du 22 mai avec 2,45 millions de téléspectateurs et 17,9% de part de marché, devançant Rai 1 et sa proposition « Semplicemente Fiorella » (2,23 M, 16,1%). Cette performance de Canale 5 marque un regain d'intérêt pour la fiction italienne, après plusieurs soirées dominées par des programmes de divertissement ou des événements ponctuels. La chaîne privée confirme sa stratégie de proposer des séries locales en concurrence directe avec les offres plus généralistes de la Rai, dont Rai 1, leader du prime sur la semaine écoulée avec cinq victoires. Le programme de Rete 4, « Quarto Grado », se positionne en troisième place, témoignant d'une certaine stabilité de son audience habituelle. La chaîne Nove, avec « Fratelli di Crozza », et Rai 2, avec « Delitti in Paradiso », se partagent les audiences plus confidentielles, confirmant la difficulté pour les chaînes hors du duopole historique de capter une part significative du public en première partie de soirée.",
       "commentary_date": "2026-05-22"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-22",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "FINALE DE LA COUPE DE FRANCE \\ LENS - NICE RETRANSMISSION D'EVENEMENTS SPORTIFS",
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Ik Vertrek",
           "program_fr": null,
-          "viewers": 4061000,
-          "share": 24.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
+          "viewers": 907000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/stars-on-stage-kijkers-winnaar-ik-vertrek-vandaag-inside-kijkcijfers",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_de_France_de_football_2025-2026"
+          "wikipedia_url": "https://www.google.com/search?q=%22Ik+Vertrek%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LE CRIME DE LA TOUR EIFFEL",
+          "channel": "RTL 4",
+          "channel_color": "red",
+          "program": "Stars on Stage",
           "program_fr": null,
-          "viewers": 3046000,
-          "share": 18.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Crime_de_la_tour_Eiffel"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MASK SINGER",
-          "program_fr": null,
-          "viewers": 2122000,
-          "share": 12.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mask_Singer"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "PEKIN EXPRESS \\ AU ROYAUME DES DRAGONS - EPISODE 12 - FINALE",
-          "program_fr": null,
-          "viewers": 1051000,
-          "share": 6.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/P%C3%A9kin_Express_%3A_Au_royaume_des_dragons"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "THE OLD OAK",
-          "program_fr": null,
-          "viewers": 610000,
-          "share": 3.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-finale-de-la-coupe-de-france-entre-lens-et-nice-sur-france-2-face-a-la-finale-de-pekin-expres-sur-m6/654999",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Old_Oak"
+          "viewers": 612000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/stars-on-stage-kijkers-winnaar-ik-vertrek-vandaag-inside-kijkcijfers",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Stars+on+Stage%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-23T09:16:33.763832Z",
-      "status": "ok",
+      "scraped_at": "2026-05-23T09:16:42.184138Z",
+      "status": "partial",
       "error": null,
-      "commentary": "La retransmission de la finale de la Coupe de France sur France 2 s'impose ce 22 mai avec 4,06 millions de téléspectateurs et 24,7% de part de marché, confirmant la capacité de la chaîne publique à mobiliser un large public autour de l'événementiel sportif. Ce score est supérieur aux meilleures performances de la semaine précédente, notamment le 3,86 millions pour une fiction sur France 3 le 19 mai. La fiction de France 3, « Le Crime de la Tour Eiffel », parvient à se positionner en deuxième place avec 3,05 millions de curieux, démontrant la solidité de la case fiction sur la chaîne. Sur cette même soirée, TF1 et M6 voient leurs programmes de divertissement, « Mask Singer » et la finale de « Pékin Express », réaliser des scores plus modestes, respectivement 2,12 millions et 1,05 million de téléspectateurs. Cette dynamique illustre une tension concurrentielle où les événements en direct et les fictions à fort potentiel d'audience semblent encore tirer leur épingle du jeu face aux formats de divertissement plus établis.",
+      "commentary": "Le programme \"Ik Vertrek\" sur NPO 1 enregistre 907 000 téléspectateurs, s'imposant en tête du prime time ce 22 mai 2026. Cette performance place la chaîne publique dans une position de leader face à RTL 4, dont le divertissement \"Stars on Stage\" rassemble 612 000 curieux. La semaine précédente, le paysage concurrentiel du prime time néerlandais, marqué par une audience moyenne plus faible, avait vu SBS 6 et RTL 4 se disputer le leadership avec des scores inférieurs à 600 000 téléspectateurs. L'observation des programmes diffusés mi-mai, tels que \"The House of Hide & Seek\" ou \"Huizenruilers\", suggère une stratégie de RTL 4 axée sur des formats de flux moins fédérateurs. La nette victoire de NPO 1 ce jeudi peut s'expliquer par la force intrinsèque du format \"Ik Vertrek\", un programme qui semble mieux capter l'attention du public que les offres de ses concurrents privés dans la case.",
       "commentary_date": "2026-05-22"
     }
   },
-  "last_updated": "2026-05-23T09:16:42.187129Z"
+  "last_updated": "2026-05-23T09:16:59.618041Z"
 }
