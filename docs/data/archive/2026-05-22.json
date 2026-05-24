@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-mayo-de-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tu_cara_me_suena_%28Spanish_TV_series%29"
         },
         {
           "rank": 2,
@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-mayo-de-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aniversario_de_Arena_M%C3%A9xico"
         },
         {
           "rank": 3,
@@ -206,7 +206,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-mayo-de-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
         },
         {
           "rank": 4,
@@ -219,7 +219,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-mayo-de-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Equipo+de+Investigacion+%28Fentanilo%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
         },
         {
           "rank": 5,
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Plan+de+C1ne+%28Oppenheimer%29%22+La+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-23T17:14:24.588296Z",
+      "scraped_at": "2026-05-24T09:27:34.710772Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination du prime time avec « Tu Cara Me Suena », qui réunit 1,45 million de téléspectateurs et 19,1% de part de marché, un score en retrait par rapport aux 1,74 million du 15 mai. La chaîne du groupe Atresmedia maintient ainsi son leadership hebdomadaire sur cette case, malgré une légère érosion comparée à la semaine précédente. Telecinco, avec « ¡De Viernes! », se positionne en deuxième place avec 701 000 fidèles (9,5% PDM), une audience inférieure à celle de la semaine passée (782 000). La 1, chaîne publique, voit son programme de cinéma « Oppenheimer » atteindre 594 000 spectateurs (6,9% PDM), un résultat en deçà de celui de « La Revuelta » observé plus tôt dans la semaine. La Sexta et La 2 complètent ce classement, témoignant d'une fragmentation des audiences en fin de semaine.",
@@ -363,5 +363,5 @@
       "commentary_date": "2026-05-22"
     }
   },
-  "last_updated": "2026-05-23T17:14:28.808430Z"
+  "last_updated": "2026-05-24T09:27:34.712971Z"
 }
