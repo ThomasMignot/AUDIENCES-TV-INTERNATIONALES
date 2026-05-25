@@ -1,6 +1,86 @@
 {
   "date": "2026-05-24",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-24",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "VANINA MEURTRES EN SICILE \\ L'HOMME DU PORT",
+          "program_fr": null,
+          "viewers": 2370000,
+          "share": 16.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Corse"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "UNE BELLE EQUIPE",
+          "program_fr": null,
+          "viewers": 2032000,
+          "share": 13.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Une_belle_%C3%A9quipe"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "VALERIAN ET LA CITE DES MILLE PLANETES",
+          "program_fr": null,
+          "viewers": 1798000,
+          "share": 13.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rian_et_la_Cit%C3%A9_des_mille_plan%C3%A8tes"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MISSISSIPPI BURNING",
+          "program_fr": null,
+          "viewers": 1140000,
+          "share": 8.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mississippi_Burning"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "ZONE INTERDITE \\ NOUVEAUX PANDAS A BEAUVAL : LES COULISSES SECRETES DE LEUR ARRIVEE",
+          "program_fr": null,
+          "viewers": 1031000,
+          "share": 7.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Kinkajou"
+        }
+      ],
+      "scraped_at": "2026-05-25T11:32:30.652666Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce vendredi 24 mai, France 3 s'empare de la tête des audiences avec une fiction qui enregistre 2,37 millions de téléspectateurs et 16,7% de part de marché. Ce score place la chaîne publique devant France 2, dont la fiction \"Une belle équipe\" réunit 2,03 millions de personnes, soit 13,9% de PDA. TF1, avec le film \"Valerian et la cité des mille planètes\", se retrouve en troisième position avec 1,80 million de spectateurs (13,4% PDM), marquant une baisse par rapport aux scores de ses programmes de divertissement de la semaine. La performance de France 3, leader sur cette soirée, contraste avec la domination de TF1 sur deux des cinq soirées précédentes, témoignant d'une compétition fluctuante en tête des généralistes. La fiction française confirme sa capacité à mobiliser un public conséquent, même face à des offres de cinéma américain ou de divertissement, structurellement plus exposées dans les cases premium.",
+      "commentary_date": "2026-05-24"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,34 +241,6 @@
       "commentary": "La soirée du 24 mai voit Telecinco s'adjuger la première place du prime time avec le divertissement \"Supervivientes:Conexion Honduras\" et 913 000 téléspectateurs, soit 11.7% de part de marché. Cette performance est notable dans un marché espagnol structuré par le duopole Antena 3 et Telecinco, auquel La 1 tente de s'imposer. Comparé aux journées précédentes où Antena 3 dominait systématiquement le prime avec son talk-show \"El Hormiguero\" en access, ce résultat témoigne d'une redistribution des cartes en fin de semaine. La fiction de La 1, \"Barrio Esperanza\", se positionne en deuxième chaîne avec 816 000 spectateurs et 8.3% de PDM, tandis qu'Antena 3, avec \"Una Nueva Vida\", enregistre 795 000 téléspectateurs et 9.5% de PDM. La stratégie de Telecinco semble porter ses fruits en proposant un divertissement fédérateur face aux offres fictionnelles des concurrentes.",
       "commentary_date": "2026-05-24"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-24",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Over Mijn Lijk",
-          "program_fr": null,
-          "viewers": 723000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-emotionele-trouwdag-in-over-mijn-lijk-maakt-indruk",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Over+Mijn+Lijk%22+RTL+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-25T11:32:39.757326Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Sur la soirée du 24 mai, RTL 4 s'empare de la tête du prime time néerlandais avec 723 000 téléspectateurs pour « Over Mijn Lijk ». Ce score représente une nette progression par rapport aux chiffres habituels de la chaîne privée, qui proposait la semaine précédente « RTL 4 onder het half miljoen » à 303 000 curieux. La publique NPO 1, qui dominait le classement sur la semaine écoulée en remportant trois soirées, voit son leadership contesté ce vendredi. La case du vendredi soir semble ainsi constituer un enjeu concurrentiel fort entre les deux principaux diffuseurs, NPO 1 et RTL 4. L'observation des programmes diffusés suggère une stratégie de mise en avant de formats d'envergure, tels que « Ik Vertrek » ou « Stars on Stage », afin de capter une audience significative dans un marché aux chiffres individuellement plus modestes.",
-      "commentary_date": "2026-05-24"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -269,86 +321,34 @@
       "commentary": "La soirée du 24 mai voit Rai 1 reprendre la tête du prime time avec 2,14 millions de téléspectateurs pour le film « Cercasi tata disperatamente », enregistrant 13,6% de part de marché. Ce score est légèrement inférieur aux pics atteints en début de semaine par des programmes comme « Il Commissario Montalbano » ou « Dalla Strada al Palco », qui avaient dépassé les 2,5 millions de curieux. Canale 5 se positionne en deuxième chaîne avec sa fiction « Racconto di una Notte », attirant 1,76 million de personnes (12,2% PDM), une performance en deçà de ses succès récents en divertissement ou séries turques. La chaîne Nove, avec « Che Tempo Che Fa », maintient une présence significative avec 1,43 million de téléspectateurs, se plaçant ainsi devant les chaînes publiques Rai 3 et Rai 2 sur cette case horaire. Le format d'information de Rai 3, « Report », affiche 1,03 million de fidèles, tandis que le magazine « Le Iene » sur Italia 1 peine à dépasser les 850 000 téléspectateurs.",
       "commentary_date": "2026-05-24"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-24",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "VANINA MEURTRES EN SICILE \\ L'HOMME DU PORT",
-          "program_fr": null,
-          "viewers": 2370000,
-          "share": 16.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Corse"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
+          "channel": "RTL 4",
           "channel_color": "red",
-          "program": "UNE BELLE EQUIPE",
+          "program": "Over Mijn Lijk",
           "program_fr": null,
-          "viewers": 2032000,
-          "share": 13.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Une_belle_%C3%A9quipe"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "VALERIAN ET LA CITE DES MILLE PLANETES",
-          "program_fr": null,
-          "viewers": 1798000,
-          "share": 13.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rian_et_la_Cit%C3%A9_des_mille_plan%C3%A8tes"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MISSISSIPPI BURNING",
-          "program_fr": null,
-          "viewers": 1140000,
-          "share": 8.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mississippi_Burning"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "ZONE INTERDITE \\ NOUVEAUX PANDAS A BEAUVAL : LES COULISSES SECRETES DE LEUR ARRIVEE",
-          "program_fr": null,
-          "viewers": 1031000,
-          "share": 7.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-entre-valerian-et-la-cite-des-mille-planetes-et-une-belle-equipe-est-arrive-en-tete-hier-soir/655004",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Kinkajou"
+          "viewers": 723000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-emotionele-trouwdag-in-over-mijn-lijk-maakt-indruk",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Over+Mijn+Lijk%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-25T11:32:30.652666Z",
-      "status": "ok",
+      "scraped_at": "2026-05-25T11:32:39.757326Z",
+      "status": "partial",
       "error": null,
-      "commentary": "Ce vendredi 24 mai, France 3 s'empare de la tête des audiences avec une fiction qui enregistre 2,37 millions de téléspectateurs et 16,7% de part de marché. Ce score place la chaîne publique devant France 2, dont la fiction \"Une belle équipe\" réunit 2,03 millions de personnes, soit 13,9% de PDA. TF1, avec le film \"Valerian et la cité des mille planètes\", se retrouve en troisième position avec 1,80 million de spectateurs (13,4% PDM), marquant une baisse par rapport aux scores de ses programmes de divertissement de la semaine. La performance de France 3, leader sur cette soirée, contraste avec la domination de TF1 sur deux des cinq soirées précédentes, témoignant d'une compétition fluctuante en tête des généralistes. La fiction française confirme sa capacité à mobiliser un public conséquent, même face à des offres de cinéma américain ou de divertissement, structurellement plus exposées dans les cases premium.",
+      "commentary": "Sur la soirée du 24 mai, RTL 4 s'empare de la tête du prime time néerlandais avec 723 000 téléspectateurs pour « Over Mijn Lijk ». Ce score représente une nette progression par rapport aux chiffres habituels de la chaîne privée, qui proposait la semaine précédente « RTL 4 onder het half miljoen » à 303 000 curieux. La publique NPO 1, qui dominait le classement sur la semaine écoulée en remportant trois soirées, voit son leadership contesté ce vendredi. La case du vendredi soir semble ainsi constituer un enjeu concurrentiel fort entre les deux principaux diffuseurs, NPO 1 et RTL 4. L'observation des programmes diffusés suggère une stratégie de mise en avant de formats d'envergure, tels que « Ik Vertrek » ou « Stars on Stage », afin de capter une audience significative dans un marché aux chiffres individuellement plus modestes.",
       "commentary_date": "2026-05-24"
     }
   },
-  "last_updated": "2026-05-25T11:32:39.760181Z"
+  "last_updated": "2026-05-25T11:32:58.252419Z"
 }
