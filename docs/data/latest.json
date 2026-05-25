@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Wer_wird_Million%C3%A4r%3F"
+          "wikipedia_url": "https://www.google.com/search?q=%22Wer+wird+Million%C3%A4r%3F%22+RTL+ratings"
         },
         {
           "rank": 4,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Brokenwood%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-05-25T11:32:35.129177Z",
+      "scraped_at": "2026-05-25T12:42:23.405574Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 24 mai, le journal télévisé « Tagesschau » sur Das Erste enregistre 3,89 millions de téléspectateurs, représentant 24,2% de part de marché. Cette performance se situe en deçà des chiffres observés en début de semaine, notamment le 17 mai où le même programme atteignait 6,38 millions de spectateurs (28,9% PDM). La soirée du 23 mai, marquée par la finale de la Coupe d'Allemagne, avait vu une chaîne non spécifiée dominer largement avec 6,79 millions de téléspectateurs (36,3% PDM), démontrant la puissance des événements sportifs sur le marché. Le programme « Wer wird Millionär? » sur RTL, avec 2,50 millions de téléspectateurs et 15,7% de part de marché, se positionne derrière le journal du ZDF, qui attire 2,51 millions de personnes (13,8% PDM). La présence de deux fictions étrangères dans le top 5 suggère une certaine appétence pour des formats non allemands dans cette case horaire.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-05-25T11:32:36.132265Z",
+      "scraped_at": "2026-05-25T12:42:24.434949Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 24 mai voit Telecinco s'adjuger la première place du prime time avec le divertissement \"Supervivientes:Conexion Honduras\" et 913 000 téléspectateurs, soit 11.7% de part de marché. Cette performance est notable dans un marché espagnol structuré par le duopole Antena 3 et Telecinco, auquel La 1 tente de s'imposer. Comparé aux journées précédentes où Antena 3 dominait systématiquement le prime avec son talk-show \"El Hormiguero\" en access, ce résultat témoigne d'une redistribution des cartes en fin de semaine. La fiction de La 1, \"Barrio Esperanza\", se positionne en deuxième chaîne avec 816 000 spectateurs et 8.3% de PDM, tandis qu'Antena 3, avec \"Una Nueva Vida\", enregistre 795 000 téléspectateurs et 9.5% de PDM. La stratégie de Telecinco semble porter ses fruits en proposant un divertissement fédérateur face aux offres fictionnelles des concurrentes.",
@@ -183,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Over+Mijn+Lijk%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-25T11:32:39.757326Z",
+      "scraped_at": "2026-05-25T12:42:28.165487Z",
       "status": "partial",
       "error": null,
       "commentary": "Sur la soirée du 24 mai, RTL 4 s'empare de la tête du prime time néerlandais avec 723 000 téléspectateurs pour « Over Mijn Lijk ». Ce score représente une nette progression par rapport aux chiffres habituels de la chaîne privée, qui proposait la semaine précédente « RTL 4 onder het half miljoen » à 303 000 curieux. La publique NPO 1, qui dominait le classement sur la semaine écoulée en remportant trois soirées, voit son leadership contesté ce vendredi. La case du vendredi soir semble ainsi constituer un enjeu concurrentiel fort entre les deux principaux diffuseurs, NPO 1 et RTL 4. L'observation des programmes diffusés suggère une stratégie de mise en avant de formats d'envergure, tels que « Ik Vertrek » ou « Stars on Stage », afin de capter une audience significative dans un marché aux chiffres individuellement plus modestes.",
@@ -263,7 +263,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Le+Iene%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-25T11:32:38.532534Z",
+      "scraped_at": "2026-05-25T12:42:26.911671Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 24 mai voit Rai 1 reprendre la tête du prime time avec 2,14 millions de téléspectateurs pour le film « Cercasi tata disperatamente », enregistrant 13,6% de part de marché. Ce score est légèrement inférieur aux pics atteints en début de semaine par des programmes comme « Il Commissario Montalbano » ou « Dalla Strada al Palco », qui avaient dépassé les 2,5 millions de curieux. Canale 5 se positionne en deuxième chaîne avec sa fiction « Racconto di una Notte », attirant 1,76 million de personnes (12,2% PDM), une performance en deçà de ses succès récents en divertissement ou séries turques. La chaîne Nove, avec « Che Tempo Che Fa », maintient une présence significative avec 1,43 million de téléspectateurs, se plaçant ainsi devant les chaînes publiques Rai 3 et Rai 2 sur cette case horaire. Le format d'information de Rai 3, « Report », affiche 1,03 million de fidèles, tandis que le magazine « Le Iene » sur Italia 1 peine à dépasser les 850 000 téléspectateurs.",
@@ -343,12 +343,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Kinkajou"
         }
       ],
-      "scraped_at": "2026-05-25T11:32:30.652666Z",
+      "scraped_at": "2026-05-25T12:42:20.235872Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce vendredi 24 mai, France 3 s'empare de la tête des audiences avec une fiction qui enregistre 2,37 millions de téléspectateurs et 16,7% de part de marché. Ce score place la chaîne publique devant France 2, dont la fiction \"Une belle équipe\" réunit 2,03 millions de personnes, soit 13,9% de PDA. TF1, avec le film \"Valerian et la cité des mille planètes\", se retrouve en troisième position avec 1,80 million de spectateurs (13,4% PDM), marquant une baisse par rapport aux scores de ses programmes de divertissement de la semaine. La performance de France 3, leader sur cette soirée, contraste avec la domination de TF1 sur deux des cinq soirées précédentes, témoignant d'une compétition fluctuante en tête des généralistes. La fiction française confirme sa capacité à mobiliser un public conséquent, même face à des offres de cinéma américain ou de divertissement, structurellement plus exposées dans les cases premium.",
       "commentary_date": "2026-05-24"
     }
   },
-  "last_updated": "2026-05-25T11:32:39.760181Z"
+  "last_updated": "2026-05-25T12:42:28.168752Z"
 }
