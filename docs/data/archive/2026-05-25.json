@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Ascenseur_pour_l%27%C3%A9chafaud"
         }
       ],
-      "scraped_at": "2026-05-26T13:39:44.851362Z",
+      "scraped_at": "2026-05-26T16:27:46.582594Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction unitaire de TF1, « L'Été 36 », s'impose en tête des audiences avec 3,59 millions de téléspectateurs et 20,9% de part d'audience, devançant la fiction de France 2, « Meurtres au Paradis », qui rassemble 2,57 millions de personnes (15,1% PDM). Cette performance de TF1, bien que solide, se situe en deçà des pics de la semaine, notamment la finale de la Coupe de France sur France 2 (24,7% PDM) ou encore « Alexandra Ehle » sur France 3 (23,2% PDM). La chaîne publique France 3, leader du prime sur les cinq soirées analysées, voit sa fiction « Délicieux » se classer quatrième avec 1,30 million de curieux (8,3% PDM). La stratégie de M6 de proposer un programme d'infotainment, « Mariés au premier regard », lui permet de se maintenir dans le peloton de tête avec 1,75 million de téléspectateurs (10,2% PDM). La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation des téléspectateurs particulièrement compétitives chaque soir de la semaine.",
@@ -106,7 +106,7 @@
           "rank": 2,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "Nord Nord Mord - Sievers und die f?",
+          "program": "Nord Nord Mord - Sievers und die f�",
           "program_fr": null,
           "viewers": 3334000,
           "share": 16.0,
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 4,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Brokenwood%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-05-26T13:39:48.765889Z",
+      "scraped_at": "2026-05-26T16:27:51.823435Z",
       "status": "ok",
       "error": null,
       "commentary": "Le football en direct sur Das Erste, avec la retransmission de la Bundesliga Relegation, s'impose en tête des audiences du 25 mai avec 4,61 millions de téléspectateurs et 24,3% de part de marché. Ce score place la chaîne publique en tête, une position qu'elle avait déjà occupée quatre fois au cours des sept jours précédents, bien que le leadership hebdomadaire revienne à une autre chaîne non spécifiée. La compétition pour la deuxième place est vive, avec un programme de fiction (\"Nord Nord Mord\") qui devance le journal de ZDF et un divertissement de RTL. Comparé aux jours précédents, le score de RTL pour \"Bauer sucht Frau International\" (2,00 M) est inférieur à celui de la semaine passée (2,35 M le 19 mai), suggérant une possible érosion d'audience sur cette case horaire. La prédominance de programmes sportifs ou de fictions à fort potentiel sur les chaînes généralistes confirme la stratégie de captation d'un large public en prime time.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-05-26T13:39:49.925787Z",
+      "scraped_at": "2026-05-26T16:27:53.445639Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur le prime time espagnol, s'adjugeant six des sept soirées de la semaine écoulée, malgré une baisse de son divertissement phare « El Hormiguero » à 13.3% de part de marché ce 25 mai, contre 14.1% la semaine précédente. La chaîne publique La 1, avec « La Revuelta », maintient une présence solide dans le trio de tête, atteignant 10.9% de PDM, un score proche de sa moyenne hebdomadaire. La chaîne Cuatro, diffusant « Horizonte:Avance », s'insère à la troisième place avec 10.4%, une performance inhabituelle qui témoigne d'une fragmentation des audiences en milieu de semaine. Telecinco, quant à elle, peine à rivaliser dans cette case, « First Dates:Folklore » ne dépassant pas les 9.1% de PDM. La stratégie de Antena 3 semble reposer sur la fidélisation de son audience historique sur la case de l'access, avant le début du prime time plus tardif.",
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+Torre+di+Babele%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-05-26T13:39:52.707904Z",
+      "scraped_at": "2026-05-26T16:27:56.485463Z",
       "status": "ok",
       "error": null,
       "commentary": "Le documentaire « Ulisse » sur Rai 1 s'adjuge la première place des audiences du prime time italien le 25 mai, avec 2,50 millions de téléspectateurs et 16,9% de part de marché. Ce score place la chaîne publique en tête pour la cinquième soirée de la semaine, confirmant sa position de leader historique. La fiction « I Cesaroni – Il Ritorno » sur Canale 5 parvient à mobiliser 2,31 millions de fidèles, soit 14,2% du public, une performance en légère hausse par rapport à la fiction turque « Forbidden Fruit » diffusée la semaine précédente (1,97 M, 14,3%). La chaîne privée Mediaset peine cependant à rivaliser avec le leadership de Rai 1 sur ce créneau, malgré une stratégie axée sur le divertissement et la fiction. Les chaînes d'information et de débat comme Rete 4 (« Quarta Repubblica », 7,9% PDM) ou La7 (« La Torre di Babele », 5,0% PDM) se positionnent en retrait, démontrant la difficulté de capter une large audience avec ce type de programmes en concurrence directe avec les offres plus fédératrices.",
@@ -329,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-05-26T13:39:53.936106Z",
+      "scraped_at": "2026-05-26T16:27:58.035142Z",
       "status": "failed",
       "error": "Aucun programme extrait de l'article",
       "commentary": "Sur la soirée du 24 mai, RTL 4 s'empare de la tête du prime time néerlandais avec 723 000 téléspectateurs pour « Over Mijn Lijk ». Ce score représente une nette progression par rapport aux chiffres habituels de la chaîne privée, qui proposait la semaine précédente « RTL 4 onder het half miljoen » à 303 000 curieux. La publique NPO 1, qui dominait le classement sur la semaine écoulée en remportant trois soirées, voit son leadership contesté ce vendredi. La case du vendredi soir semble ainsi constituer un enjeu concurrentiel fort entre les deux principaux diffuseurs, NPO 1 et RTL 4. L'observation des programmes diffusés suggère une stratégie de mise en avant de formats d'envergure, tels que « Ik Vertrek » ou « Stars on Stage », afin de capter une audience significative dans un marché aux chiffres individuellement plus modestes.",
       "commentary_date": "2026-05-24"
     }
   },
-  "last_updated": "2026-05-26T13:40:08.050967Z"
+  "last_updated": "2026-05-26T16:27:58.037628Z"
 }
