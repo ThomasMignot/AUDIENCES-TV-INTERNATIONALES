@@ -1,6 +1,86 @@
 {
   "date": "2026-05-25",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-05-25",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "L'ETE 36",
+          "program_fr": null,
+          "viewers": 3586000,
+          "share": 20.9,
+          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L'%C3%89t%C3%A9_36"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MEURTRES AU PARADIS \\ ACTE FINAL",
+          "program_fr": null,
+          "viewers": 2573000,
+          "share": 15.1,
+          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "MARIES AU PREMIER REGARD",
+          "program_fr": null,
+          "viewers": 1750000,
+          "share": 10.2,
+          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mari%C3%A9s_au_premier_regard_%28France%29"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "DELICIEUX",
+          "program_fr": null,
+          "viewers": 1304000,
+          "share": 8.3,
+          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/D%C3%A9licieux"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "ASCENSEUR POUR L'ECHAFAUD",
+          "program_fr": null,
+          "viewers": 791000,
+          "share": 4.8,
+          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ascenseur_pour_l%27%C3%A9chafaud"
+        }
+      ],
+      "scraped_at": "2026-05-26T13:39:44.851362Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction unitaire de TF1, « L'Été 36 », s'impose en tête des audiences avec 3,59 millions de téléspectateurs et 20,9% de part d'audience, devançant la fiction de France 2, « Meurtres au Paradis », qui rassemble 2,57 millions de personnes (15,1% PDM). Cette performance de TF1, bien que solide, se situe en deçà des pics de la semaine, notamment la finale de la Coupe de France sur France 2 (24,7% PDM) ou encore « Alexandra Ehle » sur France 3 (23,2% PDM). La chaîne publique France 3, leader du prime sur les cinq soirées analysées, voit sa fiction « Délicieux » se classer quatrième avec 1,30 million de curieux (8,3% PDM). La stratégie de M6 de proposer un programme d'infotainment, « Mariés au premier regard », lui permet de se maintenir dans le peloton de tête avec 1,75 million de téléspectateurs (10,2% PDM). La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation des téléspectateurs particulièrement compétitives chaque soir de la semaine.",
+      "commentary_date": "2026-05-25"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Antena 3 confirme sa domination sur le prime time espagnol, s'adjugeant six des sept soirées de la semaine écoulée, malgré une baisse de son divertissement phare « El Hormiguero » à 13.3% de part de marché ce 25 mai, contre 14.1% la semaine précédente. La chaîne publique La 1, avec « La Revuelta », maintient une présence solide dans le trio de tête, atteignant 10.9% de PDM, un score proche de sa moyenne hebdomadaire. La chaîne Cuatro, diffusant « Horizonte:Avance », s'insère à la troisième place avec 10.4%, une performance inhabituelle qui témoigne d'une fragmentation des audiences en milieu de semaine. Telecinco, quant à elle, peine à rivaliser dans cette case, « First Dates:Folklore » ne dépassant pas les 9.1% de PDM. La stratégie de Antena 3 semble reposer sur la fidélisation de son audience historique sur la case de l'access, avant le début du prime time plus tardif.",
       "commentary_date": "2026-05-25"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-25",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-05-26T13:39:53.936106Z",
-      "status": "failed",
-      "error": "Aucun programme extrait de l'article",
-      "commentary": "Sur la soirée du 24 mai, RTL 4 s'empare de la tête du prime time néerlandais avec 723 000 téléspectateurs pour « Over Mijn Lijk ». Ce score représente une nette progression par rapport aux chiffres habituels de la chaîne privée, qui proposait la semaine précédente « RTL 4 onder het half miljoen » à 303 000 curieux. La publique NPO 1, qui dominait le classement sur la semaine écoulée en remportant trois soirées, voit son leadership contesté ce vendredi. La case du vendredi soir semble ainsi constituer un enjeu concurrentiel fort entre les deux principaux diffuseurs, NPO 1 et RTL 4. L'observation des programmes diffusés suggère une stratégie de mise en avant de formats d'envergure, tels que « Ik Vertrek » ou « Stars on Stage », afin de capter une audience significative dans un marché aux chiffres individuellement plus modestes.",
-      "commentary_date": "2026-05-24"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Le documentaire « Ulisse » sur Rai 1 s'adjuge la première place des audiences du prime time italien le 25 mai, avec 2,50 millions de téléspectateurs et 16,9% de part de marché. Ce score place la chaîne publique en tête pour la cinquième soirée de la semaine, confirmant sa position de leader historique. La fiction « I Cesaroni – Il Ritorno » sur Canale 5 parvient à mobiliser 2,31 millions de fidèles, soit 14,2% du public, une performance en légère hausse par rapport à la fiction turque « Forbidden Fruit » diffusée la semaine précédente (1,97 M, 14,3%). La chaîne privée Mediaset peine cependant à rivaliser avec le leadership de Rai 1 sur ce créneau, malgré une stratégie axée sur le divertissement et la fiction. Les chaînes d'information et de débat comme Rete 4 (« Quarta Repubblica », 7,9% PDM) ou La7 (« La Torre di Babele », 5,0% PDM) se positionnent en retrait, démontrant la difficulté de capter une large audience avec ce type de programmes en concurrence directe avec les offres plus fédératrices.",
       "commentary_date": "2026-05-25"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-05-25",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "L'ETE 36",
-          "program_fr": null,
-          "viewers": 3586000,
-          "share": 20.9,
-          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L'%C3%89t%C3%A9_36"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "MEURTRES AU PARADIS \\ ACTE FINAL",
-          "program_fr": null,
-          "viewers": 2573000,
-          "share": 15.1,
-          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "MARIES AU PREMIER REGARD",
-          "program_fr": null,
-          "viewers": 1750000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mari%C3%A9s_au_premier_regard_%28France%29"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "DELICIEUX",
-          "program_fr": null,
-          "viewers": 1304000,
-          "share": 8.3,
-          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/D%C3%A9licieux"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "ASCENSEUR POUR L'ECHAFAUD",
-          "program_fr": null,
-          "viewers": 791000,
-          "share": 4.8,
-          "source_url": "https://www.ozap.com/actu/audiences-lete-36-la-saga-evenement-de-tf1-avec-sofia-essaidi-et-nolwenn-leroy-a-t-elle-confirme-son-bon-demarrage/655231",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ascenseur_pour_l%27%C3%A9chafaud"
-        }
-      ],
-      "scraped_at": "2026-05-26T13:39:44.851362Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction unitaire de TF1, « L'Été 36 », s'impose en tête des audiences avec 3,59 millions de téléspectateurs et 20,9% de part d'audience, devançant la fiction de France 2, « Meurtres au Paradis », qui rassemble 2,57 millions de personnes (15,1% PDM). Cette performance de TF1, bien que solide, se situe en deçà des pics de la semaine, notamment la finale de la Coupe de France sur France 2 (24,7% PDM) ou encore « Alexandra Ehle » sur France 3 (23,2% PDM). La chaîne publique France 3, leader du prime sur les cinq soirées analysées, voit sa fiction « Délicieux » se classer quatrième avec 1,30 million de curieux (8,3% PDM). La stratégie de M6 de proposer un programme d'infotainment, « Mariés au premier regard », lui permet de se maintenir dans le peloton de tête avec 1,75 million de téléspectateurs (10,2% PDM). La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation des téléspectateurs particulièrement compétitives chaque soir de la semaine.",
-      "commentary_date": "2026-05-25"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-05-26T13:39:53.936106Z",
+      "status": "failed",
+      "error": "Aucun programme extrait de l'article",
+      "commentary": "Sur la soirée du 24 mai, RTL 4 s'empare de la tête du prime time néerlandais avec 723 000 téléspectateurs pour « Over Mijn Lijk ». Ce score représente une nette progression par rapport aux chiffres habituels de la chaîne privée, qui proposait la semaine précédente « RTL 4 onder het half miljoen » à 303 000 curieux. La publique NPO 1, qui dominait le classement sur la semaine écoulée en remportant trois soirées, voit son leadership contesté ce vendredi. La case du vendredi soir semble ainsi constituer un enjeu concurrentiel fort entre les deux principaux diffuseurs, NPO 1 et RTL 4. L'observation des programmes diffusés suggère une stratégie de mise en avant de formats d'envergure, tels que « Ik Vertrek » ou « Stars on Stage », afin de capter une audience significative dans un marché aux chiffres individuellement plus modestes.",
+      "commentary_date": "2026-05-24"
     }
   },
-  "last_updated": "2026-05-26T13:39:53.939678Z"
+  "last_updated": "2026-05-26T13:40:08.050967Z"
 }
