@@ -161,47 +161,6 @@
       "commentary": "Antena 3 maintient sa position dominante sur le prime time hebdomadaire, s'adjugeant 5 des 6 soirées analysées. L'émission « El Hormiguero », diffusée en access, continue de structurer la stratégie de tête de chaîne, attirant 1,48 million de téléspectateurs et 13,2% de part de marché le 28 mai. Cette performance, bien que solide, marque une légère érosion par rapport aux pics enregistrés les jours précédents, notamment le 26 mai avec 1,72 million de téléspectateurs. La chaîne publique La 1, avec « La Revuelta », se positionne en challenger régulier, atteignant 1,26 million de fidèles, soit 11,4% de PDM. La chaîne Cuatro, via son magazine d'information « Horizonte:Avance », capte une audience significative de 1,10 million de curieux, soulignant une fragmentation des audiences en milieu de semaine. Telecinco, malgré la présence de son divertissement phare « Supervivientes Express », reste en retrait dans ce classement du prime.",
       "commentary_date": "2026-05-28"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-28",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Dag & Nacht",
-          "program_fr": null,
-          "viewers": 603000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/johan-derksen-dick-advocaat-vandaag-inside",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Dag+%26+Nacht%22+NPO+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "RTL 5",
-          "channel_color": "gray",
-          "program": "Daar Gaan Ze Weer",
-          "program_fr": null,
-          "viewers": 226000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/johan-derksen-dick-advocaat-vandaag-inside",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Daar+Gaan+Ze+Weer%22+RTL+5+ratings"
-        }
-      ],
-      "scraped_at": "2026-05-29T10:54:34.441316Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le classement du prime time du 28 mai 2026 aux Pays-Bas voit la fiction de NPO 1, « Dag & Nacht », rassembler 603 000 téléspectateurs. Ce score positionne la chaîne publique en tête de la soirée, bien que nettement en deçà des performances observées en milieu de semaine, où « Ik Vertrek » sur la même chaîne avait atteint 907 000 spectateurs le 22 mai. La compétition sur la case horaire reste animée, avec RTL 5 et son programme « Daar Gaan Ze Weer » qui peine à dépasser les 226 000 curieux. Cette fragmentation des audiences, déjà manifeste sur les sept derniers jours avec des scores fluctuants pour les principaux acteurs comme RTL 4 et SBS 6, souligne la difficulté à maintenir une audience large et stable sur le marché néerlandais. La stratégie de NPO 1 semble privilégier la fiction sur cette case, cherchant à fidéliser un public spécifique, tandis que les chaînes privées alternent les formats pour capter différentes cibles.",
-      "commentary_date": "2026-05-28"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +241,47 @@
       "commentary": "Canale 5, avec sa fiction turque « Forbidden Fruit », réalise 1,92 million de téléspectateurs et 14,3% de part de marché ce mardi, se plaçant en tête des audiences du prime time. Ce score est inférieur de 50 000 spectateurs et de 0,1 point de PDM à sa performance du 21 mai, mais reste supérieur à son résultat du 27 mai avec un film. La chaîne privée confirme sa stratégie de proposer des fictions populaires dans cette case horaire, visant un public distinct de celui de Rai 1. De son côté, Rai 1, leader historique, se positionne en deuxième place avec 1,88 million de téléspectateurs pour le documentaire « Permette? Alberto Sordi », un chiffre en retrait par rapport à ses scores habituels de la semaine. La chaîne publique voit ainsi sa domination hebdomadaire remise en question par la constance de Canale 5 sur ce créneau. Rai 2 et La7 ferment le Top 5, affichant des performances plus modestes, témoignant de la polarisation des audiences autour des deux grands groupes.",
       "commentary_date": "2026-05-28"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-05-27",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-suite-de-lor-bleu-la-saga-dete-de-france-2-avec-barbara-probst-et-tom-leeb-est-elle-restee-au-dessus-des-3-millions-de-telespectateurs/655287",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-05-28",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "L'OR BLEU",
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "Dag & Nacht",
           "program_fr": null,
-          "viewers": 2505000,
-          "share": 15.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-suite-de-lor-bleu-la-saga-dete-de-france-2-avec-barbara-probst-et-tom-leeb-est-elle-restee-au-dessus-des-3-millions-de-telespectateurs/655287",
+          "viewers": 603000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/johan-derksen-dick-advocaat-vandaag-inside",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Or_bleu_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+          "wikipedia_url": "https://www.google.com/search?q=%22Dag+%26+Nacht%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "GREY'S ANATOMY \\ L HEURE DES COMPTES",
-          "program_fr": "Grey's Anatomy",
-          "viewers": 1749000,
-          "share": 10.6,
-          "source_url": "https://www.ozap.com/actu/audiences-la-suite-de-lor-bleu-la-saga-dete-de-france-2-avec-barbara-probst-et-tom-leeb-est-elle-restee-au-dessus-des-3-millions-de-telespectateurs/655287",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "TOP CHEF",
-          "program_fr": "Top Chef",
-          "viewers": 1507000,
-          "share": 9.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-suite-de-lor-bleu-la-saga-dete-de-france-2-avec-barbara-probst-et-tom-leeb-est-elle-restee-au-dessus-des-3-millions-de-telespectateurs/655287",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "APOCALYPSE LES DEBARQUEMENTS \\ 1-2 LE GRAND DEFI",
+          "channel": "RTL 5",
+          "channel_color": "gray",
+          "program": "Daar Gaan Ze Weer",
           "program_fr": null,
-          "viewers": 1264000,
-          "share": 7.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-suite-de-lor-bleu-la-saga-dete-de-france-2-avec-barbara-probst-et-tom-leeb-est-elle-restee-au-dessus-des-3-millions-de-telespectateurs/655287",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Apocalypse_%28s%C3%A9rie_documentaire%29"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "RETOUR VERS LE FUTUR III",
-          "program_fr": null,
-          "viewers": 922000,
-          "share": 6.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-suite-de-lor-bleu-la-saga-dete-de-france-2-avec-barbara-probst-et-tom-leeb-est-elle-restee-au-dessus-des-3-millions-de-telespectateurs/655287",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Retour_vers_le_futur_3"
+          "viewers": 226000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/johan-derksen-dick-advocaat-vandaag-inside",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Daar+Gaan+Ze+Weer%22+RTL+5+ratings"
         }
       ],
-      "scraped_at": "2026-05-29T10:54:26.033276Z",
-      "status": "ok",
+      "scraped_at": "2026-05-29T10:54:34.441316Z",
+      "status": "partial",
       "error": null,
-      "commentary": "La fiction de France 2, « L'OR BLEU », s'impose en tête des audiences ce 27 mai avec 2,50 millions de téléspectateurs et 15,2% de part d'audience. Ce score place la chaîne publique en tête des audiences de la soirée, confirmant sa domination sur la semaine avec trois de ses programmes dans le trio de tête. Le divertissement de M6, « TOP CHEF », réalise une performance de 1,51 million de fidèles, une audience en légère hausse par rapport à la semaine précédente où le programme avait rassemblé 1,43 million de téléspectateurs. TF1, avec la fiction « GREY'S ANATOMY », se positionne en deuxième place mais enregistre une baisse significative par rapport à la fiction diffusée le 20 mai, passant de 1,95 million à 1,75 million de téléspectateurs. La chaîne privée peine à retrouver les chiffres de ses succès du week-end, comme le téléfilm « L'ETE 36 » qui avait captivé 3,59 millions de personnes le 25 mai. Le programme de TMC, « RETOUR VERS LE FUTUR III », témoigne de la fragmentation des audiences, attirant 922 000 curieux sur la TNT.",
-      "commentary_date": "2026-05-27"
+      "commentary": "Le classement du prime time du 28 mai 2026 aux Pays-Bas voit la fiction de NPO 1, « Dag & Nacht », rassembler 603 000 téléspectateurs. Ce score positionne la chaîne publique en tête de la soirée, bien que nettement en deçà des performances observées en milieu de semaine, où « Ik Vertrek » sur la même chaîne avait atteint 907 000 spectateurs le 22 mai. La compétition sur la case horaire reste animée, avec RTL 5 et son programme « Daar Gaan Ze Weer » qui peine à dépasser les 226 000 curieux. Cette fragmentation des audiences, déjà manifeste sur les sept derniers jours avec des scores fluctuants pour les principaux acteurs comme RTL 4 et SBS 6, souligne la difficulté à maintenir une audience large et stable sur le marché néerlandais. La stratégie de NPO 1 semble privilégier la fiction sur cette case, cherchant à fidéliser un public spécifique, tandis que les chaînes privées alternent les formats pour capter différentes cibles.",
+      "commentary_date": "2026-05-28"
     }
   },
-  "last_updated": "2026-05-29T10:54:34.444444Z"
+  "last_updated": "2026-05-29T10:54:49.342575Z"
 }
