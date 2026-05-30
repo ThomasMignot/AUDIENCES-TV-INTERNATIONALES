@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Max_et_les_Ferrailleurs"
         }
       ],
-      "scraped_at": "2026-05-30T09:27:03.640350Z",
+      "scraped_at": "2026-05-30T10:52:07.851732Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'affirme comme leader du prime sur la semaine écoulée, remportant six soirées sur sept, une domination confirmée ce 29 mai avec le lancement de sa fiction « Haute Saison » qui réunit 3,05 millions de téléspectateurs et 20,9% de part de marché. Ce score place la chaîne publique nettement devant TF1 et son divertissement « Mask Singer », qui enregistre 2,05 millions de curieux (14,2% PDM), une performance en deçà de son lead-in habituel sur cette case. La fiction de France 2 bénéficie d'un positionnement stratégique en tête de grille, contrastant avec la fragmentation des audiences observée sur la TNT. La baisse de près de 1 million de téléspectateurs pour TF1 par rapport à la semaine précédente, où « L'été 36 » avait atteint 3,59 millions, suggère une moindre attractivité du divertissement face à la nouveauté fictionnelle. France 3, avec « Famille vous aime », se maintient à un niveau modeste (881 000 téléspectateurs, 6,6% PDM), témoignant des difficultés de cette chaîne à capter une part significative de l'audience du prime face aux deux grands acteurs privés et publics.",
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Let%27s+dance%22+RTL+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Let's_Dance"
         },
         {
           "rank": 4,
@@ -139,7 +139,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22SOKO+Leipzig%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Leipzig_Homicide"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mensch+Mutti%21%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_German_films_of_the_2000s"
         }
       ],
-      "scraped_at": "2026-05-30T09:27:07.975997Z",
+      "scraped_at": "2026-05-30T10:52:15.162060Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, \"Tagesschau\", se positionne une nouvelle fois en tête du prime time du 29 mai, avec 3,66 millions de téléspectateurs et 23,0% de part de marché. Cette performance le place devant \"Der Alte\" sur une autre chaîne, qui réalise 3,38 millions de spectateurs et 19,2% de PDA. La compétition entre les chaînes publiques et privées reste marquée, bien que RTL, avec la finale de \"Let's Dance\", capte 2,78 millions de personnes (18,6% PDM). Par rapport à la semaine précédente, la part de marché de \"Tagesschau\" est en légère hausse par rapport aux 20,6% enregistrés le 28 mai, et supérieure aux 21,8% du 22 mai. La fiction \"Der Alte\" progresse significativement par rapport à sa diffusion du 22 mai (4,37 M, 23.7%), mais sa part de marché reste inférieure à celle de la semaine passée. La stratégie de Das Erste de placer son journal à 20h15 semble continuer à porter ses fruits, confirmant sa domination sur cette case horaire durant la semaine écoulée.",
@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tu_cara_me_suena_%28Spanish_TV_series%29"
         },
         {
           "rank": 2,
@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aniversario_de_Arena_M%C3%A9xico"
         },
         {
           "rank": 3,
@@ -206,7 +206,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Superestrellas%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Superestrella"
         },
         {
           "rank": 4,
@@ -219,7 +219,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
         },
         {
           "rank": 5,
@@ -232,10 +232,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         }
       ],
-      "scraped_at": "2026-05-30T09:27:09.650086Z",
+      "scraped_at": "2026-05-30T10:52:18.010896Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur le prime time hebdomadaire, plaçant six programmes dans le top 6 des soirées de la semaine écoulée. Le divertissement \"Tu Cara Me Suena\" enregistre 1,39 million de téléspectateurs et 19,8% de part de marché, une performance en léger retrait par rapport à la semaine précédente où le même programme avait rassemblé 1,45 million de fidèles pour 19,1% de PDA. La chaîne maintient ainsi son avantage face à Telecinco, dont le divertissement \"¡De Viernes!\" se positionne en deuxième place avec 739 000 téléspectateurs (10,7% PDM), une audience stable par rapport aux 701 000 enregistrés le 22 mai. La chaîne publique La 1, avec le documentaire \"Superestrellas:Clint Eastwood\", se classe troisième, démontrant une certaine résilience dans une case horaire traditionnellement disputée. La progression de La 1 observée depuis 2023 semble se confirmer, bien que le programme du jour ne rivalise pas avec les scores de ses fictions diffusées en milieu de semaine. Le succès d'Antena 3 s'appuie sur des formats de divertissement établis, tandis que Telecinco peine à trouver un lead-in suffisant pour ses programmes de prime time.",
@@ -260,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-29-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Con+il+Cuore%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Irama_%28singer%29"
         },
         {
           "rank": 2,
@@ -273,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-29-maggio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Erede%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Atom_Age_Vampire"
         },
         {
           "rank": 3,
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Jurassic+World%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-30T09:27:12.920941Z",
+      "scraped_at": "2026-05-30T10:52:23.056679Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 29 mai, Rai 1 reprend la tête du prime time avec \"Con il Cuore\", attirant 2,33 millions de téléspectateurs et 18,3% de part de marché, marquant un retour à sa position de leader habituelle après plusieurs soirées plus disputées. Canale 5, avec \"L’Erede\", se positionne en deuxième place avec 1,83 million de fidèles et 14,6% de PDM, une performance en retrait par rapport à la fiction turque \"Forbidden Fruit\" diffusée la veille (1,92 M, 14,3%). Cette soirée confirme la prédominance de Rai 1 sur la semaine, qui a mené 5 fois sur 7. La chaîne Rete 4, avec \"Quarto Grado\", maintient une audience solide dans sa case avec 1,10 million de téléspectateurs (9,6% PDM), se plaçant devant le canal thématique Nove. La présence d'un film sur Italia 1, \"Jurassic World – Il dominio\", ne parvient pas à s'imposer, ne réunissant que 815 000 spectateurs (5,8% PDM), signe d'une difficulté à capter un large public sur ce type de format en concurrence directe.",
@@ -356,12 +356,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Stars+on+Stage%22+NPO+1+ratings"
         }
       ],
-      "scraped_at": "2026-05-30T09:27:14.641232Z",
+      "scraped_at": "2026-05-30T10:52:25.281336Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 29 mai au Pays-Bas voit SBS 6 s'imposer avec « Laatste Vandaag Inside vanaf Curaçao », attirant 930 000 téléspectateurs. Ce score dépasse le précédent record de la semaine pour cette case horaire, établi par RTL 5 avec 873 000 spectateurs le 26 mai. NPO 1, malgré une présence régulière en tête du classement hebdomadaire, se positionne en deuxième place avec « Stars on Stage » (624 000 téléspectateurs). La performance de SBS 6, chaîne privée du groupe Talpa Network, illustre la dynamique concurrentielle face au service public, particulièrement visible dans la lutte pour le leadership du prime. La segmentation du marché néerlandais, avec une population de 17 millions d'habitants, rend ces chiffres individuels significatifs dans la stratégie des chaînes.",
       "commentary_date": "2026-05-29"
     }
   },
-  "last_updated": "2026-05-30T09:27:28.805799Z"
+  "last_updated": "2026-05-30T10:52:25.283799Z"
 }
