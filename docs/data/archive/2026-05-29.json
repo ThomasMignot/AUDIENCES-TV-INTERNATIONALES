@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tu_cara_me_suena_%28Spanish_TV_series%29"
         },
         {
           "rank": 2,
@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-mayo-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aniversario_de_Arena_M%C3%A9xico"
         },
         {
           "rank": 3,
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         }
       ],
-      "scraped_at": "2026-05-30T17:18:51.094342Z",
+      "scraped_at": "2026-05-31T09:58:53.112136Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur le prime time hebdomadaire, plaçant six programmes dans le top 6 des soirées de la semaine écoulée. Le divertissement \"Tu Cara Me Suena\" enregistre 1,39 million de téléspectateurs et 19,8% de part de marché, une performance en léger retrait par rapport à la semaine précédente où le même programme avait rassemblé 1,45 million de fidèles pour 19,1% de PDA. La chaîne maintient ainsi son avantage face à Telecinco, dont le divertissement \"¡De Viernes!\" se positionne en deuxième place avec 739 000 téléspectateurs (10,7% PDM), une audience stable par rapport aux 701 000 enregistrés le 22 mai. La chaîne publique La 1, avec le documentaire \"Superestrellas:Clint Eastwood\", se classe troisième, démontrant une certaine résilience dans une case horaire traditionnellement disputée. La progression de La 1 observée depuis 2023 semble se confirmer, bien que le programme du jour ne rivalise pas avec les scores de ses fictions diffusées en milieu de semaine. Le succès d'Antena 3 s'appuie sur des formats de divertissement établis, tandis que Telecinco peine à trouver un lead-in suffisant pour ses programmes de prime time.",
@@ -331,37 +331,37 @@
       "entries": [
         {
           "rank": 1,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "Laatste Vandaag Inside vanaf CuraÃ§ao",
+          "channel": "NPO 1",
+          "channel_color": "amber",
+          "program": "NPO1 & NPO2",
           "program_fr": null,
-          "viewers": 930000,
+          "viewers": 810000,
           "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/afscheid-beau-rtl-tonight-vandaag-inside-curacao-stars-on-stage-kijkcijfers",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Laatste+Vandaag+Inside+vanaf+Cura%C3%83%C2%A7ao%22+SBS+6+ratings"
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-zaterdagavond-blijft-problematisch-voor-rtl4",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Npo1+%26+Npo2%22+NPO+1+ratings"
         },
         {
           "rank": 2,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Stars on Stage",
+          "channel": "RTL 4",
+          "channel_color": "red",
+          "program": "RTL4",
           "program_fr": null,
-          "viewers": 624000,
+          "viewers": 313000,
           "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/afscheid-beau-rtl-tonight-vandaag-inside-curacao-stars-on-stage-kijkcijfers",
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-zaterdagavond-blijft-problematisch-voor-rtl4",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Stars+on+Stage%22+NPO+1+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Rtl4%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-05-30T17:18:56.261103Z",
+      "scraped_at": "2026-05-31T09:58:58.392306Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 29 mai au Pays-Bas voit SBS 6 s'imposer avec « Laatste Vandaag Inside vanaf Curaçao », attirant 930 000 téléspectateurs. Ce score dépasse le précédent record de la semaine pour cette case horaire, établi par RTL 5 avec 873 000 spectateurs le 26 mai. NPO 1, malgré une présence régulière en tête du classement hebdomadaire, se positionne en deuxième place avec « Stars on Stage » (624 000 téléspectateurs). La performance de SBS 6, chaîne privée du groupe Talpa Network, illustre la dynamique concurrentielle face au service public, particulièrement visible dans la lutte pour le leadership du prime. La segmentation du marché néerlandais, avec une population de 17 millions d'habitants, rend ces chiffres individuels significatifs dans la stratégie des chaînes.",
       "commentary_date": "2026-05-29"
     }
   },
-  "last_updated": "2026-05-30T17:18:56.263210Z"
+  "last_updated": "2026-05-31T09:58:58.394065Z"
 }
