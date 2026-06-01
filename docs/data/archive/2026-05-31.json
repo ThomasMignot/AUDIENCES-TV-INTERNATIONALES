@@ -161,34 +161,6 @@
       "commentary": "Ce 31 mai, Telecinco s'empare de la tête du prime avec \"Supervivientes: Conexión Honduras\" et ses 979 000 téléspectateurs, une performance qui devance de peu le film de La 1, \"El Especialista\", attirant 976 000 curieux. La fiction d'Antena 3, \"Una Nueva Vida\", se positionne en troisième place avec 795 000 spectateurs, un score identique à celui de sa diffusion le 24 mai. Sur la semaine écoulée, Antena 3 a dominé le prime time six soirs sur sept, notamment grâce à \"El Hormiguero\" qui enregistre régulièrement des audiences supérieures à 1,4 million de téléspectateurs. La stratégie de Telecinco semble porter ses fruits en plaçant son divertissement phare en concurrence directe du cinéma de La 1, tandis qu'Antena 3 capitalise sur son offre de divertissement et de fiction établie. La chaîne publique La 1, bien que remontant depuis 2023, peine à s'installer durablement en tête du classement hebdomadaire face au duopole historique.",
       "commentary_date": "2026-05-31"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-05-29",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "NPO 1",
-          "channel_color": "amber",
-          "program": "Overige kijkcijfers",
-          "program_fr": null,
-          "viewers": 751000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-gillende-kinderen-verstoren-oranjezomer-kijkcijfers-over-mijn-lijk",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Overige+kijkcijfers%22+NPO+1+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-01T13:05:36.846004Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le 29 mai 2026, NPO 1 s'assure la première place du prime time avec 751 000 téléspectateurs pour « Overige kijkcijfers », un chiffre qui la place en retrait par rapport à son score du 22 mai avec « Ik Vertrek » (907 k). Cette performance sur une seule chaîne souligne la difficulté à rassembler un large public sur le marché néerlandais, où la fragmentation est une constante. La semaine précédente, NPO 1 avait déjà montré sa capacité à capter une audience significative, remportant la tête des soirées à trois reprises. La concurrence entre chaînes généralistes comme NPO 1 et RTL 4, ainsi que les chaînes du groupe Talpa Network (SBS 6, RTL 5), structure les dynamiques d'audience, chaque acteur cherchant à optimiser sa case horaire. Les programmes phares, souvent des formats de divertissement ou de téléréalité, peinent à dépasser le million de téléspectateurs, reflétant la taille modeste de la population et la diversification des offres.",
-      "commentary_date": "2026-05-29"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -202,87 +174,7 @@
       "error": "Aucune entrée extraite (ni bloc structuré, ni paragraphe)",
       "commentary": "Le prime time du 30 mai voit Canale 5 se hisser en tête avec une offre de divertissement, « Gigi Stadio Maradona – Una Notte a Napoli », attirant 1,96 million de téléspectateurs et 16,9% de part de marché. Ce score est inférieur à celui de la semaine précédente pour un programme similaire de Canale 5 (« Pooh 60 », 2,01 M, 18.1% le 23 mai), mais suffisant pour devancer Rai 1 et son programme « Tutti i Sogni Ancora in Volo » (1,56 M, 13.2%). La chaîne publique Rai 1, leader sur la semaine écoulée, subit ici une légère érosion de son audience habituelle, ses scores des jours précédents oscillant entre 2,14 et 2,88 millions de téléspectateurs. La chaîne Rete 4, avec une rediffusion de film, et TV8, avec la retransmission sportive de la Champions League, se disputent la troisième et quatrième place, démontrant une fragmentation des audiences en fin de semaine. La7, positionnée sur un créneau d'information et de débat, enregistre 819 000 téléspectateurs, un chiffre en retrait par rapport à sa performance du 23 mai (1,03 M, 6.7%).",
       "commentary_date": "2026-05-30"
-    },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-05-30",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-finale-de-the-voice-sur-tf1/655121",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CHAMPIONS D'EUROPE",
-          "program_fr": null,
-          "viewers": 4403000,
-          "share": 23.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-finale-de-the-voice-sur-tf1/655121",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ligue_des_champions_de_l%27UEFA"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "CRIMES A CLUNY",
-          "program_fr": null,
-          "viewers": 3843000,
-          "share": 23.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-finale-de-the-voice-sur-tf1/655121",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Crimes_%C3%A0_Cluny"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE VOICE, LA PLUS BELLE VOIX \\ LA FINALE",
-          "program_fr": "The Voice",
-          "viewers": 1850000,
-          "share": 11.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-finale-de-the-voice-sur-tf1/655121",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_15_de_The_Voice_%3A_La_Plus_Belle_Voix"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "QUI RESTERA DANS LA LUMIERE ?",
-          "program_fr": null,
-          "viewers": 1208000,
-          "share": 8.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-finale-de-the-voice-sur-tf1/655121",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
-          "program_fr": null,
-          "viewers": 864000,
-          "share": 5.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-finale-de-the-voice-sur-tf1/655121",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
-        }
-      ],
-      "scraped_at": "2026-06-01T13:05:22.237296Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La soirée du 30 mai voit M6 s'installer en tête des audiences avec la retransmission de « Champions d'Europe », attirant 4,40 millions de téléspectateurs et 23,8% de part de marché. Ce résultat contraste avec le bilan de la semaine, où France 2 a dominé le prime time à trois reprises. La finale de « The Voice, la plus belle voix » sur TF1 réalise une performance décevante, rassemblant seulement 1,85 million de personnes, une baisse sensible par rapport à la demi-finale de la semaine précédente qui avait rassemblé 2,35 millions de spectateurs. La fiction de France 3, « Crimes à Cluny », se positionne en deuxième place avec 3,84 millions de téléspectateurs, démontrant la force des offres locales face aux grandes franchises de divertissement des chaînes privées. L'écart entre les chaînes historiques et la TNT, bien que non chiffré ici, demeure un facteur de segmentation de l'audience.",
-      "commentary_date": "2026-05-30"
     }
   },
-  "last_updated": "2026-06-01T13:05:36.848502Z"
+  "last_updated": "2026-06-01T13:05:49.043807Z"
 }
