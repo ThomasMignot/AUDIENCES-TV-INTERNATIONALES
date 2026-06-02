@@ -1,6 +1,20 @@
 {
   "date": "2026-06-01",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-01",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "entries": [],
+      "scraped_at": "2026-06-02T11:45:57.974771Z",
+      "status": "failed",
+      "error": "Aucun article 'soirée' trouvé sur la page de listing",
+      "commentary": "La soirée du 30 mai voit M6 s'installer en tête des audiences avec la retransmission de « Champions d'Europe », attirant 4,40 millions de téléspectateurs et 23,8% de part de marché. Ce résultat contraste avec le bilan de la semaine, où France 2 a dominé le prime time à trois reprises. La finale de « The Voice, la plus belle voix » sur TF1 réalise une performance décevante, rassemblant seulement 1,85 million de personnes, une baisse sensible par rapport à la demi-finale de la semaine précédente qui avait rassemblé 2,35 millions de spectateurs. La fiction de France 3, « Crimes à Cluny », se positionne en deuxième place avec 3,84 millions de téléspectateurs, démontrant la force des offres locales face aux grandes franchises de divertissement des chaînes privées. L'écart entre les chaînes historiques et la TNT, bien que non chiffré ici, demeure un facteur de segmentation de l'audience.",
+      "commentary_date": "2026-05-30"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,34 +175,6 @@
       "commentary": "Le divertissement d'Antena 3, « El Hormiguero », confirme sa domination sur la case du lundi 1er juin avec 1,68 million de téléspectateurs et 13,9% de part de marché, se positionnant ainsi comme leader de la soirée. Ce résultat est en légère hausse par rapport à la semaine précédente, où le même programme avait réuni 1,64 million de personnes le 25 mai. La chaîne publique La 1, avec son divertissement « La Revuelta », maintient une présence solide en seconde position, atteignant 1,46 million de téléspectateurs (12,1% PDM), une performance stable par rapport à la semaine passée. La compétition pour la troisième place du podium reste ouverte, Cuatro et Telecinco se disputant l'attention des téléspectateurs avec leurs programmes d'information et de divertissement. La stratégie d'Antena 3 de programmer des figures médiatiques dans son access semble porter ses fruits, assurant un lead-in conséquent pour les programmes de prime time.",
       "commentary_date": "2026-06-01"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-01",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "De Oranjezomer",
-          "program_fr": null,
-          "viewers": 919000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-marlotte-verovert-harten-van-huizenruilers-kijkers",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22De+Oranjezomer%22+RTL+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-02T11:46:11.786281Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le programme « De Oranjezomer » sur RTL 4 attire 919 000 téléspectateurs ce 1er juin, se positionnant en tête des audiences du prime time. Ce chiffre dépasse les performances observées sur les chaînes concurrentes durant la semaine écoulée, où les pics peinaient à dépasser les 800 000 spectateurs, comme le montre la soirée du 26 mai avec RTL 5. La chaîne publique NPO 1, qui avait mené le classement lors de trois soirées de la semaine précédente, se retrouve ici devancée. Cette performance de RTL 4 suggère une capacité à capter une part significative de l'audience disponible, dans un marché où les programmes phares comme les formats de type \"bake-off\" ou \"dating\" constituent habituellement les succès. La diffusion de ce format sur RTL 4, chaîne privée du groupe Talpa Network, s'inscrit dans une dynamique de recherche d'audience face à la chaîne publique NPO 1.",
-      "commentary_date": "2026-06-01"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -269,20 +255,34 @@
       "commentary": "Le prime time du 1er juin en Italie voit un resserrement des écarts entre Rai 1 et Canale 5, avec des scores respectifs de 2,21 millions de téléspectateurs (16.4% de PDM) et 2,19 millions (16.3% de PDM). Ce chiffre pour Rai 1 marque une baisse par rapport aux 2,50 millions enregistrés le 25 mai avec le même programme « Ulisse », et se situe en deçà de la moyenne hebdomadaire de la chaîne qui a dominé 5 soirées sur 7. La fiction turque « I Cesaroni – Il Ritorno » sur Canale 5, bien que légèrement derrière, réalise une performance solide, confirmant la stratégie de la chaîne sur ce genre de contenu. Les chaînes secondaires, Rete 4 et Italia 1, peinent à dépasser les 800 000 téléspectateurs, illustrant la concentration des audiences sur les deux principaux acteurs du duopole. La programmation de « Quarta Repubblica », un magazine d'information, sur Rete 4, se positionne nettement derrière les offres de divertissement et de fiction des deux leaders historiques.",
       "commentary_date": "2026-06-01"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-01",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/tag/audiences_t14",
-      "entries": [],
-      "scraped_at": "2026-06-02T11:45:57.974771Z",
-      "status": "failed",
-      "error": "Aucun article 'soirée' trouvé sur la page de listing",
-      "commentary": "La soirée du 30 mai voit M6 s'installer en tête des audiences avec la retransmission de « Champions d'Europe », attirant 4,40 millions de téléspectateurs et 23,8% de part de marché. Ce résultat contraste avec le bilan de la semaine, où France 2 a dominé le prime time à trois reprises. La finale de « The Voice, la plus belle voix » sur TF1 réalise une performance décevante, rassemblant seulement 1,85 million de personnes, une baisse sensible par rapport à la demi-finale de la semaine précédente qui avait rassemblé 2,35 millions de spectateurs. La fiction de France 3, « Crimes à Cluny », se positionne en deuxième place avec 3,84 millions de téléspectateurs, démontrant la force des offres locales face aux grandes franchises de divertissement des chaînes privées. L'écart entre les chaînes historiques et la TNT, bien que non chiffré ici, demeure un facteur de segmentation de l'audience.",
-      "commentary_date": "2026-05-30"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "RTL 4",
+          "channel_color": "red",
+          "program": "De Oranjezomer",
+          "program_fr": null,
+          "viewers": 919000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-marlotte-verovert-harten-van-huizenruilers-kijkers",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22De+Oranjezomer%22+RTL+4+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-02T11:46:11.786281Z",
+      "status": "partial",
+      "error": null,
+      "commentary": "Le programme « De Oranjezomer » sur RTL 4 attire 919 000 téléspectateurs ce 1er juin, se positionnant en tête des audiences du prime time. Ce chiffre dépasse les performances observées sur les chaînes concurrentes durant la semaine écoulée, où les pics peinaient à dépasser les 800 000 spectateurs, comme le montre la soirée du 26 mai avec RTL 5. La chaîne publique NPO 1, qui avait mené le classement lors de trois soirées de la semaine précédente, se retrouve ici devancée. Cette performance de RTL 4 suggère une capacité à capter une part significative de l'audience disponible, dans un marché où les programmes phares comme les formats de type \"bake-off\" ou \"dating\" constituent habituellement les succès. La diffusion de ce format sur RTL 4, chaîne privée du groupe Talpa Network, s'inscrit dans une dynamique de recherche d'audience face à la chaîne publique NPO 1.",
+      "commentary_date": "2026-06-01"
     }
   },
-  "last_updated": "2026-06-02T11:46:11.789012Z"
+  "last_updated": "2026-06-02T11:46:22.860675Z"
 }
