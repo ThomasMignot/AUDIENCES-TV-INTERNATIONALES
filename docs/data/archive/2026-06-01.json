@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-06-02T18:12:01.860266Z",
+      "scraped_at": "2026-06-02T19:50:43.197474Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La soirée du 30 mai voit M6 s'installer en tête des audiences avec la retransmission de « Champions d'Europe », attirant 4,40 millions de téléspectateurs et 23,8% de part de marché. Ce résultat contraste avec le bilan de la semaine, où France 2 a dominé le prime time à trois reprises. La finale de « The Voice, la plus belle voix » sur TF1 réalise une performance décevante, rassemblant seulement 1,85 million de personnes, une baisse sensible par rapport à la demi-finale de la semaine précédente qui avait rassemblé 2,35 millions de spectateurs. La fiction de France 3, « Crimes à Cluny », se positionne en deuxième place avec 3,84 millions de téléspectateurs, démontrant la force des offres locales face aux grandes franchises de divertissement des chaînes privées. L'écart entre les chaînes historiques et la TNT, bien que non chiffré ici, demeure un facteur de segmentation de l'audience.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Bauer+sucht+Frau+International+Folg%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-06-02T18:12:05.174430Z",
+      "scraped_at": "2026-06-02T19:50:46.298660Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal \"Tagesschau\" sur Das Erste s'impose en tête des audiences du 1er juin avec 4,02 millions de téléspectateurs et 22,1% de part de marché. Cette performance confirme la domination des chaînes publiques, Das Erste et ZDF, sur le créneau du prime time, particulièrement auprès des téléspectateurs plus âgés, face aux acteurs privés comme RTL. La soirée du 31 mai, marquée par une rencontre sportive sur ZDF, avait exceptionnellement déplacé les curseurs, attirant 8,32 millions de curieux pour le match Allemagne-Finlande. Le programme de divertissement de RTL, \"Bauer sucht Frau International\", avec 2,38 millions de fidèles, ne parvient pas à concurrencer les offres plus institutionnelles des diffuseurs publics sur cette case horaire. La présence du \"heute journal\" du ZDF en troisième position témoigne de la force des rendez-vous d'information dans le paysage audiovisuel allemand.",
@@ -102,10 +102,76 @@
       "date": "2026-06-01",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-06-02T18:12:05.838154Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Marta Sanchez)",
+          "program_fr": null,
+          "viewers": 1676000,
+          "share": 13.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Hormiguero"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Margarida & Maxi)",
+          "program_fr": null,
+          "viewers": 1458000,
+          "share": 12.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Margarida+%26+Maxi%29%22+La+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 1082000,
+          "share": 9.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 1063000,
+          "share": 8.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 858000,
+          "share": 7.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-02T19:50:51.861051Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Le divertissement d'Antena 3, « El Hormiguero », confirme sa domination sur la case du lundi 1er juin avec 1,68 million de téléspectateurs et 13,9% de part de marché, se positionnant ainsi comme leader de la soirée. Ce résultat est en légère hausse par rapport à la semaine précédente, où le même programme avait réuni 1,64 million de personnes le 25 mai. La chaîne publique La 1, avec son divertissement « La Revuelta », maintient une présence solide en seconde position, atteignant 1,46 million de téléspectateurs (12,1% PDM), une performance stable par rapport à la semaine passée. La compétition pour la troisième place du podium reste ouverte, Cuatro et Telecinco se disputant l'attention des téléspectateurs avec leurs programmes d'information et de divertissement. La stratégie d'Antena 3 de programmer des figures médiatiques dans son access semble porter ses fruits, assurant un lead-in conséquent pour les programmes de prime time.",
       "commentary_date": "2026-06-01"
     },
@@ -128,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-1-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Ulisse"
+          "wikipedia_url": "https://www.google.com/search?q=%22Ulisse%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -141,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-1-giugno-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/I_Cesaroni"
+          "wikipedia_url": "https://www.google.com/search?q=%22I+Cesaroni%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -154,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-1-giugno-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Nicola_Porro"
+          "wikipedia_url": "https://www.google.com/search?q=%22Quarta+Repubblica%22+Rete+4+ratings"
         },
         {
           "rank": 4,
@@ -167,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-1-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Winx_Club_episodes"
+          "wikipedia_url": "https://www.google.com/search?q=%22Attacco+al+potere%22+Italia+1+ratings"
         },
         {
           "rank": 5,
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22The+Unknown%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-06-02T18:12:09.828407Z",
+      "scraped_at": "2026-06-02T19:50:55.021659Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 1er juin en Italie voit un resserrement des écarts entre Rai 1 et Canale 5, avec des scores respectifs de 2,21 millions de téléspectateurs (16.4% de PDM) et 2,19 millions (16.3% de PDM). Ce chiffre pour Rai 1 marque une baisse par rapport aux 2,50 millions enregistrés le 25 mai avec le même programme « Ulisse », et se situe en deçà de la moyenne hebdomadaire de la chaîne qui a dominé 5 soirées sur 7. La fiction turque « I Cesaroni – Il Ritorno » sur Canale 5, bien que légèrement derrière, réalise une performance solide, confirmant la stratégie de la chaîne sur ce genre de contenu. Les chaînes secondaires, Rete 4 et Italia 1, peinent à dépasser les 800 000 téléspectateurs, illustrant la concentration des audiences sur les deux principaux acteurs du duopole. La programmation de « Quarta Repubblica », un magazine d'information, sur Rete 4, se positionne nettement derrière les offres de divertissement et de fiction des deux leaders historiques.",
@@ -196,13 +262,27 @@
       "date": "2026-06-01",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-02T18:12:41.345181Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Read timed out. (read timeout=30)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "RTL 4",
+          "channel_color": "red",
+          "program": "De Oranjezomer",
+          "program_fr": null,
+          "viewers": 919000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-marlotte-verovert-harten-van-huizenruilers-kijkers",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22De+Oranjezomer%22+RTL+4+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-02T19:50:56.526140Z",
+      "status": "partial",
+      "error": null,
       "commentary": "Le programme « De Oranjezomer » sur RTL 4 attire 919 000 téléspectateurs ce 1er juin, se positionnant en tête des audiences du prime time. Ce chiffre dépasse les performances observées sur les chaînes concurrentes durant la semaine écoulée, où les pics peinaient à dépasser les 800 000 spectateurs, comme le montre la soirée du 26 mai avec RTL 5. La chaîne publique NPO 1, qui avait mené le classement lors de trois soirées de la semaine précédente, se retrouve ici devancée. Cette performance de RTL 4 suggère une capacité à capter une part significative de l'audience disponible, dans un marché où les programmes phares comme les formats de type \"bake-off\" ou \"dating\" constituent habituellement les succès. La diffusion de ce format sur RTL 4, chaîne privée du groupe Talpa Network, s'inscrit dans une dynamique de recherche d'audience face à la chaîne publique NPO 1.",
       "commentary_date": "2026-06-01"
     }
   },
-  "last_updated": "2026-06-02T18:12:41.345666Z"
+  "last_updated": "2026-06-02T19:50:56.527806Z"
 }
