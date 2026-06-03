@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Choix_des_armes"
         }
       ],
-      "scraped_at": "2026-06-03T18:33:26.241100Z",
+      "scraped_at": "2026-06-03T19:56:36.623943Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête du prime time ce mardi 2 juin avec \"Koh-Lanta\", attirant 2,79 millions de téléspectateurs et 16,1% de part d'audience, soit une progression notable par rapport à la semaine précédente où le programme avait rassemblé 2,47 millions de personnes. La fiction de France 3, \"Alexandra Ehle\", parvient à se positionner en deuxième place avec 2,64 millions de spectateurs et 15,6% de PDA, confirmant la bonne tenue des offres de fiction sur cette chaîne en seconde partie de soirée. M6, avec \"Appel à témoins\", se maintient en troisième position, réalisant 1,98 million de téléspectateurs (11,2% PDM), une performance stable dans une case information qui peine à rivaliser avec les divertissements et les fictions sur les chaînes historiques. France 2, quant à elle, voit son score diminuer avec \"Laissez-vous guider\" (1,60 M, 9,8% PDM), marquant un recul par rapport à ses succès récents en tête de classement, notamment avec \"Haut Saison\" qui avait dépassé les 3 millions de téléspectateurs le 29 mai. Cette soirée illustre la compétition entre les formats de divertissement et de fiction, tandis que les chaînes de la TNT continuent de fragmenter le paysage audiovisuel sans pour autant s'imposer durablement dans le top 5 du prime.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Fakt%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-03T18:33:35.914333Z",
+      "scraped_at": "2026-06-03T19:56:42.585752Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 2 juin, la soirée allemande voit le retour de \"Tagesschau\" sur Das Erste en tête des audiences avec 4,40 millions de téléspectateurs, soit 22,7% de part de marché. Ce score est en hausse par rapport aux 4,02 millions enregistrés le dimanche précédent, marquant une reprise après la forte performance du football le samedi 31 mai. La fiction, représentée par \"Die Kanzlei Folge 66\" sur une chaîne non spécifiée, confirme son attrait avec 3,28 millions de curieux, se positionnant comme une alternative solide face aux informations de ZDF. Le divertissement de RTL, \"Bauer sucht Frau International\", peine à retrouver le niveau de la semaine précédente, rassemblant 2,57 millions de téléspectateurs, tandis que les chaînes publiques maintiennent leur position dominante sur le cœur de leur public fidèle. La lutte pour la deuxième place du prime time semble s'intensifier entre les offres de fiction et les programmes plus légers des diffuseurs privés.",
@@ -168,76 +168,10 @@
       "date": "2026-06-02",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero (Rossy de Palma)",
-          "program_fr": null,
-          "viewers": 1549000,
-          "share": 13.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Rossy+de+Palma%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "La Revuelta (Trueno)",
-          "program_fr": null,
-          "viewers": 1157000,
-          "share": 10.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Trueno%29%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
-          "program_fr": null,
-          "viewers": 1052000,
-          "share": 9.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-junio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 1021000,
-          "share": 8.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "El Intermedio",
-          "program_fr": null,
-          "viewers": 879000,
-          "share": 7.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-junio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-03T18:33:37.511377Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-06-03T19:56:43.228795Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 conserve sa domination sur les soirées de la semaine, s'adjugeant six des sept premières places du classement du prime time. Le divertissement « El Hormiguero », diffusé en access, reste un puissant levier pour la chaîne, rassemblant 1,55 million de téléspectateurs et 13,4% de part de marché ce 2 juin. Cette performance, bien que légèrement inférieure à celle de la semaine précédente (1,68 million, 13,9%), confirme sa capacité à fidéliser une audience significative avant le début du prime time. La chaîne publique La 1, avec son programme « La Revuelta », se positionne en challenger, attirant 1,16 million de téléspectateurs (10,2% PDM), une audience en retrait par rapport aux 1,46 million enregistrés le 1er juin. La chaîne Cuatro, avec son magazine d'information « Horizonte », maintient une présence solide dans le top 3, atteignant 1,05 million de téléspectateurs (9,3% PDM), soit une légère progression par rapport à la semaine précédente. La compétition s'intensifie entre les chaînes généralistes, chacune cherchant à capter une part de l'audience du dîner tardif espagnol.",
       "commentary_date": "2026-06-02"
     },
@@ -315,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Indovina+Chi+Viene+a+Cena%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-06-03T18:33:40.599779Z",
+      "scraped_at": "2026-06-03T19:56:45.915889Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 2 juin, Rai 1 reprend la tête du prime time avec un documentaire spécial, réunissant 2,48 millions de téléspectateurs et 16,2% de part de marché. Cette performance permet à la chaîne publique de conforter sa position de leader sur la semaine, ayant occupé la première marche du podium cinq fois au cours des sept derniers jours. Canale 5, avec sa fiction « Un Nuovo Inizio », se positionne en deuxième place, attirant 2,05 millions de personnes (14,8% PDM), un score légèrement inférieur à celui obtenu par la même série le 1er juin (2,19 M, 16,3%). La chaîne d'information La7, avec « DiMartedì », confirme sa capacité à capter une audience significative sur sa niche, atteignant 1,32 million de curieux (9,4% PDM). L'analyse des chiffres révèle une dynamique où Rai 1 s'appuie sur des événements spéciaux et des programmes documentaires pour asseoir sa domination, tandis que Canale 5 mise sur la fiction pour rivaliser, rencontrant toutefois une certaine fluctuation dans ses résultats. L'écart entre le premier et le second programme se resserre par rapport à certaines soirées de la semaine précédente, où la fiction turque « Forbidden Fruit » avait également réalisé une forte performance pour Mediaset.",
@@ -356,12 +290,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Weet+Ik+Veel%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-03T18:33:45.089089Z",
+      "scraped_at": "2026-06-03T19:56:47.315265Z",
       "status": "partial",
       "error": null,
       "commentary": "Ce 2 juin, SBS 6 s'impose en tête du prime time aux Pays-Bas avec « De Oranjezomer », attirant 987 000 téléspectateurs, une performance supérieure à celle du même programme diffusé le 1er juin sur RTL 4 (919 k). Cette victoire de SBS 6 marque une rupture dans la domination de NPO 1 sur la semaine écoulée, qui avait mené le classement lors de trois soirées. Le programme de RTL 4, « Weet Ik Veel », se positionne en seconde place avec 616 000 spectateurs, un score plus modeste que les meilleurs programmes de la semaine précédente. L'analyse des audiences révèle une dynamique fluctuante entre les chaînes privées, SBS 6 et RTL 4, dans un paysage médiatique néerlandais où la chaîne publique NPO 1 occupe traditionnellement une position forte. La stratégie de programmation semble privilégier des formats de flux et de discussion, comme le démontre le succès de « De Oranjezomer ».",
       "commentary_date": "2026-06-02"
     }
   },
-  "last_updated": "2026-06-03T18:33:45.091100Z"
+  "last_updated": "2026-06-03T19:56:47.317439Z"
 }
