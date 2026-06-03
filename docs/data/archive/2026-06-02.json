@@ -1,6 +1,86 @@
 {
   "date": "2026-06-02",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-02",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LES AVENTURIERS DE KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 14",
+          "program_fr": null,
+          "viewers": 2793000,
+          "share": 16.1,
+          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_%3A_Les_Reliques_du_destin"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ALEXANDRA EHLE \\ LA FEMME BLEUE",
+          "program_fr": null,
+          "viewers": 2640000,
+          "share": 15.6,
+          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alexandra_Ehle"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "APPEL A TEMOINS",
+          "program_fr": null,
+          "viewers": 1980000,
+          "share": 11.2,
+          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Appel_%C3%A0_t%C3%A9moins"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LAISSEZ-VOUS GUIDER",
+          "program_fr": null,
+          "viewers": 1597000,
+          "share": 9.8,
+          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Laissez-vous_guider"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "EUROPE, LE CHOIX DES ARMES",
+          "program_fr": null,
+          "viewers": 507000,
+          "share": 2.9,
+          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Choix_des_armes"
+        }
+      ],
+      "scraped_at": "2026-06-03T12:16:40.248325Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête du prime time ce mardi 2 juin avec \"Koh-Lanta\", attirant 2,79 millions de téléspectateurs et 16,1% de part d'audience, soit une progression notable par rapport à la semaine précédente où le programme avait rassemblé 2,47 millions de personnes. La fiction de France 3, \"Alexandra Ehle\", parvient à se positionner en deuxième place avec 2,64 millions de spectateurs et 15,6% de PDA, confirmant la bonne tenue des offres de fiction sur cette chaîne en seconde partie de soirée. M6, avec \"Appel à témoins\", se maintient en troisième position, réalisant 1,98 million de téléspectateurs (11,2% PDM), une performance stable dans une case information qui peine à rivaliser avec les divertissements et les fictions sur les chaînes historiques. France 2, quant à elle, voit son score diminuer avec \"Laissez-vous guider\" (1,60 M, 9,8% PDM), marquant un recul par rapport à ses succès récents en tête de classement, notamment avec \"Haut Saison\" qui avait dépassé les 3 millions de téléspectateurs le 29 mai. Cette soirée illustre la compétition entre les formats de divertissement et de fiction, tandis que les chaînes de la TNT continuent de fragmenter le paysage audiovisuel sans pour autant s'imposer durablement dans le top 5 du prime.",
+      "commentary_date": "2026-06-02"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,47 +241,6 @@
       "commentary": "Antena 3 conserve sa domination sur les soirées de la semaine, s'adjugeant six des sept premières places du classement du prime time. Le divertissement « El Hormiguero », diffusé en access, reste un puissant levier pour la chaîne, rassemblant 1,55 million de téléspectateurs et 13,4% de part de marché ce 2 juin. Cette performance, bien que légèrement inférieure à celle de la semaine précédente (1,68 million, 13,9%), confirme sa capacité à fidéliser une audience significative avant le début du prime time. La chaîne publique La 1, avec son programme « La Revuelta », se positionne en challenger, attirant 1,16 million de téléspectateurs (10,2% PDM), une audience en retrait par rapport aux 1,46 million enregistrés le 1er juin. La chaîne Cuatro, avec son magazine d'information « Horizonte », maintient une présence solide dans le top 3, atteignant 1,05 million de téléspectateurs (9,3% PDM), soit une légère progression par rapport à la semaine précédente. La compétition s'intensifie entre les chaînes généralistes, chacune cherchant à capter une part de l'audience du dîner tardif espagnol.",
       "commentary_date": "2026-06-02"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-02",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "De Oranjezomer",
-          "program_fr": null,
-          "viewers": 987000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-weet-ik-veel-kijkers-blijven-klagen-over-de-app",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22De+Oranjezomer%22+SBS+6+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "RTL 4",
-          "channel_color": "red",
-          "program": "Weet Ik Veel",
-          "program_fr": null,
-          "viewers": 616000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-weet-ik-veel-kijkers-blijven-klagen-over-de-app",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Weet+Ik+Veel%22+RTL+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-03T12:16:52.779617Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Ce 2 juin, SBS 6 s'impose en tête du prime time aux Pays-Bas avec « De Oranjezomer », attirant 987 000 téléspectateurs, une performance supérieure à celle du même programme diffusé le 1er juin sur RTL 4 (919 k). Cette victoire de SBS 6 marque une rupture dans la domination de NPO 1 sur la semaine écoulée, qui avait mené le classement lors de trois soirées. Le programme de RTL 4, « Weet Ik Veel », se positionne en seconde place avec 616 000 spectateurs, un score plus modeste que les meilleurs programmes de la semaine précédente. L'analyse des audiences révèle une dynamique fluctuante entre les chaînes privées, SBS 6 et RTL 4, dans un paysage médiatique néerlandais où la chaîne publique NPO 1 occupe traditionnellement une position forte. La stratégie de programmation semble privilégier des formats de flux et de discussion, comme le démontre le succès de « De Oranjezomer ».",
-      "commentary_date": "2026-06-02"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -282,86 +321,47 @@
       "commentary": "Ce 2 juin, Rai 1 reprend la tête du prime time avec un documentaire spécial, réunissant 2,48 millions de téléspectateurs et 16,2% de part de marché. Cette performance permet à la chaîne publique de conforter sa position de leader sur la semaine, ayant occupé la première marche du podium cinq fois au cours des sept derniers jours. Canale 5, avec sa fiction « Un Nuovo Inizio », se positionne en deuxième place, attirant 2,05 millions de personnes (14,8% PDM), un score légèrement inférieur à celui obtenu par la même série le 1er juin (2,19 M, 16,3%). La chaîne d'information La7, avec « DiMartedì », confirme sa capacité à capter une audience significative sur sa niche, atteignant 1,32 million de curieux (9,4% PDM). L'analyse des chiffres révèle une dynamique où Rai 1 s'appuie sur des événements spéciaux et des programmes documentaires pour asseoir sa domination, tandis que Canale 5 mise sur la fiction pour rivaliser, rencontrant toutefois une certaine fluctuation dans ses résultats. L'écart entre le premier et le second programme se resserre par rapport à certaines soirées de la semaine précédente, où la fiction turque « Forbidden Fruit » avait également réalisé une forte performance pour Mediaset.",
       "commentary_date": "2026-06-02"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-02",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "TF1",
+          "channel": "SBS 6",
           "channel_color": "blue",
-          "program": "LES AVENTURIERS DE KOH-LANTA \\ LES RELIQUES DU DESTIN - EPISODE 14",
+          "program": "De Oranjezomer",
           "program_fr": null,
-          "viewers": 2793000,
-          "share": 16.1,
-          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_%3A_Les_Reliques_du_destin"
+          "viewers": 987000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-weet-ik-veel-kijkers-blijven-klagen-over-de-app",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22De+Oranjezomer%22+SBS+6+ratings"
         },
         {
           "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ALEXANDRA EHLE \\ LA FEMME BLEUE",
-          "program_fr": null,
-          "viewers": 2640000,
-          "share": 15.6,
-          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alexandra_Ehle"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "APPEL A TEMOINS",
-          "program_fr": null,
-          "viewers": 1980000,
-          "share": 11.2,
-          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Appel_%C3%A0_t%C3%A9moins"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
+          "channel": "RTL 4",
           "channel_color": "red",
-          "program": "LAISSEZ-VOUS GUIDER",
+          "program": "Weet Ik Veel",
           "program_fr": null,
-          "viewers": 1597000,
-          "share": 9.8,
-          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Laissez-vous_guider"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "EUROPE, LE CHOIX DES ARMES",
-          "program_fr": null,
-          "viewers": 507000,
-          "share": 2.9,
-          "source_url": "https://www.ozap.com/actu/audiences-les-revelations-sur-xavier-dupont-de-ligonnes-dans-appel-a-temoins-sur-m6-ont-elles-suscite-la-curiosite-des-telespectateurs/655375",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Choix_des_armes"
+          "viewers": 616000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-weet-ik-veel-kijkers-blijven-klagen-over-de-app",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Weet+Ik+Veel%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-03T12:16:40.248325Z",
-      "status": "ok",
+      "scraped_at": "2026-06-03T12:16:52.779617Z",
+      "status": "partial",
       "error": null,
-      "commentary": "TF1 reprend la tête du prime time ce mardi 2 juin avec \"Koh-Lanta\", attirant 2,79 millions de téléspectateurs et 16,1% de part d'audience, soit une progression notable par rapport à la semaine précédente où le programme avait rassemblé 2,47 millions de personnes. La fiction de France 3, \"Alexandra Ehle\", parvient à se positionner en deuxième place avec 2,64 millions de spectateurs et 15,6% de PDA, confirmant la bonne tenue des offres de fiction sur cette chaîne en seconde partie de soirée. M6, avec \"Appel à témoins\", se maintient en troisième position, réalisant 1,98 million de téléspectateurs (11,2% PDM), une performance stable dans une case information qui peine à rivaliser avec les divertissements et les fictions sur les chaînes historiques. France 2, quant à elle, voit son score diminuer avec \"Laissez-vous guider\" (1,60 M, 9,8% PDM), marquant un recul par rapport à ses succès récents en tête de classement, notamment avec \"Haut Saison\" qui avait dépassé les 3 millions de téléspectateurs le 29 mai. Cette soirée illustre la compétition entre les formats de divertissement et de fiction, tandis que les chaînes de la TNT continuent de fragmenter le paysage audiovisuel sans pour autant s'imposer durablement dans le top 5 du prime.",
+      "commentary": "Ce 2 juin, SBS 6 s'impose en tête du prime time aux Pays-Bas avec « De Oranjezomer », attirant 987 000 téléspectateurs, une performance supérieure à celle du même programme diffusé le 1er juin sur RTL 4 (919 k). Cette victoire de SBS 6 marque une rupture dans la domination de NPO 1 sur la semaine écoulée, qui avait mené le classement lors de trois soirées. Le programme de RTL 4, « Weet Ik Veel », se positionne en seconde place avec 616 000 spectateurs, un score plus modeste que les meilleurs programmes de la semaine précédente. L'analyse des audiences révèle une dynamique fluctuante entre les chaînes privées, SBS 6 et RTL 4, dans un paysage médiatique néerlandais où la chaîne publique NPO 1 occupe traditionnellement une position forte. La stratégie de programmation semble privilégier des formats de flux et de discussion, comme le démontre le succès de « De Oranjezomer ».",
       "commentary_date": "2026-06-02"
     }
   },
-  "last_updated": "2026-06-03T12:16:52.782039Z"
+  "last_updated": "2026-06-03T12:17:12.481583Z"
 }
