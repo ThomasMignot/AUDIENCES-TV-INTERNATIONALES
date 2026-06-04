@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Aktenzeichen++XY...+Ungel%C3%B6st%22+Sat.1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aktenzeichen_XY..._ungel%C3%B6st"
         },
         {
           "rank": 3,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22WAS+VERDIENT+Deutschland%3F+Das+GROSS%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-04T16:02:08.092412Z",
+      "scraped_at": "2026-06-04T17:24:04.866261Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste s'affirme comme le rendez-vous incontournable du prime time, réunissant 4,24 millions de téléspectateurs et 23.0% de part de marché ce mardi. Ce chiffre le place nettement devant le programme de Sat.1, « Aktenzeichen XY... Ungelöst », qui enregistre 4,09 millions de curieux, démontrant une lutte d'audience serrée entre les deux chaînes privées et publiques. Comparé à la veille, le journal de Das Erste progresse de 0,2 million de téléspectateurs, consolidant sa position de leader sur la semaine. La prédominance des journaux télévisés dans le top 5, avec la présence de ZDF « heute journal » à la troisième place, souligne l'ancrage des chaînes publiques auprès d'un public fidèle en début de soirée. La performance de Sat.1, en particulier avec son format de faits divers, suggère une stratégie de contre-programmation efficace face aux offres d'information.",
@@ -89,7 +89,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-04T16:02:08.933084Z",
+      "scraped_at": "2026-06-04T17:24:05.513009Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 confirme sa domination sur le prime time espagnol, plaçant six programmes dans le top 5 sur les sept derniers jours, dont « El Hormiguero » qui s'impose à 16.1% de part de marché ce 3 juin. Le divertissement d'access, diffusé à 21h45, enregistre une progression de près de 2.2 points de PDM par rapport à sa performance du 1er juin. La chaîne publique La 1, avec « La Revuelta », se positionne en deuxième place avec 10.9% de PDM, une performance en retrait par rapport à son score du 1er juin (12.1%). La chaîne Cuatro maintient une présence notable en troisième position grâce à son magazine d'information « Horizonte », qui capte 9.7% du public. Telecinco, bien que présente dans le top 5 avec « First Dates », semble peiner à retrouver l'audience de ses programmes phares comme « Supervivientes » la semaine précédente. La stratégie d'Antena 3, consistant à capitaliser sur un access puissant suivi de programmes fédérateurs, continue de structurer le paysage concurrentiel du prime time.",
@@ -130,7 +130,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Weet+Ik+Veel%22+RTL+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-04T16:02:14.243999Z",
+      "scraped_at": "2026-06-04T17:24:13.008663Z",
       "status": "partial",
       "error": null,
       "commentary": "La chaîne publique NPO 1 s'impose en tête du prime time ce 3 juin avec « De Oranjezomer en Wim Kieft bij Eva », attirant 832 000 téléspectateurs. Ce score place le programme loin devant RTL 4 et son jeu « Weet Ik Veel », qui réunit 380 000 personnes. Cette performance de NPO 1 marque une reprise de sa position de leader après que SBS 6 ait dominé les soirées précédentes avec « De Oranjezomer » le 2 juin (987 k). La semaine écoulée a vu NPO 1 occuper la première place du podium trois fois sur six, confirmant sa prédominance sur la case du prime time. La présence de « De Oranjezomer », déjà succès sur SBS 6 la veille, sur NPO 1 avec une légère variation de titre, suggère une stratégie de capitalisation sur des formats porteurs. La diffusion de ce programme de flux sur la chaîne publique contraste avec les jeux et séries habituellement présents dans le top hebdomadaire.",
@@ -210,7 +210,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Chiedimi+se+sono+felice%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-06-04T16:02:12.468030Z",
+      "scraped_at": "2026-06-04T17:24:11.333938Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match du prime time italien du 3 juin voit Rai 1 s'imposer nettement avec la diffusion d'un événement sportif, rassemblant 4 millions de téléspectateurs et captant 21,7% de part de marché. Cette performance contraste fortement avec les scores des jours précédents, où le leadership de Rai 1 s'établissait autour de 2,2 à 2,4 millions de fidèles. Canale 5, avec le film « Ticket to Paradise », se positionne en deuxième place avec 2,05 millions de spectateurs, un score similaire à celui de la veille mais inférieur à celui du 30 mai. La chaîne La7, avec son programme d'information « Una Giornata Particolare », réalise une audience de 1,25 million de téléspectateurs, consolidant sa présence dans la case face à des offres plus grand public. La stratégie de Rai 1 semble ici capitaliser sur un événement fédérateur pour maximiser son audience, tandis que Canale 5 maintient une offre de divertissement régulier.",
@@ -290,12 +290,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Harry_Potter_et_l%27Ordre_du_Ph%C3%A9nix_%28film%29"
         }
       ],
-      "scraped_at": "2026-06-04T16:02:03.512982Z",
+      "scraped_at": "2026-06-04T17:23:59.878807Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'affirme comme leader du prime time hebdomadaire, remportant quatre soirées sur les sept dernières disponibles, dont deux des quatre soirées présentées. La fiction « L'OR BLEU » enregistre 2,57 millions de téléspectateurs et 15.2% de part de marché le 3 juin, une performance stable par rapport à sa diffusion du 27 mai (2,50 M, 15.2%). Sur cette même journée, TF1 et M6 se disputent la deuxième place, avec « GREY'S ANATOMY \\ LE MEILLEUR MOMENT » (1,81 M, 10.7%) devant « TOP CHEF » (1,67 M, 9.9%). Cette configuration illustre la résilience des chaînes historiques face à la fragmentation de l'audience, bien que les succès ponctuels de la TNT, comme TMC avec « HARRY POTTER ET L'ORDRE DU PHOENIX » (793 k, 6.3%), démontrent leur capacité à capter des niches. La lutte pour le leadership du prime reste cependant vive, comme en témoigne le succès de « CHAMPIONS D'EUROPE » sur M6 le 30 mai avec 4,40 millions de téléspectateurs.",
       "commentary_date": "2026-06-03"
     }
   },
-  "last_updated": "2026-06-04T16:02:14.247354Z"
+  "last_updated": "2026-06-04T17:24:13.011457Z"
 }
