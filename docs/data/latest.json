@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Das+1%25+Quiz%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-05T12:18:34.401166Z",
+      "scraped_at": "2026-06-05T13:41:28.146739Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste (ARD), \"Tagesschau\", s'affirme comme le leader récurrent de la case du prime time, atteignant 4,46 millions de téléspectateurs et 22,5% de part de marché ce 4 juin. La fiction \"Der Zürich-Krimi\" sur une chaîne privée confirme sa capacité à rivaliser, rassemblant 4,09 millions de personnes, un score en nette hausse par rapport au 28 mai (3,58 millions). Cette performance met en lumière la stratégie des chaînes publiques qui, malgré la concurrence des formats de divertissement des privés, maintiennent une audience solide sur les programmes d'information et de fiction, notamment auprès des téléspectateurs plus âgés. Le \"heute journal\" du ZDF, bien que moins puissant, conserve une position significative avec 2,74 millions de téléspectateurs. Les programmes de divertissement des chaînes privées peinent à rivaliser avec les offres des diffuseurs publics dans cette case horaire.",
@@ -88,10 +88,76 @@
       "date": "2026-06-04",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-06-05T12:18:35.074174Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Futbol:Amistoso (España-Irak)",
+          "program_fr": null,
+          "viewers": 2830000,
+          "share": 24.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Raphael)",
+          "program_fr": null,
+          "viewers": 1456000,
+          "share": 11.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Raphael%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte:Avance",
+          "program_fr": null,
+          "viewers": 1198000,
+          "share": 9.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "Supervivientes",
+          "program_fr": "Koh-Lanta",
+          "viewers": 1060000,
+          "share": 17.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Supervivientes%22+Telecinco+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 697000,
+          "share": 5.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-05T13:41:29.890256Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Le match du prime time espagnol voit La 1 s'imposer ce jeudi 4 juin avec la retransmission d'un match de football amical, réunissant 2,83 millions de téléspectateurs, soit 24,3% de part de marché. Cette performance propulse la chaîne publique en tête, une position qu'elle n'occupe pas systématiquement, Antena 3 ayant été leader quatre soirs sur les sept derniers jours. La chaîne privée se classe deuxième avec son divertissement habituel « El Hormiguero », qui réunit 1,46 million de fidèles, une audience stable par rapport à la semaine précédente où le programme avait rassemblé 1,48 million de personnes. La troisième place est occupée par Cuatro et son magazine d'information « Horizonte:Avance », confirmant la bonne tenue de cette case sur la TNT thématique. Telecinco, malgré la présence de son programme phare « Supervivientes », ne dépasse pas le million de téléspectateurs, se classant quatrième en audience brute mais troisième en part de marché sur ce jour précis avec 17,5%. La stratégie de La 1, en misant sur l'événement sportif, lui permet de capter un public large et de perturber la lutte habituelle entre Antena 3 et Telecinco pour la domination du prime.",
       "commentary_date": "2026-06-04"
     },
@@ -117,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Survive+Your+Family%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-06-05T12:18:39.790408Z",
+      "scraped_at": "2026-06-05T13:41:35.847343Z",
       "status": "partial",
       "error": null,
       "commentary": "Le divertissement « Survive Your Family » sur SBS 6 enregistre 236 000 téléspectateurs, un chiffre modeste dans un marché néerlandais aux audiences fragmentées. Cette performance place SBS 6 en tête des programmes de prime time pour la soirée du 4 juin, une position inhabituelle au regard de l'historique récent où NPO 1 et RTL 4 dominent régulièrement. La semaine écoulée a vu NPO 1 s'imposer comme leader quatre soirées sur six, avec des scores avoisinant parfois les 900 000 téléspectateurs, notamment grâce à la diffusion de « De Oranjezomer ». La présence de ce même format sur RTL 4 et SBS 6 lors des jours précédents témoigne d'une stratégie de captation d'audience autour d'un programme fédérateur. La faible pénétration des programmes, même les plus suivis, suggère une concurrence intense pour capter des parts de marché significatives.",
@@ -197,7 +263,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Sarabanda+Celebrity%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-06-05T12:18:38.130095Z",
+      "scraped_at": "2026-06-05T13:41:33.973135Z",
       "status": "ok",
       "error": null,
       "commentary": "Rai 1 confirme sa position de leader du prime time sur la semaine, s'adjugeant cinq des sept soirées analysées. La chaîne publique enregistre une audience de 2,38 millions de téléspectateurs (15.3% PDM) avec le film « Diversi come due gocce d’acqua », un score inférieur aux pics atteints en début de semaine, notamment le 2 juin avec 2,48 millions de curieux pour un programme historique. La compétition pour la deuxième place du prime time reste vive entre Canale 5 et Rete 4 ; ce dernier, avec « Quarto Grado », parvient à se maintenir au-dessus du million de téléspectateurs (1,36 M, 11.5% PDM), une performance stable par rapport à ses scores récents. La stratégie de Rai 1 semble s'appuyer sur des soirées événementielles, comme le démontre le record du 3 juin avec le football, tandis que Canale 5 alterne fictions et divertissements, avec « Montmartre » attirant 1,62 million de fidèles. La fragmentation des audiences se confirme sur les chaînes secondaires, Rai 2 et Italia 1 réalisant des parts de marché inférieures à 7.5% sur leurs programmes de divertissement.",
@@ -277,12 +343,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/James_Norton"
         }
       ],
-      "scraped_at": "2026-06-05T12:18:27.911719Z",
+      "scraped_at": "2026-06-05T13:41:22.281093Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match de football amical diffusé par TF1 s'impose nettement en tête des audiences avec 5,20 millions de téléspectateurs et 31,1% de part de marché, une performance qui contraste avec les chiffres des jours précédents où la première chaîne n'avait pas dépassé les 2,79 millions de téléspectateurs. France 3, avec sa fiction \"Le Mort de la plage\", se positionne en deuxième chaîne avec 2,92 millions de curieux (16,5% PDM), une performance solide mais inférieure à ses meilleurs scores de la semaine. France 2, après avoir dominé le prime time lors de trois soirées de la semaine écoulée, se retrouve reléguée à la troisième place avec son magazine \"Envoyé Spécial\" qui réunit 1,23 million de téléspectateurs (7,2% PDM). La fiction de M6, \"Champagne\", peine à dépasser le million de téléspectateurs (1,05 M, 6,2% PDM), montrant une difficulté à capter une large audience face à l'offre sportive et aux fictions plus établies. La fragmentation de l'audience, accentuée par la TNT, rend ces performances d'autant plus significatives dans la lutte pour les premières places de la soirée.",
       "commentary_date": "2026-06-04"
     }
   },
-  "last_updated": "2026-06-05T12:18:39.793449Z"
+  "last_updated": "2026-06-05T13:41:35.850366Z"
 }
