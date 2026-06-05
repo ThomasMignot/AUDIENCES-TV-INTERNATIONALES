@@ -1,6 +1,86 @@
 {
   "date": "2026-06-04",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-04",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "FOOTBALL MATCH AMICAL \\ FRANCE - COTE D'IVOIRE",
+          "program_fr": null,
+          "viewers": 5203000,
+          "share": 31.1,
+          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_2018"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LE MORT DE LA PLAGE",
+          "program_fr": null,
+          "viewers": 2920000,
+          "share": 16.5,
+          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Mort_de_la_plage"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENVOYE SPECIAL",
+          "program_fr": null,
+          "viewers": 1234000,
+          "share": 7.2,
+          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Envoy%C3%A9_sp%C3%A9cial"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CHAMPAGNE",
+          "program_fr": null,
+          "viewers": 1049000,
+          "share": 6.2,
+          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Champagne"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "HAPPY VALLEY \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 577000,
+          "share": 3.1,
+          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/James_Norton"
+        }
+      ],
+      "scraped_at": "2026-06-05T10:56:05.472597Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le match de football amical diffusé par TF1 s'impose nettement en tête des audiences avec 5,20 millions de téléspectateurs et 31,1% de part de marché, une performance qui contraste avec les chiffres des jours précédents où la première chaîne n'avait pas dépassé les 2,79 millions de téléspectateurs. France 3, avec sa fiction \"Le Mort de la plage\", se positionne en deuxième chaîne avec 2,92 millions de curieux (16,5% PDM), une performance solide mais inférieure à ses meilleurs scores de la semaine. France 2, après avoir dominé le prime time lors de trois soirées de la semaine écoulée, se retrouve reléguée à la troisième place avec son magazine \"Envoyé Spécial\" qui réunit 1,23 million de téléspectateurs (7,2% PDM). La fiction de M6, \"Champagne\", peine à dépasser le million de téléspectateurs (1,05 M, 6,2% PDM), montrant une difficulté à capter une large audience face à l'offre sportive et aux fictions plus établies. La fragmentation de l'audience, accentuée par la TNT, rend ces performances d'autant plus significatives dans la lutte pour les premières places de la soirée.",
+      "commentary_date": "2026-06-04"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,34 +241,6 @@
       "commentary": "Le match du prime time espagnol voit La 1 s'imposer ce jeudi 4 juin avec la retransmission d'un match de football amical, réunissant 2,83 millions de téléspectateurs, soit 24,3% de part de marché. Cette performance propulse la chaîne publique en tête, une position qu'elle n'occupe pas systématiquement, Antena 3 ayant été leader quatre soirs sur les sept derniers jours. La chaîne privée se classe deuxième avec son divertissement habituel « El Hormiguero », qui réunit 1,46 million de fidèles, une audience stable par rapport à la semaine précédente où le programme avait rassemblé 1,48 million de personnes. La troisième place est occupée par Cuatro et son magazine d'information « Horizonte:Avance », confirmant la bonne tenue de cette case sur la TNT thématique. Telecinco, malgré la présence de son programme phare « Supervivientes », ne dépasse pas le million de téléspectateurs, se classant quatrième en audience brute mais troisième en part de marché sur ce jour précis avec 17,5%. La stratégie de La 1, en misant sur l'événement sportif, lui permet de capter un public large et de perturber la lutte habituelle entre Antena 3 et Telecinco pour la domination du prime.",
       "commentary_date": "2026-06-04"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-04",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "SBS 6",
-          "channel_color": "blue",
-          "program": "Survive Your Family",
-          "program_fr": null,
-          "viewers": 236000,
-          "share": 0.0,
-          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-gemist-kijkcijfers-dyantha-brooks-de-oranjezomer-sbs6-talkshow",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Survive+Your+Family%22+SBS+6+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-05T10:56:16.731008Z",
-      "status": "partial",
-      "error": null,
-      "commentary": "Le divertissement « Survive Your Family » sur SBS 6 enregistre 236 000 téléspectateurs, un chiffre modeste dans un marché néerlandais aux audiences fragmentées. Cette performance place SBS 6 en tête des programmes de prime time pour la soirée du 4 juin, une position inhabituelle au regard de l'historique récent où NPO 1 et RTL 4 dominent régulièrement. La semaine écoulée a vu NPO 1 s'imposer comme leader quatre soirées sur six, avec des scores avoisinant parfois les 900 000 téléspectateurs, notamment grâce à la diffusion de « De Oranjezomer ». La présence de ce même format sur RTL 4 et SBS 6 lors des jours précédents témoigne d'une stratégie de captation d'audience autour d'un programme fédérateur. La faible pénétration des programmes, même les plus suivis, suggère une concurrence intense pour capter des parts de marché significatives.",
-      "commentary_date": "2026-06-04"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -269,86 +321,34 @@
       "commentary": "Rai 1 confirme sa position de leader du prime time sur la semaine, s'adjugeant cinq des sept soirées analysées. La chaîne publique enregistre une audience de 2,38 millions de téléspectateurs (15.3% PDM) avec le film « Diversi come due gocce d’acqua », un score inférieur aux pics atteints en début de semaine, notamment le 2 juin avec 2,48 millions de curieux pour un programme historique. La compétition pour la deuxième place du prime time reste vive entre Canale 5 et Rete 4 ; ce dernier, avec « Quarto Grado », parvient à se maintenir au-dessus du million de téléspectateurs (1,36 M, 11.5% PDM), une performance stable par rapport à ses scores récents. La stratégie de Rai 1 semble s'appuyer sur des soirées événementielles, comme le démontre le record du 3 juin avec le football, tandis que Canale 5 alterne fictions et divertissements, avec « Montmartre » attirant 1,62 million de fidèles. La fragmentation des audiences se confirme sur les chaînes secondaires, Rai 2 et Italia 1 réalisant des parts de marché inférieures à 7.5% sur leurs programmes de divertissement.",
       "commentary_date": "2026-06-04"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-04",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [
         {
           "rank": 1,
-          "channel": "TF1",
+          "channel": "SBS 6",
           "channel_color": "blue",
-          "program": "FOOTBALL MATCH AMICAL \\ FRANCE - COTE D'IVOIRE",
+          "program": "Survive Your Family",
           "program_fr": null,
-          "viewers": 5203000,
-          "share": 31.1,
-          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_2018"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LE MORT DE LA PLAGE",
-          "program_fr": null,
-          "viewers": 2920000,
-          "share": 16.5,
-          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Mort_de_la_plage"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ENVOYE SPECIAL",
-          "program_fr": null,
-          "viewers": 1234000,
-          "share": 7.2,
-          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Envoy%C3%A9_sp%C3%A9cial"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CHAMPAGNE",
-          "program_fr": null,
-          "viewers": 1049000,
-          "share": 6.2,
-          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Champagne"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "HAPPY VALLEY \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 577000,
-          "share": 3.1,
-          "source_url": "https://www.ozap.com/actu/audiences-une-semaine-avant-le-debut-de-la-coupe-du-monde-le-match-amical-francecote-divoire-a-t-il-fait-le-plein-sur-tf1/655412",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/James_Norton"
+          "viewers": 236000,
+          "share": 0.0,
+          "source_url": "https://www.televizier.nl/kijkcijfers/de-tv-van-gisteren-gemist-kijkcijfers-dyantha-brooks-de-oranjezomer-sbs6-talkshow",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Survive+Your+Family%22+SBS+6+ratings"
         }
       ],
-      "scraped_at": "2026-06-05T10:56:05.472597Z",
-      "status": "ok",
+      "scraped_at": "2026-06-05T10:56:16.731008Z",
+      "status": "partial",
       "error": null,
-      "commentary": "Le match de football amical diffusé par TF1 s'impose nettement en tête des audiences avec 5,20 millions de téléspectateurs et 31,1% de part de marché, une performance qui contraste avec les chiffres des jours précédents où la première chaîne n'avait pas dépassé les 2,79 millions de téléspectateurs. France 3, avec sa fiction \"Le Mort de la plage\", se positionne en deuxième chaîne avec 2,92 millions de curieux (16,5% PDM), une performance solide mais inférieure à ses meilleurs scores de la semaine. France 2, après avoir dominé le prime time lors de trois soirées de la semaine écoulée, se retrouve reléguée à la troisième place avec son magazine \"Envoyé Spécial\" qui réunit 1,23 million de téléspectateurs (7,2% PDM). La fiction de M6, \"Champagne\", peine à dépasser le million de téléspectateurs (1,05 M, 6,2% PDM), montrant une difficulté à capter une large audience face à l'offre sportive et aux fictions plus établies. La fragmentation de l'audience, accentuée par la TNT, rend ces performances d'autant plus significatives dans la lutte pour les premières places de la soirée.",
+      "commentary": "Le divertissement « Survive Your Family » sur SBS 6 enregistre 236 000 téléspectateurs, un chiffre modeste dans un marché néerlandais aux audiences fragmentées. Cette performance place SBS 6 en tête des programmes de prime time pour la soirée du 4 juin, une position inhabituelle au regard de l'historique récent où NPO 1 et RTL 4 dominent régulièrement. La semaine écoulée a vu NPO 1 s'imposer comme leader quatre soirées sur six, avec des scores avoisinant parfois les 900 000 téléspectateurs, notamment grâce à la diffusion de « De Oranjezomer ». La présence de ce même format sur RTL 4 et SBS 6 lors des jours précédents témoigne d'une stratégie de captation d'audience autour d'un programme fédérateur. La faible pénétration des programmes, même les plus suivis, suggère une concurrence intense pour capter des parts de marché significatives.",
       "commentary_date": "2026-06-04"
     }
   },
-  "last_updated": "2026-06-05T10:56:16.734124Z"
+  "last_updated": "2026-06-05T10:56:30.587529Z"
 }
