@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 5,
@@ -72,10 +72,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Politbarometer%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Politbarometer"
         }
       ],
-      "scraped_at": "2026-06-06T10:58:36.067849Z",
+      "scraped_at": "2026-06-06T12:01:06.717220Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 5 juin, le prime time allemand voit une compétition serrée entre chaînes publiques et privées, avec des audiences remarquablement proches. La fiction « Der Alte » et le sport de qualification pour la Coupe du Monde féminine réalisent des performances similaires, dépassant les 3,8 millions de téléspectateurs, tandis que le divertissement satirique « heute-show » sur ZDF se distingue avec 3,81 millions et une part de marché significative de 22,6%. La prédominance de Das Erste sur la semaine, avec 6 soirées en tête du top 3, s'appuie sur son bulletin d'information « Tagesschau », qui enregistre 3,70 millions de téléspectateurs ce jour-là. Comparé aux chiffres exceptionnels du 31 mai (8,32 M pour le football), les audiences de ce 5 juin témoignent d'un retour à une configuration plus classique du marché, sans événement sportif fédérateur. La présence du programme politique « Politbarometer » en cinquième position, avec 2,71 millions de téléspectateurs, suggère une appétence du public pour les formats d'information et d'analyse, y compris en fin de soirée.",
@@ -100,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-junio-de-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         },
         {
           "rank": 2,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-06-06T10:58:37.182283Z",
+      "scraped_at": "2026-06-06T12:01:08.726203Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion du match de qualification pour le Mondial féminin sur La 1, avec 1,49 million de téléspectateurs et 16,1% de part de marché, positionne la chaîne publique en tête des audiences du prime time ce vendredi, une performance notable face à la concurrence privée. Antena 3, avec son divertissement hebdomadaire « Tu Cara Me Suena », enregistre 1,44 million de fidèles et une part de marché de 20,7%, confirmant sa puissance sur ce créneau malgré la présence du sport. Ce résultat pour La 1 contraste avec les données de la semaine précédente où la chaîne publique se situait en troisième position du top 3. La stratégie de contre-programmation de La 1, en proposant un événement sportif d'envergure, semble porter ses fruits face aux formats de divertissement habituels d'Antena 3 et Telecinco. Telecinco, avec « ¡De Viernes ! », se retrouve en quatrième position, un recul par rapport à ses scores des jours précédents. La soirée met en lumière la capacité du football féminin à mobiliser un public significatif et à perturber l'ordre établi du duopole Antena 3/Telecinco.",
@@ -196,7 +196,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%222+voor+12+domineert%22+NPO+1+ratings"
         }
       ],
-      "scraped_at": "2026-06-06T10:58:41.515151Z",
+      "scraped_at": "2026-06-06T12:01:13.709608Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 5 juin voit RTL 4 prendre la tête avec \"Stars on Stage né(e) in top 10\" et 598 000 téléspectateurs, devançant NPO 1 et son jeu \"2 voor 12\" qui rassemble 538 000 personnes. Cette inversion par rapport au début de semaine, où NPO 1 dominait souvent, souligne la volatilité des audiences sur ce marché néerlandais de 17 millions d'habitants. La semaine précédente, NPO 1 avait pourtant affiché une présence plus constante dans le trio de tête, enregistrant par exemple 810 000 spectateurs le 30 mai. La performance de RTL 4 ce soir contraste avec ses scores plus modestes des 2 et 3 juin, où \"Weet Ik Veel\" oscillait entre 616 000 et 380 000 téléspectateurs. L'enjeu pour les chaînes privées comme RTL 4 réside dans leur capacité à fidéliser un public sur des cases horaires concurrentes, face à la puissance de la chaîne publique NPO 1 et des chaînes du groupe Talpa comme SBS 6.",
@@ -276,7 +276,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Ore+14+Sera%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-06-06T10:58:39.910235Z",
+      "scraped_at": "2026-06-06T12:01:12.106948Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 5 juin voit Rai 1 conserver sa position de leader du prime time, mais avec une part d'audience de 14.9% pour « Campioni del Mondo – Italia loves Unesco », inférieure à la moyenne de la semaine (qui s'établit à 17.6% sur les 6 soirées où Rai 1 était en tête). La chaîne publique se positionne devant Canale 5, qui propose « L’Erede » à 13.2% de PDM, un score proche de celui du 29 mai (14.6%). La tension concurrentielle se manifeste dans la lutte pour la deuxième place, où Rete 4 avec « Quarto Grado » (9.8%) devance La7 et son programme politique « Propaganda Live » (7.3%). La performance de Rai 1 s'inscrit dans une stratégie de domination du prime, bien que les audiences de ce jour soient légèrement en retrait par rapport aux pics enregistrés, notamment le 3 juin avec le football. L'observation structurelle révèle une fidélité du public aux offres de divertissement et d'information de Rai 1 et Canale 5, avec des scores stables pour certains programmes comme « L'Erede ».",
@@ -356,12 +356,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-06-06T10:58:31.750325Z",
+      "scraped_at": "2026-06-06T12:01:03.467770Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'affirme en tête des soirées de la semaine avec deux victoires, dont celle du 5 juin avec la fiction \"Haute Saison\" qui rassemble 3,25 millions de téléspectateurs et 20,6% de part d'audience. Ce score positionne la chaîne publique en tête face à TF1 et sa marque \"Mask Singer\", qui enregistre 2,40 millions de curieux et 15,3% de PDA. La fiction de France 2 progresse ainsi par rapport à son épisode pilote diffusé le 29 mai, passant de 3,05 millions à 3,25 millions de fidèles. M6, avec son magazine \"Arnaques\", se maintient sous la barre des 10% de PDA, témoignant d'une difficulté à rivaliser avec les offres des deux principales chaînes généralistes dans cette case horaire. La fragmentation du paysage audiovisuel, accentuée par la TNT, continue de structurer les dynamiques d'audience, rendant les performances des chaînes historiques plus relatives.",
       "commentary_date": "2026-06-05"
     }
   },
-  "last_updated": "2026-06-06T10:58:41.518533Z"
+  "last_updated": "2026-06-06T12:01:13.712364Z"
 }
