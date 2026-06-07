@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22RTL+Fu%C3%9Fball%22+RTL+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2._Bundesliga"
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ein+starkes+Team%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ein_starkes_Team"
         },
         {
           "rank": 4,
@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 5,
@@ -72,10 +72,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Im+Netz+der+Gier%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Der_letzte_Zeuge"
         }
       ],
-      "scraped_at": "2026-06-07T15:43:16.769284Z",
+      "scraped_at": "2026-06-07T17:38:04.040898Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion d'une rencontre de football sur RTL a largement dominé le prime time du 6 juin, captant 8,90 millions de téléspectateurs et 43,2% de part de marché. Cette performance contraste fortement avec les journées précédentes où Das Erste s'imposait régulièrement, démontrant la puissance des événements sportifs en direct sur la consommation télévisuelle. Les chaînes publiques, Das Erste et ZDF, se retrouvent reléguées aux deuxième et quatrième rangs, leurs programmes d'information habituels attirant respectivement 3,86 millions et 2,07 millions de curieux. La semaine précédente, Das Erste avait mené le classement cinq soirs sur sept, soulignant la nature exceptionnelle de la domination de RTL ce jour-là. Le score de 3,03 millions de téléspectateurs pour \"Ein starkes Team\" sur une autre chaîne indique une capacité à capter une audience significative en dehors des deux grands diffuseurs généralistes.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+_xplica%2F.%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-06-07T15:43:18.543761Z",
+      "scraped_at": "2026-06-07T17:38:05.080822Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 6 juin, Antena 3 et La 1 se disputent le leadership du prime time, avec des scores très proches pour leurs programmes respectifs de divertissement et de religion. La chaîne publique, La 1, voit son offre religieuse attirer près d'un million de téléspectateurs, un chiffre en légère baisse par rapport à son \"Informe Semanal\" du 30 mai, mais supérieur à sa \"Pelicula de la Semana\" du 31 mai. La stratégie d'Antena 3, déjà leader sur la semaine, s'appuie sur le succès de \"La Voz Kids:Audiciones\", qui maintient une part de marché de 13.1%, stable par rapport à la semaine précédente. Telecinco, quant à elle, voit son divertissement \"Hay una Cosa Que Te Quiero Decir\" afficher une part de marché de 9.5%, en légère hausse par rapport au 30 mai, mais loin des performances de ses programmes phares comme \"Supervivientes\". La fragmentation des audiences se confirme avec des chaînes comme Cuatro et La Sexta qui se positionnent sur des niches avec des scores inférieurs à 7% de PDM.",
@@ -196,7 +196,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22The+House+of+Hide+%26+Seek+en+Beste+Kijkers%22+NPO+1+ratings"
         }
       ],
-      "scraped_at": "2026-06-07T15:43:33.071247Z",
+      "scraped_at": "2026-06-07T17:38:16.590321Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -276,7 +276,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99ultima+cena%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-07T15:43:22.540298Z",
+      "scraped_at": "2026-06-07T17:38:07.678380Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 6 juin voit Rai 1 s'affirmer en tête du prime time avec 2,40 millions de téléspectateurs pour son programme musical, dépassant ainsi Canale 5 et son divertissement « Ciao Darwin » (1,77 M). Cette performance confirme la domination de Rai 1 sur la case du prime time, la chaîne ayant été leader six soirs sur les sept derniers jours. La chaîne publique maintient une stratégie de programmes forts, souvent en tête du classement, tandis que Canale 5 peine à capitaliser sur son lead-in habituel, avec une part d'audience de 17.5% inférieure à celle de certains de ses récents succès. La7 et Rete 4 se positionnent en chaînes de niche, attirant des audiences plus modestes mais fidèles sur des formats d'information et de débat. Le score de Rai 1, bien que solide, reste en deçà de son pic de la semaine, atteint lors de la diffusion d'un événement sportif le 3 juin (4,00 M).",
@@ -314,7 +314,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-flop-pour-le-concert-2026-de-la-star-academy-sur-tf1/655368",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_15_de_The_Voice_%3A_La_Plus_Belle_Voix"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Tra%C3%AEtres"
         },
         {
           "rank": 3,
@@ -356,12 +356,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_23_de_NCIS_%3A_Enqu%C3%AAtes_sp%C3%A9ciales"
         }
       ],
-      "scraped_at": "2026-06-07T15:43:09.897400Z",
+      "scraped_at": "2026-06-07T17:37:58.254215Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose largement en tête des audiences de prime time ce samedi 6 juin avec la diffusion de « Meurtres en Balagne », attirant 4,24 millions de téléspectateurs et captant 28,7% de part de marché. Ce score place la fiction de la chaîne publique dans une position de leader, dépassant significativement les offres de ses concurrentes directes. La soirée de TF1, avec « Star Ac Tour 2026 », ne parvient pas à reproduire les succès récents de la chaîne, se contentant de 1,38 million de curieux et 9,5% de PDA, une performance notablement inférieure à celle enregistrée lors de la finale de « The Voice » le 30 mai dernier (1,85 M, 11,0%). France 2, avec son divertissement « Qui restera dans la lumière », réalise une audience honorable de 1,54 million de personnes (11,7% PDM), mais reste loin des performances de la veille avec la série « Haute Saison » (3,25 M, 20,6%). La stratégie de France 3 semble porter ses fruits en s'appuyant sur des fictions locales, un format qui a déjà démontré sa capacité à mobiliser un public fidèle sur cette case horaire. La fragmentation de l'audience, accentuée par la TNT, rend ces scores de France 3 d'autant plus remarquables dans le paysage audiovisuel actuel.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-07T15:43:33.074394Z"
+  "last_updated": "2026-06-07T17:38:16.593513Z"
 }
