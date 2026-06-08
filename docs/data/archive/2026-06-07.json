@@ -1,6 +1,86 @@
 {
   "date": "2026-06-07",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-07",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "CHASSE GARDEE",
+          "program_fr": null,
+          "viewers": 4429000,
+          "share": 26.3,
+          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Chasse_gard%C3%A9e_2"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "VANINA MEURTRES EN SICILE \\ LE MORT DE SANT AGATA",
+          "program_fr": null,
+          "viewers": 2222000,
+          "share": 13.3,
+          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Vanina+Meurtres+En+Sicile+%5C+Le+Mort+De+Sant+Agata%22+France+3+audiences&gl=fr"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MOURIR PEUT ATTENDRE",
+          "program_fr": null,
+          "viewers": 2084000,
+          "share": 14.0,
+          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mourir_peut_attendre"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAPITAL \\ PIZZA, TV ET MAILLOTS DE FOOT : ENQUETE",
+          "program_fr": null,
+          "viewers": 1232000,
+          "share": 7.6,
+          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/R%C3%A9mi_Gaillard"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LA FABRIQUE DU MENSONGE \\ BRIGITTE MACRON : L'OMBRE DE LA RUMEUR",
+          "program_fr": null,
+          "viewers": 896000,
+          "share": 5.1,
+          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brigitte_Macron"
+        }
+      ],
+      "scraped_at": "2026-06-08T12:11:53.471459Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de TF1, « Chasse gardée », s'impose ce vendredi soir avec 4,43 millions de téléspectateurs et 26,3% de part de marché, marquant un net regain pour la chaîne privée après plusieurs soirées plus modestes. Cette performance contraste avec celle de la semaine précédente, où le football avait captivé une audience bien plus large. France 3, avec sa collection de fictions policières, conserve une position solide en deuxième partie de soirée, réunissant 2,22 millions de personnes, tandis que France 2 peine à dépasser les 2 millions avec sa proposition cinématographique. La chaîne publique tente ainsi de se positionner face à l'offre de divertissement de TF1, sans toutefois atteindre le leadership. M6, avec un magazine d'information, se maintient sous la barre des 1,5 million de téléspectateurs, signe de la difficulté des formats documentaires à rivaliser avec la fiction ou les événements sportifs dans cette case horaire.",
+      "commentary_date": "2026-06-07"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "Ce 6 juin, Antena 3 et La 1 se disputent le leadership du prime time, avec des scores très proches pour leurs programmes respectifs de divertissement et de religion. La chaîne publique, La 1, voit son offre religieuse attirer près d'un million de téléspectateurs, un chiffre en légère baisse par rapport à son \"Informe Semanal\" du 30 mai, mais supérieur à sa \"Pelicula de la Semana\" du 31 mai. La stratégie d'Antena 3, déjà leader sur la semaine, s'appuie sur le succès de \"La Voz Kids:Audiciones\", qui maintient une part de marché de 13.1%, stable par rapport à la semaine précédente. Telecinco, quant à elle, voit son divertissement \"Hay una Cosa Que Te Quiero Decir\" afficher une part de marché de 9.5%, en légère hausse par rapport au 30 mai, mais loin des performances de ses programmes phares comme \"Supervivientes\". La fragmentation des audiences se confirme avec des chaînes comme Cuatro et La Sexta qui se positionnent sur des niches avec des scores inférieurs à 7% de PDM.",
       "commentary_date": "2026-06-06"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-07",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-08T12:12:03.717456Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "Le match de football diffusé sur Rai 1 ce 7 juin enregistre 3,73 millions de téléspectateurs, s'adjugeant 22,7% de part de marché, et confirme le leadership de la chaîne publique sur la case du prime time, qui avait déjà vu Rai 1 s'imposer les six soirées précédentes. Cette performance, bien que solide, reste légèrement inférieure à celle du 3 juin où le football avait attiré 4 millions de personnes (21,7% PDM). Canale 5, avec sa fiction « Racconto di una Notte », se positionne en deuxième force avec 1,85 million de téléspectateurs (14,9% PDM), un score en légère hausse par rapport à la moyenne de ses programmes de fiction de la semaine, mais insuffisant pour contester la domination de Rai 1. La fragmentation des audiences se poursuit sur les chaînes secondaires, avec Italia 1 et Rai 3 se disputant la troisième place, démontrant une difficulté structurelle à consolider un public large face au duopole Rai-Mediaset. Rete 4, avec « Guardia del corpo », peine à atteindre les 1 million de téléspectateurs, restant en retrait par rapport à ses concurrents directs.",
       "commentary_date": "2026-06-07"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-07",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CHASSE GARDEE",
-          "program_fr": null,
-          "viewers": 4429000,
-          "share": 26.3,
-          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Chasse_gard%C3%A9e_2"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "VANINA MEURTRES EN SICILE \\ LE MORT DE SANT AGATA",
-          "program_fr": null,
-          "viewers": 2222000,
-          "share": 13.3,
-          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Vanina+Meurtres+En+Sicile+%5C+Le+Mort+De+Sant+Agata%22+France+3+audiences&gl=fr"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "MOURIR PEUT ATTENDRE",
-          "program_fr": null,
-          "viewers": 2084000,
-          "share": 14.0,
-          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mourir_peut_attendre"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAPITAL \\ PIZZA, TV ET MAILLOTS DE FOOT : ENQUETE",
-          "program_fr": null,
-          "viewers": 1232000,
-          "share": 7.6,
-          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/R%C3%A9mi_Gaillard"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "LA FABRIQUE DU MENSONGE \\ BRIGITTE MACRON : L'OMBRE DE LA RUMEUR",
-          "program_fr": null,
-          "viewers": 896000,
-          "share": 5.1,
-          "source_url": "https://www.ozap.com/actu/audiences-lultime-james-bond-avec-daniel-craig-a-t-il-fait-de-lombre-a-chasse-gardee-diffuse-pour-la-premiere-fois-a-la-television/655429",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brigitte_Macron"
-        }
-      ],
-      "scraped_at": "2026-06-08T12:11:53.471459Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de TF1, « Chasse gardée », s'impose ce vendredi soir avec 4,43 millions de téléspectateurs et 26,3% de part de marché, marquant un net regain pour la chaîne privée après plusieurs soirées plus modestes. Cette performance contraste avec celle de la semaine précédente, où le football avait captivé une audience bien plus large. France 3, avec sa collection de fictions policières, conserve une position solide en deuxième partie de soirée, réunissant 2,22 millions de personnes, tandis que France 2 peine à dépasser les 2 millions avec sa proposition cinématographique. La chaîne publique tente ainsi de se positionner face à l'offre de divertissement de TF1, sans toutefois atteindre le leadership. M6, avec un magazine d'information, se maintient sous la barre des 1,5 million de téléspectateurs, signe de la difficulté des formats documentaires à rivaliser avec la fiction ou les événements sportifs dans cette case horaire.",
-      "commentary_date": "2026-06-07"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-08T12:12:03.717456Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-08T12:12:03.719639Z"
+  "last_updated": "2026-06-08T12:12:12.476753Z"
 }
