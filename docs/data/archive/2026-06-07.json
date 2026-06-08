@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Brigitte_Macron"
         }
       ],
-      "scraped_at": "2026-06-08T17:29:37.922113Z",
+      "scraped_at": "2026-06-08T18:32:28.883652Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de TF1, « Chasse gardée », s'impose ce vendredi soir avec 4,43 millions de téléspectateurs et 26,3% de part de marché, marquant un net regain pour la chaîne privée après plusieurs soirées plus modestes. Cette performance contraste avec celle de la semaine précédente, où le football avait captivé une audience bien plus large. France 3, avec sa collection de fictions policières, conserve une position solide en deuxième partie de soirée, réunissant 2,22 millions de personnes, tandis que France 2 peine à dépasser les 2 millions avec sa proposition cinématographique. La chaîne publique tente ainsi de se positionner face à l'offre de divertissement de TF1, sans toutefois atteindre le leadership. M6, avec un magazine d'information, se maintient sous la barre des 1,5 million de téléspectateurs, signe de la difficulté des formats documentaires à rivaliser avec la fiction ou les événements sportifs dans cette case horaire.",
@@ -88,10 +88,76 @@
       "date": "2026-06-07",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-06-08T17:30:11.347583Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f4d09b5f5d0>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4780000,
+          "share": 21.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal / Wetter",
+          "program_fr": null,
+          "viewers": 3699000,
+          "share": 19.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Kommissar Beck",
+          "program_fr": null,
+          "viewers": 1773000,
+          "share": 13.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Kommissar+Beck%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "The Expendables 4",
+          "program_fr": null,
+          "viewers": 1482000,
+          "share": 6.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22The+Expendables+4%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Gladiator II",
+          "program_fr": null,
+          "viewers": 1167000,
+          "share": 6.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Gladiator+II%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-08T18:32:34.079237Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Le 7 juin, les chaînes publiques allemandes confirment leur position dominante en tête des audiences du prime time, avec \"Tagesschau\" sur Das Erste captant 21.4% de part de marché. Le journal du soir de ZDF suit avec 19.3%, une performance solide qui contraste avec le lead-in du dimanche 31 mai où les deux programmes avaient dépassé les 28% de PDM, dans le cadre d'une offre sportive exceptionnelle. La fiction, représentée ici par \"Kommissar Beck\", peine à rivaliser, atteignant 13.4% de PDM, loin derrière les journaux d'information. Cette configuration du 7 juin illustre la prédominance des formats d'information sur les chaînes généralistes face aux offres de divertissement ou de cinéma sur les autres diffuseurs. La compétition pour la première place du prime time reste largement acquise à Das Erste, qui a mené quatre soirées sur les sept derniers jours.",
       "commentary_date": "2026-06-07"
     },
@@ -114,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-junio-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Paulina_D%C3%A1vila"
+          "wikipedia_url": "https://www.google.com/search?q=%22Pelicula+de+la+Semana+%28la+Trampa%282024%29%29%22+La+1+ratings"
         },
         {
           "rank": 2,
@@ -127,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-junio-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Supervivientes"
+          "wikipedia_url": "https://www.google.com/search?q=%22Supervivientes%22+Telecinco+ratings"
         },
         {
           "rank": 3,
@@ -140,7 +206,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-junio-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/2005_in_Spanish_television"
+          "wikipedia_url": "https://www.google.com/search?q=%22Anatomia+de%E2%80%A6+%28Homo+Zapping%22+La+Sexta+ratings"
         },
         {
           "rank": 4,
@@ -153,7 +219,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-junio-2026/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Ver%C3%B3nica_Echegui"
+          "wikipedia_url": "https://www.google.com/search?q=%22Una+Nueva+Vida%22+Antena+3+ratings"
         },
         {
           "rank": 5,
@@ -166,10 +232,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-junio-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Cuarto_milenio"
+          "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-06-08T17:30:15.247004Z",
+      "scraped_at": "2026-06-08T18:32:35.749601Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 7 juin voit La 1 s'imposer en tête du prime avec 1,41 million de téléspectateurs grâce à sa \"Pelicula de la Semana\", un score en hausse par rapport à la diffusion du 31 mai (976 000). La chaîne publique confirme ainsi sa dynamique ascendante observée depuis 2023 face au duopole historique Telecinco et Antena 3. Telecinco, avec son divertissement \"Supervivientes: Conexión Honduras\", se positionne en deuxième place, mais enregistre une légère érosion par rapport à sa performance du 31 mai (979 000). Antena 3, leader de la semaine selon les données fournies, voit sa fiction \"Una Nueva Vida\" se classer quatrième, sous les performances habituelles de ses programmes phares comme \"El Hormiguero\" ou \"Tu Cara Me Suena\". La Sexta et Cuatro ferment ce classement, reflétant une fragmentation des audiences sur les chaînes secondaires.",
@@ -194,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-7-giugno-2026",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Calcio"
+          "wikipedia_url": "https://www.google.com/search?q=%22Calcio%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -249,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Guardia+del+corpo%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-08T17:30:18.988054Z",
+      "scraped_at": "2026-06-08T18:32:39.751285Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match de football diffusé sur Rai 1 ce 7 juin enregistre 3,73 millions de téléspectateurs, s'adjugeant 22,7% de part de marché, et confirme le leadership de la chaîne publique sur la case du prime time, qui avait déjà vu Rai 1 s'imposer les six soirées précédentes. Cette performance, bien que solide, reste légèrement inférieure à celle du 3 juin où le football avait attiré 4 millions de personnes (21,7% PDM). Canale 5, avec sa fiction « Racconto di una Notte », se positionne en deuxième force avec 1,85 million de téléspectateurs (14,9% PDM), un score en légère hausse par rapport à la moyenne de ses programmes de fiction de la semaine, mais insuffisant pour contester la domination de Rai 1. La fragmentation des audiences se poursuit sur les chaînes secondaires, avec Italia 1 et Rai 3 se disputant la troisième place, démontrant une difficulté structurelle à consolider un public large face au duopole Rai-Mediaset. Rete 4, avec « Guardia del corpo », peine à atteindre les 1 million de téléspectateurs, restant en retrait par rapport à ses concurrents directs.",
@@ -263,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-08T17:30:20.096415Z",
+      "scraped_at": "2026-06-08T18:32:43.064292Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-08T17:30:20.098152Z"
+  "last_updated": "2026-06-08T18:32:43.065625Z"
 }
