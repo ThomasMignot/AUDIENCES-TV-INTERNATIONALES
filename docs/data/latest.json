@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Spielfeld+der+Macht%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-09T15:41:50.097522Z",
+      "scraped_at": "2026-06-09T16:48:55.225462Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 8 juin, la première chaîne publique, Das Erste, voit son journal \"Tagesschau\" se classer deuxième avec 3,82 millions de téléspectateurs et 20,3% de part de marché, une performance légèrement inférieure à sa moyenne de la semaine. Le programme leader de la soirée, \"Die Polizistin und die Sprache des\" sur une autre chaîne, réalise une audience significative de 4,24 millions de téléspectateurs, s'adjugeant 20,7% de PDA. Le \"heute journal\" du ZDF se positionne en troisième place avec 3,65 millions de fidèles et 19,3% de part d'audience, une stabilité notable par rapport aux jours précédents. La chaîne privée RTL, avec \"Bauer sucht Frau International\", se contente de la quatrième position avec 2,70 millions de spectateurs et 13,8% de PDA, marquant une différence notable avec le match de football qui avait dominé la soirée du 6 juin, attirant alors 8,90 millions de téléspectateurs. Cette configuration illustre la prédominance des offres d'information des chaînes publiques en début de semaine, face à des programmes de divertissement privés qui peinent à égaler ces scores.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-06-09T15:41:52.350327Z",
+      "scraped_at": "2026-06-09T16:48:56.941933Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa position de leader du prime time sur la semaine, s'adjugeant deux des quatre soirées pour lesquelles un historique est fourni. Le divertissement \"El Hormiguero\" enregistre ce lundi 8 juin 1,45 million de téléspectateurs, une audience en retrait par rapport à la semaine précédente où il rassemblait 1,68 million de personnes. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième force avec 1,37 million de spectateurs, montrant une certaine stabilité par rapport à son score du 1er juin. La contre-programmation de Telecinco avec \"La Isla de las Tentaciones\" semble moins efficace ce soir, le programme n'atteignant que 926 000 téléspectateurs, là où \"Supervivientes: Conexion Honduras\" avait capté 941 000 curieux la veille. La chaîne d'information en continu Cuatro, avec \"Horizonte\", parvient à se hisser en troisième position, signe d'une appétence du public pour ce format d'information en prime.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-09T15:41:59.066016Z",
+      "scraped_at": "2026-06-09T16:49:03.558946Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-8-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Le+Verit%C3%A0+Nascoste%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Eugenio_Mastrandrea"
         },
         {
           "rank": 4,
@@ -233,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-8-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Hunter%E2%80%99s+Prayer%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hunter%27s_Prayer"
         },
         {
           "rank": 5,
@@ -246,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-8-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Propaganda+Live%22+La7+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Propaganda_Live"
         }
       ],
-      "scraped_at": "2026-06-09T15:41:57.037471Z",
+      "scraped_at": "2026-06-09T16:49:02.434159Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 8 juin, Canale 5 creuse l'écart en tête du prime time avec « Super Karaoke », qui rassemble 2,18 millions de téléspectateurs et 19,1% de part de marché, dépassant ainsi Rai 1 et son programme « Tutti tranne te » (2,42 M, 15.8%). Cette performance de la chaîne du groupe Mediaset contraste avec les soirées précédentes où Rai 1, leader historique, s'imposait systématiquement. La chaîne publique avait pourtant atteint 2,48 millions de téléspectateurs le 2 juin avec un documentaire, et 2,40 millions le 6 juin avec un portrait musical. La chaîne La7, positionnée sur un créneau plus politique et d'information, voit son émission « Propaganda Live » attirer 777 000 curieux, une audience en retrait par rapport à « DiMartedì » (1,32 M) le 2 juin. La stratégie de Canale 5 semble porter ses fruits en divertissement face à une offre de fiction et de documentaires plus classique sur Rai 1.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Bernadette_Chirac"
         }
       ],
-      "scraped_at": "2026-06-09T15:41:41.661956Z",
+      "scraped_at": "2026-06-09T16:48:48.053091Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 8 juin, France 2 et France 3 se disputent la tête du prime time, avec des fictions totalisant respectivement 2,14 millions de téléspectateurs (11,2% de part de marché) et 2,08 millions (11,3% PDM). Cette performance des chaînes publiques contraste avec les soirées précédentes où TF1 dominait largement, notamment grâce à des événements sportifs ou des programmes d'envergure comme \"Koh-Lanta\" ou \"Mask Singer\". M6, avec \"Mariés au premier regard\", se positionne en troisième force avec 1,67 million de curieux (8,7% PDM), une audience stable par rapport à ses résultats récents mais loin des scores de ses concurrentes directes. Arte et France 5 ferment ce classement, témoignant de la fragmentation de l'audience, accentuée par la présence de la TNT. La stratégie de programmation des chaînes publiques semble porter ses fruits sur ce créneau, attirant un public fidèle à la fiction.",
       "commentary_date": "2026-06-08"
     }
   },
-  "last_updated": "2026-06-09T15:41:59.068275Z"
+  "last_updated": "2026-06-09T16:49:03.560837Z"
 }
