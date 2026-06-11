@@ -1,6 +1,86 @@
 {
   "date": "2026-06-10",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-10",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "L'OR BLEU",
+          "program_fr": null,
+          "viewers": 2447000,
+          "share": 14.0,
+          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Or_bleu_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 2,
+          "channel": "W9",
+          "channel_color": "pink",
+          "program": "LE PRIME DES VERITES \\ ON REFAIT L'ANNEE",
+          "program_fr": null,
+          "viewers": 1952000,
+          "share": 11.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2026_%C3%A0_la_t%C3%A9l%C3%A9vision"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "GREY'S ANATOMY \\ ENTRE DEUX FEUX",
+          "program_fr": "Grey's Anatomy",
+          "viewers": 1910000,
+          "share": 11.0,
+          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "DES RACINES ET DES AILES \\ EN ESPAGNE, AUX CONFINS DE L'ANDALOUSIE",
+          "program_fr": null,
+          "viewers": 1792000,
+          "share": 11.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9missions_de_Des_racines_et_des_ailes"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "TOP CHEF \\ LA FINALE",
+          "program_fr": null,
+          "viewers": 1361000,
+          "share": 7.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
+        }
+      ],
+      "scraped_at": "2026-06-11T11:51:51.819519Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 reprend la tête des audiences du prime time ce 10 juin avec sa fiction \"L'Or Bleu\", attirant 2,45 millions de téléspectateurs et 14,0% de part d'audience. Cette performance est inférieure de 0,12 million de spectateurs et de 1,2 point de PDM par rapport à la diffusion du même programme le 3 juin. La chaîne publique se positionne devant W9 et TF1, dont les offres respectives, \"Le Prime des Vérités\" et \"Grey's Anatomy\", réalisent des scores proches de 1,9 million de curieux. La finale de \"Top Chef\" sur M6, avec 1,36 million de fidèles, confirme la difficulté de la chaîne à s'imposer face aux offres de flux et de fiction des généralistes et de certaines chaînes de la TNT. La stratégie de France 2 de programmer des fictions françaises semble porter ses fruits, bien que les scores fluctuent, contrastant avec les performances ponctuelles des chaînes privées sur des événements sportifs ou des formats de divertissement plus fédérateurs.",
+      "commentary_date": "2026-06-10"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Antena 3 reprend la tête du classement des audiences du prime time ce 10 juin avec \"El Hormiguero\", attirant 1,50 million de téléspectateurs, soit une légère progression par rapport à sa performance du 9 juin (1,46 million). La chaîne publique La 1, qui avait mené le classement lors de deux soirées de la semaine écoulée, se positionne en deuxième place avec \"La Revuelta\", rassemblant 1,18 million de curieux. La compétition s'intensifie dans la case du divertissement, où Telecinco et Cuatro se retrouvent au coude-à-coude avec \"First Dates\" et \"Horizonte\" respectivement, affichant des scores très proches d'un million de téléspectateurs. La Sexta, avec \"El Intermedio\", ferme ce top 5, confirmant la difficulté des chaînes d'information à rivaliser avec les programmes de flux dans cette case horaire. La dominance de \"El Hormiguero\" en access, déjà établie, semble confirmer sa capacité à générer un lead-in solide pour la programmation principale d'Antena 3.",
       "commentary_date": "2026-06-10"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-10",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-11T11:52:10.352466Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "La soirée du 10 juin voit Canale 5 s'imposer en tête du prime time avec « Super Karaoke », réunissant 2,09 millions de téléspectateurs et 19,6% de part de marché. Ce score place la chaîne privée devant Rai 1, qui proposait le documentaire « Dino Zoff » et obtenait 1,55 million de personnes (10,6% PDM). Cette performance de Canale 5 est supérieure à celle de la veille (1,87 M, 14,4%) et marque un net recul pour Rai 1 par rapport à son score du 9 juin (2,14 M, 14,1%). La troisième place revient à Rai 3 avec « Chi l’ha Visto? » et 1,27 million de téléspectateurs (9,3% PDM). On observe une lutte pour la première place entre les deux grands groupes, Rai et Mediaset, avec une stratégie de divertissement et de programmes plus légers sur Canale 5 qui semble porter ses fruits ce soir-là.",
       "commentary_date": "2026-06-10"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-10",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "L'OR BLEU",
-          "program_fr": null,
-          "viewers": 2447000,
-          "share": 14.0,
-          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Or_bleu_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 2,
-          "channel": "W9",
-          "channel_color": "pink",
-          "program": "LE PRIME DES VERITES \\ ON REFAIT L'ANNEE",
-          "program_fr": null,
-          "viewers": 1952000,
-          "share": 11.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2026_%C3%A0_la_t%C3%A9l%C3%A9vision"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "GREY'S ANATOMY \\ ENTRE DEUX FEUX",
-          "program_fr": "Grey's Anatomy",
-          "viewers": 1910000,
-          "share": 11.0,
-          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_22_de_Grey%27s_Anatomy"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "DES RACINES ET DES AILES \\ EN ESPAGNE, AUX CONFINS DE L'ANDALOUSIE",
-          "program_fr": null,
-          "viewers": 1792000,
-          "share": 11.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9missions_de_Des_racines_et_des_ailes"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "TOP CHEF \\ LA FINALE",
-          "program_fr": null,
-          "viewers": 1361000,
-          "share": 7.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-final-de-lor-bleu-leader-sur-france-2-cyril-hanouna-finit-sa-saison-en-beaute-sur-w9-en-battant-tf1-et-m6/655510",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Top_Chef"
-        }
-      ],
-      "scraped_at": "2026-06-11T11:51:51.819519Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 reprend la tête des audiences du prime time ce 10 juin avec sa fiction \"L'Or Bleu\", attirant 2,45 millions de téléspectateurs et 14,0% de part d'audience. Cette performance est inférieure de 0,12 million de spectateurs et de 1,2 point de PDM par rapport à la diffusion du même programme le 3 juin. La chaîne publique se positionne devant W9 et TF1, dont les offres respectives, \"Le Prime des Vérités\" et \"Grey's Anatomy\", réalisent des scores proches de 1,9 million de curieux. La finale de \"Top Chef\" sur M6, avec 1,36 million de fidèles, confirme la difficulté de la chaîne à s'imposer face aux offres de flux et de fiction des généralistes et de certaines chaînes de la TNT. La stratégie de France 2 de programmer des fictions françaises semble porter ses fruits, bien que les scores fluctuent, contrastant avec les performances ponctuelles des chaînes privées sur des événements sportifs ou des formats de divertissement plus fédérateurs.",
-      "commentary_date": "2026-06-10"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-11T11:52:10.352466Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-11T11:52:10.354908Z"
+  "last_updated": "2026-06-11T11:52:22.110891Z"
 }
