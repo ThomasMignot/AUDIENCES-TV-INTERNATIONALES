@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/N%C3%A9ron"
         }
       ],
-      "scraped_at": "2026-06-12T12:28:09.389088Z",
+      "scraped_at": "2026-06-12T13:49:49.245785Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match de football de la Coupe du Monde sur M6 s'impose ce jeudi soir avec 4,88 millions de téléspectateurs et 28,5% de part d'audience, une performance qui contraste avec la moyenne hebdomadaire des grandes chaînes. La fiction de France 3, « Le Canal des secrets », parvient à se positionner en deuxième position avec 3,26 millions de curieux, distançant nettement la diffusion de « Dirty Dancing » sur TF1 qui n'atteint que 1,75 million de personnes. Cette soirée voit donc une réorganisation des forces habituelles, TF1, leader du prime sur la semaine écoulée avec trois soirées en tête, se retrouvant ici en troisième position. Le programme d'information « Envoyé Spécial » sur France 2 enregistre 955 000 téléspectateurs, un chiffre inférieur à celui de la semaine précédente (1,23 M le 4 juin). La fragmentation de l'audience, accentuée par la TNT, semble moins déterminante face à un événement sportif d'envergure, mais la stratégie de contre-programmation des chaînes publiques peine à rivaliser avec ce type de rendez-vous.",
@@ -88,10 +88,63 @@
       "date": "2026-06-11",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-06-12T12:28:42.754564Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f765493b890>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal / Wetter",
+          "program_fr": null,
+          "viewers": 10487000,
+          "share": 46.8,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4710000,
+          "share": 22.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Der Wien-Krimi: Blind ermittelt - T",
+          "program_fr": null,
+          "viewers": 4010000,
+          "share": 17.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Der+Wien-Krimi%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Harter Brocken: Der Geheimcode",
+          "program_fr": null,
+          "viewers": 2186000,
+          "share": 11.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Harter+Brocken%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-12T13:49:53.216633Z",
+      "status": "partial",
+      "error": null,
       "commentary": "Le journal du soir de ZDF s'impose ce jeudi 11 juin avec 10,49 millions de téléspectateurs et une part de marché de 46,8 %, écrasant la concurrence. Ce score contraste fortement avec la moyenne des journaux de ZDF observée ces derniers jours, qui se situaient autour de 3,7 millions de curieux. Le format d'information de la chaîne publique confirme sa domination sur le public senior, un schéma classique face aux offres des chaînes privées. La fiction proposée par une autre chaîne, avec 4,01 millions de fidèles, se positionne comme la principale alternative, bien que loin derrière le leader. La stratégie de contre-programmation semble moins efficace cette semaine, ZDF captant une large part de l'audience en début de soirée.",
       "commentary_date": "2026-06-11"
     },
@@ -169,7 +222,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-06-12T12:28:44.375210Z",
+      "scraped_at": "2026-06-12T13:49:54.189494Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion d'une \"Previa\" de la Coupe du Monde de football sur La 1 a largement dominé la soirée du 11 juin, captant 3,35 millions de téléspectateurs et 28,0% de part de marché. Ce score place la chaîne publique en tête des audiences, une position qu'elle avait déjà occupée ponctuellement avec des événements sportifs, comme le 5 juin avec une précédente \"Previa\" atteignant 1,49 million de fidèles. La compétition habituelle entre Antena 3 et Telecinco se retrouve reléguée au second plan par ce leadership du sport, \"El Hormiguero\" et \"Supervivientes\" réunissant respectivement 1,23 million (9,9% PDM) et 1,14 million (18,3% PDM). Cette performance confirme la capacité du football à mobiliser un large public, dépassant les performances habituelles du divertissement en access ou en prime time. La stratégie de La 1 de miser sur les grands événements sportifs semble porter ses fruits face aux programmes structurants des chaînes privées.",
@@ -207,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-11-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Montmartre%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Montmartre"
         },
         {
           "rank": 3,
@@ -249,7 +302,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Piazzapulita%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-06-12T12:28:47.475094Z",
+      "scraped_at": "2026-06-12T13:49:56.923850Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 11 juin 2026 confirme la domination de Rai 1 sur la case du prime time, avec 4,76 millions de téléspectateurs et 27,1% de part de marché grâce à la diffusion des « Mondiali 2026 ». Ce score est nettement supérieur aux programmes diffusés la semaine précédente, qui oscillaient entre 1,55 et 3,73 millions de téléspectateurs sur la même chaîne. La stratégie de Rai 1 semble axée sur la captation d'un large public via des événements sportifs d'envergure, assurant ainsi un lead-in conséquent. En face, Canale 5 avec « Montmartre » peine à rivaliser, réunissant 1,33 million de téléspectateurs, soit une baisse par rapport à ses émissions de divertissement de la semaine passée qui atteignaient parfois près de 2 millions de curieux. La chaîne privée de Mediaset semble chercher une formule pour contrer la puissance de Rai 1, en alternant fiction et divertissement, mais sans parvenir à inverser la tendance structurelle. La7, positionnée sur l'information et le débat politique, reste sur une niche avec « Piazzapulita », affichant 863 000 téléspectateurs.",
@@ -263,12 +316,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-12T12:28:49.152493Z",
+      "scraped_at": "2026-06-12T13:49:57.938748Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-12T12:28:49.153822Z"
+  "last_updated": "2026-06-12T13:49:57.940149Z"
 }
