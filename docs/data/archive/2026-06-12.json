@@ -1,6 +1,86 @@
 {
   "date": "2026-06-12",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-12",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "COUPE DU MONDE DE FOOTBALL : CANADA - BOSNIE-HERZEGOVINE",
+          "program_fr": null,
+          "viewers": 3270000,
+          "share": 20.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "HAUTE SAISON",
+          "program_fr": null,
+          "viewers": 2953000,
+          "share": 17.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Haute_Saison"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MASK SINGER : SPÉCIALE SUPER HÉROS",
+          "program_fr": null,
+          "viewers": 2025000,
+          "share": 12.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mask_Singer"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "AFFAIRE CONCLUE : OBJETS MYSTÈRES, SUR LES TRACES DE LÉONARD DE VINCI",
+          "program_fr": null,
+          "viewers": 946000,
+          "share": 6.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Affaire_conclue"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LA LEÇON DE PIANO",
+          "program_fr": null,
+          "viewers": 688000,
+          "share": 4.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Le%C3%A7on_de_piano_%28film%29"
+        }
+      ],
+      "scraped_at": "2026-06-13T10:09:49.734750Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La rencontre de football opposant le Canada à la Bosnie-Herzégovine sur M6 s'impose en tête des audiences de prime time avec 3,27 millions de téléspectateurs et 20,7% de part de marché. Ce score place la chaîne privée en tête, une position qu'elle n'avait pas occupée depuis le 11 juin avec une autre rencontre de Coupe du Monde. France 2, avec sa fiction \"Haute Saison\", se maintient en deuxième position, réalisant une performance stable par rapport à la semaine précédente, avec 2,95 millions de téléspectateurs et 17,8% de PDA. TF1 voit son divertissement \"Mask Singer\" reculer significativement par rapport à ses scores récents, rassemblant 2,02 millions de curieux (12,4% PDM), loin de ses pics de la semaine. La stratégie de M6 de programmer du sport en direct semble porter ses fruits face aux offres de fictions et de divertissements des concurrentes généralistes.",
+      "commentary_date": "2026-06-12"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La diffusion d'une pré-compétition de football sur La 1, totalisant 2,15 millions de téléspectateurs et 22,5% de part de marché, s'impose en tête des audiences du prime time du 12 juin. Ce score de la chaîne publique espagnole surpasse significativement celui du match de qualification féminin du 5 juin (1,49 million, 16,1%), illustrant l'attrait des compétitions majeures. Antena 3, avec \"Tu Cara Me Suena\", se positionne en deuxième place avec 1,30 million de fidèles et 19,1% de PDA, une performance stable par rapport à la semaine précédente où le programme avait rassemblé 1,44 million de téléspectateurs. La stratégie de contre-programmation de La 1, en choisissant un événement sportif majeur, semble avoir eu un impact sur les autres chaînes généralistes, dont Telecinco et Cuatro, qui enregistrent des audiences plus modestes. La fragmentation des audiences se confirme, avec des programmes de divertissement et de société peinant à atteindre le million de téléspectateurs face à l'événement sportif.",
       "commentary_date": "2026-06-12"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-12",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-13T10:09:59.737244Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 le 12 juin confirme la domination de la chaîne publique sur la case du prime time, avec 4,10 millions de téléspectateurs et 24,8% de part de marché. Ce score, bien qu'inférieur à celui du 11 juin (4,76 M, 27,1%), maintient Rai 1 loin devant ses concurrents directs du duopole Rai-Mediaset. Canale 5, avec « L’Erede », se positionne en deuxième chaîne privée la plus regardée mais reste à plus de 2,8 millions de téléspectateurs de distance. La stratégie de Rai 1 semble s'appuyer sur des événements sportifs fédérateurs pour capter une large audience, tandis que Canale 5 peine à trouver un lead-in suffisamment puissant pour ses programmes de divertissement face à cette offre. Rete 4 et La7 se partagent les audiences de niche, avec des scores respectifs de 11,0% et 6,9% de part de marché.",
       "commentary_date": "2026-06-12"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-12",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE FOOTBALL : CANADA - BOSNIE-HERZEGOVINE",
-          "program_fr": null,
-          "viewers": 3270000,
-          "share": 20.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "HAUTE SAISON",
-          "program_fr": null,
-          "viewers": 2953000,
-          "share": 17.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Haute_Saison"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MASK SINGER : SPÉCIALE SUPER HÉROS",
-          "program_fr": null,
-          "viewers": 2025000,
-          "share": 12.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mask_Singer"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "AFFAIRE CONCLUE : OBJETS MYSTÈRES, SUR LES TRACES DE LÉONARD DE VINCI",
-          "program_fr": null,
-          "viewers": 946000,
-          "share": 6.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Affaire_conclue"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "LA LEÇON DE PIANO",
-          "program_fr": null,
-          "viewers": 688000,
-          "share": 4.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-final-de-la-saison-de-la-serie-haute-saison-face-a-canada-bosnie-herzegovine/655448",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Le%C3%A7on_de_piano_%28film%29"
-        }
-      ],
-      "scraped_at": "2026-06-13T10:09:49.734750Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La rencontre de football opposant le Canada à la Bosnie-Herzégovine sur M6 s'impose en tête des audiences de prime time avec 3,27 millions de téléspectateurs et 20,7% de part de marché. Ce score place la chaîne privée en tête, une position qu'elle n'avait pas occupée depuis le 11 juin avec une autre rencontre de Coupe du Monde. France 2, avec sa fiction \"Haute Saison\", se maintient en deuxième position, réalisant une performance stable par rapport à la semaine précédente, avec 2,95 millions de téléspectateurs et 17,8% de PDA. TF1 voit son divertissement \"Mask Singer\" reculer significativement par rapport à ses scores récents, rassemblant 2,02 millions de curieux (12,4% PDM), loin de ses pics de la semaine. La stratégie de M6 de programmer du sport en direct semble porter ses fruits face aux offres de fictions et de divertissements des concurrentes généralistes.",
-      "commentary_date": "2026-06-12"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-13T10:09:59.737244Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-13T10:09:59.739635Z"
+  "last_updated": "2026-06-13T10:10:10.934526Z"
 }
