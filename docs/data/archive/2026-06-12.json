@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Le%C3%A7on_de_piano_%28film%29"
         }
       ],
-      "scraped_at": "2026-06-13T11:23:35.650501Z",
+      "scraped_at": "2026-06-13T12:14:12.187650Z",
       "status": "ok",
       "error": null,
       "commentary": "La rencontre de football opposant le Canada à la Bosnie-Herzégovine sur M6 s'impose en tête des audiences de prime time avec 3,27 millions de téléspectateurs et 20,7% de part de marché. Ce score place la chaîne privée en tête, une position qu'elle n'avait pas occupée depuis le 11 juin avec une autre rencontre de Coupe du Monde. France 2, avec sa fiction \"Haute Saison\", se maintient en deuxième position, réalisant une performance stable par rapport à la semaine précédente, avec 2,95 millions de téléspectateurs et 17,8% de PDA. TF1 voit son divertissement \"Mask Singer\" reculer significativement par rapport à ses scores récents, rassemblant 2,02 millions de curieux (12,4% PDM), loin de ses pics de la semaine. La stratégie de M6 de programmer du sport en direct semble porter ses fruits face aux offres de fictions et de divertissements des concurrentes généralistes.",
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22SOKO+Leipzig%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Leipzig_Homicide"
         }
       ],
-      "scraped_at": "2026-06-13T11:23:38.868398Z",
+      "scraped_at": "2026-06-13T12:14:36.913217Z",
       "status": "ok",
       "error": null,
       "commentary": "La Coupe du Monde de football 2026 canalise une part significative de l'audience allemande ce vendredi 12 juin, avec la rencontre opposant le Canada à la Bosnie attirant 7,23 millions de téléspectateurs, soit 34,7% de part de marché. Cette performance place le sport en tête du prime time, reléguant le journal \"Tagesthemen\" de Das Erste à la seconde place avec 6,59 millions de spectateurs et 31,0% de PDM. La fiction \"Der Alte\" sur une autre chaîne se positionne en troisième position, réunissant 4,30 millions de personnes (20,8% PDM), une nette amélioration par rapport à sa dernière apparition dans le top 3 le 5 juin (3,94 M, 20.5%). Le programme d'information de ZDF, \"SOKO Leipzig\", ferme la marche du top 5 avec 2,73 millions de téléspectateurs (12,4% PDM), une audience plus faible que les programmes d'information habituels de la chaîne. La domination des chaînes publiques sur les audiences globales reste néanmoins confirmée par la présence de Das Erste et ZDF dans le classement, bien que le football sur une chaîne non spécifiée capte l'attention principale.",
@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-junio-de-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         },
         {
           "rank": 2,
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28los+Mundiales+de+la+Verg%C3%BCenza%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-06-13T11:23:39.963456Z",
+      "scraped_at": "2026-06-13T12:14:38.493317Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion d'une pré-compétition de football sur La 1, totalisant 2,15 millions de téléspectateurs et 22,5% de part de marché, s'impose en tête des audiences du prime time du 12 juin. Ce score de la chaîne publique espagnole surpasse significativement celui du match de qualification féminin du 5 juin (1,49 million, 16,1%), illustrant l'attrait des compétitions majeures. Antena 3, avec \"Tu Cara Me Suena\", se positionne en deuxième place avec 1,30 million de fidèles et 19,1% de PDA, une performance stable par rapport à la semaine précédente où le programme avait rassemblé 1,44 million de téléspectateurs. La stratégie de contre-programmation de La 1, en choisissant un événement sportif majeur, semble avoir eu un impact sur les autres chaînes généralistes, dont Telecinco et Cuatro, qui enregistrent des audiences plus modestes. La fragmentation des audiences se confirme, avec des programmes de divertissement et de société peinant à atteindre le million de téléspectateurs face à l'événement sportif.",
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Propaganda+Live%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-06-13T11:23:42.706702Z",
+      "scraped_at": "2026-06-13T12:14:41.809722Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 le 12 juin confirme la domination de la chaîne publique sur la case du prime time, avec 4,10 millions de téléspectateurs et 24,8% de part de marché. Ce score, bien qu'inférieur à celui du 11 juin (4,76 M, 27,1%), maintient Rai 1 loin devant ses concurrents directs du duopole Rai-Mediaset. Canale 5, avec « L’Erede », se positionne en deuxième chaîne privée la plus regardée mais reste à plus de 2,8 millions de téléspectateurs de distance. La stratégie de Rai 1 semble s'appuyer sur des événements sportifs fédérateurs pour capter une large audience, tandis que Canale 5 peine à trouver un lead-in suffisamment puissant pour ses programmes de divertissement face à cette offre. Rete 4 et La7 se partagent les audiences de niche, avec des scores respectifs de 11,0% et 6,9% de part de marché.",
@@ -329,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-13T11:23:43.703301Z",
+      "scraped_at": "2026-06-13T12:14:42.865237Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-13T11:23:43.704773Z"
+  "last_updated": "2026-06-13T12:14:42.866509Z"
 }
