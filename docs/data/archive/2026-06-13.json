@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-13",
+  "countries": {
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-06-13",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "ZDFsportstudio live-FIFA WM 2026: K",
+          "program_fr": null,
+          "viewers": 6777000,
+          "share": 33.8,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live-FIFA+WM+2026%22+ZDF+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4622000,
+          "share": 27.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Der Zürich-Krimi: Borchert und das",
+          "program_fr": null,
+          "viewers": 3845000,
+          "share": 19.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Epp"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Zeit zu beten. Ein Krimi aus Passau",
+          "program_fr": null,
+          "viewers": 2256000,
+          "share": 11.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Zeit+zu+beten.+Ein+Krimi+aus+Passau%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-14T10:34:03.684738Z",
+      "status": "partial",
+      "error": null,
+      "commentary": "Le dispositif sportif du ZDF, avec la retransmission de la Coupe du Monde de football, s'impose ce 13 juin avec 6,78 millions de téléspectateurs et 33,8% de part de marché. Ce score place le diffuseur public largement en tête, dépassant les performances habituelles du \"Tagesschau\" de Das Erste qui réunit 4,62 millions de fidèles (27,4% PDM). Cette victoire du football confirme la puissance des événements sportifs en direct sur les audiences de masse, particulièrement sur le cœur de cible des chaînes publiques, les 50 ans et plus. La fiction, représentée par \"Der Zürich-Krimi\", réalise une performance solide avec 3,85 millions de curieux (19,6% PDM), se positionnant comme une alternative crédible face à l'offre sportive et informationnelle. La semaine précédente, la compétition avait déjà été marquée par des scores élevés pour des rencontres de football, démontrant une tendance de fond.",
+      "commentary_date": "2026-06-13"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-06-13",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Una Voce per Padre Pio",
+          "program_fr": null,
+          "viewers": 2397000,
+          "share": 18.6,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-13-giugno-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Una+Voce+per+Padre+Pio%22+Rai+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Ciao Darwin",
+          "program_fr": null,
+          "viewers": 1643000,
+          "share": 15.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-13-giugno-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "Come ho catturato il serial killer",
+          "program_fr": null,
+          "viewers": 955000,
+          "share": 7.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-13-giugno-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Come+ho+catturato+il+serial+killer%22+Rai+2+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "La Promessa",
+          "program_fr": null,
+          "viewers": 839000,
+          "share": 6.6,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-13-giugno-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Piedone lo sbirro",
+          "program_fr": null,
+          "viewers": 694000,
+          "share": 5.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-13-giugno-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Piedone+lo+sbirro%22+Rai+3+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-14T10:34:12.990732Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le prime time du 13 juin en Italie voit Rai 1 conserver sa position de leader avec 2,40 millions de téléspectateurs et 18,6% de part de marché grâce à « Una Voce per Padre Pio ». Ce chiffre est stable par rapport au 2,42 millions enregistrés le 8 juin pour la fiction « Tutti tranne te ». La chaîne privée Canale 5, avec le divertissement « Ciao Darwin », se classe deuxième avec 1,64 million de téléspectateurs (15,2% PDM), un score en retrait par rapport aux 2,18 millions de la semaine précédente. La troisième et la quatrième position sont occupées par Rai 2 et Rete 4, avec des programmes aux audiences plus modestes, reflétant une certaine fragmentation au-delà du duopole Rai-Mediaset. La soirée du 11 et 12 juin avait vu Rai 1 dominer largement grâce à la diffusion de rencontres de la Coupe du Monde 2026, atteignant des pics de 4,76 millions de téléspectateurs et 27,1% de PDM.",
+      "commentary_date": "2026-06-13"
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-06-13",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-14T10:34:14.430539Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
+    }
+  },
+  "last_updated": "2026-06-14T10:34:19.739405Z"
+}
