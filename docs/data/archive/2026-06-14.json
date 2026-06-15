@@ -59,7 +59,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-la-coupe-du-monde-sur-m6-a-t-elle-fait-couler-titanic-sur-tf1/655551",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Venise"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Venise_n%27est_pas_en_Italie"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
         }
       ],
-      "scraped_at": "2026-06-15T15:23:40.885192Z",
+      "scraped_at": "2026-06-15T16:08:58.438279Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion d'un magazine sportif lié à la Coupe du Monde sur M6 positionne la chaîne en tête des audiences du prime time ce dimanche 14 juin, avec 2,48 millions de téléspectateurs et 14,1% de part de marché. Cette performance place M6 devant France 3 et sa série \"Vanina\", qui enregistre 2,15 millions de personnes (12,9% PDM). TF1, avec la rediffusion de \"Titanic\", se retrouve en troisième position avec 1,89 million de téléspectateurs, mais affiche une part de marché supérieure à celle de M6 (14,5% PDM). L'analyse des sept derniers jours révèle une forte influence des événements sportifs sur les programmes, comme le montrent les scores de la semaine précédente pour la Coupe du Monde sur M6 (4,88 M le 11 juin) et les matchs du 12 juin (3,27 M). La stratégie de M6 de capitaliser sur l'événement sportif, même en dehors des matchs directs, semble porter ses fruits face aux offres fictionnelles des autres grandes chaînes généralistes.",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Wm+1994%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/WrestleMania_X"
         },
         {
           "rank": 4,
@@ -139,7 +139,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Rosamunde+Pilcher%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rosamunde_Pilcher"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Kommissar+Beck%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Beck"
         }
       ],
-      "scraped_at": "2026-06-15T15:23:46.798330Z",
+      "scraped_at": "2026-06-15T16:09:05.430182Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 14 juin 2026 voit le journal télévisé « Tagesschau » sur Das Erste réaliser une performance exceptionnelle, captant 67.8% de part de marché, un chiffre qui dépasse significativement les performances habituelles de la chaîne sur la semaine écoulée, où le journal oscillait entre 20.3% et 27.4%. Cette domination du service public, confirmée par trois de ses titres dans le top 3 hebdomadaire, contraste avec la stratégie des chaînes privées qui, hormis un événement sportif le 12 juin, peinent à rivaliser sur cette case horaire. La présence d'une retransmission de la Coupe du Monde de football 1994, attirant 3.04 millions de téléspectateurs et 18.8% de PDA, suggère une appétence du public pour des événements patrimoniaux, même anciens, en l'absence d'une offre de fiction ou de divertissement fédératrice sur les autres antennes. Le ZDF, avec son « heute journal », se maintient autour de 3.81 millions de téléspectateurs, une audience stable par rapport à ses scores de la semaine, mais loin de l'ampleur du succès de Das Erste.",
@@ -169,7 +169,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-15T15:23:48.336705Z",
+      "scraped_at": "2026-06-15T16:09:07.067656Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion d'une pré-compétition de football sur La 1, totalisant 2,15 millions de téléspectateurs et 22,5% de part de marché, s'impose en tête des audiences du prime time du 12 juin. Ce score de la chaîne publique espagnole surpasse significativement celui du match de qualification féminin du 5 juin (1,49 million, 16,1%), illustrant l'attrait des compétitions majeures. Antena 3, avec \"Tu Cara Me Suena\", se positionne en deuxième place avec 1,30 million de fidèles et 19,1% de PDA, une performance stable par rapport à la semaine précédente où le programme avait rassemblé 1,44 million de téléspectateurs. La stratégie de contre-programmation de La 1, en choisissant un événement sportif majeur, semble avoir eu un impact sur les autres chaînes généralistes, dont Telecinco et Cuatro, qui enregistrent des audiences plus modestes. La fragmentation des audiences se confirme, avec des programmes de divertissement et de société peinant à atteindre le million de téléspectateurs face à l'événement sportif.",
@@ -246,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-14-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Elsbeth"
+          "wikipedia_url": "https://www.google.com/search?q=%22Elsbeth%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-06-15T15:23:51.915836Z",
+      "scraped_at": "2026-06-15T16:09:11.226002Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 confirme la domination de la chaîne publique dans la case du prime time, avec 3,73 millions de téléspectateurs et 28,0% de part de marché ce 14 juin. Ce score, bien que légèrement inférieur aux pics enregistrés en début de semaine (4,76 M le 11 juin), maintient un écart significatif sur la concurrence. Canale 5, avec sa fiction « Racconto di una Notte », se positionne en deuxième force avec 1,75 million de fidèles, mais ne parvient pas à rivaliser avec l'événement sportif, une tendance déjà observée. La troisième place est disputée entre Rai 3 et Italia 1, illustrant une fragmentation des audiences secondaires. La stratégie de Rai 1 de capitaliser sur les événements sportifs majeurs s'avère payante pour capter une large audience, reléguant les offres de divertissement et de fiction des chaînes privées à des positions subalternes.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-15T15:23:53.060110Z",
+      "scraped_at": "2026-06-15T16:09:12.497953Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-15T15:23:53.061883Z"
+  "last_updated": "2026-06-15T16:09:12.499470Z"
 }
