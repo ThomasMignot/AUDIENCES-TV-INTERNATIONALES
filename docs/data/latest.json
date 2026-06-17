@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22D%C3%BCnentod%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-17T11:59:47.539336Z",
+      "scraped_at": "2026-06-17T12:56:40.351421Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », s'impose une nouvelle fois en tête des audiences du prime time ce 16 juin, rassemblant 3,84 millions de téléspectateurs et captant 20,2% de part de marché. Cette performance le place nettement devant le « heute journal » de ZDF, qui enregistre 2,95 millions d'individus (15,5% PDM). Le programme de fiction « Die Kanzlei Folge 68 » parvient à se hisser à la troisième place avec 2,85 millions de spectateurs (14,3% PDM), démontrant une certaine appétence pour les formats de divertissement hors des chaînes publiques historiques. Comparé à la semaine précédente, où les retransmissions de la Coupe du Monde de football avaient largement dominé, les audiences du 16 juin marquent un retour des programmes d'information et de fiction traditionnels. La domination de Das Erste sur quatre des sept soirées de la semaine étudiée souligne la résilience de sa case informationnelle face aux offres concurrentes, y compris celles des chaînes privées qui ciblent souvent des démographies plus jeunes.",
@@ -88,76 +88,10 @@
       "date": "2026-06-16",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Futbol:Copa Mundial (Francia-Senegal:Previa)",
-          "program_fr": null,
-          "viewers": 3322000,
-          "share": 27.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero (Zendaya y Tom Holland)",
-          "program_fr": null,
-          "viewers": 1533000,
-          "share": 12.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Zendaya+y+Tom+Holland%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
-          "program_fr": null,
-          "viewers": 978000,
-          "share": 7.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 794000,
-          "share": 6.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "El Intermedio",
-          "program_fr": null,
-          "viewers": 661000,
-          "share": 5.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-17T11:59:49.181703Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-06-17T12:56:41.002000Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la pré-compétition de la Coupe du Monde sur La 1 s'impose largement en tête des audiences du prime time, captant 3,32 millions de téléspectateurs et 27,6% de part de marché. Ce score place le service public en position de force face aux chaînes privées, rompant la dynamique observée la semaine précédente où Antena 3 dominait le classement grâce à son divertissement \"El Hormiguero\". L'émission de Pablo Motos, malgré un lead-in sportif conséquent, réunit 1,53 million de fidèles, un chiffre stable par rapport aux émissions précédentes mais insuffisant pour contester la première place. La programmation événementielle sportive sur La 1 semble ainsi avoir modifié la hiérarchie habituelle du marché espagnol, où le duopole Antena 3/Telecinco est traditionnellement prédominant. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se maintient à la troisième position, témoignant d'une certaine stabilité dans les habitudes de consommation du public pour cette case horaire.",
       "commentary_date": "2026-06-16"
     },
@@ -169,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-17T11:59:54.031900Z",
+      "scraped_at": "2026-06-17T12:56:44.570115Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Che+Ci+Faccio+Qui%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-06-17T11:59:52.526490Z",
+      "scraped_at": "2026-06-17T12:56:43.556557Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match de football des « Mondiali 2026 » sur Rai 1 s'impose largement en tête des audiences du prime time, captant 5,69 millions de téléspectateurs et 31,6% de part de marché. Ce chiffre représente une nette progression par rapport aux précédentes diffusions de la compétition la semaine passée, qui oscillaient entre 3,73 millions (le 14 juin) et 4,76 millions (le 11 juin). La stratégie de Rai 1 de programmer cet événement sportif majeur semble porter ses fruits, dominant le paysage audiovisuel italien. En comparaison, Canale 5, avec son divertissement « Gigi e Vanessa Insieme », se positionne en deuxième chaîne, attirant 1,65 million de curieux, un score stable par rapport à la semaine précédente. L'écart de près de 4 millions de téléspectateurs entre le leader et son dauphin illustre la puissance du football dans la conquête du public en Italie. Les autres chaînes, Italia 1, Rete 4 et Rai 3, se partagent les restes du marché, avec des scores inférieurs au million de téléspectateurs.",
@@ -329,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Histoire_de_Monaco"
         }
       ],
-      "scraped_at": "2026-06-17T11:59:41.704100Z",
+      "scraped_at": "2026-06-17T12:56:35.283609Z",
       "status": "ok",
       "error": null,
       "commentary": "La rencontre de football opposant la France au Sénégal sur M6 capte, le 16 juin 2026, une part d'audience de 61.4% auprès des 4 ans et plus, totalisant 13,99 millions de téléspectateurs. Ce score, exceptionnel, place la chaîne privée très loin devant ses concurrentes généralistes, dont France 3 avec 1,98 million de fidèles pour sa fiction \"La Fulgurée\". Cette performance s'inscrit dans une dynamique de domination de M6 sur les six dernières soirées, où la chaîne a été leader quatre fois, principalement grâce à la couverture de la Coupe du Monde. Par comparaison, les audiences des autres chaînes, y compris TF1 avec 1,11 million pour \"Monk le retour\", apparaissent marginales face à l'événement sportif. La stratégie de M6 de programmer les rencontres majeures dans sa case de prime time s'avère ainsi particulièrement efficace pour mobiliser un large public.",
       "commentary_date": "2026-06-16"
     }
   },
-  "last_updated": "2026-06-17T11:59:54.034157Z"
+  "last_updated": "2026-06-17T12:56:44.572404Z"
 }
