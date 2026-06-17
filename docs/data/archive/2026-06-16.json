@@ -1,6 +1,86 @@
 {
   "date": "2026-06-16",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-16",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "FOOTBALL COUPE DU MONDE \\ FRANCE - SENEGAL",
+          "program_fr": null,
+          "viewers": 13989000,
+          "share": 61.4,
+          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_1998"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA FULGUREE",
+          "program_fr": null,
+          "viewers": 1976000,
+          "share": 8.5,
+          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Fulgur%C3%A9e"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MONK LE RETOUR \\ PARTIE 1",
+          "program_fr": null,
+          "viewers": 1111000,
+          "share": 4.7,
+          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Monk"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LE DUPLEX THEATRE",
+          "program_fr": null,
+          "viewers": 645000,
+          "share": 2.8,
+          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brigitte_Sy"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MONACO, LA GRANDE HISTOIRE D'UN MICRO-ETAT \\ EPISODE 1 - PRINCES ET CROUPIERS",
+          "program_fr": null,
+          "viewers": 547000,
+          "share": 2.3,
+          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Histoire_de_Monaco"
+        }
+      ],
+      "scraped_at": "2026-06-17T11:59:41.704100Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La rencontre de football opposant la France au Sénégal sur M6 capte, le 16 juin 2026, une part d'audience de 61.4% auprès des 4 ans et plus, totalisant 13,99 millions de téléspectateurs. Ce score, exceptionnel, place la chaîne privée très loin devant ses concurrentes généralistes, dont France 3 avec 1,98 million de fidèles pour sa fiction \"La Fulgurée\". Cette performance s'inscrit dans une dynamique de domination de M6 sur les six dernières soirées, où la chaîne a été leader quatre fois, principalement grâce à la couverture de la Coupe du Monde. Par comparaison, les audiences des autres chaînes, y compris TF1 avec 1,11 million pour \"Monk le retour\", apparaissent marginales face à l'événement sportif. La stratégie de M6 de programmer les rencontres majeures dans sa case de prime time s'avère ainsi particulièrement efficace pour mobiliser un large public.",
+      "commentary_date": "2026-06-16"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La diffusion de la pré-compétition de la Coupe du Monde sur La 1 s'impose largement en tête des audiences du prime time, captant 3,32 millions de téléspectateurs et 27,6% de part de marché. Ce score place le service public en position de force face aux chaînes privées, rompant la dynamique observée la semaine précédente où Antena 3 dominait le classement grâce à son divertissement \"El Hormiguero\". L'émission de Pablo Motos, malgré un lead-in sportif conséquent, réunit 1,53 million de fidèles, un chiffre stable par rapport aux émissions précédentes mais insuffisant pour contester la première place. La programmation événementielle sportive sur La 1 semble ainsi avoir modifié la hiérarchie habituelle du marché espagnol, où le duopole Antena 3/Telecinco est traditionnellement prédominant. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se maintient à la troisième position, témoignant d'une certaine stabilité dans les habitudes de consommation du public pour cette case horaire.",
       "commentary_date": "2026-06-16"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-16",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-17T11:59:54.031900Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Le match de football des « Mondiali 2026 » sur Rai 1 s'impose largement en tête des audiences du prime time, captant 5,69 millions de téléspectateurs et 31,6% de part de marché. Ce chiffre représente une nette progression par rapport aux précédentes diffusions de la compétition la semaine passée, qui oscillaient entre 3,73 millions (le 14 juin) et 4,76 millions (le 11 juin). La stratégie de Rai 1 de programmer cet événement sportif majeur semble porter ses fruits, dominant le paysage audiovisuel italien. En comparaison, Canale 5, avec son divertissement « Gigi e Vanessa Insieme », se positionne en deuxième chaîne, attirant 1,65 million de curieux, un score stable par rapport à la semaine précédente. L'écart de près de 4 millions de téléspectateurs entre le leader et son dauphin illustre la puissance du football dans la conquête du public en Italie. Les autres chaînes, Italia 1, Rete 4 et Rai 3, se partagent les restes du marché, avec des scores inférieurs au million de téléspectateurs.",
       "commentary_date": "2026-06-16"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-16",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "FOOTBALL COUPE DU MONDE \\ FRANCE - SENEGAL",
-          "program_fr": null,
-          "viewers": 13989000,
-          "share": 61.4,
-          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_1998"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA FULGUREE",
-          "program_fr": null,
-          "viewers": 1976000,
-          "share": 8.5,
-          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Fulgur%C3%A9e"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MONK LE RETOUR \\ PARTIE 1",
-          "program_fr": null,
-          "viewers": 1111000,
-          "share": 4.7,
-          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Monk"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LE DUPLEX THEATRE",
-          "program_fr": null,
-          "viewers": 645000,
-          "share": 2.8,
-          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brigitte_Sy"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MONACO, LA GRANDE HISTOIRE D'UN MICRO-ETAT \\ EPISODE 1 - PRINCES ET CROUPIERS",
-          "program_fr": null,
-          "viewers": 547000,
-          "share": 2.3,
-          "source_url": "https://www.ozap.com/actu/audiences-pres-de-14-millions-de-supporters-devant-le-premier-match-des-bleus-au-mondial-sur-m6/655616",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Histoire_de_Monaco"
-        }
-      ],
-      "scraped_at": "2026-06-17T11:59:41.704100Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La rencontre de football opposant la France au Sénégal sur M6 capte, le 16 juin 2026, une part d'audience de 61.4% auprès des 4 ans et plus, totalisant 13,99 millions de téléspectateurs. Ce score, exceptionnel, place la chaîne privée très loin devant ses concurrentes généralistes, dont France 3 avec 1,98 million de fidèles pour sa fiction \"La Fulgurée\". Cette performance s'inscrit dans une dynamique de domination de M6 sur les six dernières soirées, où la chaîne a été leader quatre fois, principalement grâce à la couverture de la Coupe du Monde. Par comparaison, les audiences des autres chaînes, y compris TF1 avec 1,11 million pour \"Monk le retour\", apparaissent marginales face à l'événement sportif. La stratégie de M6 de programmer les rencontres majeures dans sa case de prime time s'avère ainsi particulièrement efficace pour mobiliser un large public.",
-      "commentary_date": "2026-06-16"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-17T11:59:54.031900Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-17T11:59:54.034157Z"
+  "last_updated": "2026-06-17T12:00:08.071941Z"
 }
