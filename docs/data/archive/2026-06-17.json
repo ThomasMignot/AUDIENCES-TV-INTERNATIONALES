@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Ma_femme_s%27appelle_reviens_%28film%29"
         }
       ],
-      "scraped_at": "2026-06-18T16:01:55.055555Z",
+      "scraped_at": "2026-06-18T17:30:37.378136Z",
       "status": "ok",
       "error": null,
       "commentary": "La M6 s'impose comme leader du prime sur la semaine écoulée, capitalisant sur la Coupe du Monde de football. Le magazine « COUPE DU MONDE DE LA FIFA LE MAG » réalise une performance notable avec 17.2% de part de marché, bien que nettement en retrait par rapport aux rencontres diffusées en milieu de semaine, comme le match France-Sénégal qui avait rassemblé 13,99 millions de téléspectateurs le 16 juin. Cette stratégie de programmation sportive permet à la chaîne privée de distancer TF1, dont la fiction « GOOD AMERICAN FAMILY » n'atteint que 11.8% de PDM. France 2 et France 3 se positionnent en poursuivantes avec leurs offres de fiction et de magazine, respectivement à 9.3% et 8.8%. La fragmentation de l'audience, accentuée par la TNT, rend ces résultats significatifs dans le paysage concurrentiel actuel.",
@@ -88,10 +88,76 @@
       "date": "2026-06-17",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-06-18T16:02:28.323320Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7ff9f23f3950>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "ZDFsportstudio live-FIFA WM 2026: E",
+          "program_fr": null,
+          "viewers": 6914000,
+          "share": 43.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live-FIFA+WM+2026%22+ZDF+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "heute / Wetter",
+          "program_fr": null,
+          "viewers": 5668000,
+          "share": 28.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 3799000,
+          "share": 18.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Donna Leon - Endlich mein",
+          "program_fr": null,
+          "viewers": 2918000,
+          "share": 14.0,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Donna+Leon%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Donna Leon - Auf Treu und Glauben",
+          "program_fr": null,
+          "viewers": 1793000,
+          "share": 9.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Donna+Leon%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-18T17:30:41.536963Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Le dispositif de la ZDF avec la retransmission de la Coupe du Monde de football 2026 s'impose ce 17 juin, captant 6,91 millions de téléspectateurs, soit 43,6% de part de marché. Cette performance dépasse les offres d'information de la même chaîne et de Das Erste, qui réalisent respectivement 5,67 millions (28,4% PDM) et 3,80 millions (18,4% PDM). La semaine précédente, les journaux télévisés de la ZDF avaient atteint des pics significatifs, notamment le 11 juin avec 10,49 millions de téléspectateurs et 46,8% de PDM, soulignant l'impact des événements sportifs sur la consommation des programmes d'information en direct. Les deux épisodes de la série \"Donna Leon\" diffusés sur une autre chaîne se positionnent en quatrième et cinquième position, avec des scores respectifs de 2,92 millions (14,0% PDM) et 1,79 million (9,9% PDM). La domination des chaînes publiques sur les audiences du prime time se confirme, bien que la programmation sportive sur la ZDF génère une audience exceptionnellement élevée.",
       "commentary_date": "2026-06-17"
     },
@@ -103,7 +169,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-18T16:02:29.386095Z",
+      "scraped_at": "2026-06-18T17:30:42.714785Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la pré-compétition de la Coupe du Monde sur La 1 s'impose largement en tête des audiences du prime time, captant 3,32 millions de téléspectateurs et 27,6% de part de marché. Ce score place le service public en position de force face aux chaînes privées, rompant la dynamique observée la semaine précédente où Antena 3 dominait le classement grâce à son divertissement \"El Hormiguero\". L'émission de Pablo Motos, malgré un lead-in sportif conséquent, réunit 1,53 million de fidèles, un chiffre stable par rapport aux émissions précédentes mais insuffisant pour contester la première place. La programmation événementielle sportive sur La 1 semble ainsi avoir modifié la hiérarchie habituelle du marché espagnol, où le duopole Antena 3/Telecinco est traditionnellement prédominant. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se maintient à la troisième position, témoignant d'une certaine stabilité dans les habitudes de consommation du public pour cette case horaire.",
@@ -128,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-17-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Official_FIFA_World_Cup_2026_Album"
+          "wikipedia_url": "https://www.google.com/search?q=%22Mondiali+2026%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -141,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-17-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Book_club"
+          "wikipedia_url": "https://www.google.com/search?q=%22Book+Club%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -154,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-17-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Chi_l%27ha_visto%3F"
+          "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
         },
         {
           "rank": 4,
@@ -167,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-17-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Into_the_Storm"
+          "wikipedia_url": "https://www.google.com/search?q=%22Into+the+Storm%22+Italia+1+ratings"
         },
         {
           "rank": 5,
@@ -180,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-17-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Brindisi"
+          "wikipedia_url": "https://www.google.com/search?q=%22Zona+Bianca%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-18T16:02:34.134053Z",
+      "scraped_at": "2026-06-18T17:30:45.558864Z",
       "status": "ok",
       "error": null,
       "commentary": "La retransmission des « Mondiali 2026 » sur Rai 1 conforte sa position de leader historique, captant 4,32 millions de téléspectateurs et 30,9% de part de marché ce 17 juin. Ce chiffre, bien qu'en retrait par rapport aux pics observés la semaine précédente, notamment le 16 juin avec 5,69 millions de fidèles, démontre la capacité de la chaîne publique à mobiliser un large public autour de l'événement sportif. En face, Canale 5 peine à rivaliser avec son offre de divertissement, « Book Club – Il capitolo successivo » rassemblant 1,63 million de personnes (11,8% PDM), une audience stable par rapport aux semaines précédentes. La troisième place revient à Rai 3 avec « Chi l’ha Visto? », qui maintient une ligne éditoriale informative avec 1,39 million de téléspectateurs (9,5% PDM). Le match des audiences se joue donc principalement entre les offres sportives de Rai 1 et les programmes généralistes de Canale 5, les autres chaînes restant sur des positions plus marginales dans cette case horaire.",
@@ -197,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-18T16:02:35.178195Z",
+      "scraped_at": "2026-06-18T17:30:46.579305Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-18T16:02:35.179465Z"
+  "last_updated": "2026-06-18T17:30:46.580793Z"
 }
