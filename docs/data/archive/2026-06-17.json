@@ -1,6 +1,86 @@
 {
   "date": "2026-06-17",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-17",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "COUPE DU MONDE DE LA FIFA LE MAG",
+          "program_fr": null,
+          "viewers": 2915000,
+          "share": 17.2,
+          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Oph%C3%A9lie_Meunier"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "GOOD AMERICAN FAMILY \\ EN REPONSE A NOS PRIERES - EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 1990000,
+          "share": 11.8,
+          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Good_American_Family"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "DANSE TA VIE (JEAN-PIERRE AMERIS)",
+          "program_fr": null,
+          "viewers": 1548000,
+          "share": 9.3,
+          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Am%C3%A9ris"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "DES RACINES ET DES AILES \\ TERROIRS D EXCELLENCE DANS LES ALPES",
+          "program_fr": null,
+          "viewers": 1381000,
+          "share": 8.8,
+          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9missions_de_Des_racines_et_des_ailes"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MA FEMME S'APPELLE REVIENS",
+          "program_fr": null,
+          "viewers": 992000,
+          "share": 5.8,
+          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ma_femme_s%27appelle_reviens_%28film%29"
+        }
+      ],
+      "scraped_at": "2026-06-18T11:33:15.378476Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La M6 s'impose comme leader du prime sur la semaine écoulée, capitalisant sur la Coupe du Monde de football. Le magazine « COUPE DU MONDE DE LA FIFA LE MAG » réalise une performance notable avec 17.2% de part de marché, bien que nettement en retrait par rapport aux rencontres diffusées en milieu de semaine, comme le match France-Sénégal qui avait rassemblé 13,99 millions de téléspectateurs le 16 juin. Cette stratégie de programmation sportive permet à la chaîne privée de distancer TF1, dont la fiction « GOOD AMERICAN FAMILY » n'atteint que 11.8% de PDM. France 2 et France 3 se positionnent en poursuivantes avec leurs offres de fiction et de magazine, respectivement à 9.3% et 8.8%. La fragmentation de l'audience, accentuée par la TNT, rend ces résultats significatifs dans le paysage concurrentiel actuel.",
+      "commentary_date": "2026-06-17"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "La diffusion de la pré-compétition de la Coupe du Monde sur La 1 s'impose largement en tête des audiences du prime time, captant 3,32 millions de téléspectateurs et 27,6% de part de marché. Ce score place le service public en position de force face aux chaînes privées, rompant la dynamique observée la semaine précédente où Antena 3 dominait le classement grâce à son divertissement \"El Hormiguero\". L'émission de Pablo Motos, malgré un lead-in sportif conséquent, réunit 1,53 million de fidèles, un chiffre stable par rapport aux émissions précédentes mais insuffisant pour contester la première place. La programmation événementielle sportive sur La 1 semble ainsi avoir modifié la hiérarchie habituelle du marché espagnol, où le duopole Antena 3/Telecinco est traditionnellement prédominant. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se maintient à la troisième position, témoignant d'une certaine stabilité dans les habitudes de consommation du public pour cette case horaire.",
       "commentary_date": "2026-06-16"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-17",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-18T11:33:25.261872Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "La retransmission des « Mondiali 2026 » sur Rai 1 conforte sa position de leader historique, captant 4,32 millions de téléspectateurs et 30,9% de part de marché ce 17 juin. Ce chiffre, bien qu'en retrait par rapport aux pics observés la semaine précédente, notamment le 16 juin avec 5,69 millions de fidèles, démontre la capacité de la chaîne publique à mobiliser un large public autour de l'événement sportif. En face, Canale 5 peine à rivaliser avec son offre de divertissement, « Book Club – Il capitolo successivo » rassemblant 1,63 million de personnes (11,8% PDM), une audience stable par rapport aux semaines précédentes. La troisième place revient à Rai 3 avec « Chi l’ha Visto? », qui maintient une ligne éditoriale informative avec 1,39 million de téléspectateurs (9,5% PDM). Le match des audiences se joue donc principalement entre les offres sportives de Rai 1 et les programmes généralistes de Canale 5, les autres chaînes restant sur des positions plus marginales dans cette case horaire.",
       "commentary_date": "2026-06-17"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-17",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE LA FIFA LE MAG",
-          "program_fr": null,
-          "viewers": 2915000,
-          "share": 17.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Oph%C3%A9lie_Meunier"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "GOOD AMERICAN FAMILY \\ EN REPONSE A NOS PRIERES - EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 1990000,
-          "share": 11.8,
-          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Good_American_Family"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "DANSE TA VIE (JEAN-PIERRE AMERIS)",
-          "program_fr": null,
-          "viewers": 1548000,
-          "share": 9.3,
-          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Am%C3%A9ris"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "DES RACINES ET DES AILES \\ TERROIRS D EXCELLENCE DANS LES ALPES",
-          "program_fr": null,
-          "viewers": 1381000,
-          "share": 8.8,
-          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9missions_de_Des_racines_et_des_ailes"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MA FEMME S'APPELLE REVIENS",
-          "program_fr": null,
-          "viewers": 992000,
-          "share": 5.8,
-          "source_url": "https://www.ozap.com/actu/audiences-la-nouvelle-serie-avec-ellen-pompeo-sur-tf1-a-t-elle-resiste-a-la-coupe-du-monde-sur-m6/655633",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ma_femme_s%27appelle_reviens_%28film%29"
-        }
-      ],
-      "scraped_at": "2026-06-18T11:33:15.378476Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La M6 s'impose comme leader du prime sur la semaine écoulée, capitalisant sur la Coupe du Monde de football. Le magazine « COUPE DU MONDE DE LA FIFA LE MAG » réalise une performance notable avec 17.2% de part de marché, bien que nettement en retrait par rapport aux rencontres diffusées en milieu de semaine, comme le match France-Sénégal qui avait rassemblé 13,99 millions de téléspectateurs le 16 juin. Cette stratégie de programmation sportive permet à la chaîne privée de distancer TF1, dont la fiction « GOOD AMERICAN FAMILY » n'atteint que 11.8% de PDM. France 2 et France 3 se positionnent en poursuivantes avec leurs offres de fiction et de magazine, respectivement à 9.3% et 8.8%. La fragmentation de l'audience, accentuée par la TNT, rend ces résultats significatifs dans le paysage concurrentiel actuel.",
-      "commentary_date": "2026-06-17"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-18T11:33:25.261872Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-18T11:33:25.264174Z"
+  "last_updated": "2026-06-18T11:33:43.400887Z"
 }
