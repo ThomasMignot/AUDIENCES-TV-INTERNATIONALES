@@ -1,6 +1,86 @@
 {
   "date": "2026-06-18",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-18",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "FOOTBALL COUPE DU MONDE \\ SUISSE - BOSNIE-HERZEGOVINE",
+          "program_fr": null,
+          "viewers": 3588000,
+          "share": 22.3,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_2006"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "ZODIAQUE  \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 2848000,
+          "share": 16.9,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saint_Seiya"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ALEX HUGO : LA DERNIERE PISTE",
+          "program_fr": null,
+          "viewers": 2492000,
+          "share": 15.2,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alex_Hugo"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "IRAN, UKRAINE : QUI CROIT EN LA PAIX ? EMISSION POLITIQUE",
+          "program_fr": null,
+          "viewers": 716000,
+          "share": 4.5,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Vol_Ukraine_International_Airlines_752"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "LES SOUS DOUES",
+          "program_fr": null,
+          "viewers": 621000,
+          "share": 3.9,
+          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Sous-dou%C3%A9s"
+        }
+      ],
+      "scraped_at": "2026-06-19T11:43:44.603289Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "M6 s'affirme comme leader incontesté du prime time sur la semaine écoulée, capitalisant sur la diffusion de la Coupe du Monde de football. La rencontre Suisse-Bosnie-Herzégovine du 18 juin attire 3,59 millions de téléspectateurs et 22,3% de part de marché, confirmant la puissance du sport en direct sur cette case horaire. Cette performance place la chaîne privée loin devant TF1, dont la nouvelle série \"Zodiaque\" ne dépasse pas les 2,85 millions de curieux (16,9% PDM). La fiction de France 3, \"Alex Hugo\", se positionne en troisième position avec 2,49 millions de fidèles (15,2% PDM). Comparé au match France-Sénégal du 16 juin qui avait enregistré une audience exceptionnelle de 13,99 millions de téléspectateurs et 61,4% de PDM, le match du jour démontre une audience plus \"classique\" mais toujours dominante pour M6 dans le cadre de ce rendez-vous sportif. La contre-programmation de France 2 avec un magazine politique, qui ne réunit que 716 000 personnes (4,5% PDM), souligne la difficulté pour les programmes moins événementiels de percer face aux offres sportives et aux fictions populaires.",
+      "commentary_date": "2026-06-18"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -82,20 +162,6 @@
       "commentary": "La diffusion de la pré-compétition de la Coupe du Monde sur La 1 s'impose largement en tête des audiences du prime time, captant 3,32 millions de téléspectateurs et 27,6% de part de marché. Ce score place le service public en position de force face aux chaînes privées, rompant la dynamique observée la semaine précédente où Antena 3 dominait le classement grâce à son divertissement \"El Hormiguero\". L'émission de Pablo Motos, malgré un lead-in sportif conséquent, réunit 1,53 million de fidèles, un chiffre stable par rapport aux émissions précédentes mais insuffisant pour contester la première place. La programmation événementielle sportive sur La 1 semble ainsi avoir modifié la hiérarchie habituelle du marché espagnol, où le duopole Antena 3/Telecinco est traditionnellement prédominant. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se maintient à la troisième position, témoignant d'une certaine stabilité dans les habitudes de consommation du public pour cette case horaire.",
       "commentary_date": "2026-06-16"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-18",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-19T11:43:59.609373Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -176,86 +242,20 @@
       "commentary": "Le prime time italien du 18 juin confirme la domination de Rai 1 avec la diffusion des « Mondiali 2026 », qui rassemblent 3,90 millions de téléspectateurs et 23,8% de part de marché. Ce score est inférieur à celui de la veille (4,32 millions, 30,9%), mais reste largement supérieur à la moyenne des autres chaînes généralistes. Canale 5, avec « Montmartre », se positionne en deuxième chaîne privée, attirant 1,20 million de personnes, un chiffre en retrait par rapport aux films diffusés en début de semaine. Rete 4 parvient à se maintenir dans le trio de tête, devançant Italia 1 et Rai 3 grâce à son magazine d'actualité « Quarto Grado ». La stratégie de Rai 1 de capitaliser sur un événement sportif majeur écrase la concurrence, reléguant les offres de divertissement et de fiction des chaînes privées à des audiences significativement moindres.",
       "commentary_date": "2026-06-18"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-18",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "FOOTBALL COUPE DU MONDE \\ SUISSE - BOSNIE-HERZEGOVINE",
-          "program_fr": null,
-          "viewers": 3588000,
-          "share": 22.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football_%C3%A0_la_Coupe_du_monde_2006"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "ZODIAQUE  \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 2848000,
-          "share": 16.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saint_Seiya"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ALEX HUGO : LA DERNIERE PISTE",
-          "program_fr": null,
-          "viewers": 2492000,
-          "share": 15.2,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alex_Hugo"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "IRAN, UKRAINE : QUI CROIT EN LA PAIX ? EMISSION POLITIQUE",
-          "program_fr": null,
-          "viewers": 716000,
-          "share": 4.5,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Vol_Ukraine_International_Airlines_752"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "LES SOUS DOUES",
-          "program_fr": null,
-          "viewers": 621000,
-          "share": 3.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-retour-de-zodiaque-avec-francis-huster-sur-tf1-largement-battu-par-la-coupe-du-monde-de-foot-sur-m6-levenement-tres-faible-sur-france-2/655655",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Sous-dou%C3%A9s"
-        }
-      ],
-      "scraped_at": "2026-06-19T11:43:44.603289Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "M6 s'affirme comme leader incontesté du prime time sur la semaine écoulée, capitalisant sur la diffusion de la Coupe du Monde de football. La rencontre Suisse-Bosnie-Herzégovine du 18 juin attire 3,59 millions de téléspectateurs et 22,3% de part de marché, confirmant la puissance du sport en direct sur cette case horaire. Cette performance place la chaîne privée loin devant TF1, dont la nouvelle série \"Zodiaque\" ne dépasse pas les 2,85 millions de curieux (16,9% PDM). La fiction de France 3, \"Alex Hugo\", se positionne en troisième position avec 2,49 millions de fidèles (15,2% PDM). Comparé au match France-Sénégal du 16 juin qui avait enregistré une audience exceptionnelle de 13,99 millions de téléspectateurs et 61,4% de PDM, le match du jour démontre une audience plus \"classique\" mais toujours dominante pour M6 dans le cadre de ce rendez-vous sportif. La contre-programmation de France 2 avec un magazine politique, qui ne réunit que 716 000 personnes (4,5% PDM), souligne la difficulté pour les programmes moins événementiels de percer face aux offres sportives et aux fictions populaires.",
-      "commentary_date": "2026-06-18"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-19T11:43:59.609373Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-19T11:43:59.611415Z"
+  "last_updated": "2026-06-19T11:44:11.751927Z"
 }
