@@ -1,6 +1,86 @@
 {
   "date": "2026-06-19",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-19",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "FOOT-COUPE DU MONDE : FOOT-MATCH \\ ETATS-UNIS - AUSTRALIE RETRANSMISSION D'EVENEMENTS SPORTIFS",
+          "program_fr": null,
+          "viewers": 3166000,
+          "share": 20.8,
+          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football_1998"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MASK SINGER",
+          "program_fr": null,
+          "viewers": 1991000,
+          "share": 12.7,
+          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mask_Singer"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CAPITAINE MARLEAU \\ LE PRIX A PAYER",
+          "program_fr": null,
+          "viewers": 1920000,
+          "share": 12.4,
+          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
+        },
+        {
+          "rank": 4,
+          "channel": "Canal+",
+          "channel_color": "green",
+          "program": "EMISSIONS CRYPTEES",
+          "program_fr": null,
+          "viewers": 1199000,
+          "share": 7.7,
+          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
+        },
+        {
+          "rank": 5,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "MUSIQUES EN FETE \\ EN DIRECT DES CHOREGIES D'ORANGE VARIETES",
+          "program_fr": null,
+          "viewers": 817000,
+          "share": 5.3,
+          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Orange_%28Vaucluse%29"
+        }
+      ],
+      "scraped_at": "2026-06-20T10:15:34.626413Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 19 juin, M6 s'arroge la tête du prime time avec la retransmission d'un match de la Coupe du Monde, attirant 3,17 millions de téléspectateurs et 20,8% de part d'audience. Ce score est en retrait par rapport aux rencontres précédentes de la compétition sur la même chaîne, notamment le match du 15 juin qui avait rassemblé 4,12 millions de personnes. La stratégie de M6, qui domine les soirées de la semaine grâce à la diffusion des matchs, se confirme face aux offres de divertissement de TF1 et de fiction de France 2. \"Mask Singer\" sur TF1 réalise une performance honorable avec 1,99 million de curieux (12,7% PDM), tandis que France 2 et sa fiction \"Capitaine Marleau\" rassemblent 1,92 million de téléspectateurs (12,4% PDM). La fragmentation des audiences, accentuée par la TNT, reste une toile de fond structurelle du marché audiovisuel français.",
+      "commentary_date": "2026-06-19"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "La diffusion de la pré-compétition de la Coupe du Monde de football sur La 1 s'impose en tête des audiences du prime time espagnol avec 2,10 millions de téléspectateurs et 19,1% de part de marché, confirmant la puissance des événements sportifs sur la chaîne publique. Ce score, bien que légèrement inférieur aux 2,15 millions enregistrés le 12 juin pour une autre rencontre, surpasse les programmes habituels des concurrents directs. Antena 3, avec \"El Hormiguero\", enregistre 1,34 million de fidèles, un chiffre en retrait par rapport aux 1,64 million du 15 juin, démontrant la difficulté de maintenir son leadership access face à une offre sportive attractive. La troisième place est occupée par Cuatro, dont le magazine \"Horizonte\" atteint 1 million de téléspectateurs, une position stable dans la fourchette haute de ses performances récentes. La chaîne Telecinco, habituellement solide sur ses rendez-vous de divertissement, se retrouve reléguée à la quatrième position avec \"First Dates\", signe d'une possible réorganisation de ses grilles face à la concurrence. La 1 confirme ainsi sa position de leader sur la semaine, bénéficiant de la dynamique des compétitions internationales.",
       "commentary_date": "2026-06-18"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-19",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-20T10:15:43.954843Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "Le dispositif de couverture des Mondiaux 2026 sur Rai 1 maintient sa domination, captant 3,38 millions de téléspectateurs et 22,4% de part de marché ce 19 juin. Cette performance, bien qu'inférieure aux pics enregistrés la semaine précédente, comme les 5,69 millions du 16 juin (31,6% PDM), confirme la capacité de la chaîne publique à mobiliser un large public en prime time face à la concurrence. Canale 5, avec son divertissement « L’Erede », se positionne en deuxième force avec 1,53 million de fidèles (13,4% PDM), un score en légère hausse par rapport à la soirée du 18 juin (1,20 M, 9.6%). Rete 4, avec le magazine d'actualité « Quarto Grado », clôture ce podium de la soirée, atteignant 1,18 million de téléspectateurs (11,4% PDM), un résultat stable. L'offre de Rai 3 et Italia 1 reste sur des audiences plus confidentielles, se partageant le reste de l'audimat. La stratégie de Rai 1 de capitaliser sur l'événement sportif s'avère payante pour asseoir son leadership historique, reléguant les offres de divertissement et d'information des chaînes privées à des positions secondaires.",
       "commentary_date": "2026-06-19"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-19",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "FOOT-COUPE DU MONDE : FOOT-MATCH \\ ETATS-UNIS - AUSTRALIE RETRANSMISSION D'EVENEMENTS SPORTIFS",
-          "program_fr": null,
-          "viewers": 3166000,
-          "share": 20.8,
-          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football_1998"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MASK SINGER",
-          "program_fr": null,
-          "viewers": 1991000,
-          "share": 12.7,
-          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mask_Singer"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CAPITAINE MARLEAU \\ LE PRIX A PAYER",
-          "program_fr": null,
-          "viewers": 1920000,
-          "share": 12.4,
-          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
-        },
-        {
-          "rank": 4,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
-          "program_fr": null,
-          "viewers": 1199000,
-          "share": 7.7,
-          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
-        },
-        {
-          "rank": 5,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "MUSIQUES EN FETE \\ EN DIRECT DES CHOREGIES D'ORANGE VARIETES",
-          "program_fr": null,
-          "viewers": 817000,
-          "share": 5.3,
-          "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Orange_%28Vaucluse%29"
-        }
-      ],
-      "scraped_at": "2026-06-20T10:15:34.626413Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Ce 19 juin, M6 s'arroge la tête du prime time avec la retransmission d'un match de la Coupe du Monde, attirant 3,17 millions de téléspectateurs et 20,8% de part d'audience. Ce score est en retrait par rapport aux rencontres précédentes de la compétition sur la même chaîne, notamment le match du 15 juin qui avait rassemblé 4,12 millions de personnes. La stratégie de M6, qui domine les soirées de la semaine grâce à la diffusion des matchs, se confirme face aux offres de divertissement de TF1 et de fiction de France 2. \"Mask Singer\" sur TF1 réalise une performance honorable avec 1,99 million de curieux (12,7% PDM), tandis que France 2 et sa fiction \"Capitaine Marleau\" rassemblent 1,92 million de téléspectateurs (12,4% PDM). La fragmentation des audiences, accentuée par la TNT, reste une toile de fond structurelle du marché audiovisuel français.",
-      "commentary_date": "2026-06-19"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-20T10:15:43.954843Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-20T10:15:43.956977Z"
+  "last_updated": "2026-06-20T10:15:52.870483Z"
 }
