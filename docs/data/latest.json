@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fu%C3%9Fball-WM+2026%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_broadcasting_rights"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Der+Alte%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Der_Alte"
         },
         {
           "rank": 4,
@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fu%C3%9Fball-WM+2026%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_broadcasting_rights"
         },
         {
           "rank": 5,
@@ -72,10 +72,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22SOKO+Leipzig%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Leipzig_Homicide"
         }
       ],
-      "scraped_at": "2026-06-20T14:53:46.924655Z",
+      "scraped_at": "2026-06-20T15:55:04.679407Z",
       "status": "ok",
       "error": null,
       "commentary": "La Coupe du Monde de football continue de structurer les audiences du prime time allemand, comme en témoigne la présence de deux programmes sportifs dans le top 2 de ce vendredi 19 juin. La rencontre opposant les États-Unis à l'Australie réalise une part de marché de 35.0%, devançant de peu le journal « Tagesthemen » sur Das Erste, qui obtient 33.9% de PDA avec 6,50 millions de téléspectateurs. Cette performance du sport, bien que forte, est légèrement inférieure à celle du match du 12 juin (34.7% de PDA), mais supérieure à celle du 15 juin (33.5% de PDA). La fiction « Der Alte » se positionne en troisième place avec 3,93 millions de téléspectateurs, un score en retrait par rapport à sa performance du 12 juin (4,30 millions). La chaîne publique ZDF, avec sa série « SOKO Leipzig », enregistre 2,21 millions de téléspectateurs, une audience modeste dans ce contexte concurrentiel dominé par le football et les journaux d'information.",
@@ -88,10 +88,76 @@
       "date": "2026-06-19",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-06-20T14:53:47.464360Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Futbol:Copa Mundial (Estados Unidos-Australia:Previa)",
+          "program_fr": null,
+          "viewers": 1939000,
+          "share": 20.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Tu Cara Me Suena",
+          "program_fr": null,
+          "viewers": 1304000,
+          "share": 19.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "¡De Viernes!:Express",
+          "program_fr": null,
+          "viewers": 628000,
+          "share": 6.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "D.Reg(Cifras y Letras)",
+          "program_fr": null,
+          "viewers": 592000,
+          "share": 6.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22D.Reg%28Cifras+y+Letras%29%22+La+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 548000,
+          "share": 5.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-20T15:55:06.531798Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 conforte la chaîne publique dans sa position de leader du prime time, comme en témoigne la soirée du 19 juin avec 1,94 million de téléspectateurs et 20,9% de part d'audience pour la pré-compétition. Ce score, bien que légèrement inférieur à celui du 12 juin (2,15 M, 22.5%) ou du 16 juin (3,32 M, 27.6%), maintient La 1 devant Antena 3 et son divertissement habituel « Tu Cara Me Suena », qui enregistre 1,30 million de curieux et 19,5% de PDM. La stratégie de contre-programmation de La 1, axée sur les grands événements sportifs, semble porter ses fruits face à l'offre plus stable des chaînes privées. La faiblesse relative de Telecinco, dont le rendez-vous « ¡De Viernes!:Express » ne dépasse pas les 628 000 téléspectateurs (6,5% PDM), illustre la difficulté des chaînes généralistes à rivaliser avec les événements sportifs majeurs ou les programmes à fort potentiel de fidélisation comme « El Hormiguero » sur Antena 3, qui structure la case access.",
       "commentary_date": "2026-06-19"
     },
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-20T14:53:51.317380Z",
+      "scraped_at": "2026-06-20T15:55:11.155007Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Indiana+Jones+e+il+tempio+maledetto%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-06-20T14:53:50.263669Z",
+      "scraped_at": "2026-06-20T15:55:09.987667Z",
       "status": "ok",
       "error": null,
       "commentary": "Le dispositif de couverture des Mondiaux 2026 sur Rai 1 maintient sa domination, captant 3,38 millions de téléspectateurs et 22,4% de part de marché ce 19 juin. Cette performance, bien qu'inférieure aux pics enregistrés la semaine précédente, comme les 5,69 millions du 16 juin (31,6% PDM), confirme la capacité de la chaîne publique à mobiliser un large public en prime time face à la concurrence. Canale 5, avec son divertissement « L’Erede », se positionne en deuxième force avec 1,53 million de fidèles (13,4% PDM), un score en légère hausse par rapport à la soirée du 18 juin (1,20 M, 9.6%). Rete 4, avec le magazine d'actualité « Quarto Grado », clôture ce podium de la soirée, atteignant 1,18 million de téléspectateurs (11,4% PDM), un résultat stable. L'offre de Rai 3 et Italia 1 reste sur des audiences plus confidentielles, se partageant le reste de l'audimat. La stratégie de Rai 1 de capitaliser sur l'événement sportif s'avère payante pour asseoir son leadership historique, reléguant les offres de divertissement et d'information des chaînes privées à des positions secondaires.",
@@ -208,7 +274,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-capitaine-marleau-est-elle-arrivee-en-tete-des-audiences-face-au-match-etats-unis-australie/655565",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football_1998"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football_2018"
         },
         {
           "rank": 2,
@@ -263,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Orange_%28Vaucluse%29"
         }
       ],
-      "scraped_at": "2026-06-20T14:53:42.481395Z",
+      "scraped_at": "2026-06-20T15:54:58.668267Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 19 juin, M6 s'arroge la tête du prime time avec la retransmission d'un match de la Coupe du Monde, attirant 3,17 millions de téléspectateurs et 20,8% de part d'audience. Ce score est en retrait par rapport aux rencontres précédentes de la compétition sur la même chaîne, notamment le match du 15 juin qui avait rassemblé 4,12 millions de personnes. La stratégie de M6, qui domine les soirées de la semaine grâce à la diffusion des matchs, se confirme face aux offres de divertissement de TF1 et de fiction de France 2. \"Mask Singer\" sur TF1 réalise une performance honorable avec 1,99 million de curieux (12,7% PDM), tandis que France 2 et sa fiction \"Capitaine Marleau\" rassemblent 1,92 million de téléspectateurs (12,4% PDM). La fragmentation des audiences, accentuée par la TNT, reste une toile de fond structurelle du marché audiovisuel français.",
       "commentary_date": "2026-06-19"
     }
   },
-  "last_updated": "2026-06-20T14:53:51.319692Z"
+  "last_updated": "2026-06-20T15:55:11.156769Z"
 }
