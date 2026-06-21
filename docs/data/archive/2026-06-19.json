@@ -168,10 +168,76 @@
       "date": "2026-06-19",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-06-20T17:43:13.204911Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Futbol:Copa Mundial (Estados Unidos-Australia:Previa)",
+          "program_fr": null,
+          "viewers": 1939000,
+          "share": 20.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Tu Cara Me Suena",
+          "program_fr": null,
+          "viewers": 1304000,
+          "share": 19.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "¡De Viernes!:Express",
+          "program_fr": null,
+          "viewers": 628000,
+          "share": 6.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "D.Reg(Cifras y Letras)",
+          "program_fr": null,
+          "viewers": 592000,
+          "share": 6.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22D.Reg%28Cifras+y+Letras%29%22+La+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 548000,
+          "share": 5.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-junio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-21T10:49:56.993849Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 conforte la chaîne publique dans sa position de leader du prime time, comme en témoigne la soirée du 19 juin avec 1,94 million de téléspectateurs et 20,9% de part d'audience pour la pré-compétition. Ce score, bien que légèrement inférieur à celui du 12 juin (2,15 M, 22.5%) ou du 16 juin (3,32 M, 27.6%), maintient La 1 devant Antena 3 et son divertissement habituel « Tu Cara Me Suena », qui enregistre 1,30 million de curieux et 19,5% de PDM. La stratégie de contre-programmation de La 1, axée sur les grands événements sportifs, semble porter ses fruits face à l'offre plus stable des chaînes privées. La faiblesse relative de Telecinco, dont le rendez-vous « ¡De Viernes!:Express » ne dépasse pas les 628 000 téléspectateurs (6,5% PDM), illustre la difficulté des chaînes généralistes à rivaliser avec les événements sportifs majeurs ou les programmes à fort potentiel de fidélisation comme « El Hormiguero » sur Antena 3, qui structure la case access.",
       "commentary_date": "2026-06-19"
     },
@@ -270,5 +336,5 @@
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-20T17:43:18.180619Z"
+  "last_updated": "2026-06-21T10:49:56.996148Z"
 }
