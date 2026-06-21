@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 4,
@@ -59,10 +59,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Der+Z%C3%BCrich-Krimi%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Epp"
         }
       ],
-      "scraped_at": "2026-06-21T14:57:45.088522Z",
+      "scraped_at": "2026-06-21T16:12:03.454216Z",
       "status": "partial",
       "error": null,
       "commentary": "La diffusion de la Coupe du Monde de football sur la chaîne publique ZDF bouleverse les hiérarchies établies. Le match de la compétition, diffusé le 20 juin, capte 18,26 millions de téléspectateurs et réalise une part d'audience de 72,1%, éclipsant les programmes d'information habituels de Das Erste et ZDF. Cette performance contraste fortement avec les audiences du 13 juin, où la même émission sportive avait rassemblé 6,78 millions de personnes, soit une augmentation de plus de 11 millions de téléspectateurs en une semaine. La compétition sportive s'impose comme un puissant marqueur d'audience, confirmant la capacité des événements d'envergure à mobiliser un public large, au détriment des rendez-vous d'information et de fiction plus réguliers. La domination du ZDF sur cette soirée met en lumière la stratégie de mise en avant de ces droits sportifs majeurs dans sa grille.",
@@ -76,7 +76,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-21T14:57:46.465906Z",
+      "scraped_at": "2026-06-21T16:12:04.243110Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 conforte la chaîne publique dans sa position de leader du prime time, comme en témoigne la soirée du 19 juin avec 1,94 million de téléspectateurs et 20,9% de part d'audience pour la pré-compétition. Ce score, bien que légèrement inférieur à celui du 12 juin (2,15 M, 22.5%) ou du 16 juin (3,32 M, 27.6%), maintient La 1 devant Antena 3 et son divertissement habituel « Tu Cara Me Suena », qui enregistre 1,30 million de curieux et 19,5% de PDM. La stratégie de contre-programmation de La 1, axée sur les grands événements sportifs, semble porter ses fruits face à l'offre plus stable des chaînes privées. La faiblesse relative de Telecinco, dont le rendez-vous « ¡De Viernes!:Express » ne dépasse pas les 628 000 téléspectateurs (6,5% PDM), illustre la difficulté des chaînes généralistes à rivaliser avec les événements sportifs majeurs ou les programmes à fort potentiel de fidélisation comme « El Hormiguero » sur Antena 3, qui structure la case access.",
@@ -90,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-21T14:57:50.663652Z",
+      "scraped_at": "2026-06-21T16:12:10.539164Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -115,7 +115,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-20-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mondiali+2026%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Official_FIFA_World_Cup_2026_Album"
         },
         {
           "rank": 2,
@@ -128,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-20-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ciao_Darwin"
         },
         {
           "rank": 3,
@@ -170,7 +170,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Piedone+a+Hong+Kong%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-06-21T14:57:49.556928Z",
+      "scraped_at": "2026-06-21T16:12:09.415049Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 maintient une domination nette du prime time italien, captant 30.3% de part de marché ce 20 juin. Ce chiffre, bien qu'inférieur aux pics observés durant la semaine (notamment les 5,69 millions de téléspectateurs le 16 juin), reste supérieur à la moyenne hebdomadaire de la chaîne sur la période étudiée. La stratégie de Rai 1 semble capitaliser sur un événement sportif fédérateur, reléguant ses concurrents directs du duopole Rai/Mediaset à des positions secondaires. Canale 5, avec « Ciao Darwin », se positionne en deuxième force avec 14.4% de PDM, un score stable par rapport à la semaine précédente. Les chaînes secondaires comme Rai 2, Rete 4 et Rai 3 se disputent les parts d'audience restantes, avec des programmes aux formats variés, des fictions aux magazines d'information.",
@@ -250,12 +250,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
         }
       ],
-      "scraped_at": "2026-06-21T14:57:39.554238Z",
+      "scraped_at": "2026-06-21T16:11:54.374954Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 20 juin, France 3 s'empare de la tête des audiences avec une fiction qui rassemble 3,02 millions de téléspectateurs, soit 20,8% de part de marché. Cette performance place la chaîne publique en tête des généralistes, profitant d'un contexte de fin de semaine où les offres de divertissement et de sport, qui dominaient la semaine, semblent moins prégnantes. M6, avec son magazine consacré à la Coupe du Monde de la FIFA, se positionne en deuxième place avec 1,92 million de fidèles (13,7% PDM), une audience en retrait par rapport aux rencontres de football retransmises précédemment. France 2, avec la Fête de la Musique, enregistre 1,41 million de téléspectateurs (9,9% PDM), une audience plus modeste comparée aux soirées de la semaine précédente qui voyaient ses fictions policières dépasser les 2 millions de curieux. TF1, avec le Grand Concours, se retrouve en quatrième position avec 1,27 million de téléspectateurs (8,8% PDM), marquant une baisse significative par rapport aux programmes de flux ou aux séries diffusés en début de semaine. La domination de M6 sur la semaine s'interrompt donc ce soir-là, au profit d'une offre plus traditionnelle sur France 3.",
       "commentary_date": "2026-06-20"
     }
   },
-  "last_updated": "2026-06-21T14:57:50.665733Z"
+  "last_updated": "2026-06-21T16:12:10.541294Z"
 }
