@@ -1,6 +1,86 @@
 {
   "date": "2026-06-21",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-21",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE NOUVEAU STAGIAIRE",
+          "program_fr": null,
+          "viewers": 2048000,
+          "share": 13.3,
+          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Nouveau_Stagiaire"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "IRIS ET LES HOMMES",
+          "program_fr": null,
+          "viewers": 1997000,
+          "share": 11.9,
+          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Iris_et_les_Hommes"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "HUDSON ET REX \\ COUP DOUBLE",
+          "program_fr": null,
+          "viewers": 1721000,
+          "share": 10.0,
+          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hudson_et_Rex"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "1939-1940 UNE ETRANGE DEFAITE",
+          "program_fr": null,
+          "viewers": 863000,
+          "share": 5.1,
+          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27%C3%89trange_D%C3%A9faite"
+        },
+        {
+          "rank": 5,
+          "channel": "TFX",
+          "channel_color": "coral",
+          "program": "CAMPING CARS: LES VACANCES DE LEUR VIE",
+          "program_fr": null,
+          "viewers": 415000,
+          "share": 2.4,
+          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping-car"
+        }
+      ],
+      "scraped_at": "2026-06-22T13:07:55.747873Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de TF1, \"Le Nouveau Stagiaire\", s'adjuge la première place avec 2,05 millions de téléspectateurs et 13,3% de part de marché, une performance modeste par rapport aux scores habituels du groupe, notamment en comparaison des 2,85 millions de téléspectateurs enregistrés le 18 juin pour \"Zodiaque\". France 2, avec \"Iris et les Hommes\", se positionne juste derrière avec 2 millions de spectateurs et 11,9% de PDA, un score qui la place en léger retrait par rapport à la moyenne de ses fictions de prime time de la semaine. France 3, proposant \"Hudson et Rex\", recueille 1,72 million de curieux, un résultat inférieur à ses meilleures audiences, notamment les 3,02 millions du 20 juin avec \"Meurtres à Montauban\". La fragmentation de l'audience, accentuée par les retransmissions sportives de M6 sur la semaine écoulée, rend difficile l'établissement d'une tendance claire hors événements exceptionnels. La chaîne privée M6, leader sur la semaine grâce au football, n'est pas représentée dans ce classement du 21 juin.",
+      "commentary_date": "2026-06-21"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -68,20 +148,6 @@
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 conforte la chaîne publique dans sa position de leader du prime time, comme en témoigne la soirée du 19 juin avec 1,94 million de téléspectateurs et 20,9% de part d'audience pour la pré-compétition. Ce score, bien que légèrement inférieur à celui du 12 juin (2,15 M, 22.5%) ou du 16 juin (3,32 M, 27.6%), maintient La 1 devant Antena 3 et son divertissement habituel « Tu Cara Me Suena », qui enregistre 1,30 million de curieux et 19,5% de PDM. La stratégie de contre-programmation de La 1, axée sur les grands événements sportifs, semble porter ses fruits face à l'offre plus stable des chaînes privées. La faiblesse relative de Telecinco, dont le rendez-vous « ¡De Viernes!:Express » ne dépasse pas les 628 000 téléspectateurs (6,5% PDM), illustre la difficulté des chaînes généralistes à rivaliser avec les événements sportifs majeurs ou les programmes à fort potentiel de fidélisation comme « El Hormiguero » sur Antena 3, qui structure la case access.",
       "commentary_date": "2026-06-19"
-    },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-21",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-22T13:08:06.464741Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
     },
     "IT": {
       "country_code": "IT",
@@ -163,86 +229,20 @@
       "commentary": "Le prime time italien du 21 juin est dominé par la diffusion des « Mondiali 2026 » sur Rai 1, qui rassemble 4,00 millions de téléspectateurs et 26,9% de part de marché. Cette performance, bien que solide, marque une légère érosion par rapport aux pics observés en début de semaine, où la même compétition avait atteint jusqu'à 5,69 millions de curieux le 16 juin. La fiction de Canale 5, « Racconto di una Notte », se positionne en deuxième place avec 1,85 million de téléspectateurs, consolidant ainsi la stratégie de ce canal privé de s'appuyer sur des séries pour capter une part significative de l'audience. La troisième place est occupée par Italia 1 avec le film « My Spy – La città eterna », qui enregistre 886 000 téléspectateurs, démontrant la difficulté des chaînes secondaires à concurrencer les offres des leaders historiques sur cette case horaire. L'analyse des sept derniers jours confirme la prédominance de Rai 1 en tête du prime time, avec une constance dans la diffusion sportive.",
       "commentary_date": "2026-06-21"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-21",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE NOUVEAU STAGIAIRE",
-          "program_fr": null,
-          "viewers": 2048000,
-          "share": 13.3,
-          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Nouveau_Stagiaire"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "IRIS ET LES HOMMES",
-          "program_fr": null,
-          "viewers": 1997000,
-          "share": 11.9,
-          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Iris_et_les_Hommes"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "HUDSON ET REX \\ COUP DOUBLE",
-          "program_fr": null,
-          "viewers": 1721000,
-          "share": 10.0,
-          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hudson_et_Rex"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "1939-1940 UNE ETRANGE DEFAITE",
-          "program_fr": null,
-          "viewers": 863000,
-          "share": 5.1,
-          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27%C3%89trange_D%C3%A9faite"
-        },
-        {
-          "rank": 5,
-          "channel": "TFX",
-          "channel_color": "coral",
-          "program": "CAMPING CARS: LES VACANCES DE LEUR VIE",
-          "program_fr": null,
-          "viewers": 415000,
-          "share": 2.4,
-          "source_url": "https://www.ozap.com/actu/audiences-robert-de-niro-sur-tf1-et-laure-calamy-sur-france-2-ont-ils-fait-le-poids-face-a-belgiqueiran-sur-m6/655674",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping-car"
-        }
-      ],
-      "scraped_at": "2026-06-22T13:07:55.747873Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de TF1, \"Le Nouveau Stagiaire\", s'adjuge la première place avec 2,05 millions de téléspectateurs et 13,3% de part de marché, une performance modeste par rapport aux scores habituels du groupe, notamment en comparaison des 2,85 millions de téléspectateurs enregistrés le 18 juin pour \"Zodiaque\". France 2, avec \"Iris et les Hommes\", se positionne juste derrière avec 2 millions de spectateurs et 11,9% de PDA, un score qui la place en léger retrait par rapport à la moyenne de ses fictions de prime time de la semaine. France 3, proposant \"Hudson et Rex\", recueille 1,72 million de curieux, un résultat inférieur à ses meilleures audiences, notamment les 3,02 millions du 20 juin avec \"Meurtres à Montauban\". La fragmentation de l'audience, accentuée par les retransmissions sportives de M6 sur la semaine écoulée, rend difficile l'établissement d'une tendance claire hors événements exceptionnels. La chaîne privée M6, leader sur la semaine grâce au football, n'est pas représentée dans ce classement du 21 juin.",
-      "commentary_date": "2026-06-21"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-22T13:08:06.464741Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-22T13:08:06.466954Z"
+  "last_updated": "2026-06-22T13:08:31.760200Z"
 }
