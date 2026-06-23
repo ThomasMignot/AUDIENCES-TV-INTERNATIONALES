@@ -1,6 +1,86 @@
 {
   "date": "2026-06-22",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-22",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MEURTRES AU PARADIS \\ LE MONSTRE MARIN",
+          "program_fr": null,
+          "viewers": 2774000,
+          "share": 16.3,
+          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "CAMPING 2",
+          "program_fr": null,
+          "viewers": 2562000,
+          "share": 16.1,
+          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_2"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "COUPE DU MONDE DE LA FIFA LE MAG MAGAZINE SPORTIF ( avec extraits )",
+          "program_fr": null,
+          "viewers": 2154000,
+          "share": 13.1,
+          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Monde"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA CHANCE DE MA VIE",
+          "program_fr": null,
+          "viewers": 1482000,
+          "share": 9.0,
+          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Chance_de_ma_vie"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "LE TRAIN SIFFLERA TROIS FOIS",
+          "program_fr": null,
+          "viewers": 1057000,
+          "share": 6.2,
+          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_train_sifflera_trois_fois"
+        }
+      ],
+      "scraped_at": "2026-06-23T10:45:15.775222Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 22 juin, France 2 s'empare de la tête des audiences avec 2,77 millions de téléspectateurs pour la fiction \"Meurtres au Paradis\", devançant TF1 et sa rediffusion de \"Camping 2\" (2,56 millions). Cette performance de la chaîne publique intervient alors que M6, leader du prime sur la semaine écoulée avec cinq soirées en tête, propose son magazine sportif lié à la Coupe du Monde, attirant 2,15 millions de curieux. La fiction de France 2 réalise une performance honorable, en légère hausse par rapport à l'épisode diffusé le 15 juin (2,67 millions), et reprend ainsi la pole position face à TF1, dont \"Camping\" attirait 1,71 million de téléspectateurs le même jour. La stratégie de France 2 semble porter ses fruits en proposant une offre de fiction stable dans une case concurrencée par les événements sportifs sur M6 et les offres plus éclectiques des autres chaînes généralistes.",
+      "commentary_date": "2026-06-22"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -28,20 +108,6 @@
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 conforte la chaîne publique dans sa position de leader du prime time, comme en témoigne la soirée du 19 juin avec 1,94 million de téléspectateurs et 20,9% de part d'audience pour la pré-compétition. Ce score, bien que légèrement inférieur à celui du 12 juin (2,15 M, 22.5%) ou du 16 juin (3,32 M, 27.6%), maintient La 1 devant Antena 3 et son divertissement habituel « Tu Cara Me Suena », qui enregistre 1,30 million de curieux et 19,5% de PDM. La stratégie de contre-programmation de La 1, axée sur les grands événements sportifs, semble porter ses fruits face à l'offre plus stable des chaînes privées. La faiblesse relative de Telecinco, dont le rendez-vous « ¡De Viernes!:Express » ne dépasse pas les 628 000 téléspectateurs (6,5% PDM), illustre la difficulté des chaînes généralistes à rivaliser avec les événements sportifs majeurs ou les programmes à fort potentiel de fidélisation comme « El Hormiguero » sur Antena 3, qui structure la case access.",
       "commentary_date": "2026-06-19"
-    },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-22",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-23T10:45:54.435826Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
     },
     "IT": {
       "country_code": "IT",
@@ -123,86 +189,20 @@
       "commentary": "Le concert \"Vita! Il Concerto\" sur Rai 1 enregistre 2,76 millions de téléspectateurs et 20,7% de part de marché ce samedi, marquant une nette décrue par rapport aux retransmissions des Mondiaux de football qui dominaient la case la semaine précédente, atteignant jusqu'à 5,69 millions de curieux le 16 juin. Canale 5, avec la fiction \"Un Nuovo Inizio\", se maintient à 1,68 million de fidèles, une audience stable comparée aux 1,84 million du 15 juin. La compétition pour la deuxième place du prime time voit Italia 1 et Rete 4 se disputer une audience plus fragmentée, cette dernière proposant un magazine d'information politique. La stratégie de Rai 1 semble axée sur la consolidation de son leadership historique en proposant un divertissement musical faute de sport, tandis que Canale 5 poursuit sa programmation de fictions. L'érosion des audiences pour les chaînes secondaires, hors Rai 1, suggère une concentration des téléspectateurs sur les offres des deux grands groupes historiques.",
       "commentary_date": "2026-06-22"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-22",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "MEURTRES AU PARADIS \\ LE MONSTRE MARIN",
-          "program_fr": null,
-          "viewers": 2774000,
-          "share": 16.3,
-          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CAMPING 2",
-          "program_fr": null,
-          "viewers": 2562000,
-          "share": 16.1,
-          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_2"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE LA FIFA LE MAG MAGAZINE SPORTIF ( avec extraits )",
-          "program_fr": null,
-          "viewers": 2154000,
-          "share": 13.1,
-          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Monde"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA CHANCE DE MA VIE",
-          "program_fr": null,
-          "viewers": 1482000,
-          "share": 9.0,
-          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Chance_de_ma_vie"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "LE TRAIN SIFFLERA TROIS FOIS",
-          "program_fr": null,
-          "viewers": 1057000,
-          "share": 6.2,
-          "source_url": "https://www.ozap.com/actu/audiences-meurtres-au-paradis-sur-france-2-plus-fort-que-camping-2-sur-tf1-le-mag-de-la-coupe-du-monde-seulement-3e-sur-m6/655702",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_train_sifflera_trois_fois"
-        }
-      ],
-      "scraped_at": "2026-06-23T10:45:15.775222Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Ce 22 juin, France 2 s'empare de la tête des audiences avec 2,77 millions de téléspectateurs pour la fiction \"Meurtres au Paradis\", devançant TF1 et sa rediffusion de \"Camping 2\" (2,56 millions). Cette performance de la chaîne publique intervient alors que M6, leader du prime sur la semaine écoulée avec cinq soirées en tête, propose son magazine sportif lié à la Coupe du Monde, attirant 2,15 millions de curieux. La fiction de France 2 réalise une performance honorable, en légère hausse par rapport à l'épisode diffusé le 15 juin (2,67 millions), et reprend ainsi la pole position face à TF1, dont \"Camping\" attirait 1,71 million de téléspectateurs le même jour. La stratégie de France 2 semble porter ses fruits en proposant une offre de fiction stable dans une case concurrencée par les événements sportifs sur M6 et les offres plus éclectiques des autres chaînes généralistes.",
-      "commentary_date": "2026-06-22"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-23T10:45:54.435826Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-23T10:45:54.437629Z"
+  "last_updated": "2026-06-23T10:46:03.309972Z"
 }
