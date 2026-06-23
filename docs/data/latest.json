@@ -8,12 +8,65 @@
       "date": "2026-06-22",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-06-23T10:45:49.304748Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f9ee8ecbad0>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
-      "commentary": "Le 21 juin, le « heute journal » de ZDF se positionne en tête des audiences, rassemblant 6,91 millions de téléspectateurs, soit 35% de part de marché. Ce score est significativement supérieur à celui du « Tagesschau » de Das Erste (5,38 millions, 27,5%), qui retrouve sa position habituelle de numéro deux après avoir dominé la veille. La fiction proposée par une chaîne tierce, « Kommissar Van der Valk », ferme le trio de tête avec 2,03 millions de curieux (11,1%). Cette configuration, avec les chaînes publiques en tête, contraste avec la semaine précédente où les retransmissions de la Coupe du Monde de football avaient largement perturbé la hiérarchie habituelle. La domination de Das Erste sur cinq des sept soirées de la semaine précédente s'explique par la forte exposition médiatique des événements sportifs, qui captent un public large. Le retour des journaux télévisés en tête des audiences suggère une reprise des habitudes de consommation plus classiques pour la cible senior, cœur de cible des chaînes publiques allemandes.",
-      "commentary_date": "2026-06-21"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 7399000,
+          "share": 35.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Nord Nord Mord - Sievers und das Ge",
+          "program_fr": null,
+          "viewers": 4586000,
+          "share": 20.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Nord+Nord+Mord%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal",
+          "program_fr": null,
+          "viewers": 2940000,
+          "share": 15.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Fußball-WM 2026: Studio",
+          "program_fr": null,
+          "viewers": 1959000,
+          "share": 25.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Fu%C3%9Fball-WM+2026%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-23T12:13:49.669489Z",
+      "status": "partial",
+      "error": null,
+      "commentary": "La \"Tagesschau\" de Das Erste s'impose de nouveau en tête du prime time, réalisant 35,9% de part de marché avec 7,40 millions de téléspectateurs, un score supérieur à ses deux précédentes diffusions de la semaine (4,30 M le 18 juin, 3,84 M le 16 juin). La fiction concurrente \"Nord Nord Mord - Sievers und das Ge\" sur une chaîne non spécifiée capte 4,59 millions de personnes, démontrant une certaine résilience face à la puissance des journaux d'information des chaînes publiques. Le ZDF, avec son \"heute journal\", se positionne en troisième position, mais reste significativement derrière ses performances du week-end précédent, notamment le 17 juin où le sport avait capté une audience bien plus large. Cette configuration réaffirme la prédominance des chaînes publiques allemandes sur les tranches d'information, bien que le football de la Coupe du Monde ait montré sa capacité à déplacer les curseurs lors des soirées précédentes. La présence du magazine sportif \"Fußball-WM 2026: Studio\" en quatrième position, malgré un taux de 25,6% de PDM, souligne l'impact des événements sportifs majeurs sur la consommation télévisuelle.",
+      "commentary_date": "2026-06-22"
     },
     "ES": {
       "country_code": "ES",
@@ -23,7 +76,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-23T10:45:49.931712Z",
+      "scraped_at": "2026-06-23T12:13:50.324220Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 conforte la chaîne publique dans sa position de leader du prime time, comme en témoigne la soirée du 19 juin avec 1,94 million de téléspectateurs et 20,9% de part d'audience pour la pré-compétition. Ce score, bien que légèrement inférieur à celui du 12 juin (2,15 M, 22.5%) ou du 16 juin (3,32 M, 27.6%), maintient La 1 devant Antena 3 et son divertissement habituel « Tu Cara Me Suena », qui enregistre 1,30 million de curieux et 19,5% de PDM. La stratégie de contre-programmation de La 1, axée sur les grands événements sportifs, semble porter ses fruits face à l'offre plus stable des chaînes privées. La faiblesse relative de Telecinco, dont le rendez-vous « ¡De Viernes!:Express » ne dépasse pas les 628 000 téléspectateurs (6,5% PDM), illustre la difficulté des chaînes généralistes à rivaliser avec les événements sportifs majeurs ou les programmes à fort potentiel de fidélisation comme « El Hormiguero » sur Antena 3, qui structure la case access.",
@@ -37,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-23T10:45:54.435826Z",
+      "scraped_at": "2026-06-23T12:13:53.993132Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -88,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-22-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fall%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Autumn"
         },
         {
           "rank": 4,
@@ -117,7 +170,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Quarta+Repubblica%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-23T10:45:53.420631Z",
+      "scraped_at": "2026-06-23T12:13:52.875716Z",
       "status": "ok",
       "error": null,
       "commentary": "Le concert \"Vita! Il Concerto\" sur Rai 1 enregistre 2,76 millions de téléspectateurs et 20,7% de part de marché ce samedi, marquant une nette décrue par rapport aux retransmissions des Mondiaux de football qui dominaient la case la semaine précédente, atteignant jusqu'à 5,69 millions de curieux le 16 juin. Canale 5, avec la fiction \"Un Nuovo Inizio\", se maintient à 1,68 million de fidèles, une audience stable comparée aux 1,84 million du 15 juin. La compétition pour la deuxième place du prime time voit Italia 1 et Rete 4 se disputer une audience plus fragmentée, cette dernière proposant un magazine d'information politique. La stratégie de Rai 1 semble axée sur la consolidation de son leadership historique en proposant un divertissement musical faute de sport, tandis que Canale 5 poursuit sa programmation de fictions. L'érosion des audiences pour les chaînes secondaires, hors Rai 1, suggère une concentration des téléspectateurs sur les offres des deux grands groupes historiques.",
@@ -197,12 +250,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_train_sifflera_trois_fois"
         }
       ],
-      "scraped_at": "2026-06-23T10:45:15.775222Z",
+      "scraped_at": "2026-06-23T12:13:44.955575Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 22 juin, France 2 s'empare de la tête des audiences avec 2,77 millions de téléspectateurs pour la fiction \"Meurtres au Paradis\", devançant TF1 et sa rediffusion de \"Camping 2\" (2,56 millions). Cette performance de la chaîne publique intervient alors que M6, leader du prime sur la semaine écoulée avec cinq soirées en tête, propose son magazine sportif lié à la Coupe du Monde, attirant 2,15 millions de curieux. La fiction de France 2 réalise une performance honorable, en légère hausse par rapport à l'épisode diffusé le 15 juin (2,67 millions), et reprend ainsi la pole position face à TF1, dont \"Camping\" attirait 1,71 million de téléspectateurs le même jour. La stratégie de France 2 semble porter ses fruits en proposant une offre de fiction stable dans une case concurrencée par les événements sportifs sur M6 et les offres plus éclectiques des autres chaînes généralistes.",
       "commentary_date": "2026-06-22"
     }
   },
-  "last_updated": "2026-06-23T10:45:54.437629Z"
+  "last_updated": "2026-06-23T12:13:53.995361Z"
 }
