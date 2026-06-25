@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Harry_Potter_et_les_Reliques_de_la_Mort"
         }
       ],
-      "scraped_at": "2026-06-25T13:05:23.248444Z",
+      "scraped_at": "2026-06-25T15:25:52.744536Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 3, « Les Bois Assassins », s'empare de la tête des audiences avec 3,17 millions de téléspectateurs et 18,6% de part de marché, marquant une progression par rapport aux 2,49 millions enregistrés pour « Alex Hugo : La Dernière Piste » le 18 juin. TF1, avec la finale de « Koh-Lanta », rassemble 2,62 millions de personnes (15,2% PDM), se positionnant derrière la fiction de la Trois mais devant M6. La Six, dont le magazine de la Coupe du Monde de la FIFA capte 2,42 millions de curieux (13,9% PDM), confirme sa place de leader sur la semaine malgré une légère érosion par rapport à ses scores du week-end précédent. France 2 voit son offre événementielle, « Marc Bloch », atteindre 1,71 million de téléspectateurs (9,9% PDM), un chiffre en retrait par rapport aux succès de ses séries de genre la veille. La fragmentation des audiences, accentuée par la TNT, rend ces performances hebdomadaires particulièrement sensibles aux offres sportives et aux événements ponctuels.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-06-25T13:05:29.385992Z",
+      "scraped_at": "2026-06-25T15:25:57.012207Z",
       "status": "ok",
       "error": null,
       "commentary": "La Coupe du Monde de football 2026 continue de structurer le paysage audiovisuel allemand en prime time, comme en témoigne la domination de la rencontre Suisse-Canada sur la soirée du 24 juin avec 6,66 millions de téléspectateurs et 34% de part de marché. Ce score place la retransmission sportive loin devant les journaux d'information des chaînes publiques, Das Erste et ZDF, qui atteignent respectivement 32,2% et 14,5% de PDM. La compétition de la FIFA s'impose ainsi comme le principal facteur d'attraction, reléguant les offres de fiction, comme \"Solo für Weiss - Tödliche Wahl\" (4,14 M, 20,8% PDM), à des positions secondaires. En comparaison avec la semaine précédente, où la finale du 20 juin avait atteint 18,26 millions de curieux, l'audience du 24 juin semble plus modeste, mais reste significative. Les chaînes publiques, bien que dépassées par l'événement sportif, maintiennent néanmoins une présence notable, particulièrement Das Erste avec son \"Tagesthemen\".",
@@ -168,76 +168,10 @@
       "date": "2026-06-24",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero (Angel Llacer)",
-          "program_fr": null,
-          "viewers": 1503000,
-          "share": 13.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Angel+Llacer%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
-          "program_fr": null,
-          "viewers": 1023000,
-          "share": 9.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-junio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Fifa World Cup 2026",
-          "program_fr": null,
-          "viewers": 945000,
-          "share": 19.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-junio-2026/",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fifa+World+Cup+2026%22+La+1+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates:Summer",
-          "program_fr": null,
-          "viewers": 791000,
-          "share": 8.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-junio-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "El Intermedio",
-          "program_fr": null,
-          "viewers": 707000,
-          "share": 6.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-junio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-25T13:05:30.453379Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-06-25T15:25:57.688306Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 impacte significativement le paysage audiovisuel espagnol, plaçant la chaîne publique en tête des audiences sur la semaine avec trois soirées dominées par le sport. Ce jeudi 24 juin, le match retransmis par La 1 obtient la meilleure part de marché du prime time avec 19.6%, bien que le volume de téléspectateurs soit inférieur aux rencontres précédentes. Antena 3, avec son divertissement \"El Hormiguero\", maintient une présence solide en deuxième position du classement, démontrant la puissance de sa case horaire, mais sa part de marché reste stable autour de 12-13%. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se positionne en troisième place, montrant une certaine résilience face à la compétition sportive. Telecinco et La Sexta ferment le top 5, reflétant une fragmentation des audiences en fin de soirée.",
       "commentary_date": "2026-06-24"
     },
@@ -260,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-24-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mondiali+2026%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Official_FIFA_World_Cup_2026_Album"
         },
         {
           "rank": 2,
@@ -273,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-24-giugno-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Temptation+Island%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Temptation_Island"
         },
         {
           "rank": 3,
@@ -286,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-24-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chi_l%27ha_visto%3F"
         },
         {
           "rank": 4,
@@ -299,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-24-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Big+Game%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Game"
         },
         {
           "rank": 5,
@@ -312,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-24-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mother%E2%80%99s+Instinct%22+Rai+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mothers%27_Instinct_%282024_film%29"
         }
       ],
-      "scraped_at": "2026-06-25T13:05:33.098168Z",
+      "scraped_at": "2026-06-25T15:26:02.111766Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 24 juin, Rai 1, diffusant les « Mondiali 2026 », enregistre 3,67 millions de téléspectateurs et 22,0% de part d'audience. Cette performance, bien que supérieure à celle de Rai 3 et Rai 2, marque un recul par rapport aux diffusions précédentes du même événement, qui dépassaient régulièrement les 4 millions et approchaient les 30% de PDM en début de semaine. La tension concurrentielle se manifeste avec Canale 5 qui, avec son divertissement « Temptation Island », se positionne au plus près avec 3,57 millions de curieux, atteignant une part de marché plus élevée (27,6%) grâce à un public plus captif. L'observation structurelle montre la difficulté pour Rai 1 de maintenir une audience aussi élevée qu'en début de semaine, potentiellement due à la lassitude ou à la captation d'une partie de son public par le divertissement de la chaîne privée. Rai 3, avec son programme d'investigation « Chi l’ha Visto? », conserve une audience stable autour de 1,2 million de téléspectateurs, se maintenant dans sa case habituelle.",
@@ -329,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-25T13:05:34.132890Z",
+      "scraped_at": "2026-06-25T15:26:03.243516Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-25T13:06:07.681764Z"
+  "last_updated": "2026-06-25T15:26:03.245127Z"
 }
