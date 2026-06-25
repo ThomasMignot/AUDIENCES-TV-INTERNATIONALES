@@ -1,6 +1,86 @@
 {
   "date": "2026-06-24",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-24",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "FOOTBALL COUPE DU MONDE \\ SUISSE - CANADA",
+          "program_fr": null,
+          "viewers": 4010000,
+          "share": 24.6,
+          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "INES ET YVAN : L'AMOUR SUR UN FIL",
+          "program_fr": null,
+          "viewers": 2103000,
+          "share": 12.8,
+          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/In%C3%A8s_et_Yvan%2C_l%E2%80%99amour_sur_un_fil"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "GOOD AMERICAN FAMILY \\ CA FAIT TROP MAL",
+          "program_fr": null,
+          "viewers": 1647000,
+          "share": 9.8,
+          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Good_American_Family"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LE CAMPING UN SIECLE DE BONHEUR FRANCAIS",
+          "program_fr": null,
+          "viewers": 1254000,
+          "share": 7.6,
+          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_%28film%2C_2006%29"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "HARRY POTTER ET LES RELIQUES DE LA MORT",
+          "program_fr": null,
+          "viewers": 819000,
+          "share": 5.8,
+          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Harry_Potter_et_les_Reliques_de_la_Mort"
+        }
+      ],
+      "scraped_at": "2026-06-25T10:22:20.947214Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 3, « Les Bois Assassins », s'empare de la tête des audiences avec 3,17 millions de téléspectateurs et 18,6% de part de marché, marquant une progression par rapport aux 2,49 millions enregistrés pour « Alex Hugo : La Dernière Piste » le 18 juin. TF1, avec la finale de « Koh-Lanta », rassemble 2,62 millions de personnes (15,2% PDM), se positionnant derrière la fiction de la Trois mais devant M6. La Six, dont le magazine de la Coupe du Monde de la FIFA capte 2,42 millions de curieux (13,9% PDM), confirme sa place de leader sur la semaine malgré une légère érosion par rapport à ses scores du week-end précédent. France 2 voit son offre événementielle, « Marc Bloch », atteindre 1,71 million de téléspectateurs (9,9% PDM), un chiffre en retrait par rapport aux succès de ses séries de genre la veille. La fragmentation des audiences, accentuée par la TNT, rend ces performances hebdomadaires particulièrement sensibles aux offres sportives et aux événements ponctuels.",
+      "commentary_date": "2026-06-23"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 impacte significativement le paysage audiovisuel espagnol, plaçant la chaîne publique en tête des audiences sur la semaine avec trois soirées dominées par le sport. Ce jeudi 24 juin, le match retransmis par La 1 obtient la meilleure part de marché du prime time avec 19.6%, bien que le volume de téléspectateurs soit inférieur aux rencontres précédentes. Antena 3, avec son divertissement \"El Hormiguero\", maintient une présence solide en deuxième position du classement, démontrant la puissance de sa case horaire, mais sa part de marché reste stable autour de 12-13%. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se positionne en troisième place, montrant une certaine résilience face à la compétition sportive. Telecinco et La Sexta ferment le top 5, reflétant une fragmentation des audiences en fin de soirée.",
       "commentary_date": "2026-06-24"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-24",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-25T10:22:30.267276Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 maintient une position dominante, rassemblant 3,84 millions de téléspectateurs et 29,0% de part de marché ce 23 juin. Ce chiffre marque une légère reprise par rapport aux 3,38 millions enregistrés le 19 juin, mais reste inférieur aux pics observés en début de semaine, notamment les 5,69 millions du 16 juin. La stratégie de Rai 1 semble axée sur le sport comme locomotive du prime time, captant une audience large et fidèle. En face, Canale 5 et son divertissement « Gigi e Vanessa Insieme » se stabilisent autour de 1,67 million de spectateurs, représentant 14,3% de PDM, confirmant une segmentation claire des publics entre les deux chaînes généralistes du duopole Rai-Mediaset. Les autres chaînes, Rai 3, Italia 1 et Rete 4, se disputent les parts de marché résiduelles, avec des scores inférieurs au million de téléspectateurs.",
       "commentary_date": "2026-06-23"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-24",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "FOOTBALL COUPE DU MONDE \\ SUISSE - CANADA",
-          "program_fr": null,
-          "viewers": 4010000,
-          "share": 24.6,
-          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "INES ET YVAN : L'AMOUR SUR UN FIL",
-          "program_fr": null,
-          "viewers": 2103000,
-          "share": 12.8,
-          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/In%C3%A8s_et_Yvan%2C_l%E2%80%99amour_sur_un_fil"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "GOOD AMERICAN FAMILY \\ CA FAIT TROP MAL",
-          "program_fr": null,
-          "viewers": 1647000,
-          "share": 9.8,
-          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Good_American_Family"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LE CAMPING UN SIECLE DE BONHEUR FRANCAIS",
-          "program_fr": null,
-          "viewers": 1254000,
-          "share": 7.6,
-          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_%28film%2C_2006%29"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "HARRY POTTER ET LES RELIQUES DE LA MORT",
-          "program_fr": null,
-          "viewers": 819000,
-          "share": 5.8,
-          "source_url": "https://www.ozap.com/actu/audiences-carton-pour-suissecanada-sur-m6-la-serie-dellen-pompeo-termine-sous-les-10-de-pda-sur-tf1/655745",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Harry_Potter_et_les_Reliques_de_la_Mort"
-        }
-      ],
-      "scraped_at": "2026-06-25T10:22:20.947214Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 3, « Les Bois Assassins », s'empare de la tête des audiences avec 3,17 millions de téléspectateurs et 18,6% de part de marché, marquant une progression par rapport aux 2,49 millions enregistrés pour « Alex Hugo : La Dernière Piste » le 18 juin. TF1, avec la finale de « Koh-Lanta », rassemble 2,62 millions de personnes (15,2% PDM), se positionnant derrière la fiction de la Trois mais devant M6. La Six, dont le magazine de la Coupe du Monde de la FIFA capte 2,42 millions de curieux (13,9% PDM), confirme sa place de leader sur la semaine malgré une légère érosion par rapport à ses scores du week-end précédent. France 2 voit son offre événementielle, « Marc Bloch », atteindre 1,71 million de téléspectateurs (9,9% PDM), un chiffre en retrait par rapport aux succès de ses séries de genre la veille. La fragmentation des audiences, accentuée par la TNT, rend ces performances hebdomadaires particulièrement sensibles aux offres sportives et aux événements ponctuels.",
-      "commentary_date": "2026-06-23"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-25T10:22:30.267276Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-25T10:22:30.269860Z"
+  "last_updated": "2026-06-25T10:23:16.768863Z"
 }
