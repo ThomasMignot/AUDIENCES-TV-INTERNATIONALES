@@ -1,6 +1,86 @@
 {
   "date": "2026-06-25",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-25",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ALEX HUGO : LA PART DU DIABLE",
+          "program_fr": null,
+          "viewers": 2589000,
+          "share": 16.4,
+          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alex_Hugo"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "ZODIAQUE",
+          "program_fr": null,
+          "viewers": 2456000,
+          "share": 15.2,
+          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Zodiaque"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CASH INVESTIGATION \\ ALIMENTS ULTRATRANSFORMES : DANS LES ARRIERE-CUISINES DES INDUSTRIELS",
+          "program_fr": null,
+          "viewers": 1819000,
+          "share": 12.0,
+          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cash_Investigation"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "SCENES DE MENAGES",
+          "program_fr": null,
+          "viewers": 1819000,
+          "share": 11.1,
+          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Sc%C3%A8nes_de_m%C3%A9nages"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "L'AGE D'OR DES DINOSAURES",
+          "program_fr": null,
+          "viewers": 563000,
+          "share": 3.5,
+          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Dinosauria"
+        }
+      ],
+      "scraped_at": "2026-06-26T10:31:32.481473Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La diffusion de la Coupe du Monde de football sur M6 place la chaîne en tête des audiences du prime time du 24 juin, avec 4,01 millions de téléspectateurs et 24,6% de part d'audience pour Suisse-Canada. Ce score est significativement supérieur aux précédentes rencontres de la compétition diffusées sur la même chaîne, dont le pic s'élevait à 3,59 millions (22,3% PDM) le 18 juin. La fiction de France 2, \"Inès et Yvan : l'amour sur un fil\", se positionne en deuxième place avec 2,10 millions de téléspectateurs (12,8% PDM), une performance en retrait par rapport aux audiences habituelles de la chaîne en première partie de soirée, souvent supérieures à 2,5 millions. TF1, avec \"Good American Family\", enregistre 1,65 million de curieux (9,8% PDM), marquant une baisse par rapport à ses scores de la semaine précédente, où la chaîne avait régulièrement dépassé les 2 millions. Cette configuration souligne la capacité des événements sportifs majeurs à capter une large audience et à modifier la hiérarchie habituelle des chaînes généralistes.",
+      "commentary_date": "2026-06-24"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 s'affirme comme un puissant moteur d'audience, captant 2,67 millions de téléspectateurs et 24,7% de part de marché ce jeudi, confirmant son rôle de leader sur la semaine. Ce score dépasse les précédentes rencontres pré-match de la compétition, comme celle du 18 juin (2,10 M, 19,1%), renforçant la position de la chaîne publique face au duopole historique. Antena 3, avec \"El Hormiguero\", maintient sa position d'access le plus fort, attirant 1,38 million de curieux (12,3% PDM), une performance stable par rapport aux jours précédents. La stratégie de contre-programmation de Cuatro avec \"Horizonte: Avance\" semble porter ses fruits, se plaçant en troisième position avec 931 000 téléspectateurs (8,7% PDM), une légère érosion par rapport à la semaine précédente. Telecinco, dont les programmes de divertissement structurent habituellement les soirées, se retrouve reléguée en quatrième position, signe d'une difficulté à rivaliser avec les événements sportifs.",
       "commentary_date": "2026-06-25"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-25",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-26T10:31:40.504654Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Sur la soirée du 24 juin, Rai 1, diffusant les « Mondiali 2026 », enregistre 3,67 millions de téléspectateurs et 22,0% de part d'audience. Cette performance, bien que supérieure à celle de Rai 3 et Rai 2, marque un recul par rapport aux diffusions précédentes du même événement, qui dépassaient régulièrement les 4 millions et approchaient les 30% de PDM en début de semaine. La tension concurrentielle se manifeste avec Canale 5 qui, avec son divertissement « Temptation Island », se positionne au plus près avec 3,57 millions de curieux, atteignant une part de marché plus élevée (27,6%) grâce à un public plus captif. L'observation structurelle montre la difficulté pour Rai 1 de maintenir une audience aussi élevée qu'en début de semaine, potentiellement due à la lassitude ou à la captation d'une partie de son public par le divertissement de la chaîne privée. Rai 3, avec son programme d'investigation « Chi l’ha Visto? », conserve une audience stable autour de 1,2 million de téléspectateurs, se maintenant dans sa case habituelle.",
       "commentary_date": "2026-06-24"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-25",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ALEX HUGO : LA PART DU DIABLE",
-          "program_fr": null,
-          "viewers": 2589000,
-          "share": 16.4,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alex_Hugo"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "ZODIAQUE",
-          "program_fr": null,
-          "viewers": 2456000,
-          "share": 15.2,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Zodiaque"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CASH INVESTIGATION \\ ALIMENTS ULTRATRANSFORMES : DANS LES ARRIERE-CUISINES DES INDUSTRIELS",
-          "program_fr": null,
-          "viewers": 1819000,
-          "share": 12.0,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cash_Investigation"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "SCENES DE MENAGES",
-          "program_fr": null,
-          "viewers": 1819000,
-          "share": 11.1,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Sc%C3%A8nes_de_m%C3%A9nages"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "L'AGE D'OR DES DINOSAURES",
-          "program_fr": null,
-          "viewers": 563000,
-          "share": 3.5,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Dinosauria"
-        }
-      ],
-      "scraped_at": "2026-06-26T10:31:32.481473Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La diffusion de la Coupe du Monde de football sur M6 place la chaîne en tête des audiences du prime time du 24 juin, avec 4,01 millions de téléspectateurs et 24,6% de part d'audience pour Suisse-Canada. Ce score est significativement supérieur aux précédentes rencontres de la compétition diffusées sur la même chaîne, dont le pic s'élevait à 3,59 millions (22,3% PDM) le 18 juin. La fiction de France 2, \"Inès et Yvan : l'amour sur un fil\", se positionne en deuxième place avec 2,10 millions de téléspectateurs (12,8% PDM), une performance en retrait par rapport aux audiences habituelles de la chaîne en première partie de soirée, souvent supérieures à 2,5 millions. TF1, avec \"Good American Family\", enregistre 1,65 million de curieux (9,8% PDM), marquant une baisse par rapport à ses scores de la semaine précédente, où la chaîne avait régulièrement dépassé les 2 millions. Cette configuration souligne la capacité des événements sportifs majeurs à capter une large audience et à modifier la hiérarchie habituelle des chaînes généralistes.",
-      "commentary_date": "2026-06-24"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-26T10:31:40.504654Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-26T10:31:40.506669Z"
+  "last_updated": "2026-06-26T10:32:29.523922Z"
 }
