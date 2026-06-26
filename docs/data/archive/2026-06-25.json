@@ -72,10 +72,10 @@
           "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jurassique"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Dinosauria"
         }
       ],
-      "scraped_at": "2026-06-26T15:13:38.464290Z",
+      "scraped_at": "2026-06-26T16:28:38.815180Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'empare de la tête des audiences du prime time du 25 juin avec la fiction \"Alex Hugo : La part du diable\", qui réunit 2,59 millions de téléspectateurs et 16,4% de part d'audience. La chaîne publique devance TF1 et sa fiction \"Zodiaque\" (2,46 M, 15,2%), marquant un léger recul par rapport aux scores enregistrés lors de la semaine précédente, où la compétition était dominée par la Coupe du Monde de football sur M6. L'information de France 2, \"Cash Investigation\", se classe troisième avec 1,82 million de fidèles (12,0%), un chiffre stable par rapport à la moyenne de ses précédentes diffusions de documentaires. Cette soirée confirme la capacité de France 3 à mobiliser un public sur la case de la fiction, tandis que la stratégie de contre-programmation de M6, axée sur le sport, semble avoir été moins impactante ce jour-là. Les performances des chaînes historiques restent sous pression face à la fragmentation des audiences, une tendance de fond accentuée par la TNT.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22RTL+Aktuell+Spezial%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-06-26T15:13:45.194122Z",
+      "scraped_at": "2026-06-26T16:28:43.609098Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la Coupe du Monde de football 2026 sur une chaîne non spécifiée éclipse les offres traditionnelles le 25 juin, captant 18,47 millions de téléspectateurs et 71,9% de part de marché. Cette performance est notablement supérieure aux scores enregistrés lors des rencontres précédentes de la compétition, comme celle opposant la Suisse au Canada le 24 juin (6,66 millions, 34,0% PDM). La domination du football s'observe également dans le second programme de la soirée, un studio d'analyse, qui rassemble 6,88 millions de personnes. Face à ce phénomène, les chaînes publiques Das Erste et ZDF se retrouvent reléguées, avec leurs journaux et fictions respectifs réalisant des parts de marché significativement plus faibles que lors des soirées hors événement sportif majeur. Par exemple, le \"Tagesschau\" de Das Erste, habituellement en tête ou second du classement hebdomadaire, n'atteint ici que 21,9% de part de marché.",
@@ -168,10 +168,76 @@
       "date": "2026-06-25",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-06-26T15:13:46.109352Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Futbol:Copa Mundial (Ecuador-Alemania:Previa)",
+          "program_fr": null,
+          "viewers": 2665000,
+          "share": 24.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-junio-2026/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Toñi Moreno)",
+          "program_fr": null,
+          "viewers": 1384000,
+          "share": 12.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-junio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28To%C3%B1i+Moreno%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte:Avance",
+          "program_fr": null,
+          "viewers": 931000,
+          "share": 8.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-junio-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates:Summer",
+          "program_fr": null,
+          "viewers": 788000,
+          "share": 7.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-junio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 561000,
+          "share": 5.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-junio-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-26T16:28:45.212518Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La diffusion de la Coupe du Monde de football sur La 1 s'affirme comme un puissant moteur d'audience, captant 2,67 millions de téléspectateurs et 24,7% de part de marché ce jeudi, confirmant son rôle de leader sur la semaine. Ce score dépasse les précédentes rencontres pré-match de la compétition, comme celle du 18 juin (2,10 M, 19,1%), renforçant la position de la chaîne publique face au duopole historique. Antena 3, avec \"El Hormiguero\", maintient sa position d'access le plus fort, attirant 1,38 million de curieux (12,3% PDM), une performance stable par rapport aux jours précédents. La stratégie de contre-programmation de Cuatro avec \"Horizonte: Avance\" semble porter ses fruits, se plaçant en troisième position avec 931 000 téléspectateurs (8,7% PDM), une légère érosion par rapport à la semaine précédente. Telecinco, dont les programmes de divertissement structurent habituellement les soirées, se retrouve reléguée en quatrième position, signe d'une difficulté à rivaliser avec les événements sportifs.",
       "commentary_date": "2026-06-25"
     },
@@ -207,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-25-giugno-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Montmartre%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Montmartre"
         },
         {
           "rank": 3,
@@ -249,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Girl+in+the+Attic%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-06-26T15:13:50.000493Z",
+      "scraped_at": "2026-06-26T16:28:48.435906Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 maintient sa position dominante en tête des audiences italiennes, enregistrant 3,85 millions de téléspectateurs et 28,7% de part de marché. Cette performance, bien que légèrement inférieure aux pics de la semaine précédente, confirme la stratégie de Rai 1 de capitaliser sur les événements sportifs majeurs pour asseoir son leadership historique. La compétition pour la deuxième place s'intensifie, avec Rete 4 et Canale 5 se disputant les téléspectateurs, bien que Canale 5 ait été devancé ce soir-là. L'écart entre le leader Rai 1 et le reste du peloton reste conséquent, illustrant la difficulté des autres chaînes à capter une part significative de l'audience du prime time. La programmation de Rai 1 semble ainsi structurer l'offre, laissant des parts de marché plus réduites aux programmes concurrents.",
@@ -263,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-26T15:13:51.300570Z",
+      "scraped_at": "2026-06-26T16:28:49.647140Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-26T15:13:51.302019Z"
+  "last_updated": "2026-06-26T16:28:49.648071Z"
 }
