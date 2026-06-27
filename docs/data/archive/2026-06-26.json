@@ -135,20 +135,6 @@
       "commentary": "Ce vendredi 26 juin, Antena 3 reprend la tête du prime time avec 12.7% de part de marché grâce à son divertissement « Tu Cara Me Suena:Calentando Motores », devançant La 1 et Telecinco. Ce chiffre est légèrement inférieur à celui de la même émission diffusée le 19 juin (19.5%), qui bénéficiait alors d'un lead-in sportif plus fort. La 1, qui a dominé le classement la semaine passée grâce à la diffusion de matchs de la Coupe du Monde, se retrouve en seconde position avec 9.1% pour un autre divertissement, « La Revuelta ». Telecinco, avec « ¡De Viernes! », réalise une performance de 10.0%, un score en hausse par rapport à son lead-in du 19 juin (6.5%). La structure des grilles de La 1 et Antena 3 montre une stratégie de fidélisation du public, avec des programmes de divertissement établis occupant les cases de prime. Les chaînes de la TNT, Cuatro et La 2, se positionnent plus loin avec des offres de fiction et de magazine culturel.",
       "commentary_date": "2026-06-26"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-26",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-27T09:35:54.245316Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -229,86 +215,20 @@
       "commentary": "La soirée du 26 juin confirme la domination de Rai 1 sur la case du prime time, avec la diffusion des « Mondiali 2026 » qui rassemble 4,35 millions de téléspectateurs et 28,9% de part de marché. Ce score est en légère hausse par rapport à la moyenne des six soirées précédentes où le même programme était diffusé (environ 3,7 millions, 27,0% de PDM sur les 6 jours), et confirme la stratégie de Rai 1 de capitaliser sur cet événement sportif majeur. La principale tension concurrentielle se manifeste entre Rai 1 et Canale 5, cette dernière proposant ce soir « L’Erede » devant 1,67 million de personnes (13,6% PDM), un score en légère progression par rapport à sa moyenne hebdomadaire (environ 1,7 million, 14,0% PDM). Rete 4, avec « Quarto Grado », se positionne en troisième force, atteignant 1,03 million de fidèles (9,7% PDM), un chiffre stable sur la semaine. Le film d'Italia 1, « Indiana Jones », peine à capter l'attention avec 830 000 téléspectateurs (6,5% PDM), tandis que Rai 3 ferme le Top 5 avec un film historique, « Sissi – Destino di un’imperatrice », captant 722 000 curieux (4,9% PDM).",
       "commentary_date": "2026-06-26"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-06-25",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ALEX HUGO : LA PART DU DIABLE",
-          "program_fr": null,
-          "viewers": 2589000,
-          "share": 16.4,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alex_Hugo"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "ZODIAQUE",
-          "program_fr": null,
-          "viewers": 2456000,
-          "share": 15.2,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Zodiaque"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CASH INVESTIGATION \\ ALIMENTS ULTRATRANSFORMES : DANS LES ARRIERE-CUISINES DES INDUSTRIELS",
-          "program_fr": null,
-          "viewers": 1819000,
-          "share": 12.0,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cash_Investigation"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "SCENES DE MENAGES",
-          "program_fr": null,
-          "viewers": 1819000,
-          "share": 11.1,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Sc%C3%A8nes_de_m%C3%A9nages"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "L'AGE D'OR DES DINOSAURES",
-          "program_fr": null,
-          "viewers": 563000,
-          "share": 3.5,
-          "source_url": "https://www.ozap.com/actu/audiences-apres-un-lancement-decevant-zodiaque-a-t-elle-reussi-a-prendre-le-leadership-en-labsence-de-match-a-21h-sur-m6/655763",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jurassique"
-        }
-      ],
-      "scraped_at": "2026-06-27T09:35:44.038844Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'empare de la tête des audiences du prime time du 25 juin avec la fiction \"Alex Hugo : La part du diable\", qui réunit 2,59 millions de téléspectateurs et 16,4% de part d'audience. La chaîne publique devance TF1 et sa fiction \"Zodiaque\" (2,46 M, 15,2%), marquant un léger recul par rapport aux scores enregistrés lors de la semaine précédente, où la compétition était dominée par la Coupe du Monde de football sur M6. L'information de France 2, \"Cash Investigation\", se classe troisième avec 1,82 million de fidèles (12,0%), un chiffre stable par rapport à la moyenne de ses précédentes diffusions de documentaires. Cette soirée confirme la capacité de France 3 à mobiliser un public sur la case de la fiction, tandis que la stratégie de contre-programmation de M6, axée sur le sport, semble avoir été moins impactante ce jour-là. Les performances des chaînes historiques restent sous pression face à la fragmentation des audiences, une tendance de fond accentuée par la TNT.",
-      "commentary_date": "2026-06-25"
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-06-26",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-27T09:35:54.245316Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-27T09:35:54.247142Z"
+  "last_updated": "2026-06-27T09:36:04.473257Z"
 }
