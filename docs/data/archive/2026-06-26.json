@@ -49,7 +49,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Nord+bei+Nordost%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-27T15:39:33.129069Z",
+      "scraped_at": "2026-06-27T17:20:17.352997Z",
       "status": "partial",
       "error": null,
       "commentary": "Le dispositif de la ZDF autour de la Coupe du Monde de football 2026 s'affirme comme un moteur d'audience majeur, captant 7,39 millions de téléspectateurs et 38,6% de part de marché ce 26 juin. Cette performance contraste avec les journées précédentes où la chaîne publique avait déjà largement dominé, notamment le 20 juin avec 18,26 millions de curieux pour une rencontre. La chaîne publique Das Erste se positionne en seconde ligne avec son journal \"Tagesschau\", attirant 4,12 millions de personnes, un chiffre inférieur à sa moyenne de la semaine (environ 5,1 millions). La compétition pour la troisième place du prime time voit s'affronter des offres plus hétérogènes, avec cette fois une fiction (\"Nord bei Nordost - Westend\") qui s'intercale, loin des scores de certains matchs de la semaine. La présence quasi constante de la Coupe du Monde dans le top 3 sur la période étudiée, et particulièrement sa domination du 20 et 25 juin, met en lumière la puissance des événements sportifs sur le marché allemand, au détriment des programmes plus linéaires habituels.",
@@ -62,10 +62,76 @@
       "date": "2026-06-26",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-06-27T15:39:33.751317Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Tu Cara Me Suena:Calentando Motores",
+          "program_fr": null,
+          "viewers": 1167000,
+          "share": 12.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta:Viernes (Kase.o)",
+          "program_fr": null,
+          "viewers": 826000,
+          "share": 9.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta%22+La+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "¡De Viernes!",
+          "program_fr": null,
+          "viewers": 719000,
+          "share": 10.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 490000,
+          "share": 5.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "El Blockbuster (Hasta el Ultimo Hombre(Hacksaw Ridge))",
+          "program_fr": null,
+          "viewers": 474000,
+          "share": 5.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Hasta+el+Ultimo+Hombre%28Hacksaw+Ridge%29%29%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-06-27T17:20:18.474609Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Ce vendredi 26 juin, Antena 3 reprend la tête du prime time avec 12.7% de part de marché grâce à son divertissement « Tu Cara Me Suena:Calentando Motores », devançant La 1 et Telecinco. Ce chiffre est légèrement inférieur à celui de la même émission diffusée le 19 juin (19.5%), qui bénéficiait alors d'un lead-in sportif plus fort. La 1, qui a dominé le classement la semaine passée grâce à la diffusion de matchs de la Coupe du Monde, se retrouve en seconde position avec 9.1% pour un autre divertissement, « La Revuelta ». Telecinco, avec « ¡De Viernes! », réalise une performance de 10.0%, un score en hausse par rapport à son lead-in du 19 juin (6.5%). La structure des grilles de La 1 et Antena 3 montre une stratégie de fidélisation du public, avec des programmes de divertissement établis occupant les cases de prime. Les chaînes de la TNT, Cuatro et La 2, se positionnent plus loin avec des offres de fiction et de magazine culturel.",
       "commentary_date": "2026-06-26"
     },
@@ -143,7 +209,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Sissi%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-06-27T15:39:36.439066Z",
+      "scraped_at": "2026-06-27T17:20:21.181679Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 26 juin confirme la domination de Rai 1 sur la case du prime time, avec la diffusion des « Mondiali 2026 » qui rassemble 4,35 millions de téléspectateurs et 28,9% de part de marché. Ce score est en légère hausse par rapport à la moyenne des six soirées précédentes où le même programme était diffusé (environ 3,7 millions, 27,0% de PDM sur les 6 jours), et confirme la stratégie de Rai 1 de capitaliser sur cet événement sportif majeur. La principale tension concurrentielle se manifeste entre Rai 1 et Canale 5, cette dernière proposant ce soir « L’Erede » devant 1,67 million de personnes (13,6% PDM), un score en légère progression par rapport à sa moyenne hebdomadaire (environ 1,7 million, 14,0% PDM). Rete 4, avec « Quarto Grado », se positionne en troisième force, atteignant 1,03 million de fidèles (9,7% PDM), un chiffre stable sur la semaine. Le film d'Italia 1, « Indiana Jones », peine à capter l'attention avec 830 000 téléspectateurs (6,5% PDM), tandis que Rai 3 ferme le Top 5 avec un film historique, « Sissi – Destino di un’imperatrice », captant 722 000 curieux (4,9% PDM).",
@@ -157,12 +223,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-27T15:39:38.518402Z",
+      "scraped_at": "2026-06-27T17:20:22.239923Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-27T15:39:38.519751Z"
+  "last_updated": "2026-06-27T17:20:22.241278Z"
 }
