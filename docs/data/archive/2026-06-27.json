@@ -59,7 +59,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-mask-singer-sur-tf1-ou-le-top-14-sur-france-2-quelle-finale-a-le-plus-attire-de-telespectateurs/655781",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Patrick_S%C3%A9bastien"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nuit_de_folie_%28chanson%29"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
         }
       ],
-      "scraped_at": "2026-06-28T15:40:35.780518Z",
+      "scraped_at": "2026-06-28T17:23:08.239164Z",
       "status": "ok",
       "error": null,
       "commentary": "La finale du Championnat de France de rugby sur France 2 s'impose avec 3,76 millions de téléspectateurs et 24,5% de part d'audience, une performance notable dans un paysage concurrentiel fragmenté. Cette audience place le sport en tête des programmes de la semaine, là où la semaine précédente, la Coupe du Monde de Football sur M6 avait captivé 4,01 millions de personnes le 24 juin. La fiction de France 3, \"Les Oubliés du Delta\", réalise une performance solide avec 2,63 millions de spectateurs, se plaçant en seconde position devant la finale de \"Mask Singer\" sur TF1, qui rassemble 2 millions de téléspectateurs. La stratégie de France 2 de programmer un événement sportif majeur semble avoir porté ses fruits, contrastant avec la semaine précédente où M6 dominait grâce à la compétition de football. La TNT, bien que non explicitement chiffrée dans ce top 5, continue de jouer un rôle dans la dispersion des audiences sur les autres chaînes généralistes.",
@@ -100,7 +100,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
           "rank": 2,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22RTL+Aktuell+Spezial%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-06-28T15:40:41.266754Z",
+      "scraped_at": "2026-06-28T17:23:12.508089Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », s'impose en tête des audiences du prime time ce 27 juin avec 4,14 millions de téléspectateurs et 25,6% de part de marché. Cette performance se situe dans la lignée des jours précédents, où le journal réunissait entre 3,42 et 7,40 millions de personnes, hormis lors des retransmissions exceptionnelles de la Coupe du Monde de football. La soirée voit une compétition marquée entre les chaînes publiques et les diffuseurs de divertissement musical, le programme « Schlagerbooom Open Air 2026 » captant 3,37 millions de curieux sur une autre chaîne. La fiction de ZDF, « Wilsberg - Gene lügen nicht », se positionne en troisième place avec 3,01 millions de fidèles, un chiffre inférieur à celui de la plupart des fictions programmées la semaine passée. La présence de deux journaux d'information dans le top 5, celui de Das Erste et « RTL Aktuell Spezial: Rekordhitze » (1,27 M, 7,4%), souligne la demande pour l'actualité face aux offres de divertissement. Les chaînes publiques ARD et ZDF conservent ainsi une part significative de l'audience, particulièrement sur les formats d'information, malgré la concurrence des événements sportifs et des programmes musicaux.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Piedone+l%E2%80%99africano%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-06-28T15:40:44.854553Z",
+      "scraped_at": "2026-06-28T17:23:16.445924Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 27 juin voit Rai 1 retrouver la tête du prime time avec 1,89 million de téléspectateurs, soit 14,5% de part de marché, grâce à son magazine sportif « Notti Mondiali ». Ce score contraste nettement avec les chiffres enregistrés la semaine précédente, où les retransmissions des mondiaux atteignaient systématiquement plus de 3,6 millions de fidèles. Sur la même soirée, Canale 5 positionne son divertissement « Ciao Darwin » en deuxième position, attirant 1,36 million de personnes (15,4% de PDM), un résultat stable par rapport à sa moyenne hebdomadaire mais inférieur aux pics de la semaine. La stratégie de contre-programmation de Rete 4 avec la série « La Promessa » semble moins efficace, réunissant 840 000 téléspectateurs (7,1% de PDM), loin des performances de « Quarto Grado » qui dépassait le million en début de semaine. La fragmentation des audiences sur les chaînes secondaires de la Rai et de Mediaset illustre la difficulté à capter un public large en dehors des événements fédérateurs.",
@@ -249,7 +249,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-28T15:40:45.891905Z",
+      "scraped_at": "2026-06-28T17:23:17.499755Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22D.Reg%28Malas+Lenguas+Noche%29%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-06-28T15:40:42.311864Z",
+      "scraped_at": "2026-06-28T17:23:13.641204Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 27 juin, Antena 3 s'impose en tête des audiences du prime time avec « La Voz Kids:Asaltos », attirant 828 000 téléspectateurs et 11.8% de part de marché. La chaîne privée confirme ainsi sa position de leader du prime sur la semaine, ayant occupé la première place trois fois sur cinq. La 1 parvient à se maintenir en deuxième position avec le film « Erin Brockovich », captant 9.6% du public, une performance inférieure à ses scores lors des soirées de football de la semaine précédente. Telecinco, traditionnellement acteur majeur du duopole, se retrouve en troisième position avec « Hay una Cosa Que Te Quiero Decir », affichant 8.3% de PDM. La stratégie d'Antena 3 semble porter ses fruits en proposant un divertissement familial fort dans une case horaire où le football avait précédemment dominé les classements.",
       "commentary_date": "2026-06-27"
     }
   },
-  "last_updated": "2026-06-28T15:40:45.893141Z"
+  "last_updated": "2026-06-28T17:23:17.501541Z"
 }
