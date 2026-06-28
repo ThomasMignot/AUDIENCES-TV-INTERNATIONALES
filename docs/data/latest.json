@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22RTL+Aktuell+Spezial%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-06-28T10:09:46.753429Z",
+      "scraped_at": "2026-06-28T11:15:23.919227Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », s'impose en tête des audiences du prime time ce 27 juin avec 4,14 millions de téléspectateurs et 25,6% de part de marché. Cette performance se situe dans la lignée des jours précédents, où le journal réunissait entre 3,42 et 7,40 millions de personnes, hormis lors des retransmissions exceptionnelles de la Coupe du Monde de football. La soirée voit une compétition marquée entre les chaînes publiques et les diffuseurs de divertissement musical, le programme « Schlagerbooom Open Air 2026 » captant 3,37 millions de curieux sur une autre chaîne. La fiction de ZDF, « Wilsberg - Gene lügen nicht », se positionne en troisième place avec 3,01 millions de fidèles, un chiffre inférieur à celui de la plupart des fictions programmées la semaine passée. La présence de deux journaux d'information dans le top 5, celui de Das Erste et « RTL Aktuell Spezial: Rekordhitze » (1,27 M, 7,4%), souligne la demande pour l'actualité face aux offres de divertissement. Les chaînes publiques ARD et ZDF conservent ainsi une part significative de l'audience, particulièrement sur les formats d'information, malgré la concurrence des événements sportifs et des programmes musicaux.",
@@ -85,79 +85,13 @@
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "Tu Cara Me Suena:Calentando Motores",
-          "program_fr": null,
-          "viewers": 1167000,
-          "share": 12.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "La Revuelta:Viernes (Kase.o)",
-          "program_fr": null,
-          "viewers": 826000,
-          "share": 9.1,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "¡De Viernes!",
-          "program_fr": null,
-          "viewers": 719000,
-          "share": 10.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
-          "program_fr": null,
-          "viewers": 490000,
-          "share": 5.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "El Blockbuster (Hasta el Ultimo Hombre(Hacksaw Ridge))",
-          "program_fr": null,
-          "viewers": 474000,
-          "share": 5.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-junio-de-2026/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Hasta+el+Ultimo+Hombre%28Hacksaw+Ridge%29%29%22+Cuatro+ratings"
-        }
-      ],
-      "scraped_at": "2026-06-28T10:09:49.088030Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-06-28T11:15:24.562931Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Ce vendredi 26 juin, Antena 3 reprend la tête du prime time avec 12.7% de part de marché grâce à son divertissement « Tu Cara Me Suena:Calentando Motores », devançant La 1 et Telecinco. Ce chiffre est légèrement inférieur à celui de la même émission diffusée le 19 juin (19.5%), qui bénéficiait alors d'un lead-in sportif plus fort. La 1, qui a dominé le classement la semaine passée grâce à la diffusion de matchs de la Coupe du Monde, se retrouve en seconde position avec 9.1% pour un autre divertissement, « La Revuelta ». Telecinco, avec « ¡De Viernes! », réalise une performance de 10.0%, un score en hausse par rapport à son lead-in du 19 juin (6.5%). La structure des grilles de La 1 et Antena 3 montre une stratégie de fidélisation du public, avec des programmes de divertissement établis occupant les cases de prime. Les chaînes de la TNT, Cuatro et La 2, se positionnent plus loin avec des offres de fiction et de magazine culturel.",
       "commentary_date": "2026-06-26"
     },
@@ -169,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-28T10:09:54.024781Z",
+      "scraped_at": "2026-06-28T11:15:28.131765Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Piedone+l%E2%80%99africano%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-06-28T10:09:52.756349Z",
+      "scraped_at": "2026-06-28T11:15:27.124976Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 27 juin voit Rai 1 retrouver la tête du prime time avec 1,89 million de téléspectateurs, soit 14,5% de part de marché, grâce à son magazine sportif « Notti Mondiali ». Ce score contraste nettement avec les chiffres enregistrés la semaine précédente, où les retransmissions des mondiaux atteignaient systématiquement plus de 3,6 millions de fidèles. Sur la même soirée, Canale 5 positionne son divertissement « Ciao Darwin » en deuxième position, attirant 1,36 million de personnes (15,4% de PDM), un résultat stable par rapport à sa moyenne hebdomadaire mais inférieur aux pics de la semaine. La stratégie de contre-programmation de Rete 4 avec la série « La Promessa » semble moins efficace, réunissant 840 000 téléspectateurs (7,1% de PDM), loin des performances de « Quarto Grado » qui dépassait le million en début de semaine. La fragmentation des audiences sur les chaînes secondaires de la Rai et de Mediaset illustre la difficulté à capter un public large en dehors des événements fédérateurs.",
@@ -313,7 +247,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-mask-singer-sur-tf1-ou-le-top-14-sur-france-2-quelle-finale-a-le-plus-attire-de-telespectateurs/655781",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Anthony"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Patrick_S%C3%A9bastien"
         },
         {
           "rank": 5,
@@ -329,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
         }
       ],
-      "scraped_at": "2026-06-28T10:09:40.768624Z",
+      "scraped_at": "2026-06-28T11:15:18.956408Z",
       "status": "ok",
       "error": null,
       "commentary": "La finale du Championnat de France de rugby sur France 2 s'impose avec 3,76 millions de téléspectateurs et 24,5% de part d'audience, une performance notable dans un paysage concurrentiel fragmenté. Cette audience place le sport en tête des programmes de la semaine, là où la semaine précédente, la Coupe du Monde de Football sur M6 avait captivé 4,01 millions de personnes le 24 juin. La fiction de France 3, \"Les Oubliés du Delta\", réalise une performance solide avec 2,63 millions de spectateurs, se plaçant en seconde position devant la finale de \"Mask Singer\" sur TF1, qui rassemble 2 millions de téléspectateurs. La stratégie de France 2 de programmer un événement sportif majeur semble avoir porté ses fruits, contrastant avec la semaine précédente où M6 dominait grâce à la compétition de football. La TNT, bien que non explicitement chiffrée dans ce top 5, continue de jouer un rôle dans la dispersion des audiences sur les autres chaînes généralistes.",
       "commentary_date": "2026-06-27"
     }
   },
-  "last_updated": "2026-06-28T10:09:54.027094Z"
+  "last_updated": "2026-06-28T11:15:28.133848Z"
 }
