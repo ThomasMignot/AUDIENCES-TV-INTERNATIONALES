@@ -1,6 +1,86 @@
 {
   "date": "2026-06-28",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-28",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "BARBECUE",
+          "program_fr": null,
+          "viewers": 2398000,
+          "share": 14.7,
+          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Barbecue"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "HUDSON ET REX \\ UN REGARD NEUF",
+          "program_fr": null,
+          "viewers": 1691000,
+          "share": 9.7,
+          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hudson_et_Rex"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "L'EMBARRAS DU CHOIX",
+          "program_fr": null,
+          "viewers": 1646000,
+          "share": 9.8,
+          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Embarras_du_choix"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "SCARFACE",
+          "program_fr": null,
+          "viewers": 642000,
+          "share": 4.5,
+          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Scarface"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "FACE A L'HISTOIRE - L'EPOPEE DE LADY LIBERTY \\ PREMIER EPISODE - LA NAISSANCE D'UNE ICONE",
+          "program_fr": null,
+          "viewers": 460000,
+          "share": 2.7,
+          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Face_%C3%A0_l%27histoire"
+        }
+      ],
+      "scraped_at": "2026-06-29T12:13:35.758447Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 28 juin avec la fiction « Barbecue » qui réunit 2,40 millions de téléspectateurs et 14,7% de part d'audience. Cette performance permet à la chaîne privée de devancer France 3 et France 2, dont les fictions respectives « Hudson et Rex » et « L'embarras du choix » se contentent de 1,69 et 1,65 million de spectateurs. La semaine précédente, la lutte pour la première place avait vu France 2 s'imposer à deux reprises, notamment grâce à une soirée rugby le 27 juin attirant 3,76 millions de personnes. La stratégie de contre-programmation de TF1 semble porter ses fruits face aux offres des chaînes publiques, bien que le football ait dominé les audiences en milieu de semaine. La fragmentation du marché, accentuée par la TNT, rend toute position de leader fragile.",
+      "commentary_date": "2026-06-28"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -28,20 +108,6 @@
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Ce 27 juin, Antena 3 s'impose en tête des audiences du prime time avec « La Voz Kids:Asaltos », attirant 828 000 téléspectateurs et 11.8% de part de marché. La chaîne privée confirme ainsi sa position de leader du prime sur la semaine, ayant occupé la première place trois fois sur cinq. La 1 parvient à se maintenir en deuxième position avec le film « Erin Brockovich », captant 9.6% du public, une performance inférieure à ses scores lors des soirées de football de la semaine précédente. Telecinco, traditionnellement acteur majeur du duopole, se retrouve en troisième position avec « Hay una Cosa Que Te Quiero Decir », affichant 8.3% de PDM. La stratégie d'Antena 3 semble porter ses fruits en proposant un divertissement familial fort dans une case horaire où le football avait précédemment dominé les classements.",
       "commentary_date": "2026-06-27"
-    },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-28",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-06-29T12:14:16.982808Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
     },
     "IT": {
       "country_code": "IT",
@@ -123,86 +189,20 @@
       "commentary": "La retransmission des « Mondiali 2026 » sur Rai 1 maintient sa domination sur le prime time italien, rassemblant 3,74 millions de téléspectateurs et 25,6% de part de marché le 28 juin. Ce score, bien que légèrement inférieur à celui du 21 juin (4,00 M, 26.9%), reste supérieur à la moyenne des sept derniers jours pour la chaîne publique. La fiction de Canale 5, « Racconto di una Notte », suit avec 1,80 million de fidèles (16.5% PDM), confirmant sa position de challenger habituel mais sans jamais menacer le leadership de Rai 1. La troisième marche du podium est occupée par Italia 1 avec un film américain, « Hitch – Lui sì che capisce le donne », qui attire 748 000 spectateurs (5.8% PDM). Cette configuration illustre la puissance des événements sportifs sur le paysage audiovisuel italien, capable de mobiliser un public large et de reléguer les offres de divertissement et de fiction à des scores plus modestes. La stratégie de Rai 1 de capitaliser sur cet événement sportif majeur se confirme, assurant un lead-in solide pour les programmes suivants de la chaîne.",
       "commentary_date": "2026-06-28"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-28",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "BARBECUE",
-          "program_fr": null,
-          "viewers": 2398000,
-          "share": 14.7,
-          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Barbecue"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "HUDSON ET REX \\ UN REGARD NEUF",
-          "program_fr": null,
-          "viewers": 1691000,
-          "share": 9.7,
-          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hudson_et_Rex"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "L'EMBARRAS DU CHOIX",
-          "program_fr": null,
-          "viewers": 1646000,
-          "share": 9.8,
-          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Embarras_du_choix"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "SCARFACE",
-          "program_fr": null,
-          "viewers": 642000,
-          "share": 4.5,
-          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Scarface"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "FACE A L'HISTOIRE - L'EPOPEE DE LADY LIBERTY \\ PREMIER EPISODE - LA NAISSANCE D'UNE ICONE",
-          "program_fr": null,
-          "viewers": 460000,
-          "share": 2.7,
-          "source_url": "https://www.ozap.com/actu/audiences-barbecue-sur-tf1-lembarras-du-choix-sur-france-2-quelle-comedie-deric-lavaine-a-le-mieux-resiste-au-premier-16e-de-finale-de-la-coupe-du-monde-sur-m6/655789",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Face_%C3%A0_l%27histoire"
-        }
-      ],
-      "scraped_at": "2026-06-29T12:13:35.758447Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 28 juin avec la fiction « Barbecue » qui réunit 2,40 millions de téléspectateurs et 14,7% de part d'audience. Cette performance permet à la chaîne privée de devancer France 3 et France 2, dont les fictions respectives « Hudson et Rex » et « L'embarras du choix » se contentent de 1,69 et 1,65 million de spectateurs. La semaine précédente, la lutte pour la première place avait vu France 2 s'imposer à deux reprises, notamment grâce à une soirée rugby le 27 juin attirant 3,76 millions de personnes. La stratégie de contre-programmation de TF1 semble porter ses fruits face aux offres des chaînes publiques, bien que le football ait dominé les audiences en milieu de semaine. La fragmentation du marché, accentuée par la TNT, rend toute position de leader fragile.",
-      "commentary_date": "2026-06-28"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-06-29T12:14:16.982808Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-29T12:14:16.984441Z"
+  "last_updated": "2026-06-29T12:14:29.240697Z"
 }
