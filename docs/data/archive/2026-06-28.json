@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Face_%C3%A0_l%27histoire"
         }
       ],
-      "scraped_at": "2026-06-29T13:14:04.964243Z",
+      "scraped_at": "2026-06-29T14:38:20.741642Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 28 juin avec la fiction « Barbecue » qui réunit 2,40 millions de téléspectateurs et 14,7% de part d'audience. Cette performance permet à la chaîne privée de devancer France 3 et France 2, dont les fictions respectives « Hudson et Rex » et « L'embarras du choix » se contentent de 1,69 et 1,65 million de spectateurs. La semaine précédente, la lutte pour la première place avait vu France 2 s'imposer à deux reprises, notamment grâce à une soirée rugby le 27 juin attirant 3,76 millions de personnes. La stratégie de contre-programmation de TF1 semble porter ses fruits face aux offres des chaînes publiques, bien que le football ait dominé les audiences en milieu de semaine. La fragmentation du marché, accentuée par la TNT, rend toute position de leader fragile.",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesthemen%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesthemen"
         },
         {
           "rank": 3,
@@ -139,10 +139,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Das+Traumschiff%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Das_Traumschiff"
         }
       ],
-      "scraped_at": "2026-06-29T13:14:11.132503Z",
+      "scraped_at": "2026-06-29T14:38:26.948494Z",
       "status": "partial",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », s'impose en tête des audiences du prime time ce 27 juin avec 4,14 millions de téléspectateurs et 25,6% de part de marché. Cette performance se situe dans la lignée des jours précédents, où le journal réunissait entre 3,42 et 7,40 millions de personnes, hormis lors des retransmissions exceptionnelles de la Coupe du Monde de football. La soirée voit une compétition marquée entre les chaînes publiques et les diffuseurs de divertissement musical, le programme « Schlagerbooom Open Air 2026 » captant 3,37 millions de curieux sur une autre chaîne. La fiction de ZDF, « Wilsberg - Gene lügen nicht », se positionne en troisième place avec 3,01 millions de fidèles, un chiffre inférieur à celui de la plupart des fictions programmées la semaine passée. La présence de deux journaux d'information dans le top 5, celui de Das Erste et « RTL Aktuell Spezial: Rekordhitze » (1,27 M, 7,4%), souligne la demande pour l'actualité face aux offres de divertissement. Les chaînes publiques ARD et ZDF conservent ainsi une part significative de l'audience, particulièrement sur les formats d'information, malgré la concurrence des événements sportifs et des programmes musicaux.",
@@ -156,7 +156,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-29T13:14:11.904499Z",
+      "scraped_at": "2026-06-29T14:38:27.944578Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Ce 27 juin, Antena 3 s'impose en tête des audiences du prime time avec « La Voz Kids:Asaltos », attirant 828 000 téléspectateurs et 11.8% de part de marché. La chaîne privée confirme ainsi sa position de leader du prime sur la semaine, ayant occupé la première place trois fois sur cinq. La 1 parvient à se maintenir en deuxième position avec le film « Erin Brockovich », captant 9.6% du public, une performance inférieure à ses scores lors des soirées de football de la semaine précédente. Telecinco, traditionnellement acteur majeur du duopole, se retrouve en troisième position avec « Hay una Cosa Que Te Quiero Decir », affichant 8.3% de PDM. La stratégie d'Antena 3 semble porter ses fruits en proposant un divertissement familial fort dans une case horaire où le football avait précédemment dominé les classements.",
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Radio+Italia+Live%22+TV8+ratings"
         }
       ],
-      "scraped_at": "2026-06-29T13:14:15.866794Z",
+      "scraped_at": "2026-06-29T14:38:32.372282Z",
       "status": "ok",
       "error": null,
       "commentary": "La retransmission des « Mondiali 2026 » sur Rai 1 maintient sa domination sur le prime time italien, rassemblant 3,74 millions de téléspectateurs et 25,6% de part de marché le 28 juin. Ce score, bien que légèrement inférieur à celui du 21 juin (4,00 M, 26.9%), reste supérieur à la moyenne des sept derniers jours pour la chaîne publique. La fiction de Canale 5, « Racconto di una Notte », suit avec 1,80 million de fidèles (16.5% PDM), confirmant sa position de challenger habituel mais sans jamais menacer le leadership de Rai 1. La troisième marche du podium est occupée par Italia 1 avec un film américain, « Hitch – Lui sì che capisce le donne », qui attire 748 000 spectateurs (5.8% PDM). Cette configuration illustre la puissance des événements sportifs sur le paysage audiovisuel italien, capable de mobiliser un public large et de reléguer les offres de divertissement et de fiction à des scores plus modestes. La stratégie de Rai 1 de capitaliser sur cet événement sportif majeur se confirme, assurant un lead-in solide pour les programmes suivants de la chaîne.",
@@ -250,12 +250,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-29T13:14:17.168607Z",
+      "scraped_at": "2026-06-29T14:38:33.682430Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-06-29T13:14:17.170033Z"
+  "last_updated": "2026-06-29T14:38:33.683702Z"
 }
