@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute"
+          "wikipedia_url": "https://www.google.com/search?q=%22heute%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
           "rank": 4,
@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Donna+Leon%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-06-30T15:14:33.420131Z",
+      "scraped_at": "2026-06-30T16:32:38.977675Z",
       "status": "partial",
       "error": null,
       "commentary": "Le dispositif de ZDF avec le « ZDFsportstudio live-FIFA WM 2026: D » capte une audience massive de 17,57 millions de téléspectateurs, s'assurant 74,5% de part de marché pour la soirée du 29 juin 2026. Cette performance dépasse nettement les scores habituels observés ces sept derniers jours, où les retransmissions de la Coupe du Monde étaient déjà en tête mais avec des chiffres inférieurs, comme le match du 25 juin atteignant 18,47 millions mais avec une part de marché de 71,9%. La domination des chaînes publiques sur les publics plus âgés se confirme, tandis que les programmes d'information comme « heute / Wetter » et « Tagesschau » maintiennent une présence significative, témoignant de la puissance de ces rendez-vous dans la case du prime time. L'écrasante majorité des parts de marché accaparée par la retransmission sportive souligne la capacité des grands événements à structurer l'offre et la consommation télévisuelle. Les autres programmes, y compris la série « Donna Leon », se retrouvent relégués à des audiences nettement plus modestes dans ce contexte.",
@@ -76,7 +76,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-06-30T15:14:34.697445Z",
+      "scraped_at": "2026-06-30T16:32:40.343093Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Ce 27 juin, Antena 3 s'impose en tête des audiences du prime time avec « La Voz Kids:Asaltos », attirant 828 000 téléspectateurs et 11.8% de part de marché. La chaîne privée confirme ainsi sa position de leader du prime sur la semaine, ayant occupé la première place trois fois sur cinq. La 1 parvient à se maintenir en deuxième position avec le film « Erin Brockovich », captant 9.6% du public, une performance inférieure à ses scores lors des soirées de football de la semaine précédente. Telecinco, traditionnellement acteur majeur du duopole, se retrouve en troisième position avec « Hay una Cosa Que Te Quiero Decir », affichant 8.3% de PDM. La stratégie d'Antena 3 semble porter ses fruits en proposant un divertissement familial fort dans une case horaire où le football avait précédemment dominé les classements.",
@@ -90,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-06-30T15:14:38.483937Z",
+      "scraped_at": "2026-06-30T16:32:45.556770Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -170,7 +170,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Quarta+Repubblica%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-06-30T15:14:37.461077Z",
+      "scraped_at": "2026-06-30T16:32:44.044356Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 29 juin voit Rai 1 reprendre la tête du prime time avec « Notti Mondiali », attirant 1,84 million de téléspectateurs et 13,6% de part de marché. Ce score est inférieur aux programmes sportifs diffusés en milieu de semaine, qui dépassaient les 3,5 millions de fidèles. Canale 5, avec « Gigi e Vanessa Insieme », se positionne en deuxième place avec 1,43 million de personnes et une part de marché plus élevée (15,9%), soulignant une certaine fidélité sur ce créneau. La compétition entre Rai 1 et Canale 5 reste le principal axe de tension, bien que Rai 1 ait dominé la semaine en termes de nombre de soirées en tête. Les chaînes secondaires comme Italia 1 et Rete 4 se partagent des audiences plus modestes, avec des programmes aux formats variés, du cinéma à l'information.",
@@ -250,12 +250,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Face_%C3%A0_l%27histoire"
         }
       ],
-      "scraped_at": "2026-06-30T15:14:29.924325Z",
+      "scraped_at": "2026-06-30T16:32:33.041258Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 28 juin avec la fiction « Barbecue » qui réunit 2,40 millions de téléspectateurs et 14,7% de part d'audience. Cette performance permet à la chaîne privée de devancer France 3 et France 2, dont les fictions respectives « Hudson et Rex » et « L'embarras du choix » se contentent de 1,69 et 1,65 million de spectateurs. La semaine précédente, la lutte pour la première place avait vu France 2 s'imposer à deux reprises, notamment grâce à une soirée rugby le 27 juin attirant 3,76 millions de personnes. La stratégie de contre-programmation de TF1 semble porter ses fruits face aux offres des chaînes publiques, bien que le football ait dominé les audiences en milieu de semaine. La fragmentation du marché, accentuée par la TNT, rend toute position de leader fragile.",
       "commentary_date": "2026-06-28"
     }
   },
-  "last_updated": "2026-06-30T15:14:38.485881Z"
+  "last_updated": "2026-06-30T16:32:45.559119Z"
 }
