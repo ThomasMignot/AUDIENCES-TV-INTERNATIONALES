@@ -1,6 +1,86 @@
 {
   "date": "2026-06-30",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-06-30",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "A QUI PROFITE LE DOUTE ?",
+          "program_fr": null,
+          "viewers": 3221000,
+          "share": 20.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%80_qui_profite_le_doute_%3F"
+        },
+        {
+          "rank": 2,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "COUPE DU MONDE DE LA FIFA : LE MAG",
+          "program_fr": null,
+          "viewers": 2619000,
+          "share": 16.3,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_des_clubs_de_la_FIFA"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LA PROPOSITION (ANNE FLETCHER)",
+          "program_fr": null,
+          "viewers": 1844000,
+          "share": 11.6,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Anne_Fletcher"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "L'AMERIQUE ET NOUS : 250 ANS D'AMOUR ET DE HAINE",
+          "program_fr": null,
+          "viewers": 1346000,
+          "share": 8.2,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Martin_Luther_King"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "L'INCENDIE DU REICHSTAG : QUAND LA DEMOCRATIE BRULE",
+          "program_fr": null,
+          "viewers": 661000,
+          "share": 4.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Incendie_du_Reichstag"
+        }
+      ],
+      "scraped_at": "2026-07-01T10:50:46.537263Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 30 juin, France 3 s'impose en tête des audiences avec sa fiction « A QUI PROFITE LE DOUTE ? », captant 3,22 millions de téléspectateurs et 20,1% de part de marché. Cette performance place la chaîne publique en position de leader pour la soirée, confirmant une tendance observée sur la semaine où elle a remporté quatre des cinq journées analysées. M6, avec le magazine sportif « COUPE DU MONDE DE LA FIFA : LE MAG », se positionne en deuxième position, profitant de l'événement pour rassembler 2,62 millions de personnes (16,3% PDM), une audience en légère hausse par rapport à la semaine précédente. TF1, quant à elle, voit sa fiction « LA PROPOSITION » réunir 1,84 million de téléspectateurs (11,6% PDM), se plaçant derrière ses concurrentes historiques. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour les chaînes historiques de maintenir des scores élevés de manière constante, comme le démontre la baisse des chiffres de France 2.",
+      "commentary_date": "2026-06-30"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
       "commentary_date": "2026-06-30"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-06-30",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-01T10:51:04.449419Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Le prime time du 30 juin voit Rai 1 conserver sa position de leader avec « Notti Mondiali », attirant 2,64 millions de téléspectateurs et 16,9% de part de marché. Ce chiffre représente une légère hausse par rapport aux soirées précédentes où le même programme avait enregistré 1,89 million le 27 juin et 1,84 million le 29 juin, mais reste significativement en deçà des scores obtenus par les retransmissions des « Mondiali 2026 » en début de semaine, qui dépassaient les 3,6 millions. La deuxième place revient à Canale 5 avec « Un amore come te », qui rassemble 1,69 million de téléspectateurs (13,8% PDM), un score stable par rapport à la semaine précédente. La lutte pour les cases intermédiaires se confirme entre Italia 1, Rai 3 et Rete 4, qui se partagent des audiences comprises entre 4,3% et 5,5% de PDM, reflétant une fragmentation des audiences en dehors des offres des deux principaux diffuseurs. L'analyse des données montre une forte dépendance de Rai 1 aux événements sportifs majeurs pour maintenir son leadership, tandis que Canale 5 opère un positionnement plus régulier sur le divertissement et la fiction.",
       "commentary_date": "2026-06-30"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-06-30",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "A QUI PROFITE LE DOUTE ?",
-          "program_fr": null,
-          "viewers": 3221000,
-          "share": 20.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%80_qui_profite_le_doute_%3F"
-        },
-        {
-          "rank": 2,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE LA FIFA : LE MAG",
-          "program_fr": null,
-          "viewers": 2619000,
-          "share": 16.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_des_clubs_de_la_FIFA"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LA PROPOSITION (ANNE FLETCHER)",
-          "program_fr": null,
-          "viewers": 1844000,
-          "share": 11.6,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Anne_Fletcher"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "L'AMERIQUE ET NOUS : 250 ANS D'AMOUR ET DE HAINE",
-          "program_fr": null,
-          "viewers": 1346000,
-          "share": 8.2,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Martin_Luther_King"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "L'INCENDIE DU REICHSTAG : QUAND LA DEMOCRATIE BRULE",
-          "program_fr": null,
-          "viewers": 661000,
-          "share": 4.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Incendie_du_Reichstag"
-        }
-      ],
-      "scraped_at": "2026-07-01T10:50:46.537263Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Ce 30 juin, France 3 s'impose en tête des audiences avec sa fiction « A QUI PROFITE LE DOUTE ? », captant 3,22 millions de téléspectateurs et 20,1% de part de marché. Cette performance place la chaîne publique en position de leader pour la soirée, confirmant une tendance observée sur la semaine où elle a remporté quatre des cinq journées analysées. M6, avec le magazine sportif « COUPE DU MONDE DE LA FIFA : LE MAG », se positionne en deuxième position, profitant de l'événement pour rassembler 2,62 millions de personnes (16,3% PDM), une audience en légère hausse par rapport à la semaine précédente. TF1, quant à elle, voit sa fiction « LA PROPOSITION » réunir 1,84 million de téléspectateurs (11,6% PDM), se plaçant derrière ses concurrentes historiques. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour les chaînes historiques de maintenir des scores élevés de manière constante, comme le démontre la baisse des chiffres de France 2.",
-      "commentary_date": "2026-06-30"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-01T10:51:04.449419Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-01T10:51:04.451424Z"
+  "last_updated": "2026-07-01T10:51:51.136259Z"
 }
