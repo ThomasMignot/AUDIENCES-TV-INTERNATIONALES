@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Nachtschicht%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-01T15:21:36.465248Z",
+      "scraped_at": "2026-07-01T16:40:38.758380Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 30 juin, les journaux télévisés des chaînes publiques Das Erste et ZDF reprennent la tête du prime time, avec respectivement 4,78 millions de téléspectateurs (24,3% de PDM) et 3,70 millions (20,7% de PDM). Cette configuration contraste avec les soirées précédentes, largement dominées par la Coupe du Monde de football diffusée sur une autre chaîne, qui avait atteint jusqu'à 18,47 millions de curieux le 25 juin. La présence de ce type d'événement sportif sur une chaîne non identifiée perturbe la hiérarchie habituelle, où les chaînes publiques ciblent principalement un public plus âgé. Sans la compétition sportive, les offres de fiction et de magazines sur des chaînes non publiques peinent à dépasser les 3 millions de téléspectateurs, témoignant d'une lutte pour capter l'attention en l'absence de rendez-vous fédérateurs. La part de marché du \"Tagesschau\" de Das Erste, bien que leader, est inférieure de 5,3 points à sa performance du 27 juin (25,6%).",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-07-01T15:21:37.517152Z",
+      "scraped_at": "2026-07-01T16:40:40.915838Z",
       "status": "ok",
       "error": null,
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-01T15:21:41.225634Z",
+      "scraped_at": "2026-07-01T16:40:46.544887Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lo+squalo%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-01T15:21:40.144062Z",
+      "scraped_at": "2026-07-01T16:40:45.265654Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 30 juin voit Rai 1 conserver sa position de leader avec « Notti Mondiali », attirant 2,64 millions de téléspectateurs et 16,9% de part de marché. Ce chiffre représente une légère hausse par rapport aux soirées précédentes où le même programme avait enregistré 1,89 million le 27 juin et 1,84 million le 29 juin, mais reste significativement en deçà des scores obtenus par les retransmissions des « Mondiali 2026 » en début de semaine, qui dépassaient les 3,6 millions. La deuxième place revient à Canale 5 avec « Un amore come te », qui rassemble 1,69 million de téléspectateurs (13,8% PDM), un score stable par rapport à la semaine précédente. La lutte pour les cases intermédiaires se confirme entre Italia 1, Rai 3 et Rete 4, qui se partagent des audiences comprises entre 4,3% et 5,5% de PDM, reflétant une fragmentation des audiences en dehors des offres des deux principaux diffuseurs. L'analyse des données montre une forte dépendance de Rai 1 aux événements sportifs majeurs pour maintenir son leadership, tandis que Canale 5 opère un positionnement plus régulier sur le divertissement et la fiction.",
@@ -287,7 +287,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-le-polar-de-france-3-avec-philippe-caroit-et-isabel-otero-large-leader-devant-le-mag-de-la-coupe-du-monde-dophelie-meunier-sur-m6/655836",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_des_clubs_de_la_FIFA"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
         },
         {
           "rank": 3,
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Incendie_du_Reichstag"
         }
       ],
-      "scraped_at": "2026-07-01T15:21:31.823891Z",
+      "scraped_at": "2026-07-01T16:40:29.999630Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 30 juin, France 3 s'impose en tête des audiences avec sa fiction « A QUI PROFITE LE DOUTE ? », captant 3,22 millions de téléspectateurs et 20,1% de part de marché. Cette performance place la chaîne publique en position de leader pour la soirée, confirmant une tendance observée sur la semaine où elle a remporté quatre des cinq journées analysées. M6, avec le magazine sportif « COUPE DU MONDE DE LA FIFA : LE MAG », se positionne en deuxième position, profitant de l'événement pour rassembler 2,62 millions de personnes (16,3% PDM), une audience en légère hausse par rapport à la semaine précédente. TF1, quant à elle, voit sa fiction « LA PROPOSITION » réunir 1,84 million de téléspectateurs (11,6% PDM), se plaçant derrière ses concurrentes historiques. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour les chaînes historiques de maintenir des scores élevés de manière constante, comme le démontre la baisse des chiffres de France 2.",
       "commentary_date": "2026-06-30"
     }
   },
-  "last_updated": "2026-07-01T15:21:41.227828Z"
+  "last_updated": "2026-07-01T16:40:46.546958Z"
 }
