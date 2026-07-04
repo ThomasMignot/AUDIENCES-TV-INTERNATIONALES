@@ -1,6 +1,86 @@
 {
   "date": "2026-07-03",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-03",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "FOOTBALL COUPE DU MONDE \\ AUSTRALIE - EGYPTE",
+          "program_fr": null,
+          "viewers": 3915000,
+          "share": 26.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Statistiques_et_records_de_la_Coupe_du_monde_de_football"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CESAR WAGNER",
+          "program_fr": null,
+          "viewers": 2023000,
+          "share": 13.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/C%C3%A9sar_Wagner"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LES 12 COUPS LA SUMMER PARTY",
+          "program_fr": null,
+          "viewers": 1702000,
+          "share": 11.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2026_%C3%A0_la_t%C3%A9l%C3%A9vision"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA BELLE HISTOIRE DE LA CHANSON FRANCAIS",
+          "program_fr": null,
+          "viewers": 1254000,
+          "share": 8.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Une_belle_histoire_%28chanson%29"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MEURTRES A SANDHAMN \\ AU COEUR DE L'ETE - EPISODE 1",
+          "program_fr": null,
+          "viewers": 800000,
+          "share": 5.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
+        }
+      ],
+      "scraped_at": "2026-07-04T09:33:29.780143Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La Coupe du Monde de la FIFA, diffusée par M6, s'impose largement en tête des audiences du 3 juillet, rassemblant 3,92 millions de téléspectateurs, soit 26,6% de part d'audience. Ce score, bien qu'important, reste inférieur à la rencontre de la veille sur la même chaîne, qui avait attiré 5,30 millions de personnes. France 2, avec sa fiction \"Cesar Wagner\", se positionne en deuxième place avec 2,02 millions de téléspectateurs et 13,2% de PDM, une performance en retrait par rapport au rugby de la semaine précédente. TF1, de son côté, voit son divertissement \"Les 12 Coups la Summer Party\" réunir 1,70 million de personnes, un chiffre inférieur à ses concurrents directs et à ses propres scores de la semaine passée. La présence du football sur M6 semble avoir impacté les autres chaînes généralistes, qui peinent à rivaliser dans cette case horaire.",
+      "commentary_date": "2026-07-03"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -68,20 +148,6 @@
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
       "commentary_date": "2026-06-30"
-    },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-03",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-04T09:33:38.288837Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
     },
     "IT": {
       "country_code": "IT",
@@ -163,86 +229,20 @@
       "commentary": "Le prime time du 3 juillet 2026 en Italie voit Rai 1 s'imposer avec 2,11 millions de téléspectateurs et 16,2% de part de marché grâce à « Scusate se esisto! ». Cette performance place la chaîne publique en tête, comme lors de six des sept soirées précédentes, confirmant son leadership historique malgré des chiffres inférieurs aux journées de diffusion de la Coupe du Monde 2026. Canale 5, avec « L’Erede » et 1,55 million de téléspectateurs (13,3% PDM), maintient une position solide, se plaçant en deuxième position face à la concurrence de Rete 4 et Italia 1. La comparaison avec le 26 juin révèle une baisse d'audience pour « L’Erede » (1,55 M contre 1,67 M) mais une légère amélioration de sa part de marché par rapport à la moyenne des programmes de divertissement de la semaine. La stratégie de Rai 1 de diffuser des films le vendredi soir, comme « Scusate se esisto! », semble répondre à une attente du public, tandis que Canale 5 continue de capitaliser sur ses formats de divertissement familiaux.",
       "commentary_date": "2026-07-03"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-03",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "FOOTBALL COUPE DU MONDE \\ AUSTRALIE - EGYPTE",
-          "program_fr": null,
-          "viewers": 3915000,
-          "share": 26.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Statistiques_et_records_de_la_Coupe_du_monde_de_football"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CESAR WAGNER",
-          "program_fr": null,
-          "viewers": 2023000,
-          "share": 13.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/C%C3%A9sar_Wagner"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LES 12 COUPS LA SUMMER PARTY",
-          "program_fr": null,
-          "viewers": 1702000,
-          "share": 11.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2026_%C3%A0_la_t%C3%A9l%C3%A9vision"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA BELLE HISTOIRE DE LA CHANSON FRANCAIS",
-          "program_fr": null,
-          "viewers": 1254000,
-          "share": 8.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Une_belle_histoire_%28chanson%29"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MEURTRES A SANDHAMN \\ AU COEUR DE L'ETE - EPISODE 1",
-          "program_fr": null,
-          "viewers": 800000,
-          "share": 5.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-summer-party-du-jeu-les-12-coups-hier-soir-sur-tf1/655574",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
-        }
-      ],
-      "scraped_at": "2026-07-04T09:33:29.780143Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La Coupe du Monde de la FIFA, diffusée par M6, s'impose largement en tête des audiences du 3 juillet, rassemblant 3,92 millions de téléspectateurs, soit 26,6% de part d'audience. Ce score, bien qu'important, reste inférieur à la rencontre de la veille sur la même chaîne, qui avait attiré 5,30 millions de personnes. France 2, avec sa fiction \"Cesar Wagner\", se positionne en deuxième place avec 2,02 millions de téléspectateurs et 13,2% de PDM, une performance en retrait par rapport au rugby de la semaine précédente. TF1, de son côté, voit son divertissement \"Les 12 Coups la Summer Party\" réunir 1,70 million de personnes, un chiffre inférieur à ses concurrents directs et à ses propres scores de la semaine passée. La présence du football sur M6 semble avoir impacté les autres chaînes généralistes, qui peinent à rivaliser dans cette case horaire.",
-      "commentary_date": "2026-07-03"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-04T09:33:38.288837Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-04T09:33:38.290954Z"
+  "last_updated": "2026-07-04T09:33:50.783010Z"
 }
