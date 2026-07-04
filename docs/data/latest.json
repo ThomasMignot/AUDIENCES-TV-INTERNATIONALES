@@ -49,7 +49,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Nord+bei+Nordwest%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-04T11:55:53.955917Z",
+      "scraped_at": "2026-07-04T14:10:23.993745Z",
       "status": "partial",
       "error": null,
       "commentary": "Le ZDF s'empare de la tête des audiences du prime time ce 3 juillet avec la diffusion d'un match de la Coupe du Monde de la FIFA 2026, réunissant 5,46 millions de téléspectateurs et 29,4% de part de marché. Ce score marque un net recul par rapport aux pics observés lors des rencontres précédentes, notamment la finale du 29 juin qui avait captivé 17,57 millions de personnes. La chaîne publique Das Erste, avec son journal \"Tagesschau\", se positionne en deuxième place, fidèle à sa performance habituelle dans cette case horaire. La série \"Nord bei Nordwest\" clôture ce trio, démontrant la résilience des fictions locales face aux événements sportifs majeurs, bien que son audience soit légèrement inférieure à celle de la semaine passée. Cette configuration souligne la prédominance actuelle des retransmissions sportives, mais aussi la capacité des chaînes généralistes à mobiliser des audiences significatives avec leurs programmes phares.",
@@ -63,7 +63,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-04T11:55:55.455246Z",
+      "scraped_at": "2026-07-04T14:10:25.216280Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
@@ -77,7 +77,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-04T11:56:00.805091Z",
+      "scraped_at": "2026-07-04T14:10:29.254015Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -157,7 +157,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+mio+giardino+persiano%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-07-04T11:55:59.493801Z",
+      "scraped_at": "2026-07-04T14:10:28.159117Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 3 juillet 2026 en Italie voit Rai 1 s'imposer avec 2,11 millions de téléspectateurs et 16,2% de part de marché grâce à « Scusate se esisto! ». Cette performance place la chaîne publique en tête, comme lors de six des sept soirées précédentes, confirmant son leadership historique malgré des chiffres inférieurs aux journées de diffusion de la Coupe du Monde 2026. Canale 5, avec « L’Erede » et 1,55 million de téléspectateurs (13,3% PDM), maintient une position solide, se plaçant en deuxième position face à la concurrence de Rete 4 et Italia 1. La comparaison avec le 26 juin révèle une baisse d'audience pour « L’Erede » (1,55 M contre 1,67 M) mais une légère amélioration de sa part de marché par rapport à la moyenne des programmes de divertissement de la semaine. La stratégie de Rai 1 de diffuser des films le vendredi soir, comme « Scusate se esisto! », semble répondre à une attente du public, tandis que Canale 5 continue de capitaliser sur ses formats de divertissement familiaux.",
@@ -237,12 +237,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-07-04T11:55:47.010569Z",
+      "scraped_at": "2026-07-04T14:10:19.360458Z",
       "status": "ok",
       "error": null,
       "commentary": "La Coupe du Monde de la FIFA, diffusée par M6, s'impose largement en tête des audiences du 3 juillet, rassemblant 3,92 millions de téléspectateurs, soit 26,6% de part d'audience. Ce score, bien qu'important, reste inférieur à la rencontre de la veille sur la même chaîne, qui avait attiré 5,30 millions de personnes. France 2, avec sa fiction \"Cesar Wagner\", se positionne en deuxième place avec 2,02 millions de téléspectateurs et 13,2% de PDM, une performance en retrait par rapport au rugby de la semaine précédente. TF1, de son côté, voit son divertissement \"Les 12 Coups la Summer Party\" réunir 1,70 million de personnes, un chiffre inférieur à ses concurrents directs et à ses propres scores de la semaine passée. La présence du football sur M6 semble avoir impacté les autres chaînes généralistes, qui peinent à rivaliser dans cette case horaire.",
       "commentary_date": "2026-07-03"
     }
   },
-  "last_updated": "2026-07-04T11:56:00.807838Z"
+  "last_updated": "2026-07-04T14:10:29.256071Z"
 }
