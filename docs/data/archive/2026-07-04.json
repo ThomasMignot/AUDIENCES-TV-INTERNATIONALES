@@ -1,6 +1,86 @@
 {
   "date": "2026-07-04",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-04",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "MEURTRES A BAYEUX",
+          "program_fr": null,
+          "viewers": 3131000,
+          "share": 20.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "FORT BOYARD \\ BRUNO SOLO - ONU FEMMES FRANCE",
+          "program_fr": null,
+          "viewers": 2754000,
+          "share": 18.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Bruno_Solo"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "COUPE DU MONDE DE LA FIFA : LE MAG MAGAZINE SPORTIF",
+          "program_fr": null,
+          "viewers": 2408000,
+          "share": 15.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
+        },
+        {
+          "rank": 4,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "RUGBY - CHAMPIONNAT DES NATIONS \\ ARGENTINE - ECOSSE",
+          "program_fr": null,
+          "viewers": 844000,
+          "share": 5.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Rugby"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ECHAPPEES BELLES",
+          "program_fr": null,
+          "viewers": 684000,
+          "share": 4.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+        }
+      ],
+      "scraped_at": "2026-07-05T09:53:00.349590Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La Coupe du Monde de la FIFA, diffusée par M6, s'impose largement en tête des audiences du 3 juillet, rassemblant 3,92 millions de téléspectateurs, soit 26,6% de part d'audience. Ce score, bien qu'important, reste inférieur à la rencontre de la veille sur la même chaîne, qui avait attiré 5,30 millions de personnes. France 2, avec sa fiction \"Cesar Wagner\", se positionne en deuxième place avec 2,02 millions de téléspectateurs et 13,2% de PDM, une performance en retrait par rapport au rugby de la semaine précédente. TF1, de son côté, voit son divertissement \"Les 12 Coups la Summer Party\" réunir 1,70 million de personnes, un chiffre inférieur à ses concurrents directs et à ses propres scores de la semaine passée. La présence du football sur M6 semble avoir impacté les autres chaînes généralistes, qui peinent à rivaliser dans cette case horaire.",
+      "commentary_date": "2026-07-03"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
       "commentary_date": "2026-06-30"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-04",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-05T09:53:11.940049Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "Ce 4 juillet, Rai 1 reprend la tête du prime time avec « Notti Mondiali », attirant 1,92 million de téléspectateurs et 14,7% de part de marché, repoussant Canale 5 et son divertissement « Ciao Darwin » à 1,34 million (14,5%). La chaîne publique confirme ainsi sa prédominance sur la semaine, ayant occupé le leadership six soirs sur sept. Comparé à la soirée du 27 juin, « Notti Mondiali » enregistre une légère hausse en téléspectateurs (+30 000) mais une légère baisse en part de marché (-0,2 point), tandis que « Ciao Darwin » perd 20 000 téléspectateurs mais gagne 0,1 point de PDM. Cette configuration renforce la dynamique habituelle du duopole Rai-Mediaset, où les événements sportifs sur Rai 1 canalisent une audience significative, laissant Canale 5 se disputer le reste de l'audimat avec ses programmes phares. La fragmentation des audiences se confirme sur les chaînes secondaires, avec des scores plus modestes pour Rai 2, Rete 4 et La7.",
       "commentary_date": "2026-07-04"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-04",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "MEURTRES A BAYEUX",
-          "program_fr": null,
-          "viewers": 3131000,
-          "share": 20.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "FORT BOYARD \\ BRUNO SOLO - ONU FEMMES FRANCE",
-          "program_fr": null,
-          "viewers": 2754000,
-          "share": 18.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Bruno_Solo"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE LA FIFA : LE MAG MAGAZINE SPORTIF",
-          "program_fr": null,
-          "viewers": 2408000,
-          "share": 15.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
-        },
-        {
-          "rank": 4,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "RUGBY - CHAMPIONNAT DES NATIONS \\ ARGENTINE - ECOSSE",
-          "program_fr": null,
-          "viewers": 844000,
-          "share": 5.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Rugby"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
-          "program_fr": null,
-          "viewers": 684000,
-          "share": 4.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
-        }
-      ],
-      "scraped_at": "2026-07-05T09:53:00.349590Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La Coupe du Monde de la FIFA, diffusée par M6, s'impose largement en tête des audiences du 3 juillet, rassemblant 3,92 millions de téléspectateurs, soit 26,6% de part d'audience. Ce score, bien qu'important, reste inférieur à la rencontre de la veille sur la même chaîne, qui avait attiré 5,30 millions de personnes. France 2, avec sa fiction \"Cesar Wagner\", se positionne en deuxième place avec 2,02 millions de téléspectateurs et 13,2% de PDM, une performance en retrait par rapport au rugby de la semaine précédente. TF1, de son côté, voit son divertissement \"Les 12 Coups la Summer Party\" réunir 1,70 million de personnes, un chiffre inférieur à ses concurrents directs et à ses propres scores de la semaine passée. La présence du football sur M6 semble avoir impacté les autres chaînes généralistes, qui peinent à rivaliser dans cette case horaire.",
-      "commentary_date": "2026-07-03"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-05T09:53:11.940049Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-05T09:53:11.942381Z"
+  "last_updated": "2026-07-05T09:53:44.164003Z"
 }
