@@ -46,7 +46,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-grande-premiere-de-cyril-feraud-a-lanimation-de-fort-boyard/655640",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_des_clubs_de_la_FIFA"
         },
         {
           "rank": 4,
@@ -75,11 +75,11 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
         }
       ],
-      "scraped_at": "2026-07-05T14:18:40.133170Z",
+      "scraped_at": "2026-07-05T15:38:45.248288Z",
       "status": "ok",
       "error": null,
-      "commentary": "La Coupe du Monde de la FIFA, diffusée par M6, s'impose largement en tête des audiences du 3 juillet, rassemblant 3,92 millions de téléspectateurs, soit 26,6% de part d'audience. Ce score, bien qu'important, reste inférieur à la rencontre de la veille sur la même chaîne, qui avait attiré 5,30 millions de personnes. France 2, avec sa fiction \"Cesar Wagner\", se positionne en deuxième place avec 2,02 millions de téléspectateurs et 13,2% de PDM, une performance en retrait par rapport au rugby de la semaine précédente. TF1, de son côté, voit son divertissement \"Les 12 Coups la Summer Party\" réunir 1,70 million de personnes, un chiffre inférieur à ses concurrents directs et à ses propres scores de la semaine passée. La présence du football sur M6 semble avoir impacté les autres chaînes généralistes, qui peinent à rivaliser dans cette case horaire.",
-      "commentary_date": "2026-07-03"
+      "commentary": "France 3 reprend la tête du prime avec une fiction forte, s'arrogeant 20.7% de part de marché grâce à \"Meurtres à Bayeux\". Ce score la positionne nettement devant France 2 et son divertissement \"Fort Boyard\", qui enregistre 18.1% de PDM, une performance inférieure à la moyenne de la semaine où le rugby avait mobilisé un public plus large. La chaîne privée M6, qui a dominé le classement les deux soirées précédentes avec la Coupe du Monde de football, se retrouve troisième avec son magazine sportif, témoignant d'une redistribution des cartes en l'absence de grands événements sportifs majeurs. La stratégie de contre-programmation de France 3 face aux offres de divertissement et de sport des autres grandes chaînes semble porter ses fruits, s'appuyant sur un genre fictionnel établi. La contre-performance de TF1 sur le rugby, avec seulement 844 000 téléspectateurs, illustre la difficulté de la chaîne à imposer des retransmissions sportives hors des événements phares.",
+      "commentary_date": "2026-07-04"
     },
     "DE": {
       "country_code": "DE",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Der+D%C3%A4nemark-Krimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-05T14:18:46.008779Z",
+      "scraped_at": "2026-07-05T15:38:49.169599Z",
       "status": "ok",
       "error": null,
       "commentary": "La retransmission de la Coupe du Monde de football sur ZDF s'affirme comme un moteur d'audience majeur, captant 3,73 millions de téléspectateurs et 20,3% de part de marché ce samedi 4 juillet. La chaîne publique devance ainsi le journal de Das Erste, qui réalise un score de 3,94 millions de téléspectateurs (22,2% PDM), mais reste derrière le journal de la même chaîne diffusé par une \"Autre chaîne\" (5,00 M téléspectateurs, 29,4% PDM). La fiction, représentée par deux téléfilms, peine à rivaliser avec les programmes d'information et sportifs, le meilleur score atteignant 3,68 millions de curieux. La semaine écoulée a vu la domination de ZDF lors de la rencontre du 29 juin, attirant 17,57 millions de personnes, un chiffre exceptionnel qui contraste avec les audiences de ce samedi. Cette configuration confirme la fragilité des programmes de fiction face aux événements sportifs d'envergure, particulièrement dans la case du prime time.",
@@ -169,7 +169,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-05T14:18:47.503218Z",
+      "scraped_at": "2026-07-05T15:38:50.399392Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22In+Onda+Prima+Serata%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-07-05T14:18:51.580250Z",
+      "scraped_at": "2026-07-05T15:38:52.995357Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 4 juillet, Rai 1 reprend la tête du prime time avec « Notti Mondiali », attirant 1,92 million de téléspectateurs et 14,7% de part de marché, repoussant Canale 5 et son divertissement « Ciao Darwin » à 1,34 million (14,5%). La chaîne publique confirme ainsi sa prédominance sur la semaine, ayant occupé le leadership six soirs sur sept. Comparé à la soirée du 27 juin, « Notti Mondiali » enregistre une légère hausse en téléspectateurs (+30 000) mais une légère baisse en part de marché (-0,2 point), tandis que « Ciao Darwin » perd 20 000 téléspectateurs mais gagne 0,1 point de PDM. Cette configuration renforce la dynamique habituelle du duopole Rai-Mediaset, où les événements sportifs sur Rai 1 canalisent une audience significative, laissant Canale 5 se disputer le reste de l'audimat avec ses programmes phares. La fragmentation des audiences se confirme sur les chaînes secondaires, avec des scores plus modestes pour Rai 2, Rete 4 et La7.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-05T14:18:52.847590Z",
+      "scraped_at": "2026-07-05T15:38:54.029791Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-05T14:18:52.848967Z"
+  "last_updated": "2026-07-05T15:39:09.942199Z"
 }
