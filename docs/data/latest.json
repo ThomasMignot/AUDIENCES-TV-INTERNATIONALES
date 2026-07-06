@@ -8,76 +8,10 @@
       "date": "2026-07-05",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
-          "program_fr": null,
-          "viewers": 5423000,
-          "share": 26.2,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
-        },
-        {
-          "rank": 2,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "heute journal / Wetter",
-          "program_fr": null,
-          "viewers": 3946000,
-          "share": 19.8,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
-        },
-        {
-          "rank": 3,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Inga Lindström: Klang der Sehnsuch",
-          "program_fr": null,
-          "viewers": 3241000,
-          "share": 15.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Christiane_Sadlo"
-        },
-        {
-          "rank": 4,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Kommissar Van der Valk - Geheimniss",
-          "program_fr": null,
-          "viewers": 2185000,
-          "share": 12.6,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Van_der_Valk_%282020_TV_series%29"
-        },
-        {
-          "rank": 5,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Rosamunde Pilcher: Pralinen zum Fr?",
-          "program_fr": null,
-          "viewers": 1680000,
-          "share": 11.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Rosamunde_Pilcher"
-        }
-      ],
-      "scraped_at": "2026-07-06T16:02:31.316058Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-07-06T17:16:39.967889Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7fbfa07a8f50>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
       "commentary": "La \"Tagesschau\" sur Das Erste s'impose en tête des audiences de prime time ce 5 juillet avec 5,42 millions de téléspectateurs et 26,2% de part de marché, confirmant la prépondérance des chaînes publiques sur ce créneau. Le \"heute journal\" de ZDF suit avec 3,95 millions de téléspectateurs (19,8% PDM), une performance solide mais inférieure à celle de la veille (5,00 M, 29,4% PDM) sur une case pourtant similaire. La compétition s'observe en dehors du duopole public, avec des fictions et des divertissements sur des chaînes non spécifiées qui peinent à dépasser les 3,24 millions de téléspectateurs. Cette fragmentation des audiences est notable par rapport aux journées précédentes, largement dominées par la Coupe du Monde de football qui mobilisait des chiffres considérablement plus élevés, atteignant jusqu'à 17,57 millions de téléspectateurs et 74,5% de PDM le 29 juin. Les programmes de fiction germanophones, bien que présents dans le top 5, ne rivalisent pas avec les performances habituelles des journaux télévisés des chaînes publiques.",
       "commentary_date": "2026-07-05"
     },
@@ -89,7 +23,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-06T16:02:32.931129Z",
+      "scraped_at": "2026-07-06T17:16:41.367363Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
@@ -103,7 +37,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-06T16:02:38.262624Z",
+      "scraped_at": "2026-07-06T17:16:46.847555Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -128,7 +62,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-5-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mondiali+2026%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Official_FIFA_World_Cup_2026_Album"
         },
         {
           "rank": 2,
@@ -183,7 +117,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Elsbeth%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-07-06T16:02:36.969593Z",
+      "scraped_at": "2026-07-06T17:16:45.278177Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 s'impose ce 5 juillet avec 5,74 millions de téléspectateurs et une part de marché de 42,0%. Ce score représente une nette progression par rapport aux 4,57 millions enregistrés le 2 juillet, et confirme la domination de la chaîne publique sur la case du prime time, où elle a été leader six soirs sur sept durant la semaine écoulée. La fiction de Canale 5, « Racconto di una Notte », se positionne en deuxième partie de classement avec 1,58 million de fidèles, un chiffre en retrait par rapport à ses performances des jours précédents, notamment le 1er juillet avec « Temptation Island » (3,82 M). Cette performance de Rai 1 illustre la capacité des événements sportifs majeurs à fédérer un large public, au détriment des offres de divertissement et de fiction des concurrents privés comme Mediaset. Les autres chaînes, Rai 3 et Italia 1, ferment le top 5 avec des audiences plus modestes, reflétant une segmentation des audiences où le football capte une part prépondérante de l'attention.",
@@ -263,12 +197,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Francisco_Franco"
         }
       ],
-      "scraped_at": "2026-07-06T16:02:25.018285Z",
+      "scraped_at": "2026-07-06T17:16:07.274286Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête du prime time ce 5 juillet avec sa fiction \"Plancha\", qui rassemble 2,83 millions de téléspectateurs et réalise 17,0% de part d'audience, une performance supérieure à ses deux dernières fictions diffusées les 28 juin et 2 juillet. La chaîne privée devance M6, dont le magazine consacré à la Coupe du Monde de la FIFA enregistre 2,09 millions de curieux (13,4% PDM), un score en retrait par rapport aux retransmissions de matchs de la semaine précédente. France 2 et France 3 se positionnent en embuscade, avec des fictions respectives réalisant 1,71 million (10,3% PDM) et 1,69 million (10,5% PDM). Cette soirée confirme la difficulté pour les chaînes historiques de rivaliser avec les événements sportifs majeurs, comme l'illustre le leadership de M6 le 2 juillet avec plus de 5 millions de spectateurs pour un match de football. Les programmes d'information et de découverte culturelle, tels que celui de France 5, peinent à capter une audience significative face à la concurrence des offres de flux et de fiction.",
       "commentary_date": "2026-07-05"
     }
   },
-  "last_updated": "2026-07-06T16:02:38.264900Z"
+  "last_updated": "2026-07-06T17:16:46.849382Z"
 }
