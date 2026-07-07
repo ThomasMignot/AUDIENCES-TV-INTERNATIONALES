@@ -1,6 +1,86 @@
 {
   "date": "2026-07-06",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-06",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "CAMPING PARADIS DEUX CHEFFES AU PARADIS \\ 1ERE PARTIE",
+          "program_fr": null,
+          "viewers": 1893000,
+          "share": 9.5,
+          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "L'ECOLE BUISSONNIERE",
+          "program_fr": null,
+          "viewers": 1754000,
+          "share": 9.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27%C3%89cole_buissonni%C3%A8re"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "MEURTRES AU PARADIS \\ UNE VIE GACHEE",
+          "program_fr": null,
+          "viewers": 1720000,
+          "share": 8.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "LE BOUCHER",
+          "program_fr": null,
+          "viewers": 876000,
+          "share": 4.5,
+          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Boucher"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "LES MINIONS",
+          "program_fr": null,
+          "viewers": 578000,
+          "share": 3.0,
+          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Minions"
+        }
+      ],
+      "scraped_at": "2026-07-07T10:35:17.536290Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 se positionne en tête des audiences du 6 juillet avec \"Camping Paradis\", rassemblant 1,89 million de téléspectateurs, soit 9,5% de part de marché. Cette performance contraste avec les scores significativement plus élevés enregistrés la semaine précédente, où la chaîne avait notamment dépassé les 2,8 millions de téléspectateurs avec la fiction \"Plancha\". La concurrence sur la case du prime time reste vive, avec France 3 et France 2 occupant les deuxième et troisième places, respectivement à 1,75 million (9,1% PDM) et 1,72 million (8,8% PDM). La présence du football de la Coupe du Monde de la FIFA sur M6, qui avait dominé les soirées précédentes avec des scores dépassant les 3 millions de téléspectateurs, semble avoir laissé un espace aux fictions sur les autres chaînes généralistes. Arte et TMC ferment le top 5, témoignant de la fragmentation des audiences, accentuée par la TNT.",
+      "commentary_date": "2026-07-06"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -82,20 +162,6 @@
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
       "commentary_date": "2026-06-30"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-06",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-07T10:35:27.797040Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -176,86 +242,20 @@
       "commentary": "La soirée du 6 juillet 2026 voit la diffusion des « Mondiali 2026 » sur Rai 1 capter une audience significative de 7,02 millions de téléspectateurs, représentant 37,8% de part de marché. Cette performance place la chaîne publique en tête, confirmant sa domination sur la case du prime time durant la semaine écoulée, avec six soirées sur sept en première position. La principale tension concurrentielle s'observe entre Rai 1 et Canale 5, cette dernière proposant le film « Tre di troppo » qui rassemble 1,50 million de personnes (10,5% PDM). En comparaison, la performance de Rai 1 ce soir dépasse largement les chiffres enregistrés les 29 et 30 juin, où les programmes sportifs atteignaient respectivement 1,84 et 2,64 millions de téléspectateurs. La stratégie de Rai 1 de capitaliser sur les événements sportifs majeurs pour son audience la plus large s'avère structurellement efficace, attirant un public conséquent en cette période estivale. Les autres chaînes généralistes, Italia 1, Rai 2 et Rai 3, se positionnent loin derrière, avec des scores inférieurs à 1 million de téléspectateurs.",
       "commentary_date": "2026-07-06"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-06",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CAMPING PARADIS DEUX CHEFFES AU PARADIS \\ 1ERE PARTIE",
-          "program_fr": null,
-          "viewers": 1893000,
-          "share": 9.5,
-          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "L'ECOLE BUISSONNIERE",
-          "program_fr": null,
-          "viewers": 1754000,
-          "share": 9.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27%C3%89cole_buissonni%C3%A8re"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "MEURTRES AU PARADIS \\ UNE VIE GACHEE",
-          "program_fr": null,
-          "viewers": 1720000,
-          "share": 8.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_au_paradis"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "LE BOUCHER",
-          "program_fr": null,
-          "viewers": 876000,
-          "share": 4.5,
-          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Boucher"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "LES MINIONS",
-          "program_fr": null,
-          "viewers": 578000,
-          "share": 3.0,
-          "source_url": "https://www.ozap.com/actu/audiences-le-8eme-de-finale-choc-entre-le-portugal-et-lespagne-a-t-il-fait-le-plein-sur-m6/655902",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Minions"
-        }
-      ],
-      "scraped_at": "2026-07-07T10:35:17.536290Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 se positionne en tête des audiences du 6 juillet avec \"Camping Paradis\", rassemblant 1,89 million de téléspectateurs, soit 9,5% de part de marché. Cette performance contraste avec les scores significativement plus élevés enregistrés la semaine précédente, où la chaîne avait notamment dépassé les 2,8 millions de téléspectateurs avec la fiction \"Plancha\". La concurrence sur la case du prime time reste vive, avec France 3 et France 2 occupant les deuxième et troisième places, respectivement à 1,75 million (9,1% PDM) et 1,72 million (8,8% PDM). La présence du football de la Coupe du Monde de la FIFA sur M6, qui avait dominé les soirées précédentes avec des scores dépassant les 3 millions de téléspectateurs, semble avoir laissé un espace aux fictions sur les autres chaînes généralistes. Arte et TMC ferment le top 5, témoignant de la fragmentation des audiences, accentuée par la TNT.",
-      "commentary_date": "2026-07-06"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-07T10:35:27.797040Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-07T10:35:27.799062Z"
+  "last_updated": "2026-07-07T10:36:12.163039Z"
 }
