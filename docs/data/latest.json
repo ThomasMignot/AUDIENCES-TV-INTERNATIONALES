@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Steirerkind%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-07T13:03:55.130499Z",
+      "scraped_at": "2026-07-07T15:28:17.955581Z",
       "status": "partial",
       "error": null,
       "commentary": "La diffusion de la Coupe du Monde de la FIFA 2026 sur le service public allemand, en l'occurrence ZDF, capte une part d'audience considérable de 43.5% le 6 juillet, avec 9,72 millions de téléspectateurs. Cette performance surpasse nettement les scores enregistrés la semaine précédente pour des rencontres similaires, comme celle du 29 juin qui avait attiré 17,57 millions de personnes mais avec une part d'audience plus faible (74.5%), suggérant une fragmentation des audiences durant cette période ou une moindre exposition médiatique des matchs précédents. Le journal de 20h de Das Erste, \"Tagesschau\", se positionne en deuxième chaîne avec 5,03 millions de téléspectateurs et 25.1% de part de marché, une performance en hausse par rapport à la moyenne des sept jours précédents (environ 4,7 millions). La compétition pour le leadership du prime time, traditionnellement disputée entre les chaînes publiques, est ici clairement dominée par l'événement sportif. Les programmes de divertissement ou de fiction diffusés par d'autres chaînes, comme \"Steirergeld\" et \"Steirerkind\", peinent à rivaliser face à la puissance fédératrice du football, ne dépassant pas les 3,93 millions de téléspectateurs.",
@@ -76,7 +76,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-07T13:03:56.549069Z",
+      "scraped_at": "2026-07-07T15:28:19.544725Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
@@ -90,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-07T13:04:02.871789Z",
+      "scraped_at": "2026-07-07T15:28:25.363954Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -141,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-6-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/No_Way_Up"
+          "wikipedia_url": "https://www.google.com/search?q=%22No+Way+Up%22+Italia+1+ratings"
         },
         {
           "rank": 4,
@@ -154,7 +154,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-6-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Undercover_Boss"
+          "wikipedia_url": "https://www.google.com/search?q=%22Boss+in+Incognito%22+Rai+2+ratings"
         },
         {
           "rank": 5,
@@ -167,10 +167,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-6-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Magni_%28motorcycle%29"
+          "wikipedia_url": "https://www.google.com/search?q=%22Filorosso%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-07-07T13:04:01.597577Z",
+      "scraped_at": "2026-07-07T15:28:24.112072Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 6 juillet 2026 voit la diffusion des « Mondiali 2026 » sur Rai 1 capter une audience significative de 7,02 millions de téléspectateurs, représentant 37,8% de part de marché. Cette performance place la chaîne publique en tête, confirmant sa domination sur la case du prime time durant la semaine écoulée, avec six soirées sur sept en première position. La principale tension concurrentielle s'observe entre Rai 1 et Canale 5, cette dernière proposant le film « Tre di troppo » qui rassemble 1,50 million de personnes (10,5% PDM). En comparaison, la performance de Rai 1 ce soir dépasse largement les chiffres enregistrés les 29 et 30 juin, où les programmes sportifs atteignaient respectivement 1,84 et 2,64 millions de téléspectateurs. La stratégie de Rai 1 de capitaliser sur les événements sportifs majeurs pour son audience la plus large s'avère structurellement efficace, attirant un public conséquent en cette période estivale. Les autres chaînes généralistes, Italia 1, Rai 2 et Rai 3, se positionnent loin derrière, avec des scores inférieurs à 1 million de téléspectateurs.",
@@ -250,12 +250,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Minions"
         }
       ],
-      "scraped_at": "2026-07-07T13:03:49.949465Z",
+      "scraped_at": "2026-07-07T15:28:12.252225Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 se positionne en tête des audiences du 6 juillet avec \"Camping Paradis\", rassemblant 1,89 million de téléspectateurs, soit 9,5% de part de marché. Cette performance contraste avec les scores significativement plus élevés enregistrés la semaine précédente, où la chaîne avait notamment dépassé les 2,8 millions de téléspectateurs avec la fiction \"Plancha\". La concurrence sur la case du prime time reste vive, avec France 3 et France 2 occupant les deuxième et troisième places, respectivement à 1,75 million (9,1% PDM) et 1,72 million (8,8% PDM). La présence du football de la Coupe du Monde de la FIFA sur M6, qui avait dominé les soirées précédentes avec des scores dépassant les 3 millions de téléspectateurs, semble avoir laissé un espace aux fictions sur les autres chaînes généralistes. Arte et TMC ferment le top 5, témoignant de la fragmentation des audiences, accentuée par la TNT.",
       "commentary_date": "2026-07-06"
     }
   },
-  "last_updated": "2026-07-07T13:04:02.873620Z"
+  "last_updated": "2026-07-07T15:28:25.366126Z"
 }
