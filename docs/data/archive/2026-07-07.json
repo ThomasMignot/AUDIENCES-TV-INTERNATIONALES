@@ -1,6 +1,86 @@
 {
   "date": "2026-07-07",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-07",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ALEXANDRA EHLE \\ COEUR DE PIERRE",
+          "program_fr": null,
+          "viewers": 1923000,
+          "share": 12.6,
+          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alexandra_Ehle"
+        },
+        {
+          "rank": 2,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "COUPE DU MONDE DE LA FIFA LE MAG",
+          "program_fr": null,
+          "viewers": 1909000,
+          "share": 12.2,
+          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Oph%C3%A9lie_Meunier"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "COUP DE FOUDRE A NOTTING HILL",
+          "program_fr": null,
+          "viewers": 1850000,
+          "share": 12.9,
+          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coup_de_foudre_%C3%A0_Notting_Hill"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "TENDRE POULET",
+          "program_fr": null,
+          "viewers": 1160000,
+          "share": 7.6,
+          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tendre_Poulet"
+        },
+        {
+          "rank": 5,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "REGNE ANIMAL : LES JEUX DE L'AMOUR \\ LES MAITRESSES DU JEU",
+          "program_fr": null,
+          "viewers": 971000,
+          "share": 6.3,
+          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_R%C3%A8gne_animal"
+        }
+      ],
+      "scraped_at": "2026-07-08T09:41:54.596448Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'impose en tête des audiences du prime time ce 7 juillet avec sa fiction \"Alexandra Ehle\", captant 1,92 million de téléspectateurs et 12,6% de part de marché. La chaîne publique devance de peu M6 et sa retransmission du magazine de la Coupe du Monde de la FIFA, qui réunit 1,91 million de personnes (12,2% PDM). Cette performance de France 3 contraste avec la semaine précédente, où la chaîne avait largement dominé le 30 juin avec \"A qui profite le doute ?\" (3,22 M, 20,1%). La faible performance de TF1 avec le film \"Coup de foudre à Notting Hill\" (1,85 M, 12,9%) illustre une certaine fragilité sur sa case cinéma habituelle, alors que la TNT continue de fragmenter les audiences. La chaîne publique, en proposant une offre de fiction locale, semble tirer son épingle du jeu dans une soirée marquée par la compétition sportive et l'offre cinéma des deux principales chaînes privées.",
+      "commentary_date": "2026-07-07"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
       "commentary_date": "2026-06-30"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-07",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-08T09:42:12.616668Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 s'affirme comme un puissant moteur d'audience, captant 4,03 millions de téléspectateurs et 36,0% de part de marché ce 7 juillet. Cette performance surpasse significativement le lead-in habituel de la chaîne, comme le démontre la comparaison avec les 2,11 millions de téléspectateurs pour « Scusate se esisto! » le 3 juillet. La dominance de Rai 1, qui a mené 6 soirées sur les 7 dernières, illustre la difficulté pour les concurrents, notamment Canale 5 et ses 1,61 million pour « Memories », de rivaliser en case prime time. L'écart se creuse particulièrement face aux grandes compétitions sportives, reléguant le divertissement de Canale 5 à une position de second plan. La stratégie de Rai 1 de capitaliser sur l'événement sportif majeur confirme sa position de leader historique, tandis que les chaînes de la TNT, comme Italia 1 et La7, se partagent les audiences résiduelles dans des niches plus spécifiques.",
       "commentary_date": "2026-07-07"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-07",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ALEXANDRA EHLE \\ COEUR DE PIERRE",
-          "program_fr": null,
-          "viewers": 1923000,
-          "share": 12.6,
-          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alexandra_Ehle"
-        },
-        {
-          "rank": 2,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE LA FIFA LE MAG",
-          "program_fr": null,
-          "viewers": 1909000,
-          "share": 12.2,
-          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Oph%C3%A9lie_Meunier"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "COUP DE FOUDRE A NOTTING HILL",
-          "program_fr": null,
-          "viewers": 1850000,
-          "share": 12.9,
-          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coup_de_foudre_%C3%A0_Notting_Hill"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "TENDRE POULET",
-          "program_fr": null,
-          "viewers": 1160000,
-          "share": 7.6,
-          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tendre_Poulet"
-        },
-        {
-          "rank": 5,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "REGNE ANIMAL : LES JEUX DE L'AMOUR \\ LES MAITRESSES DU JEU",
-          "program_fr": null,
-          "viewers": 971000,
-          "share": 6.3,
-          "source_url": "https://www.ozap.com/actu/audiences-julia-roberts-et-hugh-grant-sur-tf1-ont-ils-reussi-a-faire-flancher-la-coupe-du-monde-sur-m6/655932",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_R%C3%A8gne_animal"
-        }
-      ],
-      "scraped_at": "2026-07-08T09:41:54.596448Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'impose en tête des audiences du prime time ce 7 juillet avec sa fiction \"Alexandra Ehle\", captant 1,92 million de téléspectateurs et 12,6% de part de marché. La chaîne publique devance de peu M6 et sa retransmission du magazine de la Coupe du Monde de la FIFA, qui réunit 1,91 million de personnes (12,2% PDM). Cette performance de France 3 contraste avec la semaine précédente, où la chaîne avait largement dominé le 30 juin avec \"A qui profite le doute ?\" (3,22 M, 20,1%). La faible performance de TF1 avec le film \"Coup de foudre à Notting Hill\" (1,85 M, 12,9%) illustre une certaine fragilité sur sa case cinéma habituelle, alors que la TNT continue de fragmenter les audiences. La chaîne publique, en proposant une offre de fiction locale, semble tirer son épingle du jeu dans une soirée marquée par la compétition sportive et l'offre cinéma des deux principales chaînes privées.",
-      "commentary_date": "2026-07-07"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-08T09:42:12.616668Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-08T09:42:12.618856Z"
+  "last_updated": "2026-07-08T09:42:45.540444Z"
 }
