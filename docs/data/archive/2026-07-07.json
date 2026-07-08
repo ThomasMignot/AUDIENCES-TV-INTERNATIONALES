@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_R%C3%A8gne_animal"
         }
       ],
-      "scraped_at": "2026-07-08T14:57:15.661385Z",
+      "scraped_at": "2026-07-08T16:11:55.158294Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose en tête des audiences du prime time ce 7 juillet avec sa fiction \"Alexandra Ehle\", captant 1,92 million de téléspectateurs et 12,6% de part de marché. La chaîne publique devance de peu M6 et sa retransmission du magazine de la Coupe du Monde de la FIFA, qui réunit 1,91 million de personnes (12,2% PDM). Cette performance de France 3 contraste avec la semaine précédente, où la chaîne avait largement dominé le 30 juin avec \"A qui profite le doute ?\" (3,22 M, 20,1%). La faible performance de TF1 avec le film \"Coup de foudre à Notting Hill\" (1,85 M, 12,9%) illustre une certaine fragilité sur sa case cinéma habituelle, alors que la TNT continue de fragmenter les audiences. La chaîne publique, en proposant une offre de fiction locale, semble tirer son épingle du jeu dans une soirée marquée par la compétition sportive et l'offre cinéma des deux principales chaînes privées.",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fu%C3%9Fball-WM+2026%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_broadcasting_rights"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Der+Geier%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Geier"
         },
         {
           "rank": 4,
@@ -139,7 +139,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Wm+1994%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/WrestleMania_X"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fu%C3%9Fball-WM+2026%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_broadcasting_rights"
         }
       ],
-      "scraped_at": "2026-07-08T14:57:20.755598Z",
+      "scraped_at": "2026-07-08T16:12:03.710701Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time allemand du 7 juillet 2026 est marqué par la prégnance du football de la Coupe du Monde, qui s'adjuge la deuxième place avec 5,74 millions de téléspectateurs et 42,3% de part de marché. La \"Tagesschau\" de Das Erste conserve sa position de leader du journal d'information avec 7,53 millions de fidèles et 34,1% de PDM, une performance en hausse significative par rapport à la moyenne des six jours précédents (5,42 M, 26,2% le 5 juillet). Cette domination des chaînes publiques sur le flux d'information contraste avec la forte mobilisation du public pour l'événement sportif, diffusé sur une chaîne non spécifiée. La présence de trois programmes liés à la Coupe du Monde dans le top 5 (dont le studio d'avant-match à 3,66 M) suggère une stratégie de programmation axée sur l'événement sportif, captant une audience large. La semaine précédente, la \"Tagesschau\" avait déjà montré une forte résilience, s'imposant comme leader trois fois sur six jours, mais la performance du 7 juillet dépasse ses chiffres habituels.",
@@ -169,7 +169,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-08T14:57:22.029174Z",
+      "scraped_at": "2026-07-08T16:12:05.014201Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La Coupe du Monde de football sur La 1 s'impose nettement ce 30 juin, captant 2,51 millions de téléspectateurs et 28,1% de part de marché. Ce score surpasse les précédentes rencontres de la compétition diffusées la semaine passée, comme celle du 25 juin qui réunissait 2,67 millions (24,7% PDM), mais confirme la capacité du sport à dominer le prime time sur la chaîne publique. Antena 3, avec son divertissement \"El Hormiguero\", se positionne en deuxième place, attirant 1,47 million de personnes et 13,0% de PDM, une performance stable par rapport à ses scores de la semaine. La chaîne privée, qui avait mené le classement sur trois des cinq soirées précédentes, voit son leadership hebdomadaire contesté par la puissance des événements sportifs. Cuatro et Telecinco se disputent les troisième et quatrième places, avec des programmes d'information et de divertissement qui peinent à rivaliser avec les offres plus fédératrices. Le format du magazine d'information \"Horizonte\" sur Cuatro, déjà bien installé dans sa case, montre une certaine résilience face à la concurrence.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-7-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mondiali+2026%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Official_FIFA_World_Cup_2026_Album"
         },
         {
           "rank": 2,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-7-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Memories%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Memory"
         },
         {
           "rank": 3,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22The+Peacemaker%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-07-08T14:57:25.149400Z",
+      "scraped_at": "2026-07-08T16:12:09.342430Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 s'affirme comme un puissant moteur d'audience, captant 4,03 millions de téléspectateurs et 36,0% de part de marché ce 7 juillet. Cette performance surpasse significativement le lead-in habituel de la chaîne, comme le démontre la comparaison avec les 2,11 millions de téléspectateurs pour « Scusate se esisto! » le 3 juillet. La dominance de Rai 1, qui a mené 6 soirées sur les 7 dernières, illustre la difficulté pour les concurrents, notamment Canale 5 et ses 1,61 million pour « Memories », de rivaliser en case prime time. L'écart se creuse particulièrement face aux grandes compétitions sportives, reléguant le divertissement de Canale 5 à une position de second plan. La stratégie de Rai 1 de capitaliser sur l'événement sportif majeur confirme sa position de leader historique, tandis que les chaînes de la TNT, comme Italia 1 et La7, se partagent les audiences résiduelles dans des niches plus spécifiques.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-08T14:57:26.259590Z",
+      "scraped_at": "2026-07-08T16:12:10.441292Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-08T14:57:26.261092Z"
+  "last_updated": "2026-07-08T16:12:10.442696Z"
 }
