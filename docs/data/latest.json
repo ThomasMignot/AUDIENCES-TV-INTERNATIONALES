@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Aktenzeichen+XY...+Vermisst%22+Sat.1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Death_of_Sonja_Engelbrecht"
         },
         {
           "rank": 4,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Die+Toten+vom+Bodensee%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-09T15:43:35.595786Z",
+      "scraped_at": "2026-07-09T16:42:13.373982Z",
       "status": "ok",
       "error": null,
       "commentary": "Les audiences du prime time du 8 juillet 2026 en Allemagne confirment la prédominance des journaux télévisés des chaînes publiques, avec la \"Tagesschau\" de Das Erste en tête à 5,02 millions de téléspectateurs et 27,5% de part de marché. Le \"heute journal\" du ZDF suit avec 3,75 millions (20,9%), tandis que Sat.1 se positionne en troisième avec \"Aktenzeichen XY... Vermisst\" (3,65 M, 18.9%). Cette performance contraste avec les journées précédentes, où les retransmissions de la Coupe du Monde de football sur des chaînes non spécifiées avaient capté une part d'audience significativement plus élevée, atteignant jusqu'à 42,3% le 7 juillet. La présence du magazine \"Aktenzeichen XY...\" en troisième position, un format de longue date, illustre une certaine stabilité des programmes de faits divers face aux événements sportifs ponctuels. La chute de la \"Tagesschau\" par rapport à ses pics récents (7,58 M le 1er juillet, 7,53 M le 7 juillet) s'explique par l'absence de compétition sportive majeure ce soir-là, permettant aux programmes d'information de retrouver leur public habituel.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-07-09T15:43:36.652681Z",
+      "scraped_at": "2026-07-09T16:42:14.447559Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 et La 1 se disputent la tête des audiences du prime time de ce mercredi 8 juillet 2026, avec leurs émissions de divertissement respectives, \"El Hormiguero 20 Años Juntos\" et \"La Revuelta\", qui réunissent chacune 1,17 million de téléspectateurs. Cette parité, avec une légère avance pour La 1 en part de marché (11.8% contre 11.7%), illustre la remontée de la chaîne publique espagnole observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, avec \"First Dates: Summer\", se positionne en troisième position avec 827 000 curieux et 8.4% de PDM, montrant une distance notable avec les deux leaders. La chaîne d'information \"Horizonte\" sur Cuatro capte 776 000 téléspectateurs (7.9% PDM), tandis que La 2 ferme ce top 5 avec son jeu \"Cifras y Letras\" et 660 000 fidèles (6.6% PDM). L'absence de données historiques récentes rend difficile l'identification de dynamiques de court terme, mais la performance de La 1 confirme une stratégie payante dans cette case.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-09T15:43:40.218606Z",
+      "scraped_at": "2026-07-09T16:42:17.955534Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22In+Onda+Prima+Serata%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-07-09T15:43:39.166654Z",
+      "scraped_at": "2026-07-09T16:42:16.897941Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 8 juillet voit Canale 5 s'imposer avec « Temptation Island », attirant 32.3% de part de marché, une performance notable face à Rai 1. Ce divertissement confirme la stratégie de la chaîne privée de s'appuyer sur des formats éprouvés pour capter une large audience, notamment en access et en prime time. La chaîne publique Rai 1, habituellement leader, se retrouve reléguée à la deuxième place avec 10.7% de PDM, illustrant la fragilité de sa domination face à une offre de divertissement populaire. Les autres chaînes, Rai 3, Italia 1 et La7, se partagent des parts de marché plus modestes, confirmant la polarisation du marché autour du duopole Rai-Mediaset. Comparé aux jours précédents où les matchs des « Mondiali 2026 » sur Rai 1 dominaient largement, ce chiffre de 32.3% pour Canale 5 marque un changement de dynamique dans la lutte pour la tête des audiences. La semaine précédente, Rai 1 avait largement dominé les soirées, mais l'absence de compétitions sportives majeures ce 8 juillet a permis à Canale 5 de capitaliser sur son offre de divertissement.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Samba"
         }
       ],
-      "scraped_at": "2026-07-09T15:43:32.683091Z",
+      "scraped_at": "2026-07-09T16:42:10.054804Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de M6, « Les Trois Mousquetaires - Partie 1 d'Artagnan », s'empare de la tête des audiences du prime time avec 2,52 millions de téléspectateurs, soit 18,8% de part de marché. Ce score place la chaîne privée en tête, là où elle avait déjà occupé cette position deux fois dans la semaine écoulée, notamment grâce à la Coupe du Monde. France 2, avec sa série « Le Crime lui va si bien », se positionne en deuxième place, un score stable par rapport à ses précédentes fictions de la semaine, mais inférieur à celui de M6. France 3, avec son programme « Le Village préféré des Français », réalise une performance honorable mais en retrait par rapport à ses précédents succès de fiction. TF1, quant à elle, voit sa fiction « All Her Fault » se contenter de la quatrième position, un positionnement inhabituel pour la première chaîne.",
       "commentary_date": "2026-07-08"
     }
   },
-  "last_updated": "2026-07-09T15:43:40.220946Z"
+  "last_updated": "2026-07-09T16:42:17.957794Z"
 }
