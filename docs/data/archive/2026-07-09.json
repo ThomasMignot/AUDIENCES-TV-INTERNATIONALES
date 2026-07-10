@@ -59,7 +59,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%87a_vous_fait_rire_%3F"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%87a_fait_rire_les_oiseaux"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
         }
       ],
-      "scraped_at": "2026-07-10T12:57:04.188037Z",
+      "scraped_at": "2026-07-10T15:14:40.005417Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 9 juillet 2026 voit M6 s'imposer avec son magazine consacré à la Coupe du Monde de la FIFA, attirant 2,54 millions de téléspectateurs et 15,9% de part d'audience. Cette performance place la chaîne privée en tête des audiences, une position qu'elle a occupée trois fois au cours de la semaine écoulée, notamment grâce à la couverture de l'événement sportif. TF1 et France 3 se disputent la deuxième place avec des scores très proches pour leurs fictions respectives, \"Zodiaque\" et \"La stagiaire\", réunissant respectivement 1,86 million et 1,85 million de téléspectateurs. La chaîne publique France 2, avec son magazine sur la comédie française, obtient 1,74 million de curieux, se positionnant derrière ses concurrentes directes. La fragmentation des audiences, accentuée par la TNT, rend ces scores significatifs dans le paysage audiovisuel actuel, où la capacité à rassembler un large public sur les chaînes historiques reste un enjeu majeur.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Wm+1994%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-10T12:57:08.387611Z",
+      "scraped_at": "2026-07-10T15:14:47.048932Z",
       "status": "ok",
       "error": null,
       "commentary": "La Coupe du Monde de football de 2026 structure fortement les audiences allemandes, comme le montre la première place du match France-Maroc sur une chaîne non identifiée avec 8,42 millions de téléspectateurs et 49,1% de part de marché. Ce score dépasse nettement le meilleur programme de la semaine précédente, le match Suisse-Colombie (5,74 M, 42,3% le 7 juillet), et confirme la prédominance des retransmissions sportives sur les offres traditionnelles des chaînes publiques. Le journal de 20 heures de Das Erste, habituellement leader, se retrouve relégué en troisième position avec 3,88 millions de fidèles et 22,3% de PDM, une performance inférieure à ses scores des jours précédents (7,53 M le 7 juillet, 5,02 M le 8 juillet). Le programme de fiction de ZDF, \"Das Traumschiff\", réalise une audience honorable de 3,45 millions de téléspectateurs (19,1% PDM), mais reste loin des chiffres générés par le football. Cette configuration de prime time, dominée par un événement sportif majeur, met en lumière la difficulté pour les chaînes généralistes de rivaliser lorsque des compétitions d'envergure captent l'attention d'une large part de l'électorat.",
@@ -169,7 +169,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-10T12:57:09.600407Z",
+      "scraped_at": "2026-07-10T15:14:48.643055Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 et La 1 se disputent la tête des audiences du prime time de ce mercredi 8 juillet 2026, avec leurs émissions de divertissement respectives, \"El Hormiguero 20 Años Juntos\" et \"La Revuelta\", qui réunissent chacune 1,17 million de téléspectateurs. Cette parité, avec une légère avance pour La 1 en part de marché (11.8% contre 11.7%), illustre la remontée de la chaîne publique espagnole observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, avec \"First Dates: Summer\", se positionne en troisième position avec 827 000 curieux et 8.4% de PDM, montrant une distance notable avec les deux leaders. La chaîne d'information \"Horizonte\" sur Cuatro capte 776 000 téléspectateurs (7.9% PDM), tandis que La 2 ferme ce top 5 avec son jeu \"Cifras y Letras\" et 660 000 fidèles (6.6% PDM). L'absence de données historiques récentes rend difficile l'identification de dynamiques de court terme, mais la performance de La 1 confirme une stratégie payante dans cette case.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Innamorato+pazzo%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-10T12:57:12.397953Z",
+      "scraped_at": "2026-07-10T15:14:52.692825Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 confirme la domination de la chaîne publique dans la case du prime time, captant 6,34 millions de téléspectateurs et 43,5% de part de marché le 9 juillet. Ce score, bien que légèrement inférieur aux pics atteints lors des rencontres précédentes (notamment les 7,02 millions du 6 juillet), maintient un écart considérable avec la concurrence directe de Canale 5. Ce dernier, avec « Battiti Live », rassemble 1,58 million de fidèles et 14,3% de PDM, témoignant de la difficulté des programmes de divertissement généraliste à rivaliser face à un événement sportif d'une telle ampleur. La stratégie de Rai 1 s'appuie sur la puissance de l'événementiel sportif, confirmant son leadership sur la semaine, tandis que Canale 5 peine à trouver une contre-programmation efficace. Les autres chaînes, Rai 2, Rai 3 et Rete 4, se partagent les restes des audiences, avec des scores inférieurs au million de téléspectateurs.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-10T12:57:13.921514Z",
+      "scraped_at": "2026-07-10T15:14:54.042185Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-10T12:57:13.923042Z"
+  "last_updated": "2026-07-10T15:14:54.043476Z"
 }
