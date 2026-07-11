@@ -49,7 +49,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Steirertod%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-11T14:02:25.880163Z",
+      "scraped_at": "2026-07-11T15:16:44.422387Z",
       "status": "partial",
       "error": null,
       "commentary": "La diffusion du « ZDFsportstudio live-FIFA WM 2026: S » par la ZDF le 10 juillet enregistre une audience de 8,58 millions de téléspectateurs, captant 43,0% de part de marché. Cette performance place la chaîne publique largement en tête du prime time, surpassant significativement les chiffres habituels de la chaîne pour ce type de programmation sportive, comme le montrent les 3,73 millions de téléspectateurs pour un match de la même compétition le 4 juillet. Le journal de Das Erste, « Tagesschau », se positionne en deuxième position avec 3,60 millions de fidèles, une audience stable par rapport à la semaine précédente, hormis les pics liés aux retransmissions de matches de football. La présence de la série « Steirertod » en troisième position, avec 2,98 millions de spectateurs, témoigne de la difficulté pour les offres de fiction non sportives de rivaliser lors de ces soirées dominées par l'événementiel sportif. Cette configuration met en évidence la prédominance de la programmation sportive en direct sur les audiences de masse, particulièrement sur les chaînes publiques allemandes historiquement fortes sur les audiences plus âgées. Le succès de la ZDF illustre la puissance des événements sportifs majeurs pour fédérer un large public, reléguant les offres concurrentes, y compris l'information de service public, à des positions secondaires.",
@@ -63,7 +63,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-11T14:02:27.108976Z",
+      "scraped_at": "2026-07-11T15:16:45.608713Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 et La 1 se disputent la tête des audiences du prime time de ce mercredi 8 juillet 2026, avec leurs émissions de divertissement respectives, \"El Hormiguero 20 Años Juntos\" et \"La Revuelta\", qui réunissent chacune 1,17 million de téléspectateurs. Cette parité, avec une légère avance pour La 1 en part de marché (11.8% contre 11.7%), illustre la remontée de la chaîne publique espagnole observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, avec \"First Dates: Summer\", se positionne en troisième position avec 827 000 curieux et 8.4% de PDM, montrant une distance notable avec les deux leaders. La chaîne d'information \"Horizonte\" sur Cuatro capte 776 000 téléspectateurs (7.9% PDM), tandis que La 2 ferme ce top 5 avec son jeu \"Cifras y Letras\" et 660 000 fidèles (6.6% PDM). L'absence de données historiques récentes rend difficile l'identification de dynamiques de court terme, mais la performance de La 1 confirme une stratégie payante dans cette case.",
@@ -77,7 +77,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-11T14:02:30.742890Z",
+      "scraped_at": "2026-07-11T15:16:49.171868Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -157,7 +157,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22I+migliori+anni+della+nostra+vita%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-07-11T14:02:29.654452Z",
+      "scraped_at": "2026-07-11T15:16:48.081184Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la compétition sportive sur Rai 1 maintient sa domination sur le prime time italien, rassemblant 5,89 millions de téléspectateurs et captant 37,9% de part de marché ce 10 juillet. Ce score, bien que inférieur aux pics enregistrés les 5, 6 et 9 juillet (respectivement 5,74 M, 7,02 M et 6,34 M), confirme la puissance d'attraction du football en direct sur la chaîne publique. La stratégie de contre-programmation de Canale 5 avec le divertissement « L’Erede » lui permet de se maintenir en seconde position, avec 1,65 million de fidèles et 13,8% de PDM, une performance stable par rapport à la semaine précédente. Rete 4, avec son magazine d'information « Quarto Grado », occupe la troisième place, mais voit son audience reculer à 886 000 téléspectateurs (8,2% PDM) par rapport au 3 juillet. Les chaînes Italia 1 et Rai 3 ferment le top 5 avec des scores significativement plus bas, témoignant de la polarisation du public autour des offres de Rai 1 et Canale 5 dans cette case horaire.",
@@ -237,12 +237,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Madame_du_Barry"
         }
       ],
-      "scraped_at": "2026-07-11T14:02:21.841530Z",
+      "scraped_at": "2026-07-11T15:16:40.069863Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce vendredi 10 juillet avec sa fiction \"Cesar Wagner\", attirant 1,98 million de téléspectateurs, soit 10,6% de part de marché. Ce score la place en tête des grandes chaînes gratuites, une position qu'elle occupait déjà le 3 juillet avec un programme similaire, mais avec un public légèrement supérieur (2,02 M, 13,2%). La chaîne publique confirme ainsi sa capacité à mobiliser sur la case du prime, là où TF1 proposait un divertissement (\"Le Grand Quiz du QI\") qui n'a pas dépassé 1,31 million de curieux (6,9% PDM). Cette performance de France 2 intervient dans une semaine où M6 a dominé le classement à trois reprises, notamment grâce à la diffusion de contenus liés à la Coupe du Monde de la FIFA. La chaîne Arte, avec une série étrangère, se positionne quatrième, démontrant une certaine fidélité de son public sur ce créneau.",
       "commentary_date": "2026-07-10"
     }
   },
-  "last_updated": "2026-07-11T14:02:30.745100Z"
+  "last_updated": "2026-07-11T15:16:49.173951Z"
 }
