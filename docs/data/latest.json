@@ -1,95 +1,69 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "countries": {
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
       "flag": "🇩🇪",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
       "entries": [
         {
           "rank": 1,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Fußball-WM 2026: Frankreich - Maro",
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "ZDFsportstudio live-FIFA WM 2026: S",
           "program_fr": null,
-          "viewers": 8418000,
-          "share": 49.1,
+          "viewers": 8579000,
+          "share": 43.0,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_broadcasting_rights"
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live-FIFA+WM+2026%22+ZDF+ratings"
         },
         {
           "rank": 2,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Fußball-WM 2026: Studio",
-          "program_fr": null,
-          "viewers": 3939000,
-          "share": 25.1,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_broadcasting_rights"
-        },
-        {
-          "rank": 3,
           "channel": "Das Erste",
           "channel_color": "blue",
           "program": "Tagesschau",
           "program_fr": null,
-          "viewers": 3877000,
-          "share": 22.3,
+          "viewers": 3595000,
+          "share": 23.1,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
-          "rank": 4,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "Das Traumschiff",
-          "program_fr": null,
-          "viewers": 3448000,
-          "share": 19.1,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Das_Traumschiff"
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "WM 1994 - Elf Helden, ein Albtraum",
+          "program": "Steirertod",
           "program_fr": null,
-          "viewers": 1955000,
-          "share": 11.1,
+          "viewers": 2977000,
+          "share": 16.4,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/WrestleMania_X"
+          "wikipedia_url": "https://www.google.com/search?q=%22Steirertod%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-10T17:57:01.676784Z",
-      "status": "ok",
+      "scraped_at": "2026-07-11T09:01:51.871383Z",
+      "status": "partial",
       "error": null,
-      "commentary": "La Coupe du Monde de football de 2026 structure fortement les audiences allemandes, comme le montre la première place du match France-Maroc sur une chaîne non identifiée avec 8,42 millions de téléspectateurs et 49,1% de part de marché. Ce score dépasse nettement le meilleur programme de la semaine précédente, le match Suisse-Colombie (5,74 M, 42,3% le 7 juillet), et confirme la prédominance des retransmissions sportives sur les offres traditionnelles des chaînes publiques. Le journal de 20 heures de Das Erste, habituellement leader, se retrouve relégué en troisième position avec 3,88 millions de fidèles et 22,3% de PDM, une performance inférieure à ses scores des jours précédents (7,53 M le 7 juillet, 5,02 M le 8 juillet). Le programme de fiction de ZDF, \"Das Traumschiff\", réalise une audience honorable de 3,45 millions de téléspectateurs (19,1% PDM), mais reste loin des chiffres générés par le football. Cette configuration de prime time, dominée par un événement sportif majeur, met en lumière la difficulté pour les chaînes généralistes de rivaliser lorsque des compétitions d'envergure captent l'attention d'une large part de l'électorat.",
-      "commentary_date": "2026-07-09"
+      "commentary": "La diffusion du « ZDFsportstudio live-FIFA WM 2026: S » par la ZDF le 10 juillet enregistre une audience de 8,58 millions de téléspectateurs, captant 43,0% de part de marché. Cette performance place la chaîne publique largement en tête du prime time, surpassant significativement les chiffres habituels de la chaîne pour ce type de programmation sportive, comme le montrent les 3,73 millions de téléspectateurs pour un match de la même compétition le 4 juillet. Le journal de Das Erste, « Tagesschau », se positionne en deuxième position avec 3,60 millions de fidèles, une audience stable par rapport à la semaine précédente, hormis les pics liés aux retransmissions de matches de football. La présence de la série « Steirertod » en troisième position, avec 2,98 millions de spectateurs, témoigne de la difficulté pour les offres de fiction non sportives de rivaliser lors de ces soirées dominées par l'événementiel sportif. Cette configuration met en évidence la prédominance de la programmation sportive en direct sur les audiences de masse, particulièrement sur les chaînes publiques allemandes historiquement fortes sur les audiences plus âgées. Le succès de la ZDF illustre la puissance des événements sportifs majeurs pour fédérer un large public, reléguant les offres concurrentes, y compris l'information de service public, à des positions secondaires.",
+      "commentary_date": "2026-07-10"
     },
     "ES": {
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-10T17:57:03.348215Z",
+      "scraped_at": "2026-07-11T09:01:53.063894Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 et La 1 se disputent la tête des audiences du prime time de ce mercredi 8 juillet 2026, avec leurs émissions de divertissement respectives, \"El Hormiguero 20 Años Juntos\" et \"La Revuelta\", qui réunissent chacune 1,17 million de téléspectateurs. Cette parité, avec une légère avance pour La 1 en part de marché (11.8% contre 11.7%), illustre la remontée de la chaîne publique espagnole observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, avec \"First Dates: Summer\", se positionne en troisième position avec 827 000 curieux et 8.4% de PDM, montrant une distance notable avec les deux leaders. La chaîne d'information \"Horizonte\" sur Cuatro capte 776 000 téléspectateurs (7.9% PDM), tandis que La 2 ferme ce top 5 avec son jeu \"Cifras y Letras\" et 660 000 fidèles (6.6% PDM). L'absence de données historiques récentes rend difficile l'identification de dynamiques de court terme, mais la performance de La 1 confirme une stratégie payante dans cette case.",
@@ -99,11 +73,11 @@
       "country_code": "NL",
       "country_name": "Pays-Bas",
       "flag": "🇳🇱",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-10T17:57:11.778646Z",
+      "scraped_at": "2026-07-11T09:01:56.656999Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -128,7 +102,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-9-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Official_FIFA_World_Cup_2026_Album"
+          "wikipedia_url": "https://www.google.com/search?q=%22Mondiali+2026%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -141,7 +115,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-9-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Mariasole_Pollio"
+          "wikipedia_url": "https://www.google.com/search?q=%22Battiti+Live%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -183,7 +157,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Innamorato+pazzo%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-10T17:57:10.515759Z",
+      "scraped_at": "2026-07-11T09:01:55.559282Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 confirme la domination de la chaîne publique dans la case du prime time, captant 6,34 millions de téléspectateurs et 43,5% de part de marché le 9 juillet. Ce score, bien que légèrement inférieur aux pics atteints lors des rencontres précédentes (notamment les 7,02 millions du 6 juillet), maintient un écart considérable avec la concurrence directe de Canale 5. Ce dernier, avec « Battiti Live », rassemble 1,58 million de fidèles et 14,3% de PDM, témoignant de la difficulté des programmes de divertissement généraliste à rivaliser face à un événement sportif d'une telle ampleur. La stratégie de Rai 1 s'appuie sur la puissance de l'événementiel sportif, confirmant son leadership sur la semaine, tandis que Canale 5 peine à trouver une contre-programmation efficace. Les autres chaînes, Rai 2, Rai 3 et Rete 4, se partagent les restes des audiences, avec des scores inférieurs au million de téléspectateurs.",
@@ -193,82 +167,82 @@
       "country_code": "FR",
       "country_name": "France",
       "flag": "🇫🇷",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
       "entries": [
         {
           "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "COUPE DU MONDE DE LA FIFA LE MAG",
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CESAR WAGNER",
           "program_fr": null,
-          "viewers": 2539000,
-          "share": 15.9,
-          "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Oph%C3%A9lie_Meunier"
+          "viewers": 1979000,
+          "share": 10.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/C%C3%A9sar_Wagner"
         },
         {
           "rank": 2,
           "channel": "TF1",
           "channel_color": "blue",
-          "program": "ZODIAQUE",
+          "program": "LE GRAND QUIZ \\ LE GRAND QUIZ DU QI: SEREZ-VOUS HPI - PARTIE 1",
           "program_fr": null,
-          "viewers": 1856000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Zodiaque"
+          "viewers": 1310000,
+          "share": 6.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Grand_Quiz"
         },
         {
           "rank": 3,
           "channel": "France 3",
           "channel_color": "amber",
-          "program": "LA STAGIAIRE \\ VEUVE NOIRE",
+          "program": "FLORENT RACONTE PAGNY",
           "program_fr": null,
-          "viewers": 1853000,
-          "share": 10.3,
-          "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Stagiaire"
+          "viewers": 991000,
+          "share": 5.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Merci_%28album_de_Florent_Pagny%29"
         },
         {
           "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ET CA VOUS FAIT RIRE : UNE HISTOIRE DE LA COMEDIE A LA FRANCAISE \\ LES DEUX FONT LA PAIRE",
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MEURTRES A SANDHAMN \\ LE PRIX A PAYER",
           "program_fr": null,
-          "viewers": 1735000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%87a_fait_rire_les_oiseaux"
+          "viewers": 736000,
+          "share": 3.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         },
         {
           "rank": 5,
           "channel": "France 5",
           "channel_color": "purple",
-          "program": "DES TRAINS PAS COMME LES AUTRES \\ ANGOLA",
+          "program": "LES TRESORS DES FAVORITES DES ROIS DE FRANCE",
           "program_fr": null,
-          "viewers": 1250000,
-          "share": 7.5,
-          "source_url": "https://www.ozap.com/actu/audiences-plus-de-16-millions-de-telespectateurs-devant-francemaroc-sur-m6/655984",
+          "viewers": 506000,
+          "share": 2.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Madame_du_Barry"
         }
       ],
-      "scraped_at": "2026-07-10T17:56:52.599051Z",
+      "scraped_at": "2026-07-11T09:01:48.169539Z",
       "status": "ok",
       "error": null,
-      "commentary": "La soirée du 9 juillet 2026 voit M6 s'imposer avec son magazine consacré à la Coupe du Monde de la FIFA, attirant 2,54 millions de téléspectateurs et 15,9% de part d'audience. Cette performance place la chaîne privée en tête des audiences, une position qu'elle a occupée trois fois au cours de la semaine écoulée, notamment grâce à la couverture de l'événement sportif. TF1 et France 3 se disputent la deuxième place avec des scores très proches pour leurs fictions respectives, \"Zodiaque\" et \"La stagiaire\", réunissant respectivement 1,86 million et 1,85 million de téléspectateurs. La chaîne publique France 2, avec son magazine sur la comédie française, obtient 1,74 million de curieux, se positionnant derrière ses concurrentes directes. La fragmentation des audiences, accentuée par la TNT, rend ces scores significatifs dans le paysage audiovisuel actuel, où la capacité à rassembler un large public sur les chaînes historiques reste un enjeu majeur.",
-      "commentary_date": "2026-07-09"
+      "commentary": "France 2 s'impose ce vendredi 10 juillet avec sa fiction \"Cesar Wagner\", attirant 1,98 million de téléspectateurs, soit 10,6% de part de marché. Ce score la place en tête des grandes chaînes gratuites, une position qu'elle occupait déjà le 3 juillet avec un programme similaire, mais avec un public légèrement supérieur (2,02 M, 13,2%). La chaîne publique confirme ainsi sa capacité à mobiliser sur la case du prime, là où TF1 proposait un divertissement (\"Le Grand Quiz du QI\") qui n'a pas dépassé 1,31 million de curieux (6,9% PDM). Cette performance de France 2 intervient dans une semaine où M6 a dominé le classement à trois reprises, notamment grâce à la diffusion de contenus liés à la Coupe du Monde de la FIFA. La chaîne Arte, avec une série étrangère, se positionne quatrième, démontrant une certaine fidélité de son public sur ce créneau.",
+      "commentary_date": "2026-07-10"
     }
   },
-  "last_updated": "2026-07-10T17:57:11.780979Z"
+  "last_updated": "2026-07-11T09:01:56.658755Z"
 }

@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-10",
+  "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-10",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CESAR WAGNER",
+          "program_fr": null,
+          "viewers": 1979000,
+          "share": 10.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/C%C3%A9sar_Wagner"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE GRAND QUIZ \\ LE GRAND QUIZ DU QI: SEREZ-VOUS HPI - PARTIE 1",
+          "program_fr": null,
+          "viewers": 1310000,
+          "share": 6.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Grand_Quiz"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "FLORENT RACONTE PAGNY",
+          "program_fr": null,
+          "viewers": 991000,
+          "share": 5.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Merci_%28album_de_Florent_Pagny%29"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MEURTRES A SANDHAMN \\ LE PRIX A PAYER",
+          "program_fr": null,
+          "viewers": 736000,
+          "share": 3.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LES TRESORS DES FAVORITES DES ROIS DE FRANCE",
+          "program_fr": null,
+          "viewers": 506000,
+          "share": 2.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-defaite-de-la-belgique-face-a-lespagne-prochain-adversaire-des-bleus/655642",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Madame_du_Barry"
+        }
+      ],
+      "scraped_at": "2026-07-11T09:01:48.169539Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 s'impose ce vendredi 10 juillet avec sa fiction \"Cesar Wagner\", attirant 1,98 million de téléspectateurs, soit 10,6% de part de marché. Ce score la place en tête des grandes chaînes gratuites, une position qu'elle occupait déjà le 3 juillet avec un programme similaire, mais avec un public légèrement supérieur (2,02 M, 13,2%). La chaîne publique confirme ainsi sa capacité à mobiliser sur la case du prime, là où TF1 proposait un divertissement (\"Le Grand Quiz du QI\") qui n'a pas dépassé 1,31 million de curieux (6,9% PDM). Cette performance de France 2 intervient dans une semaine où M6 a dominé le classement à trois reprises, notamment grâce à la diffusion de contenus liés à la Coupe du Monde de la FIFA. La chaîne Arte, avec une série étrangère, se positionne quatrième, démontrant une certaine fidélité de son public sur ce créneau.",
+      "commentary_date": "2026-07-10"
+    },
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-07-10",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "ZDFsportstudio live-FIFA WM 2026: S",
+          "program_fr": null,
+          "viewers": 8579000,
+          "share": 43.0,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live-FIFA+WM+2026%22+ZDF+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 3595000,
+          "share": 23.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Steirertod",
+          "program_fr": null,
+          "viewers": 2977000,
+          "share": 16.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Steirertod%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-07-11T09:01:51.871383Z",
+      "status": "partial",
+      "error": null,
+      "commentary": "La diffusion du « ZDFsportstudio live-FIFA WM 2026: S » par la ZDF le 10 juillet enregistre une audience de 8,58 millions de téléspectateurs, captant 43,0% de part de marché. Cette performance place la chaîne publique largement en tête du prime time, surpassant significativement les chiffres habituels de la chaîne pour ce type de programmation sportive, comme le montrent les 3,73 millions de téléspectateurs pour un match de la même compétition le 4 juillet. Le journal de Das Erste, « Tagesschau », se positionne en deuxième position avec 3,60 millions de fidèles, une audience stable par rapport à la semaine précédente, hormis les pics liés aux retransmissions de matches de football. La présence de la série « Steirertod » en troisième position, avec 2,98 millions de spectateurs, témoigne de la difficulté pour les offres de fiction non sportives de rivaliser lors de ces soirées dominées par l'événementiel sportif. Cette configuration met en évidence la prédominance de la programmation sportive en direct sur les audiences de masse, particulièrement sur les chaînes publiques allemandes historiquement fortes sur les audiences plus âgées. Le succès de la ZDF illustre la puissance des événements sportifs majeurs pour fédérer un large public, reléguant les offres concurrentes, y compris l'information de service public, à des positions secondaires.",
+      "commentary_date": "2026-07-10"
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-07-10",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [],
+      "scraped_at": "2026-07-11T09:01:53.063894Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "commentary": "Antena 3 et La 1 se disputent la tête des audiences du prime time de ce mercredi 8 juillet 2026, avec leurs émissions de divertissement respectives, \"El Hormiguero 20 Años Juntos\" et \"La Revuelta\", qui réunissent chacune 1,17 million de téléspectateurs. Cette parité, avec une légère avance pour La 1 en part de marché (11.8% contre 11.7%), illustre la remontée de la chaîne publique espagnole observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, avec \"First Dates: Summer\", se positionne en troisième position avec 827 000 curieux et 8.4% de PDM, montrant une distance notable avec les deux leaders. La chaîne d'information \"Horizonte\" sur Cuatro capte 776 000 téléspectateurs (7.9% PDM), tandis que La 2 ferme ce top 5 avec son jeu \"Cifras y Letras\" et 660 000 fidèles (6.6% PDM). L'absence de données historiques récentes rend difficile l'identification de dynamiques de court terme, mais la performance de La 1 confirme une stratégie payante dans cette case.",
+      "commentary_date": "2026-07-08"
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-07-10",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-11T09:01:56.656999Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
+    }
+  },
+  "last_updated": "2026-07-11T09:02:02.204856Z"
+}
