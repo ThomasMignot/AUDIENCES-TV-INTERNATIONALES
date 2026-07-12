@@ -1,6 +1,86 @@
 {
   "date": "2026-07-11",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-11",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA VENGEANCE SANS VISAGE",
+          "program_fr": null,
+          "viewers": 2858000,
+          "share": 20.3,
+          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Vengeance_sans_visage"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "FORT BOYARD \\ LUCIEN JEAN-BAPTISTE - MOTEUR",
+          "program_fr": null,
+          "viewers": 2547000,
+          "share": 18.1,
+          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fort_Boyard_%28jeu_t%C3%A9l%C3%A9vis%C3%A9%29"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LE GRAND BAL DES POMPIERS A CARCASSONNE VARIETES",
+          "program_fr": null,
+          "viewers": 1185000,
+          "share": 8.5,
+          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Michel_Drucker"
+        },
+        {
+          "rank": 4,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "RUGBY CHAMPIONNAT DES NATIONS : ARGENTINE - PAYS DE GALLES",
+          "program_fr": null,
+          "viewers": 1148000,
+          "share": 8.2,
+          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnat_des_nations"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ECHAPPEES BELLES",
+          "program_fr": null,
+          "viewers": 973000,
+          "share": 6.9,
+          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+        }
+      ],
+      "scraped_at": "2026-07-12T09:21:52.086140Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'impose ce samedi 11 juillet avec 2,86 millions de téléspectateurs et 20,3% de part d'audience grâce à sa fiction en première partie de soirée. Cette performance permet à la chaîne publique de réaffirmer sa position de leader du prime, qu'elle avait déjà occupée deux fois la semaine précédente avec des scores similaires pour ses fictions. France 2 suit avec \"Fort Boyard\", qui rassemble 2,55 millions de fidèles, un chiffre en légère hausse par rapport à la diffusion du 4 juillet, mais inférieur à son potentiel habituel. La concurrence entre les deux chaînes publiques sur cette case horaire se confirme, tandis que TF1 et M6 peinent à dépasser le million de téléspectateurs avec des programmes plus hétérogènes, le sport sur TF1 et le divertissement sur M6 n'atteignant pas les scores de la semaine précédente, notamment ceux liés à la Coupe du Monde de la FIFA. L'observation structurelle de la semaine montre une fragilité des grandes chaînes généralistes face à la fragmentation de l'audience, la TNT captant une part croissante des téléspectateurs.",
+      "commentary_date": "2026-07-11"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "Antena 3 et La 1 se disputent la tête des audiences du prime time de ce mercredi 8 juillet 2026, avec leurs émissions de divertissement respectives, \"El Hormiguero 20 Años Juntos\" et \"La Revuelta\", qui réunissent chacune 1,17 million de téléspectateurs. Cette parité, avec une légère avance pour La 1 en part de marché (11.8% contre 11.7%), illustre la remontée de la chaîne publique espagnole observée depuis 2023 face au duopole historique Antena 3/Telecinco. Telecinco, avec \"First Dates: Summer\", se positionne en troisième position avec 827 000 curieux et 8.4% de PDM, montrant une distance notable avec les deux leaders. La chaîne d'information \"Horizonte\" sur Cuatro capte 776 000 téléspectateurs (7.9% PDM), tandis que La 2 ferme ce top 5 avec son jeu \"Cifras y Letras\" et 660 000 fidèles (6.6% PDM). L'absence de données historiques récentes rend difficile l'identification de dynamiques de court terme, mais la performance de La 1 confirme une stratégie payante dans cette case.",
       "commentary_date": "2026-07-08"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-11",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-12T09:22:09.256285Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "La soirée du 11 juillet voit le retour de « Notti Mondiali » sur Rai 1, qui enregistre 2,35 millions de téléspectateurs et 17,8% de part de marché. Cette performance représente une baisse significative par rapport aux audiences des soirées précédentes, où les retransmissions de la Coupe du Monde atteignaient ou dépassaient les 5 millions de spectateurs, comme le 9 juillet avec 6,34 millions et 43,5% de PDM. Canale 5, avec « Ciao Darwin », se positionne en deuxième chaîne avec 1,30 million de téléspectateurs (12,5% PDM), une audience stable par rapport à la semaine passée. La lutte pour la troisième place oppose Rai 2 et Rete 4, cette dernière bénéficiant de la bonne tenue de sa case fiction avec « La Promessa » (873 k, 6,8%). La stratégie de Rai 1 semble s'adapter à l'absence de grands événements sportifs, en proposant un magazine axé sur le football, mais sans retrouver l'adhésion massive des jours précédents. L'écart entre le leader et la chaîne privée se réduit considérablement, passant de plus de 30 points de part de marché à moins de 5 points.",
       "commentary_date": "2026-07-11"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-11",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA VENGEANCE SANS VISAGE",
-          "program_fr": null,
-          "viewers": 2858000,
-          "share": 20.3,
-          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Vengeance_sans_visage"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "FORT BOYARD \\ LUCIEN JEAN-BAPTISTE - MOTEUR",
-          "program_fr": null,
-          "viewers": 2547000,
-          "share": 18.1,
-          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fort_Boyard_%28jeu_t%C3%A9l%C3%A9vis%C3%A9%29"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LE GRAND BAL DES POMPIERS A CARCASSONNE VARIETES",
-          "program_fr": null,
-          "viewers": 1185000,
-          "share": 8.5,
-          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Michel_Drucker"
-        },
-        {
-          "rank": 4,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "RUGBY CHAMPIONNAT DES NATIONS : ARGENTINE - PAYS DE GALLES",
-          "program_fr": null,
-          "viewers": 1148000,
-          "share": 8.2,
-          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnat_des_nations"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
-          "program_fr": null,
-          "viewers": 973000,
-          "share": 6.9,
-          "source_url": "https://www.ozap.com/actu/audiences-la-deuxieme-emission-de-la-saison-de-fort-boyard-a-t-elle-confirme-son-bon-lancement/655765",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
-        }
-      ],
-      "scraped_at": "2026-07-12T09:21:52.086140Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'impose ce samedi 11 juillet avec 2,86 millions de téléspectateurs et 20,3% de part d'audience grâce à sa fiction en première partie de soirée. Cette performance permet à la chaîne publique de réaffirmer sa position de leader du prime, qu'elle avait déjà occupée deux fois la semaine précédente avec des scores similaires pour ses fictions. France 2 suit avec \"Fort Boyard\", qui rassemble 2,55 millions de fidèles, un chiffre en légère hausse par rapport à la diffusion du 4 juillet, mais inférieur à son potentiel habituel. La concurrence entre les deux chaînes publiques sur cette case horaire se confirme, tandis que TF1 et M6 peinent à dépasser le million de téléspectateurs avec des programmes plus hétérogènes, le sport sur TF1 et le divertissement sur M6 n'atteignant pas les scores de la semaine précédente, notamment ceux liés à la Coupe du Monde de la FIFA. L'observation structurelle de la semaine montre une fragilité des grandes chaînes généralistes face à la fragmentation de l'audience, la TNT captant une part croissante des téléspectateurs.",
-      "commentary_date": "2026-07-11"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-12T09:22:09.256285Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-12T09:22:09.258368Z"
+  "last_updated": "2026-07-12T09:22:21.508264Z"
 }
