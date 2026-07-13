@@ -1,6 +1,86 @@
 {
   "date": "2026-07-12",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-12",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "INESTIMABLE",
+          "program_fr": null,
+          "viewers": 3665000,
+          "share": 26.5,
+          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Inestimable"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "HUDSON ET REX \\ FORTITUDE A TERRE-NEUVE",
+          "program_fr": null,
+          "viewers": 1695000,
+          "share": 11.6,
+          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hudson_et_Rex"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAPITAL \\ AU CAMPING OU A LA PLAGE, MON CONFORT A TOUT PRIX",
+          "program_fr": null,
+          "viewers": 1370000,
+          "share": 10.2,
+          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Grizzy_et_les_Lemmings"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LE SENS DE LA FAMILLE",
+          "program_fr": null,
+          "viewers": 1173000,
+          "share": 8.3,
+          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Sens_de_la_famille"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "LA NUIT NOUS APPARTIENT",
+          "program_fr": null,
+          "viewers": 902000,
+          "share": 6.5,
+          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_nuit_nous_appartient"
+        }
+      ],
+      "scraped_at": "2026-07-13T10:37:32.009268Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction TF1 \"INESTIMABLE\" s'impose ce dimanche 12 juillet avec 3,67 millions de téléspectateurs et 26,5% de part de marché, marquant une nette victoire face à la concurrence généraliste. Ce score dépasse significativement les performances de la chaîne sur les soirées précédentes, où elle n'avait mené que deux fois en sept jours, souvent avec des audiences inférieures à 3 millions. France 3, avec \"HUDSON ET REX\", capte 1,70 million de curieux, une performance solide mais loin de son pic de la semaine du 20,3% atteint le 11 juillet. M6, proposant un numéro de \"CAPITAL\", réalise 1,37 million de téléspectateurs, se positionnant en dessous de ses chiffres des 5 et 7 juillet. La stratégie de France 2 avec la fiction \"LE SENS DE LA FAMILLE\" ne dépasse pas le million de téléspectateurs, une audience en deçà de celle de \"FORT BOYARD\" la veille. La fragmentation du paysage audiovisuel, accentuée par la TNT, rend l'ancrage d'une audience régulière sur les cases de prime difficile pour les autres chaînes face à une offre événementielle ou de fiction puissante.",
+      "commentary_date": "2026-07-12"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La soirée du 12 juillet voit La 1 s'imposer en tête des audiences du prime time espagnol avec 1,29 million de téléspectateurs et 13,7% de part de marché grâce à sa \"Pelicula de la Semana\". Cette performance permet à la chaîne publique de confirmer sa remontée observée depuis 2023, se positionnant comme un concurrent sérieux face au duopole historique Antena 3 et Telecinco. La fiction \"Una Nueva Vida\" sur Antena 3 enregistre 9,9% de PDM, tandis que Telecinco avec \"Cine 5 Estrellas\" atteint 8,3%, des scores inférieurs à ceux de la semaine précédente où Antena 3 dominait le classement. La Sexta et Cuatro ferment le top 5 avec des parts de marché plus modestes, respectivement 6,7% et 6,7%. La stratégie de proposer un film en \"Pelicula de la Semana\" semble porter ses fruits sur La 1, attirant un public significatif dans cette case horaire tardive typique du prime espagnol.",
       "commentary_date": "2026-07-12"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-12",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-13T10:37:44.767446Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Sur la soirée du 12 juillet 2026, Canale 5 s'adjuge la première place du prime time avec la fiction « Racconto di una Notte » attirant 1,82 million de téléspectateurs, soit 17,8% de part de marché. Cette performance place la chaîne privée en tête, une position inhabituelle compte tenu de la domination habituelle de Rai 1, qui se retrouve second avec « Noos » à 1,52 million de téléspectateurs (13,4% PDM). Il s'agit d'un recul significatif pour Rai 1 par rapport aux audiences des « Mondiali 2026 » qui dépassaient les 5 millions de téléspectateurs en début de semaine. La stratégie de contre-programmation de Canale 5 semble porter ses fruits face à une offre sportive moins fédératrice sur Rai 1 ce soir-là. L'offre de TV8 avec le « Sky Tennis Show » confirme une certaine appétence pour le sport en direct, attirant 1,12 million de curieux.",
       "commentary_date": "2026-07-12"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-12",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "INESTIMABLE",
-          "program_fr": null,
-          "viewers": 3665000,
-          "share": 26.5,
-          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Inestimable"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "HUDSON ET REX \\ FORTITUDE A TERRE-NEUVE",
-          "program_fr": null,
-          "viewers": 1695000,
-          "share": 11.6,
-          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hudson_et_Rex"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAPITAL \\ AU CAMPING OU A LA PLAGE, MON CONFORT A TOUT PRIX",
-          "program_fr": null,
-          "viewers": 1370000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Grizzy_et_les_Lemmings"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LE SENS DE LA FAMILLE",
-          "program_fr": null,
-          "viewers": 1173000,
-          "share": 8.3,
-          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Sens_de_la_famille"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "LA NUIT NOUS APPARTIENT",
-          "program_fr": null,
-          "viewers": 902000,
-          "share": 6.5,
-          "source_url": "https://www.ozap.com/actu/audiences-succes-pour-didier-bourdon-dans-une-comedie-inedite-sur-tf1-flop-pour-franck-dubosc-sur-france-2-battu-par-hudson-et-rex-et-capital/656009",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_nuit_nous_appartient"
-        }
-      ],
-      "scraped_at": "2026-07-13T10:37:32.009268Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction TF1 \"INESTIMABLE\" s'impose ce dimanche 12 juillet avec 3,67 millions de téléspectateurs et 26,5% de part de marché, marquant une nette victoire face à la concurrence généraliste. Ce score dépasse significativement les performances de la chaîne sur les soirées précédentes, où elle n'avait mené que deux fois en sept jours, souvent avec des audiences inférieures à 3 millions. France 3, avec \"HUDSON ET REX\", capte 1,70 million de curieux, une performance solide mais loin de son pic de la semaine du 20,3% atteint le 11 juillet. M6, proposant un numéro de \"CAPITAL\", réalise 1,37 million de téléspectateurs, se positionnant en dessous de ses chiffres des 5 et 7 juillet. La stratégie de France 2 avec la fiction \"LE SENS DE LA FAMILLE\" ne dépasse pas le million de téléspectateurs, une audience en deçà de celle de \"FORT BOYARD\" la veille. La fragmentation du paysage audiovisuel, accentuée par la TNT, rend l'ancrage d'une audience régulière sur les cases de prime difficile pour les autres chaînes face à une offre événementielle ou de fiction puissante.",
-      "commentary_date": "2026-07-12"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-13T10:37:44.767446Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-13T10:37:44.769596Z"
+  "last_updated": "2026-07-13T10:39:10.788658Z"
 }
