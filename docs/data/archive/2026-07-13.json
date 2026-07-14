@@ -1,6 +1,86 @@
 {
   "date": "2026-07-13",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-13",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "CRIME A RAMATUELLE",
+          "program_fr": null,
+          "viewers": 2592000,
+          "share": 18.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Crime_%C3%A0..."
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LE CONCERT DE PARIS \\ EN DIRECT AU PIED DE LA TOUR EIFFEL CONCERT",
+          "program_fr": null,
+          "viewers": 2170000,
+          "share": 17.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tour_Eiffel"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "CAMPING PARADIS UNE REGATE AU PARADIS \\ PARTIE 1",
+          "program_fr": null,
+          "viewers": 1894000,
+          "share": 13.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_15_de_Camping_Paradis"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MILLE MILLIARDS DE DOLLARS",
+          "program_fr": null,
+          "viewers": 904000,
+          "share": 6.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mille_milliards_de_dollars"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "STARS 80 VS STARS 90 LA GRANDE BATTLE VARIETES",
+          "program_fr": null,
+          "viewers": 863000,
+          "share": 6.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jeux_vid%C3%A9o_Star_Wars"
+        }
+      ],
+      "scraped_at": "2026-07-14T09:20:03.979885Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction unitaire de France 3, « Crime à Ramatuelle », s'impose en tête du prime time du 13 juillet avec 2,59 millions de téléspectateurs et 18,4% de part d'audience, confirmant la bonne tenue de la chaîne sur ce type de programmation. La Fête Nationale, célébrée par le concert en direct de France 2, attire 2,17 millions de personnes (17,2% PDM), une performance solide qui la place en deuxième position. TF1, avec « Camping Paradis », enregistre 1,89 million de téléspectateurs et 13,2% de PDM, une audience en retrait par rapport à certains succès de la semaine passée, notamment le film « Inestimable » qui avait captivé 3,67 millions de curieux le samedi 12 juillet. Cette soirée met en lumière la capacité de France 3 à mobiliser un public large sur des formats de fiction, tandis que France 2 capitalise sur l'événementiel. La lutte pour la deuxième place reste ouverte entre les chaînes historiques, avec M6 et Arte se partageant les audiences plus modestes en fin de classement.",
+      "commentary_date": "2026-07-13"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La chaîne publique La 1 s'impose en tête des audiences du prime time ce 13 juillet avec « Grand Prix », attirant 1,43 million de téléspectateurs et captant 16,8% de part de marché. Cette performance place le divertissement de la chaîne publique devant des programmes établis comme « El Hormiguero 20 Años Juntos » sur Antena 3, qui rassemble 1,03 million de personnes (10,0% PDM). Par rapport au 8 juillet, où Antena 3 et La 1 étaient au coude-à-coude avec 1,17 million de spectateurs chacun, le programme de La 1 enregistre une nette progression. La case d'information de Cuatro, « Horizonte », se positionne en troisième place avec 914 000 curieux (9,0% PDM), démontrant une certaine résistance face aux offres de divertissement des chaînes privées. Telecinco, avec « First Dates:Summer », réalise une part de marché de 7,9% (811 000 téléspectateurs), se maintenant dans sa moyenne récente. La Sexta ferme la marche du top 5 avec 5,0% de part de marché pour « El Intermedio:the Very Best ».",
       "commentary_date": "2026-07-13"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-13",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-14T09:20:40.450838Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Canale 5 s'impose en tête des audiences du prime time ce 13 juillet, avec \"Temptation Island\" qui rassemble 3,75 millions de téléspectateurs et atteint 30,3% de part de marché. Ce score, bien que solide, marque un léger repli par rapport à la diffusion du même programme le 8 juillet, où il avait attiré 4,01 millions de personnes pour 32,3% de PDA. La chaîne privée confirme sa stratégie de proposer du divertissement dans cette case, concurrençant directement les offres de la Rai. Rai 1, leader sur la semaine grâce aux retransmissions sportives, se retrouve en seconde position avec \"La Partita del Cuore\" à 1,54 million de téléspectateurs, un chiffre inférieur à ses scores habituels liés aux événements sportifs majeurs. Italia 1 et La7 se positionnent plus modestement, témoignant de la difficulté de capter une part significative de l'audience face à l'offre dominante de Canale 5 ce soir-là.",
       "commentary_date": "2026-07-13"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-13",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "CRIME A RAMATUELLE",
-          "program_fr": null,
-          "viewers": 2592000,
-          "share": 18.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Crime_%C3%A0..."
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LE CONCERT DE PARIS \\ EN DIRECT AU PIED DE LA TOUR EIFFEL CONCERT",
-          "program_fr": null,
-          "viewers": 2170000,
-          "share": 17.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tour_Eiffel"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CAMPING PARADIS UNE REGATE AU PARADIS \\ PARTIE 1",
-          "program_fr": null,
-          "viewers": 1894000,
-          "share": 13.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_15_de_Camping_Paradis"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MILLE MILLIARDS DE DOLLARS",
-          "program_fr": null,
-          "viewers": 904000,
-          "share": 6.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Mille_milliards_de_dollars"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "STARS 80 VS STARS 90 LA GRANDE BATTLE VARIETES",
-          "program_fr": null,
-          "viewers": 863000,
-          "share": 6.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-concert-de-paris-2026-anime-par-stephane-bern-sur-france-2/655767",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jeux_vid%C3%A9o_Star_Wars"
-        }
-      ],
-      "scraped_at": "2026-07-14T09:20:03.979885Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction unitaire de France 3, « Crime à Ramatuelle », s'impose en tête du prime time du 13 juillet avec 2,59 millions de téléspectateurs et 18,4% de part d'audience, confirmant la bonne tenue de la chaîne sur ce type de programmation. La Fête Nationale, célébrée par le concert en direct de France 2, attire 2,17 millions de personnes (17,2% PDM), une performance solide qui la place en deuxième position. TF1, avec « Camping Paradis », enregistre 1,89 million de téléspectateurs et 13,2% de PDM, une audience en retrait par rapport à certains succès de la semaine passée, notamment le film « Inestimable » qui avait captivé 3,67 millions de curieux le samedi 12 juillet. Cette soirée met en lumière la capacité de France 3 à mobiliser un public large sur des formats de fiction, tandis que France 2 capitalise sur l'événementiel. La lutte pour la deuxième place reste ouverte entre les chaînes historiques, avec M6 et Arte se partageant les audiences plus modestes en fin de classement.",
-      "commentary_date": "2026-07-13"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-14T09:20:40.450838Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-14T09:20:40.452883Z"
+  "last_updated": "2026-07-14T09:21:01.228405Z"
 }
