@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Je_fais_le_mort"
         }
       ],
-      "scraped_at": "2026-07-16T12:08:19.818825Z",
+      "scraped_at": "2026-07-16T14:34:41.313197Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 reprend la tête du prime ce 15 juillet avec la fiction « Des Blessures Invisibles », réunissant 2,03 millions de téléspectateurs et 10,8% de part de marché. Ce score place la chaîne publique en tête des généralistes, devançant TF1 et sa fiction « All Her Fault » (1,35 M, 7.0%). Cette performance contraste avec la domination de M6 la semaine précédente, qui avait notamment bénéficié de la Coupe du Monde de football le 14 juillet avec une audience massive (20,24 M). La fiction française sur France 2 semble ainsi retrouver une position solide face à la concurrence, malgré une fragmentation accrue des audiences induite par la TNT. France 3, avec son magazine « Secrets d'Histoire », se positionne en troisième chaîne nationale, à 847 000 téléspectateurs, un chiffre inférieur à ses scores habituels sur cette case.",
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Friesland%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-07-16T12:08:24.359954Z",
+      "scraped_at": "2026-07-16T14:34:46.983676Z",
       "status": "partial",
       "error": null,
       "commentary": "La Coupe du Monde de football de 2026 confère une position dominante aux retransmissions sportives, comme en témoigne le match Angleterre-Argentine qui rassemble 13,70 millions de téléspectateurs et s'adjuge 56,4% de part de marché. Cette performance écrase les programmes habituels des chaînes publiques, le « Tagesthemen » d'Das Erste ne captant que 12,64 millions de personnes. La veille, le ZDFsportstudio avait déjà mis en évidence cette suprématie sportive avec 12,69 millions de spectateurs. Les chaînes publiques, habituellement solides sur la cible des seniors, se retrouvent marginalisées par ce rendez-vous sportif, confirmant la capacité du football à fédérer un large public au détriment des formats d'information ou de fiction. La prédominance des rencontres de la Coupe du Monde sur les audiences de la semaine, avec trois soirées en tête pour « Autre chaîne », structure le paysage audiovisuel.",
@@ -156,7 +156,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-16T12:08:25.577295Z",
+      "scraped_at": "2026-07-16T14:34:49.269774Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La chaîne publique La 1 s'impose en tête des audiences du prime time ce 13 juillet avec « Grand Prix », attirant 1,43 million de téléspectateurs et captant 16,8% de part de marché. Cette performance place le divertissement de la chaîne publique devant des programmes établis comme « El Hormiguero 20 Años Juntos » sur Antena 3, qui rassemble 1,03 million de personnes (10,0% PDM). Par rapport au 8 juillet, où Antena 3 et La 1 étaient au coude-à-coude avec 1,17 million de spectateurs chacun, le programme de La 1 enregistre une nette progression. La case d'information de Cuatro, « Horizonte », se positionne en troisième place avec 914 000 curieux (9,0% PDM), démontrant une certaine résistance face aux offres de divertissement des chaînes privées. Telecinco, avec « First Dates:Summer », réalise une part de marché de 7,9% (811 000 téléspectateurs), se maintenant dans sa moyenne récente. La Sexta ferme la marche du top 5 avec 5,0% de part de marché pour « El Intermedio:the Very Best ».",
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-15-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Billy+Elliot%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Elliot"
         },
         {
           "rank": 5,
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99amore+%C3%A8+eterno+finch%C3%A9+dura%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-16T12:08:28.281047Z",
+      "scraped_at": "2026-07-16T14:34:51.870268Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des « Mondiali 2026 » sur Rai 1 confirme son hégémonie sur la case du prime time, rassemblant 9,45 millions de téléspectateurs et s'arrogeant 52,3% de part de marché ce 15 juillet. Cette performance, nettement supérieure aux précédents scores du magazine sportif sur la semaine (entre 5,89 M et 8,56 M), s'inscrit dans une stratégie claire de la chaîne publique de capitaliser sur l'événement sportif majeur. La chaîne privée Canale 5, avec sa fiction « Ricomincio da me », peine à rivaliser, réunissant 1,38 million de personnes, soit une part de marché de 9,5%. Cette dynamique illustre la difficulté des offres de divertissement généraliste de Canale 5 à capter une audience significative face à un événement à forte dimension événementielle et fédératrice, comme le démontre la comparaison avec les audiences de « Temptation Island » les semaines précédentes. La fragmentation des audiences se retrouve sur les autres chaînes, Rai 3 et Italia 1 se partageant les audiences plus modestes des cases suivantes.",
@@ -250,12 +250,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-16T12:08:29.282332Z",
+      "scraped_at": "2026-07-16T14:34:52.941267Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-16T12:08:29.283820Z"
+  "last_updated": "2026-07-16T14:34:52.942698Z"
 }
