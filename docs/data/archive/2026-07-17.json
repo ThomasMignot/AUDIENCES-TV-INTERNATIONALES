@@ -1,6 +1,86 @@
 {
   "date": "2026-07-17",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-17",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "TROPIQUES CRIMINELS \\ LE LAMENTIN",
+          "program_fr": null,
+          "viewers": 2388000,
+          "share": 16.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tropiques_criminels"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE DERNIER CERCLE",
+          "program_fr": null,
+          "viewers": 1978000,
+          "share": 13.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Dernier_Cercle"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LES ANNEES 80, UNE GENERATION DE TUBES",
+          "program_fr": null,
+          "viewers": 1760000,
+          "share": 12.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Laurent_Luyat"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "TOY STORY 4",
+          "program_fr": null,
+          "viewers": 1358000,
+          "share": 9.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Toy_Story_4"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MEURTRES A SANDHAMN \\ A LA VIE A LA MORT",
+          "program_fr": null,
+          "viewers": 881000,
+          "share": 6.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
+        }
+      ],
+      "scraped_at": "2026-07-18T09:04:51.299201Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 2, \"Tropiques Criminels\", s'impose en tête des audiences de prime ce vendredi 17 juillet avec 2,39 millions de téléspectateurs et 16,4% de part d'audience. Elle devance la proposition de TF1, \"Le Dernier Cercle\", qui réunit 1,98 million de personnes (13,7% PDM). Cette performance de France 2 confirme sa position de leader sur la semaine, ayant remporté 2 des 7 soirées analysées. Le documentaire de France 3 sur les années 80 réalise une audience solide de 1,76 million (12,8% PDM), se plaçant devant M6 et sa diffusion de \"Toy Story 4\" qui capte 1,36 million de curieux (9,7% PDM). La fragmentation des audiences, accentuée par la TNT, rend cette lutte pour le leadership d'autant plus significative.",
+      "commentary_date": "2026-07-17"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -95,20 +175,6 @@
       "commentary": "Ce jeudi 16 juillet, La 1 s'affirme en tête du prime time espagnol avec 1,18 million de téléspectateurs et 12,5% de part d'audience pour le divertissement « La Revuelta ». Cette performance consolide la position de la chaîne publique, déjà leader sur les deux soirées précédentes de la semaine. Telecinco, avec « First Dates:Summer », capte 9,6% du public, une audience inférieure à son rival historique Antena 3, dont « El Hormiguero » enregistre 793 000 curieux et 8,3% de PDM. La case access, traditionnellement dominée par Antena 3, voit sa performance décliner par rapport à la veille où « El Hormiguero » atteignait 1,03 million de téléspectateurs. La chaîne Cuatro se positionne sur la tranche information avec « Horizonte:Avance », attirant 7,7% de part de marché. La 2 ferme ce top 5 avec « Cifras y Letras », réunissant 6,0% des téléspectateurs.",
       "commentary_date": "2026-07-16"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-17",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-18T09:04:59.315486Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -189,86 +255,20 @@
       "commentary": "Ce 17 juillet 2026, Rai 1 retrouve la tête du prime time avec \"Summer Hits\", attirant 2,05 millions de téléspectateurs et 19,4% de part de marché. Cette performance la place devant Canale 5 et son divertissement \"L’Erede\", qui enregistre 1,47 million de curieux (14,1% PDM). La chaîne publique italienne confirme ainsi sa position de leader historique, bien que sa part de marché soit inférieure aux pics observés lors des retransmissions des Mondiaux de football (jusqu'à 52,3% le 15 juillet). La lutte pour la deuxième place du prime time semble s'intensifier entre Canale 5 et les autres chaînes de la TNT, Rete 4 et Italia 1 se maintenant autour de 7-9% de PDM avec leurs offres de magazines d'information et de fictions américaines. La7 ferme la marche avec une audience confidentielle de 3,9% pour son film.",
       "commentary_date": "2026-07-17"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-17",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "TROPIQUES CRIMINELS \\ LE LAMENTIN",
-          "program_fr": null,
-          "viewers": 2388000,
-          "share": 16.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tropiques_criminels"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE DERNIER CERCLE",
-          "program_fr": null,
-          "viewers": 1978000,
-          "share": 13.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Dernier_Cercle"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LES ANNEES 80, UNE GENERATION DE TUBES",
-          "program_fr": null,
-          "viewers": 1760000,
-          "share": 12.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Laurent_Luyat"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "TOY STORY 4",
-          "program_fr": null,
-          "viewers": 1358000,
-          "share": 9.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Toy_Story_4"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MEURTRES A SANDHAMN \\ A LA VIE A LA MORT",
-          "program_fr": null,
-          "viewers": 881000,
-          "share": 6.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-dernier-cercle-darthur-sur-tf1-face-a-tropiques-criminels-sur-france-2-et-toy-story-4-sur-m6/656089",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
-        }
-      ],
-      "scraped_at": "2026-07-18T09:04:51.299201Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 2, \"Tropiques Criminels\", s'impose en tête des audiences de prime ce vendredi 17 juillet avec 2,39 millions de téléspectateurs et 16,4% de part d'audience. Elle devance la proposition de TF1, \"Le Dernier Cercle\", qui réunit 1,98 million de personnes (13,7% PDM). Cette performance de France 2 confirme sa position de leader sur la semaine, ayant remporté 2 des 7 soirées analysées. Le documentaire de France 3 sur les années 80 réalise une audience solide de 1,76 million (12,8% PDM), se plaçant devant M6 et sa diffusion de \"Toy Story 4\" qui capte 1,36 million de curieux (9,7% PDM). La fragmentation des audiences, accentuée par la TNT, rend cette lutte pour le leadership d'autant plus significative.",
-      "commentary_date": "2026-07-17"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-18T09:04:59.315486Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-18T09:04:59.317317Z"
+  "last_updated": "2026-07-18T09:05:07.192037Z"
 }
