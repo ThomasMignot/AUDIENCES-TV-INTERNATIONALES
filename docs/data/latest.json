@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Politbarometer%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-18T09:04:55.153131Z",
+      "scraped_at": "2026-07-18T10:36:08.275149Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 17 juillet voit le retour des chaînes publiques en tête du prime time, après une semaine dominée par la Coupe du Monde de football diffusée sur une autre chaîne. Le journal \"Tagesschau\" de Das Erste réalise une performance solide avec 4,01 millions de téléspectateurs et 23,9% de part de marché, se plaçant ainsi devant la fiction \"Der Alte\" qui rassemble 3,83 millions de personnes. Cette configuration contraste avec les journées précédentes où les retransmissions sportives atteignaient des audiences exceptionnelles, dépassant les 12 millions de téléspectateurs. La fiction \"SOKO Leipzig\" sur ZDF obtient 3,06 millions de téléspectateurs, confirmant une certaine stabilité des programmes généralistes en l'absence d'événements sportifs majeurs. La présence de \"Politbarometer\" dans le top 5 suggère un intérêt pour les formats d'actualité et de débat, même si leur audience reste inférieure aux fictions et aux journaux télévisés.",
@@ -88,12 +88,78 @@
       "date": "2026-07-17",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-07-18T09:04:55.805725Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
-      "commentary": "Ce jeudi 16 juillet, La 1 s'affirme en tête du prime time espagnol avec 1,18 million de téléspectateurs et 12,5% de part d'audience pour le divertissement « La Revuelta ». Cette performance consolide la position de la chaîne publique, déjà leader sur les deux soirées précédentes de la semaine. Telecinco, avec « First Dates:Summer », capte 9,6% du public, une audience inférieure à son rival historique Antena 3, dont « El Hormiguero » enregistre 793 000 curieux et 8,3% de PDM. La case access, traditionnellement dominée par Antena 3, voit sa performance décliner par rapport à la veille où « El Hormiguero » atteignait 1,03 million de téléspectateurs. La chaîne Cuatro se positionne sur la tranche information avec « Horizonte:Avance », attirant 7,7% de part de marché. La 2 ferme ce top 5 avec « Cifras y Letras », réunissant 6,0% des téléspectateurs.",
-      "commentary_date": "2026-07-16"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Tu Cara Me Suena",
+          "program_fr": null,
+          "viewers": 1417000,
+          "share": 21.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-julio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tu+Cara+Me+Suena%22+Antena+3+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Ny:la Finalisima",
+          "program_fr": null,
+          "viewers": 755000,
+          "share": 8.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Ny%22+La+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "¡De Viernes!",
+          "program_fr": null,
+          "viewers": 683000,
+          "share": 10.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 553000,
+          "share": 7.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-julio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+        },
+        {
+          "rank": 5,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 491000,
+          "share": 5.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        }
+      ],
+      "scraped_at": "2026-07-18T10:36:10.229613Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Antena 3 s'impose ce vendredi soir avec « Tu Cara Me Suena », qui enregistre 1,42 million de téléspectateurs et 21,8% de part de marché, marquant une nette reprise par rapport aux soirées précédentes. La chaîne privée confirme ainsi sa capacité à mobiliser le public sur des formats de divertissement en prime time. La 1, leader sur les trois soirées précédentes, voit son score de ce vendredi (755 k, 8.7%) significativement inférieur à celui de « Grand Prix » le 13 juillet (1,43 M, 16.8%). Telecinco, avec « ¡De Viernes! », se maintient autour de la barre des 700 000 spectateurs, un niveau proche de ses performances de la semaine. La stratégie de contre-programmation de Cuatro avec « First Dates » semble moins efficace ce vendredi, attirant 553 000 curieux, un chiffre inférieur à celui de « Horizonte » le 13 juillet. La présence d'un divertissement en tête des audiences, plutôt qu'un film ou une série, souligne la diversité des succès potentiels sur la case du prime time espagnol.",
+      "commentary_date": "2026-07-17"
     },
     "NL": {
       "country_code": "NL",
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-18T09:04:59.315486Z",
+      "scraped_at": "2026-07-18T10:36:15.834620Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Le+fate+ignoranti%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-07-18T09:04:58.303972Z",
+      "scraped_at": "2026-07-18T10:36:14.564326Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 17 juillet 2026, Rai 1 retrouve la tête du prime time avec \"Summer Hits\", attirant 2,05 millions de téléspectateurs et 19,4% de part de marché. Cette performance la place devant Canale 5 et son divertissement \"L’Erede\", qui enregistre 1,47 million de curieux (14,1% PDM). La chaîne publique italienne confirme ainsi sa position de leader historique, bien que sa part de marché soit inférieure aux pics observés lors des retransmissions des Mondiaux de football (jusqu'à 52,3% le 15 juillet). La lutte pour la deuxième place du prime time semble s'intensifier entre Canale 5 et les autres chaînes de la TNT, Rete 4 et Italia 1 se maintenant autour de 7-9% de PDM avec leurs offres de magazines d'information et de fictions américaines. La7 ferme la marche avec une audience confidentielle de 3,9% pour son film.",
@@ -263,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-07-18T09:04:51.299201Z",
+      "scraped_at": "2026-07-18T10:36:03.483103Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 2, \"Tropiques Criminels\", s'impose en tête des audiences de prime ce vendredi 17 juillet avec 2,39 millions de téléspectateurs et 16,4% de part d'audience. Elle devance la proposition de TF1, \"Le Dernier Cercle\", qui réunit 1,98 million de personnes (13,7% PDM). Cette performance de France 2 confirme sa position de leader sur la semaine, ayant remporté 2 des 7 soirées analysées. Le documentaire de France 3 sur les années 80 réalise une audience solide de 1,76 million (12,8% PDM), se plaçant devant M6 et sa diffusion de \"Toy Story 4\" qui capte 1,36 million de curieux (9,7% PDM). La fragmentation des audiences, accentuée par la TNT, rend cette lutte pour le leadership d'autant plus significative.",
       "commentary_date": "2026-07-17"
     }
   },
-  "last_updated": "2026-07-18T09:04:59.317317Z"
+  "last_updated": "2026-07-18T10:36:15.836654Z"
 }
