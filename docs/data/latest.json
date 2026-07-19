@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 2,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Schlager-Spa%C3%9F+mit+Andy+Borg%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-19T11:41:39.128942Z",
+      "scraped_at": "2026-07-19T14:04:59.856538Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 18 juillet, la \"Tagesschau\" de Das Erste reprend la tête du prime time avec 4,27 millions de téléspectateurs et 26,7% de part de marché, une performance solide qui la replace au-dessus de la barre des 4 millions, comme lors des soirées du 13 et 16 juillet. La chaîne publique ZDF, avec son \"heute journal / Wetter\", se positionne en troisième place, rassemblant 2,44 millions de personnes (14,0% PDM), un chiffre inférieur aux journaux des jours précédents. La compétition pour la deuxième place voit un téléfilm de genre, \"Mordlichter - Tod auf den Färöer\", s'imposer avec 3,06 millions de téléspectateurs et 17,7% PDM, démontrant la capacité des chaînes non publiques à capter une audience significative sur cette case. Cette configuration contraste avec les journées des 14 et 15 juillet, marquées par la Coupe du Monde de football qui avait monopolisé l'attention avec des scores très élevés, dépassant les 12 millions de téléspectateurs pour les rencontres retransmises. La domination des chaînes publiques sur les informations et les formats de fiction longs, face à une concurrence plus fragmentée, reste un schéma récurrent, malgré des variations hebdomadaires notables.",
@@ -89,7 +89,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-07-19T11:41:40.529892Z",
+      "scraped_at": "2026-07-19T14:05:01.277626Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 s'impose ce vendredi soir avec « Tu Cara Me Suena », qui enregistre 1,42 million de téléspectateurs et 21,8% de part de marché, marquant une nette reprise par rapport aux soirées précédentes. La chaîne privée confirme ainsi sa capacité à mobiliser le public sur des formats de divertissement en prime time. La 1, leader sur les trois soirées précédentes, voit son score de ce vendredi (755 k, 8.7%) significativement inférieur à celui de « Grand Prix » le 13 juillet (1,43 M, 16.8%). Telecinco, avec « ¡De Viernes! », se maintient autour de la barre des 700 000 spectateurs, un niveau proche de ses performances de la semaine. La stratégie de contre-programmation de Cuatro avec « First Dates » semble moins efficace ce vendredi, attirant 553 000 curieux, un chiffre inférieur à celui de « Horizonte » le 13 juillet. La présence d'un divertissement en tête des audiences, plutôt qu'un film ou une série, souligne la diversité des succès potentiels sur la case du prime time espagnol.",
@@ -103,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-19T11:41:45.042484Z",
+      "scraped_at": "2026-07-19T14:05:08.406104Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -128,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-18-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Notti+Mondiali%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Paola_Ferrari_%28journalist%29"
         },
         {
           "rank": 2,
@@ -141,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-18-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ciao_Darwin"
         },
         {
           "rank": 3,
@@ -154,7 +154,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-18-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Promise_(Il_Divo_album)"
         },
         {
           "rank": 4,
@@ -180,10 +180,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-18-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ricomincio+da+tre%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/I'm_Starting_from_Three"
         }
       ],
-      "scraped_at": "2026-07-19T11:41:43.956734Z",
+      "scraped_at": "2026-07-19T14:05:07.214707Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 18 juillet, Rai 1 retrouve la tête du prime time avec « Notti Mondiali », rassemblant 1,95 million de téléspectateurs et 15,2% de part de marché. Ce chiffre marque une baisse significative par rapport aux précédentes diffusions de ce programme, qui avaient dépassé les 8 millions de téléspectateurs lors des journées de compétition du Mondial 2026. Canale 5, avec la rediffusion de « Ciao Darwin », se positionne en deuxième chaîne, obtenant 1,36 million de fidèles et 13,8% de PDA, une performance stable comparée à la semaine précédente. La lutte pour la troisième place voit Rete 4 et sa fiction « La Promessa » devancer Rai 3, reflétant une stratégie de contre-programmation visant un public plus âgé sur la première chaîne. L'absence de compétitions sportives majeures sur les chaînes généralistes explique la fragmentation des audiences et le retour à des performances plus habituelles pour les programmes de divertissement et de fiction.",
@@ -234,7 +234,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-fort-boyard-toujours-au-top-echappees-belles-et-le-rugby-sur-tf1-a-egalite/655933",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Football_%C3%A0_la_t%C3%A9l%C3%A9vision_en_France"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Monde"
         },
         {
           "rank": 4,
@@ -260,15 +260,15 @@
           "source_url": "https://www.ozap.com/actu/audiences-fort-boyard-toujours-au-top-echappees-belles-et-le-rugby-sur-tf1-a-egalite/655933",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Civilisation_maya"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Religion_maya"
         }
       ],
-      "scraped_at": "2026-07-19T11:41:33.853430Z",
+      "scraped_at": "2026-07-19T14:04:53.488007Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'affirme en tête des audiences du 18 juillet avec sa fiction \"Le Secret de la Grotte\", qui attire 3,39 millions de téléspectateurs et réalise 23,1% de part de marché. Ce score place la chaîne publique en position de leader, une performance qu'elle avait déjà assurée deux fois durant la semaine écoulée. France 2, avec \"Fort Boyard\", se positionne en deuxième place, recueillant 2,54 millions de spectateurs, une audience stable par rapport à la semaine précédente. La compétition entre les chaînes historiques se joue sur la fiction et le divertissement, tandis que M6, avec son magazine sportif, peine à dépasser le million de curieux. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour les chaînes privées comme M6 de rivaliser avec les offres des groupes publics en l'absence d'événements sportifs majeurs. La fiction française semble ainsi conserver une assise solide sur la case du prime time, notamment sur France 3.",
       "commentary_date": "2026-07-18"
     }
   },
-  "last_updated": "2026-07-19T11:41:45.044495Z"
+  "last_updated": "2026-07-19T14:05:08.408241Z"
 }
