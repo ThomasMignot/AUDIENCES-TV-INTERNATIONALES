@@ -1,6 +1,86 @@
 {
   "date": "2026-07-19",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-19",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "FOOTBALL COUPE DU MONDE \\ ESPAGNE - ARGENTINE - FINALE",
+          "program_fr": null,
+          "viewers": 12240000,
+          "share": 59.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_d%27Espagne_de_football_%C3%A0_la_Coupe_du_monde_2010"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "MEURTRES A MULHOUSE",
+          "program_fr": null,
+          "viewers": 2403000,
+          "share": 10.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Mulhouse"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "NOTRE-DAME BRULE",
+          "program_fr": null,
+          "viewers": 1628000,
+          "share": 7.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Notre-Dame_br%C3%BBle"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LA REVANCHE DES CREVETTES PAILLETEES",
+          "program_fr": null,
+          "viewers": 973000,
+          "share": 4.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Crevettes_paillet%C3%A9es"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "LA FIEVRE DU SAMEDI SOIR",
+          "program_fr": null,
+          "viewers": 626000,
+          "share": 2.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Fi%C3%A8vre_du_samedi_soir"
+        }
+      ],
+      "scraped_at": "2026-07-20T10:22:02.134377Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La finale de la Coupe du Monde de football sur M6 capte une part d'audience considérable de 59.2%, éclipsant les autres offres généralistes. Ce score, exceptionnel, contraste fortement avec les indicateurs des jours précédents, où TF1 et France 3 se disputaient le leadership. La fiction proposée par France 3 réalise une performance notable avec 2,40 millions de téléspectateurs, se positionnant comme la seule alternative crédible face à l'événement sportif. Les autres chaînes, TF1 et France 2, se retrouvent reléguées à des niveaux d'audience plus bas, témoignant de l'impact structurel d'une grande compétition sportive sur le marché. La stratégie de contre-programmation semble ici largement inopérante face à un événement fédérateur.",
+      "commentary_date": "2026-07-19"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -68,20 +148,6 @@
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 s'impose ce vendredi soir avec « Tu Cara Me Suena », qui enregistre 1,42 million de téléspectateurs et 21,8% de part de marché, marquant une nette reprise par rapport aux soirées précédentes. La chaîne privée confirme ainsi sa capacité à mobiliser le public sur des formats de divertissement en prime time. La 1, leader sur les trois soirées précédentes, voit son score de ce vendredi (755 k, 8.7%) significativement inférieur à celui de « Grand Prix » le 13 juillet (1,43 M, 16.8%). Telecinco, avec « ¡De Viernes! », se maintient autour de la barre des 700 000 spectateurs, un niveau proche de ses performances de la semaine. La stratégie de contre-programmation de Cuatro avec « First Dates » semble moins efficace ce vendredi, attirant 553 000 curieux, un chiffre inférieur à celui de « Horizonte » le 13 juillet. La présence d'un divertissement en tête des audiences, plutôt qu'un film ou une série, souligne la diversité des succès potentiels sur la case du prime time espagnol.",
       "commentary_date": "2026-07-17"
-    },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-19",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-20T10:22:17.953780Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
     },
     "IT": {
       "country_code": "IT",
@@ -163,86 +229,20 @@
       "commentary": "La soirée du 19 juillet 2026 confirme le leadership de Rai 1 sur le prime time, avec un score exceptionnel de 67.9% de part de marché grâce à la diffusion des « Mondiali 2026 ». Ce chiffre dépasse significativement les précédentes soirées de couverture de l'événement, qui atteignaient déjà des scores élevés, comme les 48.2% du 14 juillet. La compétition s'organise en réalité à un niveau bien inférieur, Canale 5 parvenant à capter 9.2% avec sa fiction « Racconto di una Notte », un score en retrait par rapport à ses meilleures performances de la semaine, notamment « Temptation Island » le 13 juillet (30.3%). Les autres chaînes généralistes, Rai 2, Rai 3 et Italia 1, se partagent les miettes, leurs programmes ne dépassant pas les 2.1% de PDM. Cette configuration souligne la puissance d'attraction des événements sportifs majeurs sur le public italien, reléguant les offres de divertissement et de fiction à des positions secondaires durant ces périodes.",
       "commentary_date": "2026-07-19"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-19",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "FOOTBALL COUPE DU MONDE \\ ESPAGNE - ARGENTINE - FINALE",
-          "program_fr": null,
-          "viewers": 12240000,
-          "share": 59.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89quipe_d%27Espagne_de_football_%C3%A0_la_Coupe_du_monde_2010"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "MEURTRES A MULHOUSE",
-          "program_fr": null,
-          "viewers": 2403000,
-          "share": 10.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Mulhouse"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "NOTRE-DAME BRULE",
-          "program_fr": null,
-          "viewers": 1628000,
-          "share": 7.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Notre-Dame_br%C3%BBle"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LA REVANCHE DES CREVETTES PAILLETEES",
-          "program_fr": null,
-          "viewers": 973000,
-          "share": 4.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Crevettes_paillet%C3%A9es"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "LA FIEVRE DU SAMEDI SOIR",
-          "program_fr": null,
-          "viewers": 626000,
-          "share": 2.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-la-coupe-du-monde-2026-entre-lespagne-et-largentine/655935",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Fi%C3%A8vre_du_samedi_soir"
-        }
-      ],
-      "scraped_at": "2026-07-20T10:22:02.134377Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La finale de la Coupe du Monde de football sur M6 capte une part d'audience considérable de 59.2%, éclipsant les autres offres généralistes. Ce score, exceptionnel, contraste fortement avec les indicateurs des jours précédents, où TF1 et France 3 se disputaient le leadership. La fiction proposée par France 3 réalise une performance notable avec 2,40 millions de téléspectateurs, se positionnant comme la seule alternative crédible face à l'événement sportif. Les autres chaînes, TF1 et France 2, se retrouvent reléguées à des niveaux d'audience plus bas, témoignant de l'impact structurel d'une grande compétition sportive sur le marché. La stratégie de contre-programmation semble ici largement inopérante face à un événement fédérateur.",
-      "commentary_date": "2026-07-19"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-20T10:22:17.953780Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-20T10:22:17.955544Z"
+  "last_updated": "2026-07-20T10:22:26.144028Z"
 }
