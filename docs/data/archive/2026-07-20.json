@@ -1,6 +1,86 @@
 {
   "date": "2026-07-20",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-20",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "CAMPING PARADIS: CLAIR DE LUNE AU PARADIS \\ PARTIE 1",
+          "program_fr": null,
+          "viewers": 2797000,
+          "share": 17.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENQUETES AU PARADIS \\ SUPERPREDATEUR",
+          "program_fr": null,
+          "viewers": 2698000,
+          "share": 17.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAtes_au_paradis"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA CHEVRE",
+          "program_fr": null,
+          "viewers": 2292000,
+          "share": 15.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Ch%C3%A8vre"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LE MAILLON FAIBLE",
+          "program_fr": null,
+          "viewers": 897000,
+          "share": 5.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Maillon_faible"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "L'HOMME QUI TUA LIBERTY VALENCE",
+          "program_fr": null,
+          "viewers": 808000,
+          "share": 5.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Anna_Lee"
+        }
+      ],
+      "scraped_at": "2026-07-21T09:55:38.231099Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction française domine le prime time du 20 juillet, TF1 et France 2 se disputant la tête avec des audiences proches : 2,80 millions de téléspectateurs pour \"Camping Paradis\" sur TF1, et 2,70 millions pour \"Enquêtes au Paradis\" sur France 2. Cette confrontation directe illustre la stratégie des deux chaînes généralistes de miser sur des séries populaires pour capter une large part de l'audience, une tendance déjà observée la semaine précédente où France 3 avait pris le leadership. France 3, avec \"La Chèvre\", enregistre 2,29 millions de téléspectateurs, confirmant sa capacité à mobiliser sur la fiction, malgré une position moins dominante que lors de ses succès de la semaine passée comme \"Le Secret de la Grotte\" (3,39 M). M6, diffusant \"Le Maillon Faible\", réalise une performance plus modeste avec 897 000 téléspectateurs, marquant un décalage notable par rapport aux scores réalisés lors des retransmissions de la Coupe du Monde. La fragmentation de l'audience par la TNT reste une toile de fond, avec Arte atteignant 808 000 téléspectateurs pour sa fiction.",
+      "commentary_date": "2026-07-20"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La soirée du 20 juillet 2026 voit La 1 s'imposer nettement avec le documentaire « Imparables:un Equipo de Leyenda », captant 36.0% de part de marché. Cette performance contraste avec les scores plus modestes des autres chaînes généralistes, qui peinent à dépasser le million de téléspectateurs. Antena 3, habituellement solide sur ce créneau, se retrouve reléguée en troisième position avec sa fiction « En Tierra Lejana », tandis que Telecinco voit son divertissement « First Dates:Summer » se placer quatrième. La 1 confirme ainsi sa dynamique ascendante observée depuis 2023, s'affirmant comme un acteur majeur du prime time, en particulier sur ce type de programmation événementielle. La faible performance de programmes comme « Horizonte » sur Cuatro suggère une difficulté à capter une audience large dans cette case horaire.",
       "commentary_date": "2026-07-20"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-20",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-21T09:55:48.798570Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Ce 20 juillet, Canale 5 s'impose avec \"Temptation Island\", rassemblant 3,87 millions de téléspectateurs et 31.1% de part de marché, une performance en légère hausse par rapport à sa précédente diffusion le 13 juillet (3,75 M, 30.3%). La fiction de Rai 1, \"Il Giovane Montalbano\", se positionne en deuxième place avec 2,06 millions de personnes et 15.1% de PDM, marquant un recul par rapport aux fortes audiences des retransmissions de la Coupe du Monde de football la semaine précédente. La stratégie de Rai 1, qui a largement capitalisé sur le sport ces derniers jours, semble avoir été délaissée pour des programmes d'accessibilité plus large, mais moins mobilisateurs. La troisième place est occupée par Italia 1 avec \"Cash Out 2\", qui enregistre 895 000 téléspectateurs et 5.9% de PDM, une audience inférieure à celle de la semaine précédente. La chaîne généraliste privée Canale 5 semble ainsi consolider sa position sur le divertissement face à la chaîne publique Rai 1, habituellement dominante.",
       "commentary_date": "2026-07-20"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-20",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CAMPING PARADIS: CLAIR DE LUNE AU PARADIS \\ PARTIE 1",
-          "program_fr": null,
-          "viewers": 2797000,
-          "share": 17.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ENQUETES AU PARADIS \\ SUPERPREDATEUR",
-          "program_fr": null,
-          "viewers": 2698000,
-          "share": 17.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAtes_au_paradis"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA CHEVRE",
-          "program_fr": null,
-          "viewers": 2292000,
-          "share": 15.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Ch%C3%A8vre"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LE MAILLON FAIBLE",
-          "program_fr": null,
-          "viewers": 897000,
-          "share": 5.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Maillon_faible"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "L'HOMME QUI TUA LIBERTY VALENCE",
-          "program_fr": null,
-          "viewers": 808000,
-          "share": 5.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-de-la-serie-enquetes-au-paradis-sur-france-2/656004",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Anna_Lee"
-        }
-      ],
-      "scraped_at": "2026-07-21T09:55:38.231099Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction française domine le prime time du 20 juillet, TF1 et France 2 se disputant la tête avec des audiences proches : 2,80 millions de téléspectateurs pour \"Camping Paradis\" sur TF1, et 2,70 millions pour \"Enquêtes au Paradis\" sur France 2. Cette confrontation directe illustre la stratégie des deux chaînes généralistes de miser sur des séries populaires pour capter une large part de l'audience, une tendance déjà observée la semaine précédente où France 3 avait pris le leadership. France 3, avec \"La Chèvre\", enregistre 2,29 millions de téléspectateurs, confirmant sa capacité à mobiliser sur la fiction, malgré une position moins dominante que lors de ses succès de la semaine passée comme \"Le Secret de la Grotte\" (3,39 M). M6, diffusant \"Le Maillon Faible\", réalise une performance plus modeste avec 897 000 téléspectateurs, marquant un décalage notable par rapport aux scores réalisés lors des retransmissions de la Coupe du Monde. La fragmentation de l'audience par la TNT reste une toile de fond, avec Arte atteignant 808 000 téléspectateurs pour sa fiction.",
-      "commentary_date": "2026-07-20"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-21T09:55:48.798570Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-21T09:55:48.800270Z"
+  "last_updated": "2026-07-21T09:56:05.761302Z"
 }
