@@ -1,6 +1,86 @@
 {
   "date": "2026-07-22",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-22",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "UN INDIEN DANS LA VILLE",
+          "program_fr": null,
+          "viewers": 2549000,
+          "share": 18.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Un_Indien_dans_la_ville"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "TOUT CELA JE TE LE DONNERAI \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 2398000,
+          "share": 16.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nicole_Calfan"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "SECRETS D'HISTOIRE \\ ARTHUR ET LES CHEVALIERS DE LA TABLE RONDE",
+          "program_fr": null,
+          "viewers": 1262000,
+          "share": 9.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Chevaliers_de_la_Table_ronde_%28film%2C_1953%29"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "J'EN CONNAIS UN RAYON",
+          "program_fr": null,
+          "viewers": 1183000,
+          "share": 8.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/J%27irai_dormir_chez_vous"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "HORS NORMES",
+          "program_fr": null,
+          "viewers": 684000,
+          "share": 4.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hors_normes"
+        }
+      ],
+      "scraped_at": "2026-07-23T09:42:38.200365Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête des audiences du prime ce 22 juillet avec la diffusion d'« Un indien dans la ville », attirant 2,55 millions de téléspectateurs et 18,4% de part d'audience. Ce score place la fiction devant France 2 et son offre inédite « Tout cela je te le donnerai », qui réunit 2,40 millions de personnes (16,3% de PDA). La semaine précédente, France 2 avait dominé à deux reprises, notamment le 15 juillet avec « Des blessures invisibles » et le 21 juillet avec « OPJ », démontrant une capacité à fidéliser sur la durée. France 3, avec « Secrets d'histoire », se maintient à un niveau d'audience respectable pour la chaîne publique (1,26 million, 9,4% de PDA), loin toutefois des scores exceptionnels enregistrés le 18 juillet avec « Le secret de la grotte ». M6, avec son divertissement « J'en connais un rayon », se positionne en quatrième position, confirmant la difficulté de la case face aux offres des généralistes historiques.",
+      "commentary_date": "2026-07-22"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La chaîne publique La 1 confirme sa position de leader du prime time sur la semaine écoulée, s'adjugeant trois soirées sur quatre, une dynamique qui contraste avec le paysage du duopole historique Telecinco/Antena 3. La soirée du 22 juillet voit \"Viaje al Centro de la Tele\" sur La 1 atteindre 1,28 million de téléspectateurs et 13,2% de part de marché, une performance stable par rapport à sa diffusion du 21 juillet (1,28 M, 12,6%). Sur la même case, Telecinco et son divertissement \"First Dates:Summer\" recueillent 958 000 fidèles (10,1% PDM), une légère érosion par rapport au week-end précédent. Antena 3, avec \"El Hormiguero\", enregistre 811 000 curieux (8,5% PDM), une audience en retrait par rapport à la semaine précédente, où le programme de Pablo Motos avait rassemblé plus d'un million de téléspectateurs. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se positionne à un niveau similaire à celui de son concurrent Antena 3, démontrant une certaine stabilité dans cette case horaire.",
       "commentary_date": "2026-07-22"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-22",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-23T09:42:50.480444Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "La soirée du 22 juillet voit Canale 5 s'imposer nettement avec « Temptation Island », captant 31.6% de part de marché, soit 3.74 millions de téléspectateurs. Ce score est en légère baisse par rapport à sa propre diffusion du 20 juillet (3.87 millions, 31.1%), mais confirme la capacité du programme à dominer sa case horaire en l'absence de compétitions sportives majeures sur Rai 1. La chaîne publique se positionne en deuxième place avec « Il diritto di contare » et 12.7% de PDM, un niveau inférieur à ses performances habituelles en semaine, tel que le montre « Doc » le 16 juillet (1.47 M, 12.5%). Le duopole Rai-Mediaset se dessine clairement, avec Rai 1 historiquement leader mais visiblement affaiblie par la puissance du divertissement de Canale 5 en cette période estivale. Les chaînes secondaires comme Italia 1 et Rete 4 occupent des parts de marché plus modestes, témoignant de la concentration des audiences sur les deux principaux acteurs.",
       "commentary_date": "2026-07-22"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-22",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "UN INDIEN DANS LA VILLE",
-          "program_fr": null,
-          "viewers": 2549000,
-          "share": 18.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Un_Indien_dans_la_ville"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "TOUT CELA JE TE LE DONNERAI \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 2398000,
-          "share": 16.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nicole_Calfan"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "SECRETS D'HISTOIRE \\ ARTHUR ET LES CHEVALIERS DE LA TABLE RONDE",
-          "program_fr": null,
-          "viewers": 1262000,
-          "share": 9.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Chevaliers_de_la_Table_ronde_%28film%2C_1953%29"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "J'EN CONNAIS UN RAYON",
-          "program_fr": null,
-          "viewers": 1183000,
-          "share": 8.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/J%27irai_dormir_chez_vous"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "HORS NORMES",
-          "program_fr": null,
-          "viewers": 684000,
-          "share": 4.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-du-jeu-jen-connais-un-rayon-sur-m6/656050",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Hors_normes"
-        }
-      ],
-      "scraped_at": "2026-07-23T09:42:38.200365Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 reprend la tête des audiences du prime ce 22 juillet avec la diffusion d'« Un indien dans la ville », attirant 2,55 millions de téléspectateurs et 18,4% de part d'audience. Ce score place la fiction devant France 2 et son offre inédite « Tout cela je te le donnerai », qui réunit 2,40 millions de personnes (16,3% de PDA). La semaine précédente, France 2 avait dominé à deux reprises, notamment le 15 juillet avec « Des blessures invisibles » et le 21 juillet avec « OPJ », démontrant une capacité à fidéliser sur la durée. France 3, avec « Secrets d'histoire », se maintient à un niveau d'audience respectable pour la chaîne publique (1,26 million, 9,4% de PDA), loin toutefois des scores exceptionnels enregistrés le 18 juillet avec « Le secret de la grotte ». M6, avec son divertissement « J'en connais un rayon », se positionne en quatrième position, confirmant la difficulté de la case face aux offres des généralistes historiques.",
-      "commentary_date": "2026-07-22"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-23T09:42:50.480444Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-23T09:42:50.483194Z"
+  "last_updated": "2026-07-23T09:43:01.815255Z"
 }
