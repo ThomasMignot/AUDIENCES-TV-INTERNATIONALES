@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Hors_normes"
         }
       ],
-      "scraped_at": "2026-07-23T16:02:50.113274Z",
+      "scraped_at": "2026-07-23T17:42:08.766632Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête des audiences du prime ce 22 juillet avec la diffusion d'« Un indien dans la ville », attirant 2,55 millions de téléspectateurs et 18,4% de part d'audience. Ce score place la fiction devant France 2 et son offre inédite « Tout cela je te le donnerai », qui réunit 2,40 millions de personnes (16,3% de PDA). La semaine précédente, France 2 avait dominé à deux reprises, notamment le 15 juillet avec « Des blessures invisibles » et le 21 juillet avec « OPJ », démontrant une capacité à fidéliser sur la durée. France 3, avec « Secrets d'histoire », se maintient à un niveau d'audience respectable pour la chaîne publique (1,26 million, 9,4% de PDA), loin toutefois des scores exceptionnels enregistrés le 18 juillet avec « Le secret de la grotte ». M6, avec son divertissement « J'en connais un rayon », se positionne en quatrième position, confirmant la difficulté de la case face aux offres des généralistes historiques.",
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         },
         {
           "rank": 4,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lass+dich+%C3%BCberwachen%21%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-23T16:02:54.065119Z",
+      "scraped_at": "2026-07-23T17:42:11.710330Z",
       "status": "ok",
       "error": null,
       "commentary": "Le \"Tagesschau\" sur Das Erste maintient sa position de leader du prime time avec 4,23 millions de téléspectateurs et 23,4% de part de marché. Cette performance place la chaîne publique en tête des audiences pour la quatrième soirée consécutive cette semaine, confirmant sa domination sur la case 20h15. La série \"Helix\" sur une chaîne non spécifiée parvient à capter une audience significative, atteignant 3,88 millions de personnes et 21,1% de PDM, se positionnant en challenger direct du journal d'information. Le \"heute journal\" du ZDF, bien que stable par rapport à la moyenne de la semaine, se retrouve en troisième position avec 2,54 millions de téléspectateurs (15,2% PDM). Les chaînes privées comme RTL se situent nettement en retrait, avec un reportage d'information attirant seulement 1,32 million de téléspectateurs (7,3% PDM).",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-07-23T16:02:55.080666Z",
+      "scraped_at": "2026-07-23T17:42:12.619746Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne publique La 1 confirme sa position de leader du prime time sur la semaine écoulée, s'adjugeant trois soirées sur quatre, une dynamique qui contraste avec le paysage du duopole historique Telecinco/Antena 3. La soirée du 22 juillet voit \"Viaje al Centro de la Tele\" sur La 1 atteindre 1,28 million de téléspectateurs et 13,2% de part de marché, une performance stable par rapport à sa diffusion du 21 juillet (1,28 M, 12,6%). Sur la même case, Telecinco et son divertissement \"First Dates:Summer\" recueillent 958 000 fidèles (10,1% PDM), une légère érosion par rapport au week-end précédent. Antena 3, avec \"El Hormiguero\", enregistre 811 000 curieux (8,5% PDM), une audience en retrait par rapport à la semaine précédente, où le programme de Pablo Motos avait rassemblé plus d'un million de téléspectateurs. La chaîne Cuatro, avec son magazine d'information \"Horizonte\", se positionne à un niveau similaire à celui de son concurrent Antena 3, démontrant une certaine stabilité dans cette case horaire.",
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+corriere%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-23T16:02:57.844742Z",
+      "scraped_at": "2026-07-23T17:42:15.141235Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 22 juillet voit Canale 5 s'imposer nettement avec « Temptation Island », captant 31.6% de part de marché, soit 3.74 millions de téléspectateurs. Ce score est en légère baisse par rapport à sa propre diffusion du 20 juillet (3.87 millions, 31.1%), mais confirme la capacité du programme à dominer sa case horaire en l'absence de compétitions sportives majeures sur Rai 1. La chaîne publique se positionne en deuxième place avec « Il diritto di contare » et 12.7% de PDM, un niveau inférieur à ses performances habituelles en semaine, tel que le montre « Doc » le 16 juillet (1.47 M, 12.5%). Le duopole Rai-Mediaset se dessine clairement, avec Rai 1 historiquement leader mais visiblement affaiblie par la puissance du divertissement de Canale 5 en cette période estivale. Les chaînes secondaires comme Italia 1 et Rete 4 occupent des parts de marché plus modestes, témoignant de la concentration des audiences sur les deux principaux acteurs.",
@@ -329,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-23T16:02:58.886942Z",
+      "scraped_at": "2026-07-23T17:42:16.477894Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-23T16:02:58.888360Z"
+  "last_updated": "2026-07-23T17:42:16.478968Z"
 }
