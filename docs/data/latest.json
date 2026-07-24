@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Shotgun+Wedding%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-24T14:22:14.239358Z",
+      "scraped_at": "2026-07-24T15:45:06.582003Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 23 juillet voit une chaîne privée s'imposer en tête du prime time avec « Tod am Rennsteig - Haus der Toten », réunissant 5,13 millions de téléspectateurs et 27,2% de part de marché. Ce chiffre dépasse le précédent record de la semaine pour un programme non-sportif, établi le 16 juillet par le même titre avec 4,63 millions de spectateurs. Le journal de Das Erste, « Tagesschau », se positionne en deuxième place avec 4,59 millions de téléspectateurs, une audience en légère hausse par rapport à ses performances habituelles sur la période étudiée. Le « heute journal » de ZDF enregistre 2,51 millions de fidèles, une audience stable par rapport à la veille mais inférieure à la moyenne de la semaine. Cette performance de la chaîne privée, qui rompt la domination hebdomadaire de Das Erste, illustre la bataille pour le leadership sur les cases de prime time, où les programmes de fiction semblent trouver leur public.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-07-24T14:22:16.643161Z",
+      "scraped_at": "2026-07-24T15:45:07.612218Z",
       "status": "ok",
       "error": null,
       "commentary": "La 1 s'affirme comme leader du prime time, remportant quatre des cinq soirées de la semaine analysée, une dynamique confirmée par les 1,30 million de téléspectateurs et 13,8% de part de marché de son programme « Viaje al Centro de la Tele ». Ce score est légèrement supérieur à celui du 21 et 22 juillet, où le même format avait réuni 1,28 million de personnes. Telecinco, avec « First Dates:Summer Resort », se positionne en deuxième chaîne, attirant 832 000 téléspectateurs, un chiffre en retrait par rapport aux 958 000 enregistrés la veille. Antena 3, dont « El Hormiguero » constitue un access puissant, voit son divertissement du soir rassembler 773 000 curieux, perdant 38 000 spectateurs par rapport à la veille. La chaîne publique TVE, par sa stratégie de programmation en seconde partie de soirée, semble capter une audience plus âgée et nostalgique, tandis que les chaînes privées se disputent un public plus jeune et en quête de divertissement immédiat. Le format de compilation musicale de La 1, diffusé en seconde partie de soirée, bénéficie d'un lead-in fort et d'une habitude de consommation des téléspectateurs espagnols pour ce type de contenu.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-24T14:22:24.510502Z",
+      "scraped_at": "2026-07-24T15:45:11.074771Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-23-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Doc%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Doc"
         },
         {
           "rank": 3,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Zona+Bianca%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-24T14:22:22.945745Z",
+      "scraped_at": "2026-07-24T15:45:10.053468Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur le prime time du 23 juillet, Canale 5 s'impose avec \"Battiti Live\" et 18.7% de part de marché, devançant Rai 1 et sa série \"Doc\" qui rassemble 11.6% des téléspectateurs. Cette performance de Canale 5 est en légère hausse par rapport à la semaine précédente où le même programme atteignait 18.7% de PDM, mais avec un nombre de téléspectateurs inférieur (1.81M contre 1.93M). Rai 1, bien que leader sur quatre soirées de la semaine écoulée, voit son leadership contesté sur cette journée spécifique par la stratégie de divertissement de son concurrent privé. Les fictions étrangères, \"Il Commissario Rex\" sur Rai 2 et \"Chicago Med\" sur Italia 1, se positionnent au coude-à-coude, témoignant d'une audience relativement stable dans cette catégorie de programmes sur la TNT. La chaîne Rete 4, avec le magazine \"Zona Bianca\", réalise une part de marché de 7.1%, une performance en recul par rapport à \"Quarto Grado\" la semaine précédente qui avait capté 9.2%.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
         }
       ],
-      "scraped_at": "2026-07-24T14:22:07.929372Z",
+      "scraped_at": "2026-07-24T15:45:00.086225Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 3, « Tom et Lola », s'empare de la première place avec 2,26 millions de téléspectateurs et 15,4% de part d'audience, devançant TF1 et sa série « The Flash » (1,88 M, 15,6% PDM). Cette performance permet à France 3 de se distinguer, alors que TF1 avait mené le classement trois soirées sur les sept jours précédents, notamment grâce à des fictions comme « Camping Paradis ». La chaîne publique confirme ainsi une stratégie de mise en avant de la fiction française dans sa case stratégique du prime time. France 5 se positionne solidement en troisième place avec son magazine de voyage, démontrant une capacité à capter un public en quête de programmes documentaires. Les offres de France 2 et M6, respectivement divertissement et magazine culinaire, peinent à atteindre les 1,1 million de curieux, témoignant d'une fragmentation accrue des audiences malgré la présence des grandes chaînes historiques.",
       "commentary_date": "2026-07-23"
     }
   },
-  "last_updated": "2026-07-24T14:22:24.512727Z"
+  "last_updated": "2026-07-24T15:45:11.076936Z"
 }
