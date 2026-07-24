@@ -1,6 +1,86 @@
 {
   "date": "2026-07-23",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-23",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "TOM ET LOLA \\ EN APNEE - EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 2264000,
+          "share": 15.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tom_et_Lola_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "THE FLASH",
+          "program_fr": null,
+          "viewers": 1882000,
+          "share": 15.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Flash"
+        },
+        {
+          "rank": 3,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "DES TRAINS PAS COMME LES AUTRES \\ MALAISIE",
+          "program_fr": null,
+          "viewers": 1515000,
+          "share": 10.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "QUI MENT",
+          "program_fr": null,
+          "viewers": 1095000,
+          "share": 8.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Homme_qui_ment"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAUCHEMAR EN CUISINE \\ SAINT-MALO-DE-GUERSAC",
+          "program_fr": null,
+          "viewers": 1021000,
+          "share": 6.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
+        }
+      ],
+      "scraped_at": "2026-07-24T09:39:49.187816Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 3, « Tom et Lola », s'empare de la première place avec 2,26 millions de téléspectateurs et 15,4% de part d'audience, devançant TF1 et sa série « The Flash » (1,88 M, 15,6% PDM). Cette performance permet à France 3 de se distinguer, alors que TF1 avait mené le classement trois soirées sur les sept jours précédents, notamment grâce à des fictions comme « Camping Paradis ». La chaîne publique confirme ainsi une stratégie de mise en avant de la fiction française dans sa case stratégique du prime time. France 5 se positionne solidement en troisième place avec son magazine de voyage, démontrant une capacité à capter un public en quête de programmes documentaires. Les offres de France 2 et M6, respectivement divertissement et magazine culinaire, peinent à atteindre les 1,1 million de curieux, témoignant d'une fragmentation accrue des audiences malgré la présence des grandes chaînes historiques.",
+      "commentary_date": "2026-07-23"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La 1 s'affirme comme leader du prime time, remportant quatre des cinq soirées de la semaine analysée, une dynamique confirmée par les 1,30 million de téléspectateurs et 13,8% de part de marché de son programme « Viaje al Centro de la Tele ». Ce score est légèrement supérieur à celui du 21 et 22 juillet, où le même format avait réuni 1,28 million de personnes. Telecinco, avec « First Dates:Summer Resort », se positionne en deuxième chaîne, attirant 832 000 téléspectateurs, un chiffre en retrait par rapport aux 958 000 enregistrés la veille. Antena 3, dont « El Hormiguero » constitue un access puissant, voit son divertissement du soir rassembler 773 000 curieux, perdant 38 000 spectateurs par rapport à la veille. La chaîne publique TVE, par sa stratégie de programmation en seconde partie de soirée, semble capter une audience plus âgée et nostalgique, tandis que les chaînes privées se disputent un public plus jeune et en quête de divertissement immédiat. Le format de compilation musicale de La 1, diffusé en seconde partie de soirée, bénéficie d'un lead-in fort et d'une habitude de consommation des téléspectateurs espagnols pour ce type de contenu.",
       "commentary_date": "2026-07-23"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-23",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-24T09:40:08.450152Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Sur le prime time du 23 juillet, Canale 5 s'impose avec \"Battiti Live\" et 18.7% de part de marché, devançant Rai 1 et sa série \"Doc\" qui rassemble 11.6% des téléspectateurs. Cette performance de Canale 5 est en légère hausse par rapport à la semaine précédente où le même programme atteignait 18.7% de PDM, mais avec un nombre de téléspectateurs inférieur (1.81M contre 1.93M). Rai 1, bien que leader sur quatre soirées de la semaine écoulée, voit son leadership contesté sur cette journée spécifique par la stratégie de divertissement de son concurrent privé. Les fictions étrangères, \"Il Commissario Rex\" sur Rai 2 et \"Chicago Med\" sur Italia 1, se positionnent au coude-à-coude, témoignant d'une audience relativement stable dans cette catégorie de programmes sur la TNT. La chaîne Rete 4, avec le magazine \"Zona Bianca\", réalise une part de marché de 7.1%, une performance en recul par rapport à \"Quarto Grado\" la semaine précédente qui avait capté 9.2%.",
       "commentary_date": "2026-07-23"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-23",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "TOM ET LOLA \\ EN APNEE - EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 2264000,
-          "share": 15.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tom_et_Lola_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE FLASH",
-          "program_fr": null,
-          "viewers": 1882000,
-          "share": 15.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Flash"
-        },
-        {
-          "rank": 3,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "DES TRAINS PAS COMME LES AUTRES \\ MALAISIE",
-          "program_fr": null,
-          "viewers": 1515000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "QUI MENT",
-          "program_fr": null,
-          "viewers": 1095000,
-          "share": 8.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Homme_qui_ment"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAUCHEMAR EN CUISINE \\ SAINT-MALO-DE-GUERSAC",
-          "program_fr": null,
-          "viewers": 1021000,
-          "share": 6.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-premiere-de-qui-ment-animee-par-bruno-guillon-sur-france-2/656051",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
-        }
-      ],
-      "scraped_at": "2026-07-24T09:39:49.187816Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 3, « Tom et Lola », s'empare de la première place avec 2,26 millions de téléspectateurs et 15,4% de part d'audience, devançant TF1 et sa série « The Flash » (1,88 M, 15,6% PDM). Cette performance permet à France 3 de se distinguer, alors que TF1 avait mené le classement trois soirées sur les sept jours précédents, notamment grâce à des fictions comme « Camping Paradis ». La chaîne publique confirme ainsi une stratégie de mise en avant de la fiction française dans sa case stratégique du prime time. France 5 se positionne solidement en troisième place avec son magazine de voyage, démontrant une capacité à capter un public en quête de programmes documentaires. Les offres de France 2 et M6, respectivement divertissement et magazine culinaire, peinent à atteindre les 1,1 million de curieux, témoignant d'une fragmentation accrue des audiences malgré la présence des grandes chaînes historiques.",
-      "commentary_date": "2026-07-23"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-24T09:40:08.450152Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-24T09:40:08.452215Z"
+  "last_updated": "2026-07-24T09:40:22.135128Z"
 }
