@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Trapps+Sommer%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-25T14:11:58.589135Z",
+      "scraped_at": "2026-07-25T15:29:00.044470Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 24 juillet, la première chaîne publique Das Erste s'affirme en tête du prime time avec son journal \"Tagesschau\", attirant 3,83 millions de téléspectateurs, soit 23,9% de part de marché. Ce score la place devant la fiction \"Der Alte\" diffusée sur une autre chaîne, qui réalise une performance notable avec 3,71 millions de spectateurs et 22% de PDM. La fiction \"SOKO Leipzig\" de ZDF se positionne en troisième place avec 3,07 millions de personnes, représentant 18% du public. Comparé à la semaine précédente, où Das Erste avait mené 5 soirées sur 7, la domination des chaînes publiques semble se confirmer, bien que des programmes de fiction sur des chaînes non spécifiées aient su capter une part d'audience significative. La lutte pour le leadership du prime time s'articule donc autour de ces programmes d'information et de fiction, consolidant la préférence des téléspectateurs pour les offres des diffuseurs publics.",
@@ -87,7 +87,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Voz+Kids%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/La_Voz_Kids_(American_TV_series)"
         },
         {
           "rank": 2,
@@ -100,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/19th_Sur_Awards"
         },
         {
           "rank": 3,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_longest-running_Spanish_television_series"
         },
         {
           "rank": 4,
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 5,
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Franco+Ha+Vuelto%29%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-07-25T14:11:59.620160Z",
+      "scraped_at": "2026-07-25T15:29:04.599963Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 24 juillet, Antena 3 reprend la tête du prime time avec la demi-finale de « La Voz Kids », réunissant 1,03 million de téléspectateurs et 14,9% de part de marché. Ce score est inférieur à celui de « Tu Cara Me Suena » du 17 juillet (1,42 M, 21,8%), mais confirme la capacité de la chaîne à attirer un public familial sur ce genre de divertissement. Telecinco, avec « ¡De Viernes! », se positionne en deuxième force avec 758 000 curieux (12,2% PDM), une performance en légère hausse par rapport à sa précédente apparition le 17 juillet (683 k, 10,9%). La 1, bien que leader sur la semaine, se retrouve troisième ce soir avec son programme d'archives « Viaje al Centro de la Tele », attirant 518 000 personnes (7,7% PDM), un chiffre nettement inférieur à ses scores habituels de la semaine. La lutte pour la deuxième place entre Telecinco et La 1 semble se rééquilibrer, la première bénéficiant de son rendez-vous hebdomadaire tandis que la seconde peine à maintenir l'élan de ses succès ponctuels comme le match du 20 juillet (4,15 M, 36,0%). La stratégie de contre-programmation de Cuatro et La Sexta avec des formats plus documentaires ou de découverte peine à rivaliser avec les offres de divertissement des deux grands réseaux privés.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-25T14:12:05.014989Z",
+      "scraped_at": "2026-07-25T15:29:11.441824Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Italy_national_football_team"
+          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Erede%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Murder_of_Nada_Cella"
+          "wikipedia_url": "https://www.google.com/search?q=%22Quarto+Grado%22+Rete+4+ratings"
         },
         {
           "rank": 4,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-24-luglio-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago_Fire"
+          "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Fire%22+Italia+1+ratings"
         },
         {
           "rank": 5,
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Amiamoci+finch%C3%A9+siamo+vivi%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-07-25T14:12:04.023898Z",
+      "scraped_at": "2026-07-25T15:29:10.183462Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 24 juillet, Rai 1 retrouve la tête du prime time avec « Summer Hits », attirant 1,67 million de téléspectateurs, soit 16,7% de part de marché. Ce score est inférieur aux 2,05 millions enregistrés le 17 juillet, démontrant une légère érosion de son audience sur la semaine. La compétition pour la deuxième place voit Canale 5 et son divertissement « L’Erede » s'imposer avec 1,51 million de curieux (14,2% PDM), dépassant ainsi la fiction étrangère souvent programmée dans cette case. Rete 4 maintient sa position avec « Quarto Grado », sécurisant 9,2% du public, une performance stable par rapport à la semaine précédente. La lutte pour le leadership reste donc polarisée entre les deux grands groupes, Rai et Mediaset, bien que les programmes de divertissement de grande ampleur, comme ceux diffusés les 20 et 22 juillet sur Canale 5, aient temporairement redistribué les cartes. La présence de la fiction américaine sur Italia 1, bien que moins puissante, confirme une stratégie de niche sur cette chaîne du groupe Mediaset.",
@@ -313,15 +313,15 @@
           "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-prime-anniversaire-des-20-ans-de-50-inside-sur-tf1/656098",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Meurtres+%C3%80+Sandhamn%22+Arte+audiences&gl=fr"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-07-25T14:11:54.307848Z",
+      "scraped_at": "2026-07-25T15:28:52.436599Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 reprend la tête du prime time ce 24 juillet avec \"Tropiques Criminels\", qui réunit 2,48 millions de téléspectateurs et 18,6% de part de marché. Cette performance permet à la chaîne publique de devancer TF1 et son magazine \"50 MN Inside\" (1,79 M, 13,6%), marquant une inversion par rapport aux soirées précédentes où la Une avait souvent mené. La fiction de France 2 progresse par rapport à l'épisode diffusé le 17 juillet (2,39 M, 16,4%), démontrant une certaine stabilité de son public sur cette case horaire. France 3, leader du prime sur la semaine écoulée avec trois soirées en tête, se retrouve troisième avec un documentaire sur Claude Sardou (1,15 M, 9,4%), un score inférieur à ses fictions des jours précédents. M6, avec sa fiction \"14 jours pour aller mieux\", se positionne en quatrième position, en deçà de ses meilleures performances de la semaine, notamment celles liées à la diffusion de la Coupe du Monde de football.",
       "commentary_date": "2026-07-24"
     }
   },
-  "last_updated": "2026-07-25T14:12:05.017071Z"
+  "last_updated": "2026-07-25T15:29:11.444056Z"
 }
