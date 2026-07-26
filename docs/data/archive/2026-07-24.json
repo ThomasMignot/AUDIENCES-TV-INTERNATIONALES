@@ -249,13 +249,79 @@
       "date": "2026-07-24",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-07-25T17:11:22.295701Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "La Voz Kids:Semifinal",
+          "program_fr": "The Voice",
+          "viewers": 1030000,
+          "share": 14.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Voz+Kids%22+Antena+3+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "¡De Viernes!",
+          "program_fr": null,
+          "viewers": 758000,
+          "share": 12.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Viaje al Centro de la Tele:la Noche Tematica (Todo Tocata)",
+          "program_fr": null,
+          "viewers": 518000,
+          "share": 7.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 510000,
+          "share": 6.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "Lasexta Columna (Franco Ha Vuelto)",
+          "program_fr": null,
+          "viewers": 483000,
+          "share": 6.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-julio-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Franco+Ha+Vuelto%29%22+La+Sexta+ratings"
+        }
+      ],
+      "scraped_at": "2026-07-26T09:27:52.538800Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Ce 24 juillet, Antena 3 reprend la tête du prime time avec la demi-finale de « La Voz Kids », réunissant 1,03 million de téléspectateurs et 14,9% de part de marché. Ce score est inférieur à celui de « Tu Cara Me Suena » du 17 juillet (1,42 M, 21,8%), mais confirme la capacité de la chaîne à attirer un public familial sur ce genre de divertissement. Telecinco, avec « ¡De Viernes! », se positionne en deuxième force avec 758 000 curieux (12,2% PDM), une performance en légère hausse par rapport à sa précédente apparition le 17 juillet (683 k, 10,9%). La 1, bien que leader sur la semaine, se retrouve troisième ce soir avec son programme d'archives « Viaje al Centro de la Tele », attirant 518 000 personnes (7,7% PDM), un chiffre nettement inférieur à ses scores habituels de la semaine. La lutte pour la deuxième place entre Telecinco et La 1 semble se rééquilibrer, la première bénéficiant de son rendez-vous hebdomadaire tandis que la seconde peine à maintenir l'élan de ses succès ponctuels comme le match du 20 juillet (4,15 M, 36,0%). La stratégie de contre-programmation de Cuatro et La Sexta avec des formats plus documentaires ou de découverte peine à rivaliser avec les offres de divertissement des deux grands réseaux privés.",
       "commentary_date": "2026-07-24"
     }
   },
-  "last_updated": "2026-07-25T17:11:26.203902Z"
+  "last_updated": "2026-07-26T09:27:52.540564Z"
 }
