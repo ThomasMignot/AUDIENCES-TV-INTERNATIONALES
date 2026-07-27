@@ -1,6 +1,86 @@
 {
   "date": "2026-07-26",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-26",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "HEUREUX GAGNANTS",
+          "program_fr": null,
+          "viewers": 2458000,
+          "share": 16.0,
+          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Heureux_gagnants"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "SUPERCONDRIAQUE",
+          "program_fr": null,
+          "viewers": 2090000,
+          "share": 14.4,
+          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Supercondriaque"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAPITAL \\ CAMPINGS, CLUBS, VILLAGES VACANCES...",
+          "program_fr": null,
+          "viewers": 1562000,
+          "share": 10.5,
+          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/VVF_Villages"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ENQUETE A HAUT RISQUE \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 1557000,
+          "share": 9.6,
+          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9pisodes_de_NCIS_%3A_Enqu%C3%AAtes_sp%C3%A9ciales"
+        },
+        {
+          "rank": 5,
+          "channel": "W9",
+          "channel_color": "pink",
+          "program": "LE CERVEAU",
+          "program_fr": null,
+          "viewers": 942000,
+          "share": 6.6,
+          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Cerveau"
+        }
+      ],
+      "scraped_at": "2026-07-27T10:51:56.293650Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 reprend la tête des audiences ce dimanche 26 juillet avec sa fiction \"Heureux Gagnants\" qui rassemble 2,46 millions de téléspectateurs, soit 16,0% de part de marché. La chaîne publique devance TF1 et sa diffusion du film \"Supercondriaque\" (2,09 millions, 14,4%), marquant une inversion par rapport à la veille où France 3 dominait avec \"Cassandre\" (2,59 millions, 19,0%). M6 se positionne troisième avec son magazine \"Capital\" qui enregistre 1,56 million de curieux (10,5%), un score inférieur aux performances habituelles de la chaîne sur cette case. La fiction de France 3, \"Enquête à haut risque\", obtient un résultat similaire en nombre de téléspectateurs (1,56 million) mais une moins bonne part de marché (9,6%). La TNT, représentée par W9, peine à rivaliser avec les chaînes historiques, \"Le Cerveau\" ne réunissant que 942 000 spectateurs (6,6%).",
+      "commentary_date": "2026-07-26"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -135,20 +215,6 @@
       "commentary": "La soirée du 26 juillet voit La 1 s'imposer avec un film attirant 1,22 million de téléspectateurs et 13,7% de part de marché, confirmant sa position de leader sur la semaine. Cette performance est toutefois inférieure à celle du 20 juillet, où un documentaire avait rassemblé 4,15 millions de personnes (36,0% PDM). Antena 3, avec sa fiction « Una Nueva Vida », se positionne en deuxième chaîne avec 745 000 fidèles (9,6% PDM), une audience stable par rapport à ses programmes de fiction de la semaine. Telecinco et Cuatro se retrouvent en concurrence directe pour la troisième place, avec des scores respectifs de 512 000 (5,5% PDM) et 450 000 (5,4% PDM). La chaîne publique TVE, malgré des scores plus modestes qu'en début de semaine, maintient une stratégie de programmation cinématographique dans sa case du prime, tandis que les chaînes privées semblent opter pour des formats plus établis ou des séries. La Sexta termine ce classement avec un film qui enregistre 417 000 téléspectateurs (5,6% PDM).",
       "commentary_date": "2026-07-26"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-26",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-27T10:52:08.453146Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -229,86 +295,20 @@
       "commentary": "Canale 5 s'affirme en tête des soirées de la semaine écoulée, remportant quatre des sept jours avec des programmes de divertissement et de fiction. La fiction italienne « Racconto di una Notte » réalise une performance solide le 26 juillet, attirant 1,69 million de téléspectateurs et 16,3% de part de marché, un score supérieur à celui de la fiction turque « Delibal – Dolce veleno » du 21 juillet (1,40 M, 12,4%). La compétition pour la première place du prime time oppose principalement Canale 5 et Rai 1, cette dernière étant reléguée en deuxième position avec 1,43 million de téléspectateurs pour « Noos ». La stratégie de Canale 5 semble axée sur des formats de flux et des séries nationales pour capter un public large en access et en prime. Rai 1, leader historique, peine à retrouver le leadership du prime, malgré des scores respectables pour ses offres de divertissement comme « Summer Hits ».",
       "commentary_date": "2026-07-26"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-26",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "HEUREUX GAGNANTS",
-          "program_fr": null,
-          "viewers": 2458000,
-          "share": 16.0,
-          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Heureux_gagnants"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "SUPERCONDRIAQUE",
-          "program_fr": null,
-          "viewers": 2090000,
-          "share": 14.4,
-          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Supercondriaque"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAPITAL \\ CAMPINGS, CLUBS, VILLAGES VACANCES...",
-          "program_fr": null,
-          "viewers": 1562000,
-          "share": 10.5,
-          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/VVF_Villages"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ENQUETE A HAUT RISQUE \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 1557000,
-          "share": 9.6,
-          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9pisodes_de_NCIS_%3A_Enqu%C3%AAtes_sp%C3%A9ciales"
-        },
-        {
-          "rank": 5,
-          "channel": "W9",
-          "channel_color": "pink",
-          "program": "LE CERVEAU",
-          "program_fr": null,
-          "viewers": 942000,
-          "share": 6.6,
-          "source_url": "https://www.ozap.com/actu/audiences-audrey-lamy-et-fabrice-eboue-dans-une-comedie-inedite-sur-france-2-ont-ils-fait-le-poids-face-a-dany-boon-et-kad-merad-sur-tf1/656177",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Cerveau"
-        }
-      ],
-      "scraped_at": "2026-07-27T10:51:56.293650Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 reprend la tête des audiences ce dimanche 26 juillet avec sa fiction \"Heureux Gagnants\" qui rassemble 2,46 millions de téléspectateurs, soit 16,0% de part de marché. La chaîne publique devance TF1 et sa diffusion du film \"Supercondriaque\" (2,09 millions, 14,4%), marquant une inversion par rapport à la veille où France 3 dominait avec \"Cassandre\" (2,59 millions, 19,0%). M6 se positionne troisième avec son magazine \"Capital\" qui enregistre 1,56 million de curieux (10,5%), un score inférieur aux performances habituelles de la chaîne sur cette case. La fiction de France 3, \"Enquête à haut risque\", obtient un résultat similaire en nombre de téléspectateurs (1,56 million) mais une moins bonne part de marché (9,6%). La TNT, représentée par W9, peine à rivaliser avec les chaînes historiques, \"Le Cerveau\" ne réunissant que 942 000 spectateurs (6,6%).",
-      "commentary_date": "2026-07-26"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-27T10:52:08.453146Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-27T10:52:08.455308Z"
+  "last_updated": "2026-07-27T10:52:21.842987Z"
 }
