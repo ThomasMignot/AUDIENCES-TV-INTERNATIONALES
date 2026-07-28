@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Undercover+Boss+Folge+3%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-28T15:01:39.705884Z",
+      "scraped_at": "2026-07-28T16:15:58.055615Z",
       "status": "ok",
       "error": null,
       "commentary": "La \"Tagesschau\" de Das Erste maintient sa position dominante avec 4,85 millions de téléspectateurs et 25,0% de part de marché, confirmant sa prééminence sur la case information du soir. La concurrence s'organise autour de ce rendez-vous, avec une offre de fiction sur une chaîne concurrente attirant 4,24 millions de personnes, démontrant une stratégie de contre-programmation efficace. Le \"heute journal\" de ZDF, bien que présent dans le trio de tête avec 3,27 millions de téléspectateurs, accuse une légère baisse par rapport à la semaine précédente, passant de 20,8% à 18,1% de PDM sur les deux derniers jours. Cette performance contraste avec le pic du 23 juillet où une offre de fiction avait dépassé les 5 millions de téléspectateurs, illustrant la volatilité des audiences en dehors des programmes d'information établis. La présence de \"Undercover Boss\" en cinquième position avec 1,37 million de téléspectateurs suggère une segmentation des publics, avec des offres plus spécifiques rencontrant un succès moindre face aux programmes généralistes. La domination de Das Erste sur six des sept soirées de la semaine étudiée souligne la difficulté pour les autres chaînes de rivaliser sur cette case horaire.",
@@ -88,10 +88,76 @@
       "date": "2026-07-27",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-07-28T15:01:40.482772Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Grand Prix",
+          "program_fr": null,
+          "viewers": 1284000,
+          "share": 16.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Grand+Prix%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero 20 Años Juntos (Belen Rueda-Belen Ecija)",
+          "program_fr": null,
+          "viewers": 867000,
+          "share": 8.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-julio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Belen+Rueda-Belen+Ecija%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates:Summer",
+          "program_fr": null,
+          "viewers": 797000,
+          "share": 8.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-julio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cine Clasico (el Largo y Calido Verano)",
+          "program_fr": null,
+          "viewers": 606000,
+          "share": 7.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cine+Clasico+%28el+Largo+y+Calido+Verano%29%22+La+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Viajeros Cuatro (Sur de Mallorca)",
+          "program_fr": null,
+          "viewers": 487000,
+          "share": 5.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Sur+de+Mallorca%29%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-07-28T16:15:59.198694Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La soirée du 27 juillet voit La 1 s'imposer avec « Grand Prix », attirant 1,28 million de téléspectateurs et 16,0% de part de marché. Ce score, identique à celui de « Viaje al Centro de la Tele » les 21 et 22 juillet, confirme la capacité de la chaîne publique à mobiliser sur ce créneau du vendredi soir. Antena 3, avec « El Hormiguero 20 Años Juntos », enregistre 867 000 curieux (8,9% PDM), marquant une légère érosion par rapport aux 1,01 million (10,2% PDM) obtenus le 21 juillet. Telecinco, avec « First Dates:Summer », se positionne en troisième place avec 797 000 téléspectateurs (8,3% PDM), un chiffre en retrait par rapport à la semaine précédente. La stratégie de La 1 semble porter ses fruits, s'appuyant sur un divertissement familial pour capter une audience significative en concurrence avec les offres plus établies des chaînes privées. La présence de La 2 et Cuatro dans le top 5 témoigne d'une fragmentation des audiences, bien que leurs parts de marché restent contenues.",
       "commentary_date": "2026-07-27"
     },
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-28T15:01:45.979302Z",
+      "scraped_at": "2026-07-28T16:16:06.521780Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -128,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-luglio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Temptation+Island%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Temptation_Island"
         },
         {
           "rank": 2,
@@ -141,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-luglio-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+Giovane+Montalbano%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Young_Montalbano"
         },
         {
           "rank": 3,
@@ -154,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22I+predoni%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/I_predoni_del_Sahara"
         },
         {
           "rank": 4,
@@ -167,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Zona+Bianca%22+Rete+4+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ester_Mieli"
         },
         {
           "rank": 5,
@@ -180,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-27-luglio-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ritorno+in+Paradiso%22+Rai+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/SSC_Napoli"
         }
       ],
-      "scraped_at": "2026-07-28T15:01:44.485508Z",
+      "scraped_at": "2026-07-28T16:16:05.440273Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 27 juillet, Canale 5 confirme sa domination du prime time estival avec « Temptation Island », qui réunit 4,39 millions de téléspectateurs et s'adjuge 34% de part d'audience. Ce score dépasse nettement les 3,87 millions enregistrés le 20 juillet pour le même programme, marquant une progression significative de près de 500 000 spectateurs et de 3 points de PDM. La fiction de Rai 1, « Il Giovane Montalbano », se positionne en deuxième place avec 2,02 millions de curieux, un chiffre stable par rapport à la semaine précédente. Cette performance de Canale 5 illustre la stratégie du groupe Mediaset, qui privilégie le divertissement grand public pour capter une large part d'audience durant la période estivale, délaissant Rai 1 de son rôle de leader historique en première partie de soirée. Les chaînes secondaires, Italia 1 et Rete 4, se partagent les restes avec des scores inférieurs à 800 000 téléspectateurs.",
@@ -260,15 +326,15 @@
           "source_url": "https://www.ozap.com/actu/audiences-enquetes-au-paradis-en-inedit-sur-france-2-ou-camping-paradis-en-rediffusion-sur-tf1-quelle-serie-a-ete-plebiscitee-par-les-telespectateurs/656203",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nos_terres_inconnues"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jeopardy%21"
         }
       ],
-      "scraped_at": "2026-07-28T15:01:32.434955Z",
+      "scraped_at": "2026-07-28T16:15:54.327249Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 27 juillet voit TF1 reprendre la tête du prime time avec \"Camping Paradis\", rassemblant 2,37 millions de téléspectateurs et 15,7% de part d'audience. Ce score est cependant inférieur à celui du même programme la semaine précédente (2,80 M, 17,7%), marquant un recul notable pour la chaîne privée. France 3 et France 2 suivent avec des fictions, totalisant respectivement 2,00 millions (14,0% PDM) et 1,98 million (13,0% PDM), des performances en ligne avec leurs moyennes récentes mais en retrait par rapport aux meilleurs résultats de la semaine. La fragmentation des audiences, accentuée par la TNT, semble continuer de peser sur la capacité des grandes chaînes à fidéliser leur public sur la durée. La stratégie de France 3, qui a mené le classement trois soirs durant la semaine écoulée, semble moins payante ce lundi face au retour de la série phare de TF1. La présence de France 5 et M6 dans le top 5, avec des scores avoisinant le million de téléspectateurs, témoigne de la difficulté à capter une large part d'audience au-delà des trois premières chaînes.",
       "commentary_date": "2026-07-27"
     }
   },
-  "last_updated": "2026-07-28T15:01:45.980955Z"
+  "last_updated": "2026-07-28T16:16:06.524176Z"
 }
