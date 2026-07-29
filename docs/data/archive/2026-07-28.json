@@ -1,6 +1,86 @@
 {
   "date": "2026-07-28",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-28",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "OPJ \\ NID DE VIPERES - PARTIE 1",
+          "program_fr": null,
+          "viewers": 2620000,
+          "share": 17.8,
+          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/O.P.J."
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE TRANSPORTEUR II",
+          "program_fr": null,
+          "viewers": 2041000,
+          "share": 14.4,
+          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Transporteur_2"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "RENDEZ-VOUS EN TERRE INCONNUE \\ AVEC KENDJI GIRAC CHEZ LES TURKANA",
+          "program_fr": null,
+          "viewers": 1701000,
+          "share": 12.8,
+          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Rendez-vous_en_terre_inconnue"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LA MARIEE ETAIT EN NOIR",
+          "program_fr": null,
+          "viewers": 1230000,
+          "share": 8.5,
+          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_mari%C3%A9e_%C3%A9tait_en_noir_%28film%29"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "ZONE INTERDITE \\ TURQUIE, ALBANIE, MONTENEGRO : ENQUETE SUR",
+          "program_fr": null,
+          "viewers": 961000,
+          "share": 6.8,
+          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Albanie"
+        }
+      ],
+      "scraped_at": "2026-07-29T10:01:57.606644Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction unitaire de France 3, « OPJ \\ NID DE VIPERES - PARTIE 1 », s'impose en tête des audiences ce mardi 28 juillet avec 2,62 millions de téléspectateurs et 17,8% de part d'audience. Ce résultat la positionne légèrement en retrait par rapport à la performance de la même case la semaine précédente, avec « CASSANDRE \\ LA FORET ROUGE » qui avait rassemblé 2,59 millions de curieux pour 19,0% de PDA. TF1, avec « LE TRANSPORTEUR II », se classe deuxième, un score stable par rapport à la diffusion du film « SUPERCONDRIAQUE » le samedi précédent. France 2, avec « RENDEZ-VOUS EN TERRE INCONNUE », enregistre un chiffre inférieur aux meilleures performances de la semaine, notamment les 2,48 millions de « TROPIQUES CRIMINELS : FORT-DE-FRANCE » le jeudi. La stratégie de France 3 de privilégier la fiction française en première partie de soirée semble porter ses fruits, lui permettant de devancer TF1 à plusieurs reprises sur la semaine écoulée. La fragmentation du paysage audiovisuel, accentuée par la TNT, rend la conquête et la fidélisation de l'audience sur les chaînes historiques plus complexe.",
+      "commentary_date": "2026-07-28"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La soirée du 28 juillet voit La 1 reprendre la tête du prime avec son programme historique « Viaje al Centro de la Tele », rassemblant 975 000 téléspectateurs et 10.4% de part de marché. Ce score est toutefois inférieur à celui obtenu par la même case la semaine précédente, qui dépassait les 1.2 million de spectateurs. La compétition reste vive avec Telecinco et Antena 3 qui se tiennent au coude-à-coude, affichant respectivement 9.9% et 9.6% de PDM. « El Hormiguero », habituellement un puissant lead-in pour Antena 3, se positionne cette fois en troisième position du top 5, reflétant une fragmentation des audiences en cette période estivale. La performance de La 1 sur la semaine, avec cinq soirées en tête, confirme une stratégie axée sur des formats fédérateurs pour la chaîne publique.",
       "commentary_date": "2026-07-28"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-28",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-29T10:02:08.886631Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Le divertissement \"Temptation Island\" sur Canale 5 s'affirme comme un leader incontesté du prime time, atteignant 34.1% de part de marché ce 28 juillet, soit une légère progression par rapport à sa précédente diffusion le 27 juillet (34.0%). Cette performance consolide la domination de la chaîne du groupe Mediaset sur la case horaire, puisqu'elle a occupé la première place du podium cinq soirs sur sept durant la semaine écoulée. Face à cette hégémonie, Rai 1, leader historique, peine à rivaliser, sa fiction \"Il Giovane Montalbano\" rassemblant 1.82 million de téléspectateurs, un score inférieur à celui de la veille (2.02 millions). La stratégie de Canale 5 semble axée sur des formats de téléréalité et de divertissement à fort potentiel d'audience, captant un public large et fidèle. La compétition entre les deux principaux diffuseurs nationaux se joue ainsi sur des positionnements éditoriaux distincts, le divertissement de masse contre la fiction plus classique.",
       "commentary_date": "2026-07-28"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-28",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "OPJ \\ NID DE VIPERES - PARTIE 1",
-          "program_fr": null,
-          "viewers": 2620000,
-          "share": 17.8,
-          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/O.P.J."
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE TRANSPORTEUR II",
-          "program_fr": null,
-          "viewers": 2041000,
-          "share": 14.4,
-          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Transporteur_2"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "RENDEZ-VOUS EN TERRE INCONNUE \\ AVEC KENDJI GIRAC CHEZ LES TURKANA",
-          "program_fr": null,
-          "viewers": 1701000,
-          "share": 12.8,
-          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Rendez-vous_en_terre_inconnue"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "LA MARIEE ETAIT EN NOIR",
-          "program_fr": null,
-          "viewers": 1230000,
-          "share": 8.5,
-          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_mari%C3%A9e_%C3%A9tait_en_noir_%28film%29"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "ZONE INTERDITE \\ TURQUIE, ALBANIE, MONTENEGRO : ENQUETE SUR",
-          "program_fr": null,
-          "viewers": 961000,
-          "share": 6.8,
-          "source_url": "https://www.ozap.com/actu/audiences-jason-statham-sur-tf1-et-kendji-girac-sur-france-2-ont-ils-reussi-a-rivaliser-avec-opj-et-thierry-godard-sur-france-3/656229",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Albanie"
-        }
-      ],
-      "scraped_at": "2026-07-29T10:01:57.606644Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction unitaire de France 3, « OPJ \\ NID DE VIPERES - PARTIE 1 », s'impose en tête des audiences ce mardi 28 juillet avec 2,62 millions de téléspectateurs et 17,8% de part d'audience. Ce résultat la positionne légèrement en retrait par rapport à la performance de la même case la semaine précédente, avec « CASSANDRE \\ LA FORET ROUGE » qui avait rassemblé 2,59 millions de curieux pour 19,0% de PDA. TF1, avec « LE TRANSPORTEUR II », se classe deuxième, un score stable par rapport à la diffusion du film « SUPERCONDRIAQUE » le samedi précédent. France 2, avec « RENDEZ-VOUS EN TERRE INCONNUE », enregistre un chiffre inférieur aux meilleures performances de la semaine, notamment les 2,48 millions de « TROPIQUES CRIMINELS : FORT-DE-FRANCE » le jeudi. La stratégie de France 3 de privilégier la fiction française en première partie de soirée semble porter ses fruits, lui permettant de devancer TF1 à plusieurs reprises sur la semaine écoulée. La fragmentation du paysage audiovisuel, accentuée par la TNT, rend la conquête et la fidélisation de l'audience sur les chaînes historiques plus complexe.",
-      "commentary_date": "2026-07-28"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-29T10:02:08.886631Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-29T10:02:08.888677Z"
+  "last_updated": "2026-07-29T10:02:24.823112Z"
 }
