@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Aktenzeichen++XY...+Ungel%C3%B6st%22+Sat.1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aktenzeichen_XY..._ungel%C3%B6st"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 4,
@@ -59,10 +59,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Saat+des+Terrors%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Crispin_Glover"
         }
       ],
-      "scraped_at": "2026-07-30T11:17:40.688093Z",
+      "scraped_at": "2026-07-30T12:15:05.351917Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 29 juillet voit le journal de Das Erste (\"Tagesschau\") s'installer en tête avec 4,42 millions de téléspectateurs, représentant 26.0% de part de marché. Cette performance, bien que solide, est inférieure à son record de la semaine précédente (6,29 M le 26 juillet). Sat.1 parvient à se hisser en deuxième position avec \"Aktenzeichen XY... Ungelöst\" (4,05 M, 22.5% PDM), démontrant la capacité des chaînes privées à capter une audience significative face aux diffuseurs publics. Le \"heute journal\" de ZDF occupe la troisième place, enregistrant 3,34 millions de téléspectateurs et 19.9% de PDM, un chiffre en hausse par rapport aux deux soirées précédentes. La compétition pour le leadership du prime time reste intense, avec Das Erste dominant la semaine mais des programmes comme celui de Sat.1 montrant une capacité à rivaliser ponctuellement.",
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-07-30T11:17:42.666336Z",
+      "scraped_at": "2026-07-30T12:15:07.290849Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne La 1 confirme sa position de leader sur le prime time de la semaine, s'adjugeant quatre des six soirées analysées. Ce mardi 29 juillet, son programme d'archives « Viaje al Centro de la Tele » réunit 1,21 million de téléspectateurs, soit 12,8% de part de marché, enregistrant une légère érosion par rapport aux précédentes diffusions de ce format (1,30 M et 13,8% le 23 juillet). Telecinco et Antena 3 se disputent la seconde place, avec respectivement 9,3% et 8,4% de PDM pour leurs divertissements « First Dates:Summer » et « El Hormiguero ». L'access de ce dernier, habituellement un puissant levier pour Antena 3, peine à propulser le programme de prime, contrairement aux semaines précédentes où il dépassait les 800 000 curieux. La stratégie de La 1 semble porter ses fruits en s'appuyant sur des formats familiaux, tandis que le duopole historique Telecinco/Antena 3 alterne entre programmes de flux et déclinaisons de ses formats phares.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-30T11:17:47.964502Z",
+      "scraped_at": "2026-07-30T12:15:12.365470Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Trappola+di+cristallo%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-30T11:17:46.778814Z",
+      "scraped_at": "2026-07-30T12:15:11.061138Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 29 juillet 2026, Canale 5 s'affirme en tête du prime time avec \"Temptation Island\", attirant 4,25 millions de téléspectateurs et captant 35,5% de part de marché. Ce résultat marque une légère érosion par rapport aux deux soirées précédentes où le même programme avait dépassé les 4,3 millions de fidèles, mais confirme sa domination sur la case. Rai 1, avec le film \"Gifted\", se positionne en seconde place avec 1,61 million de téléspectateurs, un score en retrait par rapport à la moyenne de ses programmes de prime time sur la semaine écoulée. La chaîne publique tente de se différencier en proposant une offre cinéma, tandis que Canale 5 capitalisait sur un divertissement de flux, stratégie qui semble porter ses fruits dans ce contexte de duopole. Italia 1 et Rete 4 ferment la marche, témoignant d'une fragmentation des audiences au profit du leader du divertissement.",
@@ -316,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Nus_et_culott%C3%A9s"
         }
       ],
-      "scraped_at": "2026-07-30T11:17:33.242856Z",
+      "scraped_at": "2026-07-30T12:14:56.221104Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 reprend la tête des audiences du prime time ce 29 juillet avec la fiction « CODE ROUGE \\ EPISODE PILOTE », qui réunit 2,60 millions de téléspectateurs et 17,8% de part d'audience. La chaîne publique devance TF1 et sa fiction « LA TRES TRES GRANDE CLASSE » (2,24 M, 16.7%), marquant une lutte directe pour la première place, habituellement disputée. Cette performance de France 2 contraste avec la soirée du 28 juillet où France 3 dominait avec « OPJ \\ NID DE VIPERES - PARTIE 1 » (2,62 M, 17.8%). La stratégie de France 2 de programmer une fiction en ce jour de semaine semble porter ses fruits, bien que la semaine ait été majoritairement dominée par France 3. M6 et France 3, avec des programmes de divertissement et d'information, se positionnent plus loin derrière, captant respectivement 8,9% de part d'audience.",
       "commentary_date": "2026-07-29"
     }
   },
-  "last_updated": "2026-07-30T11:17:47.966627Z"
+  "last_updated": "2026-07-30T12:15:12.367550Z"
 }
