@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Saat+des+Terrors%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-30T09:55:35.543138Z",
+      "scraped_at": "2026-07-30T11:17:40.688093Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 29 juillet voit le journal de Das Erste (\"Tagesschau\") s'installer en tête avec 4,42 millions de téléspectateurs, représentant 26.0% de part de marché. Cette performance, bien que solide, est inférieure à son record de la semaine précédente (6,29 M le 26 juillet). Sat.1 parvient à se hisser en deuxième position avec \"Aktenzeichen XY... Ungelöst\" (4,05 M, 22.5% PDM), démontrant la capacité des chaînes privées à capter une audience significative face aux diffuseurs publics. Le \"heute journal\" de ZDF occupe la troisième place, enregistrant 3,34 millions de téléspectateurs et 19.9% de PDM, un chiffre en hausse par rapport aux deux soirées précédentes. La compétition pour le leadership du prime time reste intense, avec Das Erste dominant la semaine mais des programmes comme celui de Sat.1 montrant une capacité à rivaliser ponctuellement.",
@@ -75,12 +75,78 @@
       "date": "2026-07-29",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-07-30T09:55:36.167637Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
-      "commentary": "La soirée du 28 juillet voit La 1 reprendre la tête du prime avec son programme historique « Viaje al Centro de la Tele », rassemblant 975 000 téléspectateurs et 10.4% de part de marché. Ce score est toutefois inférieur à celui obtenu par la même case la semaine précédente, qui dépassait les 1.2 million de spectateurs. La compétition reste vive avec Telecinco et Antena 3 qui se tiennent au coude-à-coude, affichant respectivement 9.9% et 9.6% de PDM. « El Hormiguero », habituellement un puissant lead-in pour Antena 3, se positionne cette fois en troisième position du top 5, reflétant une fragmentation des audiences en cette période estivale. La performance de La 1 sur la semaine, avec cinq soirées en tête, confirme une stratégie axée sur des formats fédérateurs pour la chaîne publique.",
-      "commentary_date": "2026-07-28"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Viaje al Centro de la Tele (70 Artistas de los 70)",
+          "program_fr": null,
+          "viewers": 1214000,
+          "share": 12.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Artistas+de+los+70%29%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates:Summer",
+          "program_fr": null,
+          "viewers": 871000,
+          "share": 9.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-julio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero 20 Años Juntos (los Chunguitos)",
+          "program_fr": null,
+          "viewers": 800000,
+          "share": 8.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-julio-de-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28los+Chunguitos%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Viajeros Cuatro (Costa del Sol)",
+          "program_fr": null,
+          "viewers": 639000,
+          "share": 6.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Costa+del+Sol%29%22+Cuatro+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 558000,
+          "share": 5.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-julio-de-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        }
+      ],
+      "scraped_at": "2026-07-30T11:17:42.666336Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La chaîne La 1 confirme sa position de leader sur le prime time de la semaine, s'adjugeant quatre des six soirées analysées. Ce mardi 29 juillet, son programme d'archives « Viaje al Centro de la Tele » réunit 1,21 million de téléspectateurs, soit 12,8% de part de marché, enregistrant une légère érosion par rapport aux précédentes diffusions de ce format (1,30 M et 13,8% le 23 juillet). Telecinco et Antena 3 se disputent la seconde place, avec respectivement 9,3% et 8,4% de PDM pour leurs divertissements « First Dates:Summer » et « El Hormiguero ». L'access de ce dernier, habituellement un puissant levier pour Antena 3, peine à propulser le programme de prime, contrairement aux semaines précédentes où il dépassait les 800 000 curieux. La stratégie de La 1 semble porter ses fruits en s'appuyant sur des formats familiaux, tandis que le duopole historique Telecinco/Antena 3 alterne entre programmes de flux et déclinaisons de ses formats phares.",
+      "commentary_date": "2026-07-29"
     },
     "NL": {
       "country_code": "NL",
@@ -90,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-30T09:55:39.807017Z",
+      "scraped_at": "2026-07-30T11:17:47.964502Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -115,7 +181,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-29-luglio-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Temptation_Island"
+          "wikipedia_url": "https://www.google.com/search?q=%22Temptation+Island%22+Canale+5+ratings"
         },
         {
           "rank": 2,
@@ -170,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Trappola+di+cristallo%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-07-30T09:55:38.768821Z",
+      "scraped_at": "2026-07-30T11:17:46.778814Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 29 juillet 2026, Canale 5 s'affirme en tête du prime time avec \"Temptation Island\", attirant 4,25 millions de téléspectateurs et captant 35,5% de part de marché. Ce résultat marque une légère érosion par rapport aux deux soirées précédentes où le même programme avait dépassé les 4,3 millions de fidèles, mais confirme sa domination sur la case. Rai 1, avec le film \"Gifted\", se positionne en seconde place avec 1,61 million de téléspectateurs, un score en retrait par rapport à la moyenne de ses programmes de prime time sur la semaine écoulée. La chaîne publique tente de se différencier en proposant une offre cinéma, tandis que Canale 5 capitalisait sur un divertissement de flux, stratégie qui semble porter ses fruits dans ce contexte de duopole. Italia 1 et Rete 4 ferment la marche, témoignant d'une fragmentation des audiences au profit du leader du divertissement.",
@@ -221,7 +287,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/J%27irai_dormir_chez_vous"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Julien_Courbet"
         },
         {
           "rank": 4,
@@ -250,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Nus_et_culott%C3%A9s"
         }
       ],
-      "scraped_at": "2026-07-30T09:55:31.380512Z",
+      "scraped_at": "2026-07-30T11:17:33.242856Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 reprend la tête des audiences du prime time ce 29 juillet avec la fiction « CODE ROUGE \\ EPISODE PILOTE », qui réunit 2,60 millions de téléspectateurs et 17,8% de part d'audience. La chaîne publique devance TF1 et sa fiction « LA TRES TRES GRANDE CLASSE » (2,24 M, 16.7%), marquant une lutte directe pour la première place, habituellement disputée. Cette performance de France 2 contraste avec la soirée du 28 juillet où France 3 dominait avec « OPJ \\ NID DE VIPERES - PARTIE 1 » (2,62 M, 17.8%). La stratégie de France 2 de programmer une fiction en ce jour de semaine semble porter ses fruits, bien que la semaine ait été majoritairement dominée par France 3. M6 et France 3, avec des programmes de divertissement et d'information, se positionnent plus loin derrière, captant respectivement 8,9% de part d'audience.",
       "commentary_date": "2026-07-29"
     }
   },
-  "last_updated": "2026-07-30T09:55:39.808874Z"
+  "last_updated": "2026-07-30T11:17:47.966627Z"
 }
