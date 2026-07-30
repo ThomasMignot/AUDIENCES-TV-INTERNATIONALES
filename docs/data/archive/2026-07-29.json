@@ -1,6 +1,86 @@
 {
   "date": "2026-07-29",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-07-29",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CODE ROUGE \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 2601000,
+          "share": 17.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_1_de_Mentalist"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LA TRES TRES GRANDE CLASSE",
+          "program_fr": null,
+          "viewers": 2241000,
+          "share": 16.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Tr%C3%A8s_Tr%C3%A8s_Grande_Classe"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "J'EN CONNAIS UN RAYON",
+          "program_fr": null,
+          "viewers": 1304000,
+          "share": 8.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/J%27irai_dormir_chez_vous"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "SECRETS D'HISTOIRE \\ ROBIN DES BOIS: LE PRINCE DES VOLEURS",
+          "program_fr": null,
+          "viewers": 1200000,
+          "share": 8.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_18_de_Secrets_d%27histoire"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "NUS ET CULOTTES \\ OBJECTIF MONT-SAINT-MICHEL",
+          "program_fr": null,
+          "viewers": 511000,
+          "share": 3.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nus_et_culott%C3%A9s"
+        }
+      ],
+      "scraped_at": "2026-07-30T09:55:31.380512Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 reprend la tête des audiences du prime time ce 29 juillet avec la fiction « CODE ROUGE \\ EPISODE PILOTE », qui réunit 2,60 millions de téléspectateurs et 17,8% de part d'audience. La chaîne publique devance TF1 et sa fiction « LA TRES TRES GRANDE CLASSE » (2,24 M, 16.7%), marquant une lutte directe pour la première place, habituellement disputée. Cette performance de France 2 contraste avec la soirée du 28 juillet où France 3 dominait avec « OPJ \\ NID DE VIPERES - PARTIE 1 » (2,62 M, 17.8%). La stratégie de France 2 de programmer une fiction en ce jour de semaine semble porter ses fruits, bien que la semaine ait été majoritairement dominée par France 3. M6 et France 3, avec des programmes de divertissement et d'information, se positionnent plus loin derrière, captant respectivement 8,9% de part d'audience.",
+      "commentary_date": "2026-07-29"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -82,20 +162,6 @@
       "commentary": "La soirée du 28 juillet voit La 1 reprendre la tête du prime avec son programme historique « Viaje al Centro de la Tele », rassemblant 975 000 téléspectateurs et 10.4% de part de marché. Ce score est toutefois inférieur à celui obtenu par la même case la semaine précédente, qui dépassait les 1.2 million de spectateurs. La compétition reste vive avec Telecinco et Antena 3 qui se tiennent au coude-à-coude, affichant respectivement 9.9% et 9.6% de PDM. « El Hormiguero », habituellement un puissant lead-in pour Antena 3, se positionne cette fois en troisième position du top 5, reflétant une fragmentation des audiences en cette période estivale. La performance de La 1 sur la semaine, avec cinq soirées en tête, confirme une stratégie axée sur des formats fédérateurs pour la chaîne publique.",
       "commentary_date": "2026-07-28"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-07-29",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-07-30T09:55:39.807017Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -176,86 +242,20 @@
       "commentary": "Sur la soirée du 29 juillet 2026, Canale 5 s'affirme en tête du prime time avec \"Temptation Island\", attirant 4,25 millions de téléspectateurs et captant 35,5% de part de marché. Ce résultat marque une légère érosion par rapport aux deux soirées précédentes où le même programme avait dépassé les 4,3 millions de fidèles, mais confirme sa domination sur la case. Rai 1, avec le film \"Gifted\", se positionne en seconde place avec 1,61 million de téléspectateurs, un score en retrait par rapport à la moyenne de ses programmes de prime time sur la semaine écoulée. La chaîne publique tente de se différencier en proposant une offre cinéma, tandis que Canale 5 capitalisait sur un divertissement de flux, stratégie qui semble porter ses fruits dans ce contexte de duopole. Italia 1 et Rete 4 ferment la marche, témoignant d'une fragmentation des audiences au profit du leader du divertissement.",
       "commentary_date": "2026-07-29"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-07-29",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CODE ROUGE \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 2601000,
-          "share": 17.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_1_de_Mentalist"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LA TRES TRES GRANDE CLASSE",
-          "program_fr": null,
-          "viewers": 2241000,
-          "share": 16.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Tr%C3%A8s_Tr%C3%A8s_Grande_Classe"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "J'EN CONNAIS UN RAYON",
-          "program_fr": null,
-          "viewers": 1304000,
-          "share": 8.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/J%27irai_dormir_chez_vous"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "SECRETS D'HISTOIRE \\ ROBIN DES BOIS: LE PRINCE DES VOLEURS",
-          "program_fr": null,
-          "viewers": 1200000,
-          "share": 8.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_18_de_Secrets_d%27histoire"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "NUS ET CULOTTES \\ OBJECTIF MONT-SAINT-MICHEL",
-          "program_fr": null,
-          "viewers": 511000,
-          "share": 3.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-code-rouge-la-nouvelle-mini-serie-haletante-de-france-2/656245",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nus_et_culott%C3%A9s"
-        }
-      ],
-      "scraped_at": "2026-07-30T09:55:31.380512Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 reprend la tête des audiences du prime time ce 29 juillet avec la fiction « CODE ROUGE \\ EPISODE PILOTE », qui réunit 2,60 millions de téléspectateurs et 17,8% de part d'audience. La chaîne publique devance TF1 et sa fiction « LA TRES TRES GRANDE CLASSE » (2,24 M, 16.7%), marquant une lutte directe pour la première place, habituellement disputée. Cette performance de France 2 contraste avec la soirée du 28 juillet où France 3 dominait avec « OPJ \\ NID DE VIPERES - PARTIE 1 » (2,62 M, 17.8%). La stratégie de France 2 de programmer une fiction en ce jour de semaine semble porter ses fruits, bien que la semaine ait été majoritairement dominée par France 3. M6 et France 3, avec des programmes de divertissement et d'information, se positionnent plus loin derrière, captant respectivement 8,9% de part d'audience.",
-      "commentary_date": "2026-07-29"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-07-30T09:55:39.807017Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-07-30T09:55:39.808874Z"
+  "last_updated": "2026-07-30T09:55:48.035312Z"
 }
