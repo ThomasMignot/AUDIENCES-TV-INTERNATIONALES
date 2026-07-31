@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Jagdsaison%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-07-31T15:01:28.217265Z",
+      "scraped_at": "2026-07-31T16:12:46.711822Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 30 juillet 2026 en Allemagne voit une fiction de la chaîne non spécifiée s'imposer avec 4,82 millions de téléspectateurs et 27,2% de part de marché, devançant le journal de Das Erste (4,05 M, 22,5%). Cette performance contraste avec la domination habituelle de Das Erste sur la semaine, qui a mené le classement 6 soirs sur 7, atteignant un pic le 26 juillet avec 6,29 millions de curieux pour son journal. La chaîne publique ZDF, bien que présente dans le top 4 avec son \"heute journal\" (2,55 M, 15,7%), se maintient en retrait par rapport à ses performances des jours précédents. La présence de Sat.1 le 29 juillet avec \"Aktenzeichen XY... Ungelöst\" (4,05 M, 22,5%) souligne la capacité des chaînes privées à challenger les acteurs historiques, même si elles restent en retrait sur la semaine. La stratégie de Das Erste semble axée sur le maintien de son audience informationnelle comme lead-in, tandis que les succès ponctuels de fictions sur d'autres chaînes indiquent une fragmentation de l'offre en prime time.",
@@ -75,76 +75,10 @@
       "date": "2026-07-30",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele (70 Artistas de los 70(2 Parte))",
-          "program_fr": null,
-          "viewers": 1113000,
-          "share": 12.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-julio-de-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Artistas+de+los+70%282+Parte%29%29%22+La+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates:Summer Resort",
-          "program_fr": null,
-          "viewers": 872000,
-          "share": 9.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-julio-de-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero 20 Años Juntos (Luis Fonsi)",
-          "program_fr": null,
-          "viewers": 801000,
-          "share": 8.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-julio-de-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Luis+Fonsi%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
-          "program_fr": null,
-          "viewers": 603000,
-          "share": 6.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-julio-de-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Viajeros Cuatro (Costa Asturiana)",
-          "program_fr": null,
-          "viewers": 599000,
-          "share": 6.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-julio-de-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Costa+Asturiana%29%22+Cuatro+ratings"
-        }
-      ],
-      "scraped_at": "2026-07-31T15:01:29.337608Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-07-31T16:12:47.521813Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La chaîne publique La 1 confirme sa position de leader du prime time sur la semaine écoulée, remportant quatre soirées sur six. Ce jeudi 30 juillet, son magazine « Viaje al Centro de la Tele » réunit 1,11 million de téléspectateurs, soit 12,3% de part de marché, une performance en retrait par rapport à son précédent score de 1,21 million (12,8%) le 29 juillet. Telecinco, avec « First Dates:Summer Resort », se maintient en deuxième position avec 872 000 fidèles (9,7%), un chiffre stable par rapport à la veille. Antena 3, dont « El Hormiguero » est un pilier de l'access, voit son divertissement « El Hormiguero 20 Años Juntos » attirer 801 000 personnes (8,7%), un score en légère baisse par rapport aux 867 000 enregistrés le 27 juillet. La 2 et Cuatro ferment ce classement du top 5, témoignant d'une fragmentation des audiences en fin de semaine. La stratégie de La 1 semble porter ses fruits, en s'appuyant sur des formats fédérateurs et en bénéficiant d'un contexte de consommation télévisuelle estivale.",
       "commentary_date": "2026-07-30"
     },
@@ -156,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-07-31T15:01:32.725520Z",
+      "scraped_at": "2026-07-31T16:12:52.857161Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -236,7 +170,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22In+Onda+Prima+Serata%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-07-31T15:01:31.625967Z",
+      "scraped_at": "2026-07-31T16:12:51.670689Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement « Battiti Live » sur Canale 5 s'impose en tête des audiences du prime time du 30 juillet, rassemblant 1,92 million de téléspectateurs et 19,8% de part de marché. Ce score se situe très proche de celui enregistré la semaine précédente (1,93 M, 18.7%), confirmant la solidité de ce rendez-vous dans la case du jeudi soir. Rai 1, avec la série « Doc », se positionne en deuxième place avec 1,18 million de curieux (12,3% PDM), un chiffre en retrait par rapport aux 1,38 million de téléspectateurs du 23 juillet. La concurrence entre les deux principales chaînes généralistes semble s'articuler autour de formats de divertissement face à la fiction, bien que « Battiti Live » ait bénéficié d'une audience significativement plus élevée que les programmes de Rai 1 sur la période analysée. Les chaînes de la TNT comme Rai 2 et Italia 1 se partagent les audiences plus faibles avec leurs offres de fictions étrangères.",
@@ -316,12 +250,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Christophe_Lemoine"
         }
       ],
-      "scraped_at": "2026-07-31T15:01:23.507479Z",
+      "scraped_at": "2026-07-31T16:12:38.752696Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction française de France 3, « Tom et Lola : Cap ou pas cap », s'impose en tête des audiences du prime time avec 2,31 millions de téléspectateurs et 16,0% de part d'audience. Ce résultat maintient la position dominante de la chaîne publique sur la case du jeudi soir, confirmant la tendance observée sur les sept derniers jours où France 3 a occupé la première place à trois reprises. La contre-programmation de TF1 avec le film américain « Thor : Love and Thunder » n'a pas suffi à déloger la fiction nationale, attirant 1,69 million de personnes (13,4% PDM). France 5, avec son magazine de voyage, confirme également sa capacité à fédérer un public fidèle, se classant troisième avec 1,57 million de curieux et 10,8% de part de marché. Le positionnement de France 3 sur un format fictionné, apparemment porteur, contraste avec les stratégies des deux principales chaînes privées qui alternent films et divertissements.",
       "commentary_date": "2026-07-30"
     }
   },
-  "last_updated": "2026-07-31T15:01:32.727643Z"
+  "last_updated": "2026-07-31T16:12:52.879480Z"
 }
