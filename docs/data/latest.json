@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Michael+Mittermeier+Live%21+Flashback%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_dragons_in_film_and_television"
         },
         {
           "rank": 5,
@@ -72,10 +72,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Lokalzeit+live%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/WDR_Fernsehen"
         }
       ],
-      "scraped_at": "2026-08-02T10:47:39.746600Z",
+      "scraped_at": "2026-08-02T11:45:03.179436Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du samedi 1er août voit le retour de ZDF en tête du classement avec la fiction \"Wilsberg - Todsicherer Tipp\", qui rassemble 4,54 millions de téléspectateurs et 27,2% de part de marché. Ce score est inférieur à celui du \"Tagesschau\" de Das Erste la veille (3,79 M, 22,7%), mais supérieur à celui du \"Tagesschau\" du 28 juillet (3,72 M, 21,5%). La chaîne publique ARD, bien que seconde avec son journal d'information, confirme sa domination sur la semaine, ayant occupé la première place du podium cinq soirs sur sept. La fiction \"Stralsund - Der lange Schatten\" se positionne en troisième place, témoignant de la préférence du public pour ce genre en semaine. Le relatif faible score des programmes sur les chaînes privées suggère une stratégie de contre-programmation moins efficace ce soir-là face aux offres des diffuseurs publics.",
@@ -85,81 +85,81 @@
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [
         {
           "rank": 1,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Atrapa un Millon",
           "program_fr": null,
-          "viewers": 985000,
-          "share": 13.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-31-de-julio-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "viewers": 597000,
+          "share": 8.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-1-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Million_Pound_Drop"
         },
         {
           "rank": 2,
           "channel": "La 1",
           "channel_color": "red",
-          "program": "Viaje al Centro de la Tele:la Noche Tematica (Temazos Eternos)",
+          "program": "Plan de C1ne (Shall We Dance?(¿Bailamos?))",
           "program_fr": null,
-          "viewers": 830000,
-          "share": 10.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-31-de-julio-2026/",
+          "viewers": 577000,
+          "share": 7.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-1-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Plan+de+C1ne+%28Shall+We+Dance%3F%28%C2%BFBailamos%3F%29%29%22+La+1+ratings"
         },
         {
           "rank": 3,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Peliculon (los Buenos Modales)",
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "El Blockbuster (Spider-Man:No Way Home)",
           "program_fr": null,
-          "viewers": 789000,
-          "share": 9.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-31-de-julio-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Peliculon+%28los+Buenos+Modales%29%22+Antena+3+ratings"
+          "viewers": 485000,
+          "share": 7.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-1-de-agosto-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Spider-Man%22+Cuatro+ratings"
         },
         {
           "rank": 4,
           "channel": "Telecinco",
           "channel_color": "blue",
-          "program": "¡De Viernes!",
+          "program": "Hay una Cosa Que Te Quiero Decir",
           "program_fr": null,
-          "viewers": 570000,
-          "share": 9.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-31-de-julio-2026/",
+          "viewers": 473000,
+          "share": 8.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-1-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Hay+una+Cosa+Que+Te+Quiero+Decir%22+Telecinco+ratings"
         },
         {
           "rank": 5,
           "channel": "La 2",
           "channel_color": "gray",
-          "program": "Cifras y Letras",
+          "program": "Malas Lenguas Noche",
           "program_fr": null,
-          "viewers": 503000,
-          "share": 6.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-31-de-julio-2026/",
+          "viewers": 457000,
+          "share": 7.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-1-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Malas+Lenguas+Noche%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-02T10:47:40.770189Z",
+      "scraped_at": "2026-08-02T11:45:05.195464Z",
       "status": "ok",
       "error": null,
-      "commentary": "Sur la soirée du 31 juillet, Cuatro s'impose en tête du prime avec « Horizonte », attirant 985 000 téléspectateurs et 13.5% de part de marché, une performance inhabituelle dans le contexte du duopole historique Antena 3 / Telecinco. La chaîne publique La 1, leader du prime sur la semaine écoulée avec quatre soirées en tête, se classe deuxième avec « Viaje al Centro de la Tele » (830 k, 10.3%). Antena 3, dont l'access « El Hormiguero » structure habituellement sa stratégie, peine à convertir ce lead-in en audience sur son offre cinéma « El Peliculon », qui réalise 789 000 téléspectateurs (9.7%). Telecinco, avec « ¡De Viernes! », enregistre 570 000 téléspectateurs (9.2%), une audience inférieure à ses performances de la semaine précédente où le programme atteignait 758 000 téléspectateurs le 24 juillet. La diffusion d'un magazine d'information sur Cuatro démontre une possible diversification des attentes du public en cette période estivale.",
-      "commentary_date": "2026-07-31"
+      "commentary": "Ce 1er août, la soirée espagnole voit Antena 3 reprendre la tête du prime time avec « Atrapa un Millon » et ses 8.2% de part de marché, devançant de peu La 1 et sa programmation cinéma. Cette performance contraste avec la domination de La 1 sur les six soirées précédentes, où la chaîne publique s'est imposée à quatre reprises, notamment avec des scores supérieurs à 1 million de téléspectateurs. La fragmentation des audiences se confirme, avec quatre chaînes dans le Top 5 affichant des PDM comprises entre 7.2% et 8.2%. La fiction de Cuatro, « El Blockbuster », réalise une performance notable pour la chaîne, se plaçant devant Telecinco. L'access prime time, structurant les grilles, n'est pas explicitement mesuré ici mais reste un enjeu clé dans la stratégie des grands diffuseurs.",
+      "commentary_date": "2026-08-01"
     },
     "NL": {
       "country_code": "NL",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-02T10:47:44.966519Z",
+      "scraped_at": "2026-08-02T11:45:09.609608Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-1-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ciao_Darwin"
         },
         {
           "rank": 2,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Jurassic+Park+III%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-08-02T10:47:43.786678Z",
+      "scraped_at": "2026-08-02T11:45:08.533824Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 1er août, Canale 5 s'affirme à nouveau en tête du prime time italien avec \"Ciao Darwin\" et 18.5% de part de marché. La chaîne du groupe Mediaset, qui a mené six soirées sur sept la semaine précédente, confirme sa stratégie de programmes de divertissement populaire face à la concurrence de la Rai. Rai 1, leader historique, se positionne en deuxième place avec \"Sogno e Son Desto\" (10.8% PDM), un score en recul par rapport aux programmes musicaux ou aux séries diffusés en fin de semaine dernière. La lutte pour la troisième position reste disputée, Rete 4 et Rai 3 se distinguant avec des scores respectifs de 7.8% et 6.2% de PDM. La fragmentation des audiences se confirme, avec Italia 1 et son offre cinématographique attirant 5.3% du public.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-08-02T10:47:36.930060Z",
+      "scraped_at": "2026-08-02T11:44:58.260566Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 reprend la tête du prime time ce 31 juillet avec la fiction \"SIMON COLEMAN - DERNIERE DANSE\", qui réunit 2,16 millions de téléspectateurs et réalise 17.2% de part de marché. Cette performance place la chaîne publique devant TF1 et sa série \"CAMPING PARADIS : SALSA AU PARADIS\", qui enregistre 1,85 million de fidèles (14.3% PDM). La fiction de France 2 se positionne ainsi légèrement en deçà des meilleurs scores de la semaine précédente, comme \"CODE ROUGE \\ EPISODE PILOTE\" (2,60 M, 17.8% le 29 juillet), mais confirme la domination de la case fiction sur la soirée. France 3, avec son programme de variétés dédié à Serge Lama, se classe troisième avec 1,01 million de curieux (8.5% PDM), un score inférieur à ses fictions des jours précédents. M6 et Arte ferment la marche des cinq premières chaînes, témoignant de la difficulté des chaînes privées et thématiques à rivaliser avec les offres des généralistes lors des soirées estivales.",
       "commentary_date": "2026-07-31"
     }
   },
-  "last_updated": "2026-08-02T10:47:44.968407Z"
+  "last_updated": "2026-08-02T11:45:09.612244Z"
 }
