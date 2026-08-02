@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-01",
+  "countries": {
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-08-01",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "Wilsberg - Todsicherer Tipp",
+          "program_fr": null,
+          "viewers": 4538000,
+          "share": 27.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Wilsberg"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 3706000,
+          "share": 24.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Stralsund - Der lange Schatten",
+          "program_fr": null,
+          "viewers": 2151000,
+          "share": 15.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Stralsund%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Michael Mittermeier Live! Flashback",
+          "program_fr": null,
+          "viewers": 906000,
+          "share": 5.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Michael+Mittermeier+Live%21+Flashback%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Lokalzeit live - Kölner Lichter 20",
+          "program_fr": null,
+          "viewers": 818000,
+          "share": 6.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Lokalzeit+live%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-02T09:27:21.953493Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le prime time du samedi 1er août voit le retour de ZDF en tête du classement avec la fiction \"Wilsberg - Todsicherer Tipp\", qui rassemble 4,54 millions de téléspectateurs et 27,2% de part de marché. Ce score est inférieur à celui du \"Tagesschau\" de Das Erste la veille (3,79 M, 22,7%), mais supérieur à celui du \"Tagesschau\" du 28 juillet (3,72 M, 21,5%). La chaîne publique ARD, bien que seconde avec son journal d'information, confirme sa domination sur la semaine, ayant occupé la première place du podium cinq soirs sur sept. La fiction \"Stralsund - Der lange Schatten\" se positionne en troisième place, témoignant de la préférence du public pour ce genre en semaine. Le relatif faible score des programmes sur les chaînes privées suggère une stratégie de contre-programmation moins efficace ce soir-là face aux offres des diffuseurs publics.",
+      "commentary_date": "2026-08-01"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-01",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Ciao Darwin",
+          "program_fr": null,
+          "viewers": 1487000,
+          "share": 18.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-1-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Sogno e Son Desto",
+          "program_fr": null,
+          "viewers": 1098000,
+          "share": 10.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-1-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Sogno+e+Son+Desto%22+Rai+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "La Promessa",
+          "program_fr": null,
+          "viewers": 831000,
+          "share": 7.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-1-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Per un pugno di dollari",
+          "program_fr": null,
+          "viewers": 691000,
+          "share": 6.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-1-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Per+un+pugno+di+dollari%22+Rai+3+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Jurassic Park III",
+          "program_fr": null,
+          "viewers": 610000,
+          "share": 5.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-1-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Jurassic+Park+III%22+Italia+1+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-02T09:27:26.885466Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 1er août, Canale 5 s'affirme à nouveau en tête du prime time italien avec \"Ciao Darwin\" et 18.5% de part de marché. La chaîne du groupe Mediaset, qui a mené six soirées sur sept la semaine précédente, confirme sa stratégie de programmes de divertissement populaire face à la concurrence de la Rai. Rai 1, leader historique, se positionne en deuxième place avec \"Sogno e Son Desto\" (10.8% PDM), un score en recul par rapport aux programmes musicaux ou aux séries diffusés en fin de semaine dernière. La lutte pour la troisième position reste disputée, Rete 4 et Rai 3 se distinguant avec des scores respectifs de 7.8% et 6.2% de PDM. La fragmentation des audiences se confirme, avec Italia 1 et son offre cinématographique attirant 5.3% du public.",
+      "commentary_date": "2026-08-01"
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-08-01",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-02T09:27:27.964081Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
+    }
+  },
+  "last_updated": "2026-08-02T09:27:36.000081Z"
+}
