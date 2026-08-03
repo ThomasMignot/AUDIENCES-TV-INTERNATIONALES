@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Yo_Mama"
         }
       ],
-      "scraped_at": "2026-08-03T16:41:02.613321Z",
+      "scraped_at": "2026-08-03T18:00:53.645336Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 2 août avec la diffusion de \"Madame Web\", attirant 2,43 millions de téléspectateurs, soit 18,5% de part d'audience. Ce score place la chaîne privée en tête face à M6, qui réunit 1,56 million de personnes avec son magazine \"Capital\" consacré aux îles, et France 3, qui enregistre 1,49 million de curieux pour sa fiction \"Enquête à haut risque\". Le film de TF1 réalise une performance légèrement supérieure à celle de \"Supercondriaque\" le 26 juillet (2,09 M, 14,4%), mais reste en deçà des meilleurs scores de France 2 cette semaine. La fiction de France 2, \"Yo Mama\", se retrouve en cinquième position avec 979 000 téléspectateurs, un chiffre en retrait par rapport aux précédents films diffusés dans cette case. La fragmentation de l'audience, accentuée par la TNT, continue de peser sur la performance des chaînes historiques.",
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Kaum+zu+glauben%21+Folge+3%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sonata_in_C_major_for_piano_four-hands%2C_D_812_%28Schubert%29"
         }
       ],
-      "scraped_at": "2026-08-03T16:41:05.131666Z",
+      "scraped_at": "2026-08-03T18:00:59.623012Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », retrouve sa place de leader du prime time ce dimanche 2 août, captant 4,53 millions de téléspectateurs (25.0% de PDM). Cette performance, bien que solide, marque un recul par rapport aux 6,29 millions enregistrés le 26 juillet, où il avait atteint 29.8% de PDM. Le ZDF, avec son offre d'information « heute journal / Wetter », se positionne en deuxième place avec 3,66 millions de téléspectateurs (20.1% PDM), un score en légère hausse par rapport à la semaine précédente. La case du lundi 29 juillet avait révélé une tension concurrentielle notable entre Das Erste et Sat.1, ce dernier proposant « Aktenzeichen XY... Ungelöst » devant 4,05 millions de personnes. La présence de deux programmes de fiction sur des chaînes non publiques dans le top 5 de ce dimanche indique une stratégie de contre-programmation visant à capter une audience plus diversifiée, notamment avec « Surface - Das versunkene Dorf Folge » qui rassemble 1,64 million de téléspectateurs.",
@@ -168,10 +168,76 @@
       "date": "2026-08-02",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-08-03T16:41:05.732972Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Grand Prix:Presenta",
+          "program_fr": null,
+          "viewers": 785000,
+          "share": 8.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Prix"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates:Summer",
+          "program_fr": null,
+          "viewers": 769000,
+          "share": 8.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+        },
+        {
+          "rank": 3,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Una Nueva Vida",
+          "program_fr": null,
+          "viewers": 732000,
+          "share": 9.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-agosto-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ver%C3%B3nica_Echegui"
+        },
+        {
+          "rank": 4,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Taquillazo (Villaviciosa de al Lado)",
+          "program_fr": null,
+          "viewers": 621000,
+          "share": 6.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Taquillazo+%28Villaviciosa+de+al+Lado%29%22+La+Sexta+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Cuarto Milenio",
+          "program_fr": null,
+          "viewers": 420000,
+          "share": 5.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-agosto-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cuarto_milenio"
+        }
+      ],
+      "scraped_at": "2026-08-03T18:01:02.900590Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La soirée du 2 août voit La 1 se hisser en tête du prime avec 8.7% de part de marché, devançant de peu Telecinco et Antena 3. Ce positionnement de la chaîne publique, bien qu'inférieur aux pics observés la semaine précédente avec \"Grand Prix\" (16.0% le 27 juillet), confirme sa capacité à disputer le leadership sur la durée. La fiction d'Antena 3, \"Una Nueva Vida\", réalise une performance solide avec 9.6% de PDM, tandis que le divertissement de Telecinco, \"First Dates:Summer\", peine à reproduire les scores de ses précédentes diffusions. Sur la semaine écoulée, La 1 s'est imposée comme leader du prime, signe d'une stratégie de programmation efficace sur cette case horaire. La Sexta et Cuatro, avec des offres plus ciblées, se positionnent en retrait sur ce créneau.",
       "commentary_date": "2026-08-02"
     },
@@ -194,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-2-agosto-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Racconto+di+una+Notte%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cristiana_Capotondi"
         },
         {
           "rank": 2,
@@ -207,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-2-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Noos%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Noos"
         },
         {
           "rank": 3,
@@ -249,7 +315,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Troy"
         }
       ],
-      "scraped_at": "2026-08-03T16:41:08.898342Z",
+      "scraped_at": "2026-08-03T18:01:10.014769Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 2 août, Canale 5 s'adjuge la tête du prime time avec la fiction « Racconto di una Notte » et 17.5% de part de marché. La chaîne du groupe Mediaset confirme sa domination hebdomadaire, ayant occupé la première place six soirs sur sept. Rai 1, avec « Noos », enregistre 12.2% de PDM, un score inférieur à la moyenne de ses programmes de fiction diffusés la semaine précédente, comme « Il Giovane Montalbano » ou « Gifted ». L'écart entre Canale 5 et Rai 1 s'établit à 5.3 points, une différence moindre que celle observée lors des succès de « Temptation Island » en milieu de semaine. Sur Italia 1, « Il Verdetto » réalise 8.2% de PDM, se positionnant devant Rete 4 et ses 6.4% pour le film « Troy ». La compétition entre les chaînes du duopole public et privé se joue ainsi sur des offres de divertissement et de fiction contrastées pour capter des segments d'audience distincts.",
@@ -263,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-03T16:41:09.924874Z",
+      "scraped_at": "2026-08-03T18:01:11.147417Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-03T16:41:09.926354Z"
+  "last_updated": "2026-08-03T18:01:11.147975Z"
 }
