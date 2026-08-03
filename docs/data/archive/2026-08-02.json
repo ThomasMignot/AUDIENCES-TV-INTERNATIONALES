@@ -1,6 +1,86 @@
 {
   "date": "2026-08-02",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-02",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MADAME WEB",
+          "program_fr": null,
+          "viewers": 2431000,
+          "share": 18.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Madame_Web_(Marvel)"
+        },
+        {
+          "rank": 2,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAPITAL \\ OLERON, RE, BELLE-ILE : LA BATAILLE DES ILES",
+          "program_fr": null,
+          "viewers": 1556000,
+          "share": 11.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_R%C3%A9"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ENQUETE A HAUT RISQUE",
+          "program_fr": null,
+          "viewers": 1486000,
+          "share": 10.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAte_%C3%A0_haut_risque"
+        },
+        {
+          "rank": 4,
+          "channel": "W9",
+          "channel_color": "pink",
+          "program": "LE PACHA",
+          "program_fr": null,
+          "viewers": 1293000,
+          "share": 9.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Pacha"
+        },
+        {
+          "rank": 5,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "YO MAMA",
+          "program_fr": null,
+          "viewers": 979000,
+          "share": 7.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Yo_Mama"
+        }
+      ],
+      "scraped_at": "2026-08-03T10:52:48.144639Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 2 août avec la diffusion de \"Madame Web\", attirant 2,43 millions de téléspectateurs, soit 18,5% de part d'audience. Ce score place la chaîne privée en tête face à M6, qui réunit 1,56 million de personnes avec son magazine \"Capital\" consacré aux îles, et France 3, qui enregistre 1,49 million de curieux pour sa fiction \"Enquête à haut risque\". Le film de TF1 réalise une performance légèrement supérieure à celle de \"Supercondriaque\" le 26 juillet (2,09 M, 14,4%), mais reste en deçà des meilleurs scores de France 2 cette semaine. La fiction de France 2, \"Yo Mama\", se retrouve en cinquième position avec 979 000 téléspectateurs, un chiffre en retrait par rapport aux précédents films diffusés dans cette case. La fragmentation de l'audience, accentuée par la TNT, continue de peser sur la performance des chaînes historiques.",
+      "commentary_date": "2026-08-02"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La soirée du 2 août voit La 1 se hisser en tête du prime avec 8.7% de part de marché, devançant de peu Telecinco et Antena 3. Ce positionnement de la chaîne publique, bien qu'inférieur aux pics observés la semaine précédente avec \"Grand Prix\" (16.0% le 27 juillet), confirme sa capacité à disputer le leadership sur la durée. La fiction d'Antena 3, \"Una Nueva Vida\", réalise une performance solide avec 9.6% de PDM, tandis que le divertissement de Telecinco, \"First Dates:Summer\", peine à reproduire les scores de ses précédentes diffusions. Sur la semaine écoulée, La 1 s'est imposée comme leader du prime, signe d'une stratégie de programmation efficace sur cette case horaire. La Sexta et Cuatro, avec des offres plus ciblées, se positionnent en retrait sur ce créneau.",
       "commentary_date": "2026-08-02"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-02",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-03T10:53:00.510022Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Ce 2 août, Canale 5 s'adjuge la tête du prime time avec la fiction « Racconto di una Notte » et 17.5% de part de marché. La chaîne du groupe Mediaset confirme sa domination hebdomadaire, ayant occupé la première place six soirs sur sept. Rai 1, avec « Noos », enregistre 12.2% de PDM, un score inférieur à la moyenne de ses programmes de fiction diffusés la semaine précédente, comme « Il Giovane Montalbano » ou « Gifted ». L'écart entre Canale 5 et Rai 1 s'établit à 5.3 points, une différence moindre que celle observée lors des succès de « Temptation Island » en milieu de semaine. Sur Italia 1, « Il Verdetto » réalise 8.2% de PDM, se positionnant devant Rete 4 et ses 6.4% pour le film « Troy ». La compétition entre les chaînes du duopole public et privé se joue ainsi sur des offres de divertissement et de fiction contrastées pour capter des segments d'audience distincts.",
       "commentary_date": "2026-08-02"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-02",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MADAME WEB",
-          "program_fr": null,
-          "viewers": 2431000,
-          "share": 18.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Madame_Web_(Marvel)"
-        },
-        {
-          "rank": 2,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAPITAL \\ OLERON, RE, BELLE-ILE : LA BATAILLE DES ILES",
-          "program_fr": null,
-          "viewers": 1556000,
-          "share": 11.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_R%C3%A9"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ENQUETE A HAUT RISQUE",
-          "program_fr": null,
-          "viewers": 1486000,
-          "share": 10.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAte_%C3%A0_haut_risque"
-        },
-        {
-          "rank": 4,
-          "channel": "W9",
-          "channel_color": "pink",
-          "program": "LE PACHA",
-          "program_fr": null,
-          "viewers": 1293000,
-          "share": 9.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Pacha"
-        },
-        {
-          "rank": 5,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "YO MAMA",
-          "program_fr": null,
-          "viewers": 979000,
-          "share": 7.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-film-inedit-entre-madame-web-sur-tf1-et-yo-mama-sur-france-2-a-pris-la-tete-des-audiences/656208",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Yo_Mama"
-        }
-      ],
-      "scraped_at": "2026-08-03T10:52:48.144639Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 reprend la tête des audiences du prime time ce dimanche 2 août avec la diffusion de \"Madame Web\", attirant 2,43 millions de téléspectateurs, soit 18,5% de part d'audience. Ce score place la chaîne privée en tête face à M6, qui réunit 1,56 million de personnes avec son magazine \"Capital\" consacré aux îles, et France 3, qui enregistre 1,49 million de curieux pour sa fiction \"Enquête à haut risque\". Le film de TF1 réalise une performance légèrement supérieure à celle de \"Supercondriaque\" le 26 juillet (2,09 M, 14,4%), mais reste en deçà des meilleurs scores de France 2 cette semaine. La fiction de France 2, \"Yo Mama\", se retrouve en cinquième position avec 979 000 téléspectateurs, un chiffre en retrait par rapport aux précédents films diffusés dans cette case. La fragmentation de l'audience, accentuée par la TNT, continue de peser sur la performance des chaînes historiques.",
-      "commentary_date": "2026-08-02"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-03T10:53:00.510022Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-03T10:53:00.512010Z"
+  "last_updated": "2026-08-03T10:53:11.511749Z"
 }
