@@ -1,6 +1,86 @@
 {
   "date": "2026-08-04",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-04",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "OPJ \\ HAUTE SURVEILLANCE - PARTIE 1",
+          "program_fr": null,
+          "viewers": 2475000,
+          "share": 17.5,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/O.P.J."
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE TRANSPORTEUR 3",
+          "program_fr": null,
+          "viewers": 2017000,
+          "share": 15.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Transporteur_3"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LILY ET LILY THEATRE",
+          "program_fr": null,
+          "viewers": 1306000,
+          "share": 9.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Lily_James"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "ZONE INTERDITE \\ PLAGES, FETES ET TRADITIONS",
+          "program_fr": null,
+          "viewers": 1148000,
+          "share": 8.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Touquet-Paris-Plage"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "LA GIFLE",
+          "program_fr": null,
+          "viewers": 875000,
+          "share": 6.4,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Gifle"
+        }
+      ],
+      "scraped_at": "2026-08-05T10:02:06.002884Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'affirme comme leader du prime time cette semaine, avec la fiction \"OPJ \\ HAUTE SURVEILLANCE - PARTIE 1\" qui rassemble 2,48 millions de téléspectateurs et 17,5% de part d'audience. Cette performance permet à la chaîne publique de devancer TF1 et sa proposition cinématographique \"LE TRANSPORTEUR 3\" (2,02 M, 15,8% PDM). La stratégie de France 3 semble porter ses fruits, en capitalisant sur des séries françaises établies dans sa case du mardi soir. Comparé à la semaine précédente, où elle avait déjà mené deux soirées, la chaîne confirme sa capacité à fidéliser un public sur ce créneau. France 2, avec \"LILY ET LILY THEATRE\", se positionne en troisième position, mais sous la barre des 10% de part d'audience, une performance en retrait par rapport à ses résultats de fin juillet. M6, avec \"ZONE INTERDITE\", enregistre 1,15 million de téléspectateurs, une audience modeste pour ce magazine d'information.",
+      "commentary_date": "2026-08-04"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La 1 s'affirme comme leader du prime time sur la semaine, remportant quatre des six soirées analysées, une dynamique confirmée par les 991 000 téléspectateurs et 11.2% de PDM de son magazine « Viaje al Centro de la Tele » ce 4 août. Ce score, bien que inférieur aux 1.21 million de téléspectateurs du 29 juillet, maintient la chaîne publique en tête de la compétition face à Telecinco et Antena 3. Le divertissement « First Dates » de Telecinco se positionne en deuxième place avec 791 000 téléspectateurs (9.1% PDM), une audience stable par rapport aux semaines précédentes. Antena 3, avec sa fiction « En Tierra Lejana », atteint 710 000 téléspectateurs (10.6% PDM), bénéficiant de la puissance de son access « El Hormiguero » qui structure sa case horaire. La 2 et Cuatro ferment le classement, témoignant de la concentration des audiences sur les deux chaînes historiques du duopole et sur la chaîne publique.",
       "commentary_date": "2026-08-04"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-04",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-05T10:02:14.725922Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Canale 5 s'affirme comme leader du prime time sur la semaine écoulée, remportant cinq des sept soirées analysées. Le programme « Volevo un figlio maschio » enregistre 2,26 millions de téléspectateurs et 20,6% de part de marché, un score significativement inférieur aux 4,41 millions et 34,1% de « Temptation Island » le 28 juillet, mais supérieur aux 1,92 million de « Battiti Live » le 30 juillet. Rai 1, avec « Un matrimonio di troppo » et 1,09 million de téléspectateurs (9,5% PDM), peine à rivaliser avec la proposition de Canale 5, se plaçant derrière la fiction du 28 juillet (1,82 M) et le film du 29 juillet (1,61 M). La chaîne publique se positionne plus favorablement sur la durée avec la diffusion des Championnats d'Europe de natation sur Rai 2, qui rassemble 999 000 curieux (6,9% PDM), une performance en légère hausse par rapport aux 887 000 du 3 août. La stratégie de Canale 5 semble axée sur le divertissement familial et la fiction italienne, tandis que Rai 1 alterne films et séries, et que Rai 2 capitalise sur les événements sportifs.",
       "commentary_date": "2026-08-04"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-04",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "OPJ \\ HAUTE SURVEILLANCE - PARTIE 1",
-          "program_fr": null,
-          "viewers": 2475000,
-          "share": 17.5,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/O.P.J."
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE TRANSPORTEUR 3",
-          "program_fr": null,
-          "viewers": 2017000,
-          "share": 15.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Transporteur_3"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LILY ET LILY THEATRE",
-          "program_fr": null,
-          "viewers": 1306000,
-          "share": 9.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Lily_James"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "ZONE INTERDITE \\ PLAGES, FETES ET TRADITIONS",
-          "program_fr": null,
-          "viewers": 1148000,
-          "share": 8.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Touquet-Paris-Plage"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "LA GIFLE",
-          "program_fr": null,
-          "viewers": 875000,
-          "share": 6.4,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-le-transporteur-iii-sur-tf1-a-t-il-battu-les-deux-nouveaux-episodes-de-la-serie-opj-de-france-3/656223",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Gifle"
-        }
-      ],
-      "scraped_at": "2026-08-05T10:02:06.002884Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'affirme comme leader du prime time cette semaine, avec la fiction \"OPJ \\ HAUTE SURVEILLANCE - PARTIE 1\" qui rassemble 2,48 millions de téléspectateurs et 17,5% de part d'audience. Cette performance permet à la chaîne publique de devancer TF1 et sa proposition cinématographique \"LE TRANSPORTEUR 3\" (2,02 M, 15,8% PDM). La stratégie de France 3 semble porter ses fruits, en capitalisant sur des séries françaises établies dans sa case du mardi soir. Comparé à la semaine précédente, où elle avait déjà mené deux soirées, la chaîne confirme sa capacité à fidéliser un public sur ce créneau. France 2, avec \"LILY ET LILY THEATRE\", se positionne en troisième position, mais sous la barre des 10% de part d'audience, une performance en retrait par rapport à ses résultats de fin juillet. M6, avec \"ZONE INTERDITE\", enregistre 1,15 million de téléspectateurs, une audience modeste pour ce magazine d'information.",
-      "commentary_date": "2026-08-04"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-05T10:02:14.725922Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-05T10:02:14.728530Z"
+  "last_updated": "2026-08-05T10:02:26.699929Z"
 }
