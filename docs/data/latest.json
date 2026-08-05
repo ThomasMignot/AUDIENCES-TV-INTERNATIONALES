@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Report+M%C3%BCnchen%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-05T11:26:48.357623Z",
+      "scraped_at": "2026-08-05T12:26:17.292461Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste se maintient en tête du prime time ce 4 août, attirant 3,45 millions de téléspectateurs, soit 19,0% de part de marché. Cette performance reste cependant inférieure à celles enregistrées lors des soirées précédentes de la semaine, où la chaîne publique dépassait régulièrement les 4 millions de fidèles, atteignant un pic à 4,42 millions le 29 juillet. L'absence de programmes forts des chaînes privées, comme le montre la présence de plusieurs \"autres chaînes\" dans le top 5, permet aux offres de service public de conserver une audience significative, bien que moindre. Le programme « Die Kanzlei Folge 71 » sur une chaîne non spécifiée, se positionne en deuxième place avec 2,74 millions de téléspectateurs, confirmant une certaine appétence pour les séries. Cette configuration du classement suggère une moindre mobilisation du public face aux offres habituelles, notamment par rapport aux soirées où des événements ou des séries à fort potentiel étaient diffusés.",
@@ -88,76 +88,10 @@
       "date": "2026-08-04",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele (70 Mujeres Imprescindibles Primera Parte)",
-          "program_fr": null,
-          "viewers": 991000,
-          "share": 11.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Mujeres+Imprescindibles+Primera+Parte%29%22+La+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 791000,
-          "share": 9.1,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-agosto-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "En Tierra Lejana",
-          "program_fr": null,
-          "viewers": 710000,
-          "share": 10.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-agosto-2026/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22En+Tierra+Lejana%22+Antena+3+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
-          "program_fr": null,
-          "viewers": 594000,
-          "share": 6.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Viajeros Cuatro (Ibiza)",
-          "program_fr": null,
-          "viewers": 495000,
-          "share": 5.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Ibiza%29%22+Cuatro+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-05T11:26:49.922785Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-08-05T12:26:17.890810Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La 1 s'affirme comme leader du prime time sur la semaine, remportant quatre des six soirées analysées, une dynamique confirmée par les 991 000 téléspectateurs et 11.2% de PDM de son magazine « Viaje al Centro de la Tele » ce 4 août. Ce score, bien que inférieur aux 1.21 million de téléspectateurs du 29 juillet, maintient la chaîne publique en tête de la compétition face à Telecinco et Antena 3. Le divertissement « First Dates » de Telecinco se positionne en deuxième place avec 791 000 téléspectateurs (9.1% PDM), une audience stable par rapport aux semaines précédentes. Antena 3, avec sa fiction « En Tierra Lejana », atteint 710 000 téléspectateurs (10.6% PDM), bénéficiant de la puissance de son access « El Hormiguero » qui structure sa case horaire. La 2 et Cuatro ferment le classement, témoignant de la concentration des audiences sur les deux chaînes historiques du duopole et sur la chaîne publique.",
       "commentary_date": "2026-08-04"
     },
@@ -169,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-05T11:26:54.371330Z",
+      "scraped_at": "2026-08-05T12:26:21.555326Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-4-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Volevo+un+figlio+maschio%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Volevo_un_figlio_maschio"
         },
         {
           "rank": 2,
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22In+Onda+Prima+Serata%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-08-05T11:26:53.267885Z",
+      "scraped_at": "2026-08-05T12:26:20.497953Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 s'affirme comme leader du prime time sur la semaine écoulée, remportant cinq des sept soirées analysées. Le programme « Volevo un figlio maschio » enregistre 2,26 millions de téléspectateurs et 20,6% de part de marché, un score significativement inférieur aux 4,41 millions et 34,1% de « Temptation Island » le 28 juillet, mais supérieur aux 1,92 million de « Battiti Live » le 30 juillet. Rai 1, avec « Un matrimonio di troppo » et 1,09 million de téléspectateurs (9,5% PDM), peine à rivaliser avec la proposition de Canale 5, se plaçant derrière la fiction du 28 juillet (1,82 M) et le film du 29 juillet (1,61 M). La chaîne publique se positionne plus favorablement sur la durée avec la diffusion des Championnats d'Europe de natation sur Rai 2, qui rassemble 999 000 curieux (6,9% PDM), une performance en légère hausse par rapport aux 887 000 du 3 août. La stratégie de Canale 5 semble axée sur le divertissement familial et la fiction italienne, tandis que Rai 1 alterne films et séries, et que Rai 2 capitalise sur les événements sportifs.",
@@ -329,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Gifle"
         }
       ],
-      "scraped_at": "2026-08-05T11:26:42.767112Z",
+      "scraped_at": "2026-08-05T12:26:10.448120Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'affirme comme leader du prime time cette semaine, avec la fiction \"OPJ \\ HAUTE SURVEILLANCE - PARTIE 1\" qui rassemble 2,48 millions de téléspectateurs et 17,5% de part d'audience. Cette performance permet à la chaîne publique de devancer TF1 et sa proposition cinématographique \"LE TRANSPORTEUR 3\" (2,02 M, 15,8% PDM). La stratégie de France 3 semble porter ses fruits, en capitalisant sur des séries françaises établies dans sa case du mardi soir. Comparé à la semaine précédente, où elle avait déjà mené deux soirées, la chaîne confirme sa capacité à fidéliser un public sur ce créneau. France 2, avec \"LILY ET LILY THEATRE\", se positionne en troisième position, mais sous la barre des 10% de part d'audience, une performance en retrait par rapport à ses résultats de fin juillet. M6, avec \"ZONE INTERDITE\", enregistre 1,15 million de téléspectateurs, une audience modeste pour ce magazine d'information.",
       "commentary_date": "2026-08-04"
     }
   },
-  "last_updated": "2026-08-05T11:26:54.373031Z"
+  "last_updated": "2026-08-05T12:26:21.557480Z"
 }
