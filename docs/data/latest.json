@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Geliefert%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-06T10:03:53.079578Z",
+      "scraped_at": "2026-08-06T11:30:20.699463Z",
       "status": "partial",
       "error": null,
       "commentary": "La « Tagesschau » de Das Erste se maintient en tête des audiences du prime time allemand, rassemblant 4,07 millions de téléspectateurs et 22,7% de part de marché. Ce chiffre est cependant inférieur à celui enregistré la veille (3,45 M, 19,0%), mais supérieur à celui du 4 août (3,45 M, 19,0%). Le journal du ZDF, « heute journal », se positionne en seconde place avec 3,27 millions de fidèles (18,7% PDM), une performance stable par rapport aux jours précédents. La compétition pour la troisième place est plus serrée, avec une offre concurrente atteignant 3,24 millions de téléspectateurs (17,9% PDM), démontrant une fragmentation accrue au-delà des chaînes publiques historiques. La dominance de Das Erste sur la semaine, avec quatre soirées en tête, confirme sa position de leader sur ce créneau malgré une légère érosion des chiffres par rapport à certains pics observés lors des sept derniers jours.",
@@ -75,12 +75,78 @@
       "date": "2026-08-05",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-08-06T10:03:53.875724Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
-      "commentary": "La 1 s'affirme comme leader du prime time sur la semaine, remportant quatre des six soirées analysées, une dynamique confirmée par les 991 000 téléspectateurs et 11.2% de PDM de son magazine « Viaje al Centro de la Tele » ce 4 août. Ce score, bien que inférieur aux 1.21 million de téléspectateurs du 29 juillet, maintient la chaîne publique en tête de la compétition face à Telecinco et Antena 3. Le divertissement « First Dates » de Telecinco se positionne en deuxième place avec 791 000 téléspectateurs (9.1% PDM), une audience stable par rapport aux semaines précédentes. Antena 3, avec sa fiction « En Tierra Lejana », atteint 710 000 téléspectateurs (10.6% PDM), bénéficiant de la puissance de son access « El Hormiguero » qui structure sa case horaire. La 2 et Cuatro ferment le classement, témoignant de la concentration des audiences sur les deux chaînes historiques du duopole et sur la chaîne publique.",
-      "commentary_date": "2026-08-04"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Viaje al Centro de la Tele (70 Mujeres Imprescindibles Segunda Parte)",
+          "program_fr": null,
+          "viewers": 886000,
+          "share": 10.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Mujeres+Imprescindibles+Segunda+Parte%29%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 798000,
+          "share": 9.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero 20 Años Juntos (Hombres G)",
+          "program_fr": null,
+          "viewers": 672000,
+          "share": 7.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Hombres+G%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Viajeros Cuatro (Pontevedra)",
+          "program_fr": null,
+          "viewers": 631000,
+          "share": 7.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Pontevedra%29%22+Cuatro+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 596000,
+          "share": 7.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-06T11:30:22.492809Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La chaîne publique La 1 confirme sa position de leader sur le prime time espagnol, s'adjugeant cinq soirées au cours de la semaine écoulée. Le programme « Viaje al Centro de la Tele » enregistre ce 5 août 886 000 téléspectateurs et 10.2% de part de marché, un score en retrait par rapport à ses performances des jours précédents, notamment le 29 juillet où il atteignait 1.21 million de fidèles. La chaîne privée Telecinco maintient une présence solide avec son divertissement « First Dates », captant 798 000 téléspectateurs (9.3% PDM), un chiffre stable par rapport à la semaine précédente. Antena 3, avec « El Hormiguero », voit son divertissement attirant 672 000 personnes (7.8% PDM), un recul notable par rapport aux 800 000 spectateurs du 29 juillet, illustrant une certaine fragilité de sa case access. La concurrence s'observe donc entre La 1 et Telecinco pour la tête d'affiche, tandis qu'Antena 3 semble rencontrer des difficultés à maintenir l'élan de son programme phare.",
+      "commentary_date": "2026-08-05"
     },
     "NL": {
       "country_code": "NL",
@@ -90,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-06T10:04:00.040663Z",
+      "scraped_at": "2026-08-06T11:30:47.216948Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -170,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Radio2+Live%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-06T10:03:58.692510Z",
+      "scraped_at": "2026-08-06T11:30:26.316030Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 5 août voit Canale 5 s'imposer avec 1,41 million de téléspectateurs et 16,2% de part de marché pour le film « Oppenheimer », un score inférieur à ses précédents succès de la semaine. Rai 1, avec « Teo e Zodì – Un cammello per amico », réalise 1,52 million de curieux, mais une part d'audience plus faible de 13,3%, marquant un recul par rapport à ses films récents qui dépassaient les 1,6 million. La fiction d'Italia 1, « Chicago P.D. », se maintient autour de son score de la semaine précédente avec 918 000 individus et 8,0% de PDM. Cette soirée illustre la difficulté pour Rai 1 de fidéliser son audience face à l'offre cinéma de Canale 5, bien que la chaîne privée ait connu des pics plus élevés récemment, notamment le 4 août avec 2,26 millions de téléspectateurs. Les programmes de divertissement et de fiction de Canale 5 semblent capter une part significative de l'audience du prime, confirmant sa domination sur cinq des sept dernières soirées.",
@@ -250,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Charlotte_de_Mecklembourg-Strelitz"
         }
       ],
-      "scraped_at": "2026-08-06T10:03:45.729513Z",
+      "scraped_at": "2026-08-06T11:30:13.366603Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de TF1, « SIRENES », s'impose en tête des audiences du 5 août avec 17.8% de part de marché, dépassant la fiction de France 2, « CODE ROUGE », qui enregistre 11.3%. Cette performance de TF1 se situe en deçà de ses précédents films récents comme « MADAME WEB » (18.5%) ou « CAMPING PARADIS : LES BLEUS AU MAROC » (15.3%), mais reste solide dans une case horaire où la chaîne privée cherche à maintenir son leadership face au service public. La baisse de France 2 par rapport à la semaine précédente, où « CODE ROUGE » avait atteint 17.8%, suggère une possible fluctuation de l'attractivité de ses séries phares ou une efficacité de la contre-programmation. L'émission de divertissement de M6, « J'EN CONNAIS UN RAYON », peine à dépasser le seuil des 9% de part de marché, confirmant la difficulté des chaînes privées à rivaliser avec les offres fictionnelles des généralistes en milieu de semaine. Les chaînes de la TNT, absentes du top 5, continuent de fragmenter l'audience, rendant difficile l'obtention de scores significatifs pour les programmes hors des offres leader.",
       "commentary_date": "2026-08-05"
     }
   },
-  "last_updated": "2026-08-06T10:04:00.042450Z"
+  "last_updated": "2026-08-06T11:30:47.219223Z"
 }
