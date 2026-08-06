@@ -1,6 +1,86 @@
 {
   "date": "2026-08-05",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-05",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "SIRENES (ADELINE PICAULT)",
+          "program_fr": null,
+          "viewers": 2320000,
+          "share": 17.8,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alice_Pol"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CODE ROUGE",
+          "program_fr": null,
+          "viewers": 1615000,
+          "share": 11.3,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Code_rouge"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "J'EN CONNAIS UN RAYON",
+          "program_fr": null,
+          "viewers": 1239000,
+          "share": 8.7,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Caroline_Margeridon"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "AU BOUT C'EST LA MER",
+          "program_fr": null,
+          "viewers": 1086000,
+          "share": 7.6,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
+        },
+        {
+          "rank": 5,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "SECRETS D'HISTOIRE \\ LA FOLLE EPOPEE DE CHARLOTTE D'ANGLETERRE",
+          "program_fr": null,
+          "viewers": 955000,
+          "share": 7.4,
+          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Charlotte_de_Mecklembourg-Strelitz"
+        }
+      ],
+      "scraped_at": "2026-08-06T10:03:45.729513Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de TF1, « SIRENES », s'impose en tête des audiences du 5 août avec 17.8% de part de marché, dépassant la fiction de France 2, « CODE ROUGE », qui enregistre 11.3%. Cette performance de TF1 se situe en deçà de ses précédents films récents comme « MADAME WEB » (18.5%) ou « CAMPING PARADIS : LES BLEUS AU MAROC » (15.3%), mais reste solide dans une case horaire où la chaîne privée cherche à maintenir son leadership face au service public. La baisse de France 2 par rapport à la semaine précédente, où « CODE ROUGE » avait atteint 17.8%, suggère une possible fluctuation de l'attractivité de ses séries phares ou une efficacité de la contre-programmation. L'émission de divertissement de M6, « J'EN CONNAIS UN RAYON », peine à dépasser le seuil des 9% de part de marché, confirmant la difficulté des chaînes privées à rivaliser avec les offres fictionnelles des généralistes en milieu de semaine. Les chaînes de la TNT, absentes du top 5, continuent de fragmenter l'audience, rendant difficile l'obtention de scores significatifs pour les programmes hors des offres leader.",
+      "commentary_date": "2026-08-05"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -82,20 +162,6 @@
       "commentary": "La 1 s'affirme comme leader du prime time sur la semaine, remportant quatre des six soirées analysées, une dynamique confirmée par les 991 000 téléspectateurs et 11.2% de PDM de son magazine « Viaje al Centro de la Tele » ce 4 août. Ce score, bien que inférieur aux 1.21 million de téléspectateurs du 29 juillet, maintient la chaîne publique en tête de la compétition face à Telecinco et Antena 3. Le divertissement « First Dates » de Telecinco se positionne en deuxième place avec 791 000 téléspectateurs (9.1% PDM), une audience stable par rapport aux semaines précédentes. Antena 3, avec sa fiction « En Tierra Lejana », atteint 710 000 téléspectateurs (10.6% PDM), bénéficiant de la puissance de son access « El Hormiguero » qui structure sa case horaire. La 2 et Cuatro ferment le classement, témoignant de la concentration des audiences sur les deux chaînes historiques du duopole et sur la chaîne publique.",
       "commentary_date": "2026-08-04"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-05",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-06T10:04:00.040663Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -176,86 +242,20 @@
       "commentary": "Le prime time du 5 août voit Canale 5 s'imposer avec 1,41 million de téléspectateurs et 16,2% de part de marché pour le film « Oppenheimer », un score inférieur à ses précédents succès de la semaine. Rai 1, avec « Teo e Zodì – Un cammello per amico », réalise 1,52 million de curieux, mais une part d'audience plus faible de 13,3%, marquant un recul par rapport à ses films récents qui dépassaient les 1,6 million. La fiction d'Italia 1, « Chicago P.D. », se maintient autour de son score de la semaine précédente avec 918 000 individus et 8,0% de PDM. Cette soirée illustre la difficulté pour Rai 1 de fidéliser son audience face à l'offre cinéma de Canale 5, bien que la chaîne privée ait connu des pics plus élevés récemment, notamment le 4 août avec 2,26 millions de téléspectateurs. Les programmes de divertissement et de fiction de Canale 5 semblent capter une part significative de l'audience du prime, confirmant sa domination sur cinq des sept dernières soirées.",
       "commentary_date": "2026-08-05"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-05",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "SIRENES (ADELINE PICAULT)",
-          "program_fr": null,
-          "viewers": 2320000,
-          "share": 17.8,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Alice_Pol"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CODE ROUGE",
-          "program_fr": null,
-          "viewers": 1615000,
-          "share": 11.3,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Code_rouge"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "J'EN CONNAIS UN RAYON",
-          "program_fr": null,
-          "viewers": 1239000,
-          "share": 8.7,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Caroline_Margeridon"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "AU BOUT C'EST LA MER",
-          "program_fr": null,
-          "viewers": 1086000,
-          "share": 7.6,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
-        },
-        {
-          "rank": 5,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "SECRETS D'HISTOIRE \\ LA FOLLE EPOPEE DE CHARLOTTE D'ANGLETERRE",
-          "program_fr": null,
-          "viewers": 955000,
-          "share": 7.4,
-          "source_url": "https://www.ozap.com/actu/audiences-la-serie-code-rouge-sest-elle-achevee-sur-une-bonne-note-sur-france-2/656225",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Charlotte_de_Mecklembourg-Strelitz"
-        }
-      ],
-      "scraped_at": "2026-08-06T10:03:45.729513Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de TF1, « SIRENES », s'impose en tête des audiences du 5 août avec 17.8% de part de marché, dépassant la fiction de France 2, « CODE ROUGE », qui enregistre 11.3%. Cette performance de TF1 se situe en deçà de ses précédents films récents comme « MADAME WEB » (18.5%) ou « CAMPING PARADIS : LES BLEUS AU MAROC » (15.3%), mais reste solide dans une case horaire où la chaîne privée cherche à maintenir son leadership face au service public. La baisse de France 2 par rapport à la semaine précédente, où « CODE ROUGE » avait atteint 17.8%, suggère une possible fluctuation de l'attractivité de ses séries phares ou une efficacité de la contre-programmation. L'émission de divertissement de M6, « J'EN CONNAIS UN RAYON », peine à dépasser le seuil des 9% de part de marché, confirmant la difficulté des chaînes privées à rivaliser avec les offres fictionnelles des généralistes en milieu de semaine. Les chaînes de la TNT, absentes du top 5, continuent de fragmenter l'audience, rendant difficile l'obtention de scores significatifs pour les programmes hors des offres leader.",
-      "commentary_date": "2026-08-05"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-06T10:04:00.040663Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-06T10:04:00.042450Z"
+  "last_updated": "2026-08-06T10:04:09.080015Z"
 }
