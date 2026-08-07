@@ -1,6 +1,86 @@
 {
   "date": "2026-08-06",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-06",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "TOM ET LOLA \\ CHAUD FROID",
+          "program_fr": null,
+          "viewers": 2104000,
+          "share": 15.6,
+          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tom_et_Lola_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LAURENT GERRA, L'ANNIVERSAIRE EVENEMENT VARIETES",
+          "program_fr": null,
+          "viewers": 1745000,
+          "share": 13.9,
+          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Laurent_Gerra"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE JEU",
+          "program_fr": null,
+          "viewers": 1578000,
+          "share": 12.3,
+          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/LE"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "DES TRAINS PAS COMME LES AUTRES \\ MONTENEGRO",
+          "program_fr": null,
+          "viewers": 1576000,
+          "share": 11.7,
+          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAUCHEMAR EN CUISINE \\ SARLAT-LA-CANEDA",
+          "program_fr": null,
+          "viewers": 838000,
+          "share": 6.2,
+          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
+        }
+      ],
+      "scraped_at": "2026-08-07T08:32:30.016688Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'adjuge la première place des audiences ce 6 août avec sa fiction \"Tom et Lola \\ Chaud Froid\", attirant 2,10 millions de téléspectateurs, soit 15,6% de part de marché. Ce résultat est en retrait par rapport à la précédente diffusion de la série sur la même case, qui avait rassemblé 2,31 millions de personnes le 30 juillet. France 2, avec son divertissement \"Laurent Gerra, l'anniversaire événement variétés\", se positionne en deuxième position, enregistrant 1,75 million de téléspectateurs et 13,9% de PDA. La fiction de TF1, \"Le Jeu\", peine à décoller avec 1,58 million de téléspectateurs, tandis que le magazine de découverte de France 5, \"Des trains pas comme les autres\", réalise une performance similaire avec le même nombre de téléspectateurs. M6 ferme la marche de ce top 5 avec \"Cauchemar en cuisine\", ne captant que 838 000 curieux.",
+      "commentary_date": "2026-08-06"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "La soirée du 6 août voit La 1 s'imposer en tête du prime time avec 885 000 téléspectateurs (10.3% PDM) grâce à « Viaje al Centro de la Tele ». Ce score, bien que leader, marque une légère érosion par rapport aux 991 000 (11.2% PDM) enregistrés par le même magazine le 4 août. Telecinco et son divertissement « First Dates » occupent la seconde position avec 817 000 fidèles (9.7% PDM), un chiffre stable sur la semaine. Antena 3 voit son rendez-vous « El Hormiguero » atteindre 746 000 téléspectateurs (8.8% PDM), un résultat inférieur aux pics observés les 3 et 5 août. La 1 confirme ainsi sa domination sur la case du prime time, dominant cinq des sept soirées de la semaine écoulée. La performance de « Viaje al Centro de la Tele » illustre une stratégie de La 1 axée sur des formats populaires et nostalgiques pour capter une part significative de l'audience en fin de soirée.",
       "commentary_date": "2026-08-06"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-06",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-07T08:32:39.122533Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Sur la soirée du 6 août, Canale 5 s'adjuge la première place avec « Battiti Live Compilation » réunissant 1,52 million de téléspectateurs, soit 17,1% de part d'audience. Ce score place la chaîne privée en tête pour la quatrième fois sur les sept derniers jours, confirmant sa domination sur la case du prime time cette semaine. Rai 1, avec la série « Doc », se positionne en deuxième avec 1,24 million de fidèles (13,3% PDM), enregistrant une légère hausse par rapport à la moyenne de ses programmes de fiction diffusés durant la période étudiée. La fiction étrangère sur Italia 1, « Chicago Med », peine à dépasser les 751 000 spectateurs (5,9% PDM), une performance inférieure à celle de « Chicago Fire » ou « Chicago P.D. » précédemment diffusées. La lutte pour la deuxième place entre Rai 1 et Canale 5, bien que ce dernier soit le leader hebdomadaire, reste un axe de tension concurrentielle constant dans le paysage audiovisuel italien.",
       "commentary_date": "2026-08-06"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-06",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "TOM ET LOLA \\ CHAUD FROID",
-          "program_fr": null,
-          "viewers": 2104000,
-          "share": 15.6,
-          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tom_et_Lola_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LAURENT GERRA, L'ANNIVERSAIRE EVENEMENT VARIETES",
-          "program_fr": null,
-          "viewers": 1745000,
-          "share": 13.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Laurent_Gerra"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE JEU",
-          "program_fr": null,
-          "viewers": 1578000,
-          "share": 12.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/LE"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "DES TRAINS PAS COMME LES AUTRES \\ MONTENEGRO",
-          "program_fr": null,
-          "viewers": 1576000,
-          "share": 11.7,
-          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAUCHEMAR EN CUISINE \\ SARLAT-LA-CANEDA",
-          "program_fr": null,
-          "viewers": 838000,
-          "share": 6.2,
-          "source_url": "https://www.ozap.com/actu/audiences-le-numero-inedit-du-magazine-des-trains-pas-comme-les-autres-a-t-il-de-nouveau-explose-les-compteurs/656227",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
-        }
-      ],
-      "scraped_at": "2026-08-07T08:32:30.016688Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'adjuge la première place des audiences ce 6 août avec sa fiction \"Tom et Lola \\ Chaud Froid\", attirant 2,10 millions de téléspectateurs, soit 15,6% de part de marché. Ce résultat est en retrait par rapport à la précédente diffusion de la série sur la même case, qui avait rassemblé 2,31 millions de personnes le 30 juillet. France 2, avec son divertissement \"Laurent Gerra, l'anniversaire événement variétés\", se positionne en deuxième position, enregistrant 1,75 million de téléspectateurs et 13,9% de PDA. La fiction de TF1, \"Le Jeu\", peine à décoller avec 1,58 million de téléspectateurs, tandis que le magazine de découverte de France 5, \"Des trains pas comme les autres\", réalise une performance similaire avec le même nombre de téléspectateurs. M6 ferme la marche de ce top 5 avec \"Cauchemar en cuisine\", ne captant que 838 000 curieux.",
-      "commentary_date": "2026-08-06"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-07T08:32:39.122533Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-07T08:32:39.125180Z"
+  "last_updated": "2026-08-07T08:32:51.613538Z"
 }
