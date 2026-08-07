@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Nord+bei+Nordwest%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maximilian_Mundt"
         },
         {
           "rank": 3,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Sarah+Tacke%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-07T13:52:05.535086Z",
+      "scraped_at": "2026-08-07T15:09:32.902461Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 6 août voit le magazine d'information « Tagesschau » de Das Erste se hisser en tête avec 4,02 millions de téléspectateurs et 23,5% de part de marché, devançant de peu la fiction « Nord bei Nordwest » proposée par une autre chaîne, qui rassemble 4,00 millions de personnes (22,4% PDM). Cette performance place « Tagesschau » légèrement en retrait par rapport à son score de 4,53 millions enregistré le 2 août, mais confirme la position de leader de Das Erste sur la case du prime time, qui a occupé la première place trois fois durant la semaine écoulée. Le journal de ZDF, « heute journal », se positionne en troisième place avec 3,33 millions de téléspectateurs (19,6% PDM), une audience en hausse par rapport à ses scores des 3 et 4 août. La compétition entre les chaînes publiques et les chaînes privées pour capter les audiences du cœur de soirée se poursuit, avec une préférence marquée des téléspectateurs pour les programmes d'information et les fictions de qualité, particulièrement sur les publics plus âgés. La fiction « Nord bei Nordwest » illustre la capacité des chaînes à mobiliser un large public en dehors des productions habituelles des acteurs historiques.",
@@ -88,10 +88,76 @@
       "date": "2026-08-06",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-08-07T13:52:06.143863Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Viaje al Centro de la Tele (70 Momentos Miticos)",
+          "program_fr": null,
+          "viewers": 885000,
+          "share": 10.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Momentos+Miticos%29%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 817000,
+          "share": 9.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero 20 Años Juntos (Ferran Torres y Pedri)",
+          "program_fr": null,
+          "viewers": 746000,
+          "share": 8.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Ferran+Torres+y+Pedri%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 562000,
+          "share": 6.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Viajeros Cuatro (Alicante)",
+          "program_fr": null,
+          "viewers": 538000,
+          "share": 6.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Alicante%29%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-07T15:09:35.139313Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La soirée du 6 août voit La 1 s'imposer en tête du prime time avec 885 000 téléspectateurs (10.3% PDM) grâce à « Viaje al Centro de la Tele ». Ce score, bien que leader, marque une légère érosion par rapport aux 991 000 (11.2% PDM) enregistrés par le même magazine le 4 août. Telecinco et son divertissement « First Dates » occupent la seconde position avec 817 000 fidèles (9.7% PDM), un chiffre stable sur la semaine. Antena 3 voit son rendez-vous « El Hormiguero » atteindre 746 000 téléspectateurs (8.8% PDM), un résultat inférieur aux pics observés les 3 et 5 août. La 1 confirme ainsi sa domination sur la case du prime time, dominant cinq des sept soirées de la semaine écoulée. La performance de « Viaje al Centro de la Tele » illustre une stratégie de La 1 axée sur des formats populaires et nostalgiques pour capter une part significative de l'audience en fin de soirée.",
       "commentary_date": "2026-08-06"
     },
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-07T13:52:09.742054Z",
+      "scraped_at": "2026-08-07T15:09:40.803723Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+Commissario+Rex%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-07T13:52:08.699600Z",
+      "scraped_at": "2026-08-07T15:09:39.292815Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 6 août, Canale 5 s'adjuge la première place avec « Battiti Live Compilation » réunissant 1,52 million de téléspectateurs, soit 17,1% de part d'audience. Ce score place la chaîne privée en tête pour la quatrième fois sur les sept derniers jours, confirmant sa domination sur la case du prime time cette semaine. Rai 1, avec la série « Doc », se positionne en deuxième avec 1,24 million de fidèles (13,3% PDM), enregistrant une légère hausse par rapport à la moyenne de ses programmes de fiction diffusés durant la période étudiée. La fiction étrangère sur Italia 1, « Chicago Med », peine à dépasser les 751 000 spectateurs (5,9% PDM), une performance inférieure à celle de « Chicago Fire » ou « Chicago P.D. » précédemment diffusées. La lutte pour la deuxième place entre Rai 1 et Canale 5, bien que ce dernier soit le leader hebdomadaire, reste un axe de tension concurrentielle constant dans le paysage audiovisuel italien.",
@@ -263,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
         }
       ],
-      "scraped_at": "2026-08-07T13:52:00.278841Z",
+      "scraped_at": "2026-08-07T15:09:23.576677Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'adjuge la première place des audiences ce 6 août avec sa fiction \"Tom et Lola \\ Chaud Froid\", attirant 2,10 millions de téléspectateurs, soit 15,6% de part de marché. Ce résultat est en retrait par rapport à la précédente diffusion de la série sur la même case, qui avait rassemblé 2,31 millions de personnes le 30 juillet. France 2, avec son divertissement \"Laurent Gerra, l'anniversaire événement variétés\", se positionne en deuxième position, enregistrant 1,75 million de téléspectateurs et 13,9% de PDA. La fiction de TF1, \"Le Jeu\", peine à décoller avec 1,58 million de téléspectateurs, tandis que le magazine de découverte de France 5, \"Des trains pas comme les autres\", réalise une performance similaire avec le même nombre de téléspectateurs. M6 ferme la marche de ce top 5 avec \"Cauchemar en cuisine\", ne captant que 838 000 curieux.",
       "commentary_date": "2026-08-06"
     }
   },
-  "last_updated": "2026-08-07T13:52:09.744065Z"
+  "last_updated": "2026-08-07T15:09:40.805582Z"
 }
