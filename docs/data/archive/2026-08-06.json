@@ -219,7 +219,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
         },
         {
           "rank": 5,
@@ -232,10 +232,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Alicante%29%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/High-speed_rail_in_Spain"
         }
       ],
-      "scraped_at": "2026-08-07T17:03:26.094288Z",
+      "scraped_at": "2026-08-08T08:04:38.225756Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 6 août voit La 1 s'imposer en tête du prime time avec 885 000 téléspectateurs (10.3% PDM) grâce à « Viaje al Centro de la Tele ». Ce score, bien que leader, marque une légère érosion par rapport aux 991 000 (11.2% PDM) enregistrés par le même magazine le 4 août. Telecinco et son divertissement « First Dates » occupent la seconde position avec 817 000 fidèles (9.7% PDM), un chiffre stable sur la semaine. Antena 3 voit son rendez-vous « El Hormiguero » atteindre 746 000 téléspectateurs (8.8% PDM), un résultat inférieur aux pics observés les 3 et 5 août. La 1 confirme ainsi sa domination sur la case du prime time, dominant cinq des sept soirées de la semaine écoulée. La performance de « Viaje al Centro de la Tele » illustre une stratégie de La 1 axée sur des formats populaires et nostalgiques pour capter une part significative de l'audience en fin de soirée.",
@@ -336,5 +336,5 @@
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-07T17:03:30.759643Z"
+  "last_updated": "2026-08-08T08:04:38.227793Z"
 }
