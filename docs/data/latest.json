@@ -8,59 +8,125 @@
       "date": "2026-08-07",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-08-08T08:04:30.857366Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f4b52176ed0>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
-      "commentary": "La soirée du 6 août voit le magazine d'information « Tagesschau » de Das Erste se hisser en tête avec 4,02 millions de téléspectateurs et 23,5% de part de marché, devançant de peu la fiction « Nord bei Nordwest » proposée par une autre chaîne, qui rassemble 4,00 millions de personnes (22,4% PDM). Cette performance place « Tagesschau » légèrement en retrait par rapport à son score de 4,53 millions enregistré le 2 août, mais confirme la position de leader de Das Erste sur la case du prime time, qui a occupé la première place trois fois durant la semaine écoulée. Le journal de ZDF, « heute journal », se positionne en troisième place avec 3,33 millions de téléspectateurs (19,6% PDM), une audience en hausse par rapport à ses scores des 3 et 4 août. La compétition entre les chaînes publiques et les chaînes privées pour capter les audiences du cœur de soirée se poursuit, avec une préférence marquée des téléspectateurs pour les programmes d'information et les fictions de qualité, particulièrement sur les publics plus âgés. La fiction « Nord bei Nordwest » illustre la capacité des chaînes à mobiliser un large public en dehors des productions habituelles des acteurs historiques.",
-      "commentary_date": "2026-08-06"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 3599000,
+          "share": 22.0,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Die Chefin",
+          "program_fr": null,
+          "viewers": 3340000,
+          "share": 18.9,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+Chefin%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "SOKO Leipzig",
+          "program_fr": "SOKO Leipzig",
+          "viewers": 2934000,
+          "share": 16.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22SOKO+Leipzig%22+ZDF+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Heute fängt mein neues Leben an",
+          "program_fr": null,
+          "viewers": 2901000,
+          "share": 16.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Heute+f%C3%A4ngt+mein+neues+Leben+an%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Absolut Musik - Die besten Sänger",
+          "program_fr": null,
+          "viewers": 1072000,
+          "share": 7.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Absolut+Musik%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-08T09:50:20.565479Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le journal télévisé de Das Erste, \"Tagesschau\", maintient sa position de leader sur le prime time allemand avec 3,60 millions de téléspectateurs et 22,0% de part de marché ce vendredi 7 août. Ce chiffre est inférieur aux performances observées la semaine précédente, notamment le 6 août où \"Tagesschau\" avait rassemblé 4,02 millions de personnes (23,5% PDM), mais il surpasse les audiences du 4 août (3,45 M, 19,0%). La série \"Die Chefin\" diffusée sur une chaîne non spécifiée se positionne en deuxième place, démontrant une certaine fidélité de son public avec 3,34 millions de téléspectateurs, bien que légèrement en retrait par rapport à sa performance du 31 juillet (3,90 M, 22,6%). ZDF, avec \"SOKO Leipzig\", occupe la troisième position, confirmant une tendance structurelle où les chaînes publiques attirent un public plus âgé, tandis que les formats de divertissement sur d'autres chaînes peinent à atteindre des audiences significatives, comme le montre le score de 1,07 million pour \"Absolut Musik\". Cette configuration du prime time met en lumière la prédominance des offres d'information et de fiction des diffuseurs publics face à une concurrence plus fragmentée sur la soirée.",
+      "commentary_date": "2026-08-07"
     },
     "ES": {
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [
         {
           "rank": 1,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele (70 Momentos Miticos)",
-          "program_fr": null,
-          "viewers": 885000,
-          "share": 10.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Momentos+Miticos%29%22+La+1+ratings"
-        },
-        {
-          "rank": 2,
           "channel": "Telecinco",
           "channel_color": "blue",
           "program": "First Dates",
           "program_fr": "First Dates",
-          "viewers": 817000,
-          "share": 9.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "viewers": 796000,
+          "share": 10.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Peliculon (¡a Todo Tren!Destino Asturias)",
+          "program_fr": null,
+          "viewers": 757000,
+          "share": 10.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Peliculon+%28%C2%A1a+Todo+Tren%21Destino+Asturias%29%22+Antena+3+ratings"
         },
         {
           "rank": 3,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero 20 Años Juntos (Ferran Torres y Pedri)",
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Viaje al Centro de la Tele:la Noche Tematica (con Acento Extranjero)",
           "program_fr": null,
-          "viewers": 746000,
-          "share": 8.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Ferran+Torres+y+Pedri%29%22+Antena+3+ratings"
+          "viewers": 646000,
+          "share": 8.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
         },
         {
           "rank": 4,
@@ -68,32 +134,32 @@
           "channel_color": "gray",
           "program": "Cifras y Letras",
           "program_fr": null,
-          "viewers": 562000,
-          "share": 6.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "viewers": 435000,
+          "share": 5.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         },
         {
           "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Viajeros Cuatro (Alicante)",
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "Lasexta Columna (Atomic Franco,Proyecto Islero)",
           "program_fr": null,
-          "viewers": 538000,
-          "share": 6.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/",
+          "viewers": 361000,
+          "share": 4.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/High-speed_rail_in_Spain"
+          "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Atomic+Franco%2CProyecto+Islero%29%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-08-08T08:04:38.225756Z",
+      "scraped_at": "2026-08-08T09:50:22.156078Z",
       "status": "ok",
       "error": null,
-      "commentary": "La soirée du 6 août voit La 1 s'imposer en tête du prime time avec 885 000 téléspectateurs (10.3% PDM) grâce à « Viaje al Centro de la Tele ». Ce score, bien que leader, marque une légère érosion par rapport aux 991 000 (11.2% PDM) enregistrés par le même magazine le 4 août. Telecinco et son divertissement « First Dates » occupent la seconde position avec 817 000 fidèles (9.7% PDM), un chiffre stable sur la semaine. Antena 3 voit son rendez-vous « El Hormiguero » atteindre 746 000 téléspectateurs (8.8% PDM), un résultat inférieur aux pics observés les 3 et 5 août. La 1 confirme ainsi sa domination sur la case du prime time, dominant cinq des sept soirées de la semaine écoulée. La performance de « Viaje al Centro de la Tele » illustre une stratégie de La 1 axée sur des formats populaires et nostalgiques pour capter une part significative de l'audience en fin de soirée.",
-      "commentary_date": "2026-08-06"
+      "commentary": "Le classement du prime du 7 août voit Telecinco et Antena 3 se disputer la première place, avec des scores respectifs de 10.4% et 10.3% de part de marché. Ce duel confirme la dynamique du marché espagnol, où le duopole historique maintient sa prédominance malgré la remontée de La 1. Le divertissement \"First Dates\" sur Telecinco réalise une performance solide, atteignant 796 000 téléspectateurs. Comparé à la semaine précédente, La 1, qui dominait les soirées, se retrouve en troisième position ce jour-là avec \"Viaje al Centro de la Tele\", devancée par les deux chaînes privées. Cette fluctuation dans le trio de tête souligne la bataille pour le leadership, particulièrement en cette période estivale où les stratégies de grille s'adaptent. La stratégie de contre-programmation semble jouer un rôle, avec des formats variés proposant des films et des divertissements pour capter des segments d'audience distincts.",
+      "commentary_date": "2026-08-07"
     },
     "NL": {
       "country_code": "NL",
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-08T08:04:42.339609Z",
+      "scraped_at": "2026-08-08T09:50:27.754336Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -116,12 +182,78 @@
       "date": "2026-08-07",
       "source_name": "Davide Maggio · Ascolti TV",
       "source_url": "https://www.davidemaggio.it/ascolti-tv",
-      "entries": [],
-      "scraped_at": "2026-08-08T08:04:41.108767Z",
-      "status": "failed",
-      "error": "Aucune entrée extraite (ni bloc structuré, ni paragraphe)",
-      "commentary": "Sur la soirée du 6 août, Canale 5 s'adjuge la première place avec « Battiti Live Compilation » réunissant 1,52 million de téléspectateurs, soit 17,1% de part d'audience. Ce score place la chaîne privée en tête pour la quatrième fois sur les sept derniers jours, confirmant sa domination sur la case du prime time cette semaine. Rai 1, avec la série « Doc », se positionne en deuxième avec 1,24 million de fidèles (13,3% PDM), enregistrant une légère hausse par rapport à la moyenne de ses programmes de fiction diffusés durant la période étudiée. La fiction étrangère sur Italia 1, « Chicago Med », peine à dépasser les 751 000 spectateurs (5,9% PDM), une performance inférieure à celle de « Chicago Fire » ou « Chicago P.D. » précédemment diffusées. La lutte pour la deuxième place entre Rai 1 et Canale 5, bien que ce dernier soit le leader hebdomadaire, reste un axe de tension concurrentielle constant dans le paysage audiovisuel italien.",
-      "commentary_date": "2026-08-06"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Summer Hits Remix",
+          "program_fr": null,
+          "viewers": 1448000,
+          "share": 14.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-7-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Summer+Hits+Remix%22+Rai+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "L’Erede",
+          "program_fr": null,
+          "viewers": 1351000,
+          "share": 14.1,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-7-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Erede%22+Canale+5+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Chicago Fire",
+          "program_fr": "Chicago Fire",
+          "viewers": 918000,
+          "share": 8.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-7-agosto-2026",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Fire%22+Italia+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Itaca – Il ritorno",
+          "program_fr": null,
+          "viewers": 913000,
+          "share": 7.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-7-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Itaca%22+Rai+3+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "L’Ispettore Coliandro",
+          "program_fr": null,
+          "viewers": 644000,
+          "share": 5.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-7-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Ispettore+Coliandro%22+Rai+2+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-08T09:50:26.468745Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le prime time du 7 août 2026 voit Rai 1 reprendre la tête des audiences avec « Summer Hits Remix » et 1,45 million de téléspectateurs, une performance inférieure de 360 000 curieux par rapport à la même émission diffusée le 31 juillet. Canale 5, avec « L’Erede », se positionne en deuxième place avec 1,35 million de téléspectateurs, marquant une légère baisse par rapport à son score du 31 juillet, mais restant plus proche de ses chiffres récents. Cette soirée marque une interruption de la domination de Canale 5 qui avait remporté quatre des sept soirées précédentes, notamment grâce à des films ou des divertissements à fort potentiel. La fiction italienne « Chicago Fire » sur Italia 1 atteint 918 000 téléspectateurs, un chiffre stable par rapport à « Chicago P.D. » la semaine passée, mais qui confirme la difficulté des chaînes thématiques à rivaliser avec les généralistes sur ce créneau. La programmation de Rai 3 et Rai 2, avec respectivement 913 000 et 644 000 téléspectateurs, démontre une stratégie de niche moins rémunératrice en termes d'audience brute.",
+      "commentary_date": "2026-08-07"
     },
     "FR": {
       "country_code": "FR",
@@ -197,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Routes_de_l%27impossible"
         }
       ],
-      "scraped_at": "2026-08-08T08:03:53.475384Z",
+      "scraped_at": "2026-08-08T09:50:13.078176Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce samedi 7 août avec \"Capitaine Marleau\", réunissant 2,58 millions de téléspectateurs et 19,7% de part d'audience. Cette performance place la fiction de France 2 en tête, délogeant TF1 de sa position de leader habituelle sur les six soirées précédentes de la semaine. La chaîne privée, qui avait mené le classement trois fois sur sept jours, se contente ici de la deuxième place avec son magazine de société \"Detox ta maison\" (1,51 M, 11,5% PDM). M6, avec la diffusion du film d'animation \"Miraculous\", enregistre 1,01 million de curieux, soit 7,8% de PDA. La fragmentation de l'audience, accentuée par la TNT, rend ces chiffres significatifs dans un contexte de recherche de socles d'audience stables pour les chaînes historiques. La fiction policière semble ainsi conserver une attractivité particulière sur France 2, même en période estivale.",
       "commentary_date": "2026-08-07"
     }
   },
-  "last_updated": "2026-08-08T08:04:42.341113Z"
+  "last_updated": "2026-08-08T09:50:27.756399Z"
 }
