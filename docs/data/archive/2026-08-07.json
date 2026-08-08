@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Routes_de_l%27impossible"
         }
       ],
-      "scraped_at": "2026-08-08T14:50:18.596712Z",
+      "scraped_at": "2026-08-08T16:47:51.110405Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce samedi 7 août avec \"Capitaine Marleau\", réunissant 2,58 millions de téléspectateurs et 19,7% de part d'audience. Cette performance place la fiction de France 2 en tête, délogeant TF1 de sa position de leader habituelle sur les six soirées précédentes de la semaine. La chaîne privée, qui avait mené le classement trois fois sur sept jours, se contente ici de la deuxième place avec son magazine de société \"Detox ta maison\" (1,51 M, 11,5% PDM). M6, avec la diffusion du film d'animation \"Miraculous\", enregistre 1,01 million de curieux, soit 7,8% de PDA. La fragmentation de l'audience, accentuée par la TNT, rend ces chiffres significatifs dans un contexte de recherche de socles d'audience stables pour les chaînes historiques. La fiction policière semble ainsi conserver une attractivité particulière sur France 2, même en période estivale.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Absolut+Musik%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-08T14:50:23.565060Z",
+      "scraped_at": "2026-08-08T16:47:56.178393Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, \"Tagesschau\", maintient sa position de leader sur le prime time allemand avec 3,60 millions de téléspectateurs et 22,0% de part de marché ce vendredi 7 août. Ce chiffre est inférieur aux performances observées la semaine précédente, notamment le 6 août où \"Tagesschau\" avait rassemblé 4,02 millions de personnes (23,5% PDM), mais il surpasse les audiences du 4 août (3,45 M, 19,0%). La série \"Die Chefin\" diffusée sur une chaîne non spécifiée se positionne en deuxième place, démontrant une certaine fidélité de son public avec 3,34 millions de téléspectateurs, bien que légèrement en retrait par rapport à sa performance du 31 juillet (3,90 M, 22,6%). ZDF, avec \"SOKO Leipzig\", occupe la troisième position, confirmant une tendance structurelle où les chaînes publiques attirent un public plus âgé, tandis que les formats de divertissement sur d'autres chaînes peinent à atteindre des audiences significatives, comme le montre le score de 1,07 million pour \"Absolut Musik\". Cette configuration du prime time met en lumière la prédominance des offres d'information et de fiction des diffuseurs publics face à une concurrence plus fragmentée sur la soirée.",
@@ -219,7 +219,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-7-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Itaca%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/NOSA-ITACA"
         },
         {
           "rank": 5,
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Ispettore+Coliandro%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-08T14:50:27.185547Z",
+      "scraped_at": "2026-08-08T16:48:09.267310Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 7 août 2026 voit Rai 1 reprendre la tête des audiences avec « Summer Hits Remix » et 1,45 million de téléspectateurs, une performance inférieure de 360 000 curieux par rapport à la même émission diffusée le 31 juillet. Canale 5, avec « L’Erede », se positionne en deuxième place avec 1,35 million de téléspectateurs, marquant une légère baisse par rapport à son score du 31 juillet, mais restant plus proche de ses chiffres récents. Cette soirée marque une interruption de la domination de Canale 5 qui avait remporté quatre des sept soirées précédentes, notamment grâce à des films ou des divertissements à fort potentiel. La fiction italienne « Chicago Fire » sur Italia 1 atteint 918 000 téléspectateurs, un chiffre stable par rapport à « Chicago P.D. » la semaine passée, mais qui confirme la difficulté des chaînes thématiques à rivaliser avec les généralistes sur ce créneau. La programmation de Rai 3 et Rai 2, avec respectivement 913 000 et 644 000 téléspectateurs, démontre une stratégie de niche moins rémunératrice en termes d'audience brute.",
@@ -249,7 +249,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-08T14:50:28.224760Z",
+      "scraped_at": "2026-08-08T16:48:10.368039Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Atomic+Franco%2CProyecto+Islero%29%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-08-08T14:50:24.536775Z",
+      "scraped_at": "2026-08-08T16:47:57.177133Z",
       "status": "ok",
       "error": null,
       "commentary": "Le classement du prime du 7 août voit Telecinco et Antena 3 se disputer la première place, avec des scores respectifs de 10.4% et 10.3% de part de marché. Ce duel confirme la dynamique du marché espagnol, où le duopole historique maintient sa prédominance malgré la remontée de La 1. Le divertissement \"First Dates\" sur Telecinco réalise une performance solide, atteignant 796 000 téléspectateurs. Comparé à la semaine précédente, La 1, qui dominait les soirées, se retrouve en troisième position ce jour-là avec \"Viaje al Centro de la Tele\", devancée par les deux chaînes privées. Cette fluctuation dans le trio de tête souligne la bataille pour le leadership, particulièrement en cette période estivale où les stratégies de grille s'adaptent. La stratégie de contre-programmation semble jouer un rôle, avec des formats variés proposant des films et des divertissements pour capter des segments d'audience distincts.",
       "commentary_date": "2026-08-07"
     }
   },
-  "last_updated": "2026-08-08T14:50:28.226466Z"
+  "last_updated": "2026-08-08T16:48:10.369268Z"
 }
