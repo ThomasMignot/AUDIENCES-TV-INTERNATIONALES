@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Sc%C3%A8nes_de_m%C3%A9nages"
         }
       ],
-      "scraped_at": "2026-08-09T08:05:05.615089Z",
+      "scraped_at": "2026-08-09T09:52:03.816517Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce samedi 8 août avec sa fiction \"Cassandre : Zone Blanche\" qui rassemble 2,59 millions de téléspectateurs, captant 20.7% de part d'audience. Cette performance place la chaîne publique en tête des grandes généralistes, devant France 2 et son divertissement \"Fort Boyard\" qui enregistre 1,85 million de curieux (16.1% PDM). La concurrence entre France 3 et France 2 sur la case du samedi soir se confirme, avec une inversion des rôles par rapport au 7 août où France 2 dominait avec \"Capitaine Marleau\". TF1, qui avait mené trois soirées dans la semaine écoulée, se retrouve reléguée en troisième position avec un divertissement atteignant 1,44 million de téléspectateurs (11.3% PDM). La fragmentation de l'audience, accentuée par la TNT, semble toujours impacter les chaînes historiques, M6 affichant des scores modestes pour sa fiction \"Scènes de Ménages\" à 837 000 téléspectateurs (6.7% PDM).",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Der+Barcelona-Krimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-09T08:05:10.121482Z",
+      "scraped_at": "2026-08-09T09:52:10.595685Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 8 août, la première chaîne publique Das Erste voit sa traditionnelle \"Tagesschau\" devancée de peu par une fiction de la concurrence privée, qui enregistre 3,48 millions de téléspectateurs et 21,2% de part de marché. Cette performance contraste avec les journaux télévisés des chaînes publiques qui dominaient régulièrement le classement sur les sept jours précédents, atteignant par exemple 4,53 millions de personnes le 2 août. La soirée voit également un programme de divertissement s'installer en troisième position, témoignant d'une fragmentation des audiences en l'absence de succès massif d'un format phare comme le \"Tatort\". Le sport sur RTL, avec 1,53 million de curieux, ne parvient pas à inverser la tendance, restant loin derrière les performances habituelles des chaînes généralistes sur ce créneau. La fiction concurrente, quant à elle, semble avoir su capter une partie du public habituellement fidèle aux offres publiques, notamment sur le segment des téléspectateurs plus âgés.",
@@ -168,12 +168,78 @@
       "date": "2026-08-08",
       "source_name": "Davide Maggio · Ascolti TV",
       "source_url": "https://www.davidemaggio.it/ascolti-tv",
-      "entries": [],
-      "scraped_at": "2026-08-09T08:05:14.283184Z",
-      "status": "failed",
-      "error": "Aucune entrée extraite (ni bloc structuré, ni paragraphe)",
-      "commentary": "Le prime time du 7 août 2026 voit Rai 1 reprendre la tête des audiences avec « Summer Hits Remix » et 1,45 million de téléspectateurs, une performance inférieure de 360 000 curieux par rapport à la même émission diffusée le 31 juillet. Canale 5, avec « L’Erede », se positionne en deuxième place avec 1,35 million de téléspectateurs, marquant une légère baisse par rapport à son score du 31 juillet, mais restant plus proche de ses chiffres récents. Cette soirée marque une interruption de la domination de Canale 5 qui avait remporté quatre des sept soirées précédentes, notamment grâce à des films ou des divertissements à fort potentiel. La fiction italienne « Chicago Fire » sur Italia 1 atteint 918 000 téléspectateurs, un chiffre stable par rapport à « Chicago P.D. » la semaine passée, mais qui confirme la difficulté des chaînes thématiques à rivaliser avec les généralistes sur ce créneau. La programmation de Rai 3 et Rai 2, avec respectivement 913 000 et 644 000 téléspectateurs, démontre une stratégie de niche moins rémunératrice en termes d'audience brute.",
-      "commentary_date": "2026-08-07"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Ciao Darwin",
+          "program_fr": null,
+          "viewers": 1323000,
+          "share": 16.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-8-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Sogno e Son Desto",
+          "program_fr": null,
+          "viewers": 914000,
+          "share": 9.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-8-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Sogno+e+Son+Desto%22+Rai+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "La Promessa",
+          "program_fr": null,
+          "viewers": 789000,
+          "share": 7.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-8-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Per qualche dollaro in più",
+          "program_fr": null,
+          "viewers": 730000,
+          "share": 7.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-8-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Per+qualche+dollaro+in+pi%C3%B9%22+Rai+3+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Ritorno al futuro",
+          "program_fr": null,
+          "viewers": 662000,
+          "share": 6.2,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-8-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Ritorno+al+futuro%22+Italia+1+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-09T09:52:17.633681Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le divertissement de Canale 5, « Ciao Darwin », s'adjuge la première place des audiences du prime time italien ce 8 août avec 1,32 million de téléspectateurs et 16,9% de part de marché. Ce chiffre marque une légère érosion par rapport à son précédent score de 1,49 million (18,5%) le 1er août. La chaîne privée Mediaset confirme ainsi sa domination sur la semaine écoulée, ayant placé un programme en tête quatre soirs sur sept, une stratégie qui semble porter ses fruits face à la Rai. Rai 1, avec « Sogno e Son Desto », se positionne en seconde place, récoltant 914 000 fidèles et 9,7% de PDM, un score inférieur à la moyenne de ses programmes de fiction ou musicaux observés lors de la semaine précédente. La lutte pour la troisième position voit Rete 4 et Rai 3 se disputer les téléspectateurs avec des scores avoisinant les 7% de PDM, illustrant la fragmentation des audiences en dehors des deux principaux diffuseurs.",
+      "commentary_date": "2026-08-08"
     },
     "NL": {
       "country_code": "NL",
@@ -183,12 +249,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-09T08:05:15.325150Z",
+      "scraped_at": "2026-08-09T09:52:18.890707Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-09T08:05:19.773194Z"
+  "last_updated": "2026-08-09T09:52:20.594067Z"
 }
