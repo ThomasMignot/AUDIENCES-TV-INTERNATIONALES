@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Der+Barcelona-Krimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-09T09:52:10.595685Z",
+      "scraped_at": "2026-08-09T11:05:49.777440Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 8 août, la première chaîne publique Das Erste voit sa traditionnelle \"Tagesschau\" devancée de peu par une fiction de la concurrence privée, qui enregistre 3,48 millions de téléspectateurs et 21,2% de part de marché. Cette performance contraste avec les journaux télévisés des chaînes publiques qui dominaient régulièrement le classement sur les sept jours précédents, atteignant par exemple 4,53 millions de personnes le 2 août. La soirée voit également un programme de divertissement s'installer en troisième position, témoignant d'une fragmentation des audiences en l'absence de succès massif d'un format phare comme le \"Tatort\". Le sport sur RTL, avec 1,53 million de curieux, ne parvient pas à inverser la tendance, restant loin derrière les performances habituelles des chaînes généralistes sur ce créneau. La fiction concurrente, quant à elle, semble avoir su capter une partie du public habituellement fidèle aux offres publiques, notamment sur le segment des téléspectateurs plus âgés.",
@@ -85,79 +85,13 @@
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 796000,
-          "share": 10.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
-        },
-        {
-          "rank": 2,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Peliculon (¡a Todo Tren!Destino Asturias)",
-          "program_fr": null,
-          "viewers": 757000,
-          "share": 10.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Peliculon+%28%C2%A1a+Todo+Tren%21Destino+Asturias%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele:la Noche Tematica (con Acento Extranjero)",
-          "program_fr": null,
-          "viewers": 646000,
-          "share": 8.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
-          "program_fr": null,
-          "viewers": 435000,
-          "share": 5.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "Lasexta Columna (Atomic Franco,Proyecto Islero)",
-          "program_fr": null,
-          "viewers": 361000,
-          "share": 4.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Atomic+Franco%2CProyecto+Islero%29%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-09T09:52:13.285201Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-08-09T11:05:50.363297Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Le classement du prime du 7 août voit Telecinco et Antena 3 se disputer la première place, avec des scores respectifs de 10.4% et 10.3% de part de marché. Ce duel confirme la dynamique du marché espagnol, où le duopole historique maintient sa prédominance malgré la remontée de La 1. Le divertissement \"First Dates\" sur Telecinco réalise une performance solide, atteignant 796 000 téléspectateurs. Comparé à la semaine précédente, La 1, qui dominait les soirées, se retrouve en troisième position ce jour-là avec \"Viaje al Centro de la Tele\", devancée par les deux chaînes privées. Cette fluctuation dans le trio de tête souligne la bataille pour le leadership, particulièrement en cette période estivale où les stratégies de grille s'adaptent. La stratégie de contre-programmation semble jouer un rôle, avec des formats variés proposant des films et des divertissements pour capter des segments d'audience distincts.",
       "commentary_date": "2026-08-07"
     },
@@ -169,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-09T09:52:18.890707Z",
+      "scraped_at": "2026-08-09T11:05:54.217022Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Ritorno+al+futuro%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-08-09T09:52:17.633681Z",
+      "scraped_at": "2026-08-09T11:05:53.160953Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement de Canale 5, « Ciao Darwin », s'adjuge la première place des audiences du prime time italien ce 8 août avec 1,32 million de téléspectateurs et 16,9% de part de marché. Ce chiffre marque une légère érosion par rapport à son précédent score de 1,49 million (18,5%) le 1er août. La chaîne privée Mediaset confirme ainsi sa domination sur la semaine écoulée, ayant placé un programme en tête quatre soirs sur sept, une stratégie qui semble porter ses fruits face à la Rai. Rai 1, avec « Sogno e Son Desto », se positionne en seconde place, récoltant 914 000 fidèles et 9,7% de PDM, un score inférieur à la moyenne de ses programmes de fiction ou musicaux observés lors de la semaine précédente. La lutte pour la troisième position voit Rete 4 et Rai 3 se disputer les téléspectateurs avec des scores avoisinant les 7% de PDM, illustrant la fragmentation des audiences en dehors des deux principaux diffuseurs.",
@@ -329,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Sc%C3%A8nes_de_m%C3%A9nages"
         }
       ],
-      "scraped_at": "2026-08-09T09:52:03.816517Z",
+      "scraped_at": "2026-08-09T11:05:46.197860Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce samedi 8 août avec sa fiction \"Cassandre : Zone Blanche\" qui rassemble 2,59 millions de téléspectateurs, captant 20.7% de part d'audience. Cette performance place la chaîne publique en tête des grandes généralistes, devant France 2 et son divertissement \"Fort Boyard\" qui enregistre 1,85 million de curieux (16.1% PDM). La concurrence entre France 3 et France 2 sur la case du samedi soir se confirme, avec une inversion des rôles par rapport au 7 août où France 2 dominait avec \"Capitaine Marleau\". TF1, qui avait mené trois soirées dans la semaine écoulée, se retrouve reléguée en troisième position avec un divertissement atteignant 1,44 million de téléspectateurs (11.3% PDM). La fragmentation de l'audience, accentuée par la TNT, semble toujours impacter les chaînes historiques, M6 affichant des scores modestes pour sa fiction \"Scènes de Ménages\" à 837 000 téléspectateurs (6.7% PDM).",
       "commentary_date": "2026-08-08"
     }
   },
-  "last_updated": "2026-08-09T09:52:18.893230Z"
+  "last_updated": "2026-08-09T11:05:54.219277Z"
 }
