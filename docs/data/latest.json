@@ -8,10 +8,63 @@
       "date": "2026-08-10",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-08-11T15:17:07.268080Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f456731e790>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4747000,
+          "share": 25.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Nix ist fix",
+          "program_fr": null,
+          "viewers": 3369000,
+          "share": 17.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rainhard_Fendrich"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Leichtathletik-EM",
+          "program_fr": null,
+          "viewers": 3203000,
+          "share": 18.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Leichtathletik-EM%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal",
+          "program_fr": null,
+          "viewers": 2613000,
+          "share": 14.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-11T17:08:37.480170Z",
+      "status": "partial",
+      "error": null,
       "commentary": "Le journal d'information « Tagesschau » de Das Erste s'affirme comme leader du prime time allemand, réunissant 4,75 millions de téléspectateurs et 25,2% de part de marché ce 10 août. Cette performance consolide la domination de la chaîne publique sur la semaine, avec 5 soirées en tête du classement sur les 6 jours disponibles. La compétition pour la deuxième place reste ouverte, « Nix ist fix » et la compétition sportive « Leichtathletik-EM » affichant des résultats proches, respectivement 3,37 millions (17,7% PDM) et 3,20 millions (18,2% PDM). Comparé au 3 août, où « Wer wird Millionär? » de RTL atteignait 2,83 millions de téléspectateurs, la soirée du 10 août montre une capacité des chaînes privées à mobiliser un public significatif, bien que derrière Das Erste. Le « heute journal » de ZDF se positionne en quatrième position avec 2,61 millions de fidèles et 14,7% de PDM, reflétant la stabilité des audiences de cette tranche d'information.",
       "commentary_date": "2026-08-10"
     },
@@ -22,10 +75,76 @@
       "date": "2026-08-10",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-08-11T15:17:07.977057Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Grand Prix:Presenta",
+          "program_fr": null,
+          "viewers": 924000,
+          "share": 10.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Grand+Prix%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 840000,
+          "share": 10.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "En Tierra Lejana",
+          "program_fr": null,
+          "viewers": 832000,
+          "share": 12.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-agosto-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22En+Tierra+Lejana%22+Antena+3+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Viajeros Cuatro (Cadiz)",
+          "program_fr": null,
+          "viewers": 544000,
+          "share": 6.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Cadiz%29%22+Cuatro+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 457000,
+          "share": 5.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-11T17:08:39.603148Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La chaîne publique La 1 confirme sa dynamique sur le prime time espagnol, plaçant son divertissement « Grand Prix:Presenta » en tête des audiences du 10 août avec 924 000 téléspectateurs et 10.3% de part de marché. Ce score est légèrement inférieur à celui de l'émission du 3 août, « Grand Prix » (958 k, 12.3%), mais maintient le leadership de la chaîne sur la soirée. La fiction d'Antena 3, « En Tierra Lejana », se positionne juste derrière avec 832 000 fidèles et 12.1% de PDM, une performance en hausse par rapport à sa diffusion du 4 août (710 k, 10.6%). Telecinco voit son programme habituel « First Dates » attirer 840 000 téléspectateurs, un chiffre stable par rapport à la semaine précédente. La compétition pour le leadership du prime time s'intensifie entre les trois principales chaînes, La 1 démontrant une capacité à mobiliser un large public en milieu de semaine. La relative faiblesse de Cuatro et La 2 dans ce classement souligne le poids du duopole historique Telecinco/Antena 3 et la montée en puissance de la chaîne publique.",
       "commentary_date": "2026-08-10"
     },
@@ -37,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-11T15:17:16.449419Z",
+      "scraped_at": "2026-08-11T17:08:45.779156Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -62,7 +181,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-10-agosto-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Young_Montalbano"
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+Giovane+Montalbano%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -75,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-10-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Sweet_and_sour_pork"
+          "wikipedia_url": "https://www.google.com/search?q=%22Hot+Sweet+Sour%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -88,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-10-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Italy_at_the_2026_European_Athletics_Championships"
+          "wikipedia_url": "https://www.google.com/search?q=%22Europei+di+Atletica%22+Rai+2+ratings"
         },
         {
           "rank": 4,
@@ -101,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-10-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/King_of_Killers"
+          "wikipedia_url": "https://www.google.com/search?q=%22King+of+Killers%22+Italia+1+ratings"
         },
         {
           "rank": 5,
@@ -114,10 +233,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-10-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Ester_Mieli"
+          "wikipedia_url": "https://www.google.com/search?q=%22Zona+Bianca%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-08-11T15:17:15.160635Z",
+      "scraped_at": "2026-08-11T17:08:44.583133Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 10 août, Rai 1 reprend la tête du prime time avec la rediffusion d'une fiction, « Il Giovane Montalbano », réunissant 1,93 million de téléspectateurs et 17,1% de part d'audience. Cette performance contraste avec les soirées précédentes où Canale 5 avait mené quatre fois en sept jours, s'appuyant sur des divertissements et des films récents. La fiction de Rai 1, bien qu'en baisse par rapport à sa diffusion originale le 3 août (2,19 M, 19.2%), démontre la capacité de la chaîne publique à mobiliser son public fidèle sur ce créneau horaire. Canale 5, avec 1,68 million de curieux pour une nouvelle fiction, confirme sa stratégie de proposer des contenus populaires, mais ne parvient pas à déloger sa rivale historique ce soir-là. Italia 1 et Rete 4 restent positionnées sur des audiences plus modestes, témoignant de la segmentation des publics sur les chaînes secondaires du duopole.",
@@ -197,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Quotient_intellectuel"
         }
       ],
-      "scraped_at": "2026-08-11T15:16:34.489734Z",
+      "scraped_at": "2026-08-11T17:08:31.858999Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 10 août voit TF1 et France 2 se disputer la première place, avec des audiences respectives de 15.1% et 14.4% de part de marché. Cette lutte s'inscrit dans une dynamique concurrentielle récurrente, où la fiction française sur ces deux chaînes généralistes capte une part significative de l'audience. Par rapport à la semaine précédente, TF1 perd légèrement du terrain sur ses performances habituelles, tandis que France 2 maintient un niveau d'audience stable, confirmant la force de ses séries policières en case. La troisième position est occupée par France 3 avec la diffusion d'un événement sportif, témoignant de la capacité du direct à mobiliser une audience solide, bien que moindre que les fictions leaders. Arte et M6 se positionnent plus loin, avec des offres de fiction et de divertissement qui peinent à rivaliser avec les programmes les plus suivis. La fragmentation de l'audience, accentuée par la TNT, rend la conquête de parts de marché importantes un enjeu constant pour les chaînes historiques.",
       "commentary_date": "2026-08-10"
     }
   },
-  "last_updated": "2026-08-11T15:17:16.451050Z"
+  "last_updated": "2026-08-11T17:08:45.781331Z"
 }
