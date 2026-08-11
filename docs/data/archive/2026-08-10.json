@@ -1,6 +1,86 @@
 {
   "date": "2026-08-10",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-10",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "CAMPING PARADIS : MAGIE AU PARADIS \\ PARTIE 1",
+          "program_fr": null,
+          "viewers": 2278000,
+          "share": 15.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENQUETES AU PARADIS \\ LES ERREURS DU PASSE",
+          "program_fr": null,
+          "viewers": 2177000,
+          "share": 14.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAtes_au_paradis"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ATHLETISME CHAMPIONNAT D'EUROPE \\ BIRMINGHAM - EDITION 2026",
+          "program_fr": null,
+          "viewers": 1550000,
+          "share": 11.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_d%27Europe_d%27athl%C3%A9tisme_2026"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "GAS-OIL",
+          "program_fr": null,
+          "viewers": 1424000,
+          "share": 9.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Gazole"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "QI : LE GRAND TEST",
+          "program_fr": null,
+          "viewers": 1187000,
+          "share": 8.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Quotient_intellectuel"
+        }
+      ],
+      "scraped_at": "2026-08-11T08:28:05.056639Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le prime time du 10 août voit TF1 et France 2 se disputer la première place, avec des audiences respectives de 15.1% et 14.4% de part de marché. Cette lutte s'inscrit dans une dynamique concurrentielle récurrente, où la fiction française sur ces deux chaînes généralistes capte une part significative de l'audience. Par rapport à la semaine précédente, TF1 perd légèrement du terrain sur ses performances habituelles, tandis que France 2 maintient un niveau d'audience stable, confirmant la force de ses séries policières en case. La troisième position est occupée par France 3 avec la diffusion d'un événement sportif, témoignant de la capacité du direct à mobiliser une audience solide, bien que moindre que les fictions leaders. Arte et M6 se positionnent plus loin, avec des offres de fiction et de divertissement qui peinent à rivaliser avec les programmes les plus suivis. La fragmentation de l'audience, accentuée par la TNT, rend la conquête de parts de marché importantes un enjeu constant pour les chaînes historiques.",
+      "commentary_date": "2026-08-10"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -148,20 +228,6 @@
       "commentary": "La chaîne publique La 1 confirme sa dynamique sur le prime time espagnol, plaçant son divertissement « Grand Prix:Presenta » en tête des audiences du 10 août avec 924 000 téléspectateurs et 10.3% de part de marché. Ce score est légèrement inférieur à celui de l'émission du 3 août, « Grand Prix » (958 k, 12.3%), mais maintient le leadership de la chaîne sur la soirée. La fiction d'Antena 3, « En Tierra Lejana », se positionne juste derrière avec 832 000 fidèles et 12.1% de PDM, une performance en hausse par rapport à sa diffusion du 4 août (710 k, 10.6%). Telecinco voit son programme habituel « First Dates » attirer 840 000 téléspectateurs, un chiffre stable par rapport à la semaine précédente. La compétition pour le leadership du prime time s'intensifie entre les trois principales chaînes, La 1 démontrant une capacité à mobiliser un large public en milieu de semaine. La relative faiblesse de Cuatro et La 2 dans ce classement souligne le poids du duopole historique Telecinco/Antena 3 et la montée en puissance de la chaîne publique.",
       "commentary_date": "2026-08-10"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-10",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-11T08:28:14.016357Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -242,86 +308,20 @@
       "commentary": "Ce 10 août, Rai 1 reprend la tête du prime time avec la rediffusion d'une fiction, « Il Giovane Montalbano », réunissant 1,93 million de téléspectateurs et 17,1% de part d'audience. Cette performance contraste avec les soirées précédentes où Canale 5 avait mené quatre fois en sept jours, s'appuyant sur des divertissements et des films récents. La fiction de Rai 1, bien qu'en baisse par rapport à sa diffusion originale le 3 août (2,19 M, 19.2%), démontre la capacité de la chaîne publique à mobiliser son public fidèle sur ce créneau horaire. Canale 5, avec 1,68 million de curieux pour une nouvelle fiction, confirme sa stratégie de proposer des contenus populaires, mais ne parvient pas à déloger sa rivale historique ce soir-là. Italia 1 et Rete 4 restent positionnées sur des audiences plus modestes, témoignant de la segmentation des publics sur les chaînes secondaires du duopole.",
       "commentary_date": "2026-08-10"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-10",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CAMPING PARADIS : MAGIE AU PARADIS \\ PARTIE 1",
-          "program_fr": null,
-          "viewers": 2278000,
-          "share": 15.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ENQUETES AU PARADIS \\ LES ERREURS DU PASSE",
-          "program_fr": null,
-          "viewers": 2177000,
-          "share": 14.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAtes_au_paradis"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ATHLETISME CHAMPIONNAT D'EUROPE \\ BIRMINGHAM - EDITION 2026",
-          "program_fr": null,
-          "viewers": 1550000,
-          "share": 11.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_d%27Europe_d%27athl%C3%A9tisme_2026"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "GAS-OIL",
-          "program_fr": null,
-          "viewers": 1424000,
-          "share": 9.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Gazole"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "QI : LE GRAND TEST",
-          "program_fr": null,
-          "viewers": 1187000,
-          "share": 8.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-les-championnats-deurope-dathletisme-2026-sur-france-3/656296",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Quotient_intellectuel"
-        }
-      ],
-      "scraped_at": "2026-08-11T08:28:05.056639Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Le prime time du 10 août voit TF1 et France 2 se disputer la première place, avec des audiences respectives de 15.1% et 14.4% de part de marché. Cette lutte s'inscrit dans une dynamique concurrentielle récurrente, où la fiction française sur ces deux chaînes généralistes capte une part significative de l'audience. Par rapport à la semaine précédente, TF1 perd légèrement du terrain sur ses performances habituelles, tandis que France 2 maintient un niveau d'audience stable, confirmant la force de ses séries policières en case. La troisième position est occupée par France 3 avec la diffusion d'un événement sportif, témoignant de la capacité du direct à mobiliser une audience solide, bien que moindre que les fictions leaders. Arte et M6 se positionnent plus loin, avec des offres de fiction et de divertissement qui peinent à rivaliser avec les programmes les plus suivis. La fragmentation de l'audience, accentuée par la TNT, rend la conquête de parts de marché importantes un enjeu constant pour les chaînes historiques.",
-      "commentary_date": "2026-08-10"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-11T08:28:14.016357Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-11T08:28:14.018522Z"
+  "last_updated": "2026-08-11T08:28:24.021791Z"
 }
