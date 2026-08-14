@@ -49,7 +49,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Der+Amsterdam-Krimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-14T11:26:53.200852Z",
+      "scraped_at": "2026-08-14T13:56:23.436277Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 13 août voit le ZDF s'imposer grâce à la retransmission sportive, rassemblant 4,64 millions de téléspectateurs et 26,6% de part de marché. Cette performance place la chaîne publique en tête du prime time, un leadership qu'elle n'avait pas occupé sur les sept jours précédents, où Das Erste dominait systématiquement avec son journal de 20h. La fiction concurrente, « Der Amsterdam-Krimi », se positionne en troisième place avec 3,54 millions de curieux, confirmant la capacité des chaînes publiques à capter une audience significative sur cette case horaire. Le journal de Das Erste, habituel leader, se retrouve cette fois en seconde position, enregistrant 3,68 millions de téléspectateurs, soit une baisse par rapport à sa moyenne hebdomadaire qui avoisinait les 4 millions. La stratégie de contre-programmation autour de l'événement sportif semble ainsi avoir perturbé la dynamique habituelle du marché allemand, où les chaînes publiques rivalisent souvent sur des formats d'information ou de fiction.",
@@ -129,7 +129,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Gipuzkoa%29%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-14T11:26:55.576653Z",
+      "scraped_at": "2026-08-14T13:56:25.490675Z",
       "status": "ok",
       "error": null,
       "commentary": "La 1 confirme sa position de leader sur la semaine en prime time, avec cinq soirées en tête des audiences, un résultat notable face au duopole historique Telecinco/Antena 3. Ce jeudi 13 août, le programme d'archives « Viaje al Centro de la Tele » attire 875 000 téléspectateurs (9.9% de PDM), devançant de peu le divertissement « First Dates » sur Telecinco (851 000, 9.8%). La baisse de régime d'« El Hormiguero » sur Antena 3, qui enregistre 693 000 curieux (8.0% PDM), s'inscrit dans une tendance observée sur la semaine, ses scores se situant en deçà de la moyenne de ses invités précédents. La stratégie de La 1 semble porter ses fruits, capitalisant sur des formats familiaux et un positionnement qui attire une part significative du public, tandis que Telecinco maintient une présence solide avec son rendez-vous quotidien. Le football du 12 août sur La 1, avec 1,29 million de spectateurs, souligne l'impact des événements sportifs dans la conquête des premières places.",
@@ -143,7 +143,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-14T11:27:01.228548Z",
+      "scraped_at": "2026-08-14T13:56:31.551536Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -223,7 +223,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Med%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-08-14T11:27:00.025164Z",
+      "scraped_at": "2026-08-14T13:56:30.016429Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 s'affirme en tête du prime time italien pour la quatrième soirée consécutive de la semaine, avec « La Guerra dei Nonni » rassemblant 1,52 million de téléspectateurs et 15,7% de part de marché. Ce résultat place la chaîne privée en légère retrait par rapport à son score du 6 août avec « Battiti Live Compilation » (1,72 M, 15.7%), mais elle devance Rai 1 qui propose une rediffusion de la fiction « Doc – Nelle Tue Mani 3 » (1,27 M, 13.0%). La stratégie de Canale 5 semble privilégier le divertissement et des formats susceptibles de capter un public familial en cette période estivale, tandis que Rai 1 alterne entre fiction et programmes musicaux. La chaîne publique Rai 2, qui avait bénéficié des championnats d'athlétisme la semaine précédente, voit ses audiences décliner avec « Europei di Atletica » lors des soirées des 10, 11 et 12 août. Rete 4, avec son magazine d'actualité « Zona Bianca », se positionne en troisième force du duopole Mediaset, mais reste loin derrière les deux principaux acteurs.",
@@ -303,12 +303,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Cauchemar_en_cuisine_%28France%29"
         }
       ],
-      "scraped_at": "2026-08-14T11:26:43.242290Z",
+      "scraped_at": "2026-08-14T13:56:15.191772Z",
       "status": "ok",
       "error": null,
       "commentary": "La retransmission des Championnats d'Europe d'athlétisme sur France 2 se positionne en deuxième place avec 2,15 millions de téléspectateurs et 18,6% de part d'audience, témoignant de la capacité du sport à mobiliser un public conséquent. TF1, avec sa fiction \"Monsieur Parizot\", prend la tête avec 2,36 millions de spectateurs et 17,1% de PDM, mais l'écart se resserre par rapport aux performances habituelles de la chaîne sur cette case horaire. France 3 maintient une audience solide avec son feuilleton \"Un si grand soleil\" (1,60 M, 11,4%), confirmant la stabilité de son offre en fin de soirée. Comparé à la semaine précédente, où France 3 avait dominé trois soirées sur sept, le paysage concurrentiel du prime time semble se rééquilibrer autour des événements sportifs et des offres de fiction généralistes. L'écart entre les chaînes historiques et M6, dont \"Cauchemar en cuisine\" ne dépasse pas les 758 000 spectateurs (5,4% PDM), illustre la fragmentation croissante de l'audience, accentuée par la TNT.",
       "commentary_date": "2026-08-13"
     }
   },
-  "last_updated": "2026-08-14T11:27:01.230794Z"
+  "last_updated": "2026-08-14T13:56:31.553592Z"
 }
