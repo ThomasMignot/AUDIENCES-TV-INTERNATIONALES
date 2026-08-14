@@ -135,20 +135,6 @@
       "commentary": "La 1 confirme sa position de leader sur la semaine en prime time, avec cinq soirées en tête des audiences, un résultat notable face au duopole historique Telecinco/Antena 3. Ce jeudi 13 août, le programme d'archives « Viaje al Centro de la Tele » attire 875 000 téléspectateurs (9.9% de PDM), devançant de peu le divertissement « First Dates » sur Telecinco (851 000, 9.8%). La baisse de régime d'« El Hormiguero » sur Antena 3, qui enregistre 693 000 curieux (8.0% PDM), s'inscrit dans une tendance observée sur la semaine, ses scores se situant en deçà de la moyenne de ses invités précédents. La stratégie de La 1 semble porter ses fruits, capitalisant sur des formats familiaux et un positionnement qui attire une part significative du public, tandis que Telecinco maintient une présence solide avec son rendez-vous quotidien. Le football du 12 août sur La 1, avec 1,29 million de spectateurs, souligne l'impact des événements sportifs dans la conquête des premières places.",
       "commentary_date": "2026-08-13"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-13",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-14T08:41:09.197918Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -229,86 +215,20 @@
       "commentary": "Canale 5 s'affirme en tête du prime time italien pour la quatrième soirée consécutive de la semaine, avec « La Guerra dei Nonni » rassemblant 1,52 million de téléspectateurs et 15,7% de part de marché. Ce résultat place la chaîne privée en légère retrait par rapport à son score du 6 août avec « Battiti Live Compilation » (1,72 M, 15.7%), mais elle devance Rai 1 qui propose une rediffusion de la fiction « Doc – Nelle Tue Mani 3 » (1,27 M, 13.0%). La stratégie de Canale 5 semble privilégier le divertissement et des formats susceptibles de capter un public familial en cette période estivale, tandis que Rai 1 alterne entre fiction et programmes musicaux. La chaîne publique Rai 2, qui avait bénéficié des championnats d'athlétisme la semaine précédente, voit ses audiences décliner avec « Europei di Atletica » lors des soirées des 10, 11 et 12 août. Rete 4, avec son magazine d'actualité « Zona Bianca », se positionne en troisième force du duopole Mediaset, mais reste loin derrière les deux principaux acteurs.",
       "commentary_date": "2026-08-13"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-08-12",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-rediffusion-de-la-serie-leclipse-sur-france-2/656299",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "L'ECLIPSE \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 1761000,
-          "share": 12.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-rediffusion-de-la-serie-leclipse-sur-france-2/656299",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Gifted_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%2C_2017%29"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "8 RUE DE L'HUMANITE",
-          "program_fr": null,
-          "viewers": 1759000,
-          "share": 14.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-rediffusion-de-la-serie-leclipse-sur-france-2/656299",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/8_Rue_de_l%27Humanit%C3%A9"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ATHLETISME CHAMPIONNAT D'EUROPE \\ BIRMINGHAM - EDITION 2026",
-          "program_fr": null,
-          "viewers": 1569000,
-          "share": 12.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-rediffusion-de-la-serie-leclipse-sur-france-2/656299",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_d%27Europe_d%27athl%C3%A9tisme_2026"
-        },
-        {
-          "rank": 4,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
-          "program_fr": null,
-          "viewers": 1029000,
-          "share": 7.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-rediffusion-de-la-serie-leclipse-sur-france-2/656299",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "AU BOUT C'EST LA MER",
-          "program_fr": null,
-          "viewers": 683000,
-          "share": 4.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-la-rediffusion-de-la-serie-leclipse-sur-france-2/656299",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
-        }
-      ],
-      "scraped_at": "2026-08-14T08:40:52.489778Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Ce 12 août, la fiction française se positionne au coude-à-coude en tête des audiences : TF1 avec \"8 Rue de l'Humanité\" et France 2 avec \"L'Éclipse \\ Épisode Pilote\" rassemblent chacun 1,76 million de téléspectateurs, mais la première chaîne privée prend l'avantage en part de marché (14,5% contre 12,5%). Cette performance de TF1 contraste avec les soirées précédentes, où la chaîne avait été devancée à trois reprises par France 2 ou France 3 lors des sept derniers jours. Le sport, avec les Championnats d'Europe d'athlétisme sur France 3, se maintient à un niveau significatif avec 1,57 million de curieux, témoignant de l'attractivité des événements sportifs en direct dans cette case horaire. Canal+ réalise une performance honorable pour une chaîne payante avec \"Émissions Cryptées\", attirant 1,03 million de téléspectateurs. La fragmentation de l'audience, déjà soulignée par la présence de la TNT, se confirme avec des scores plus modestes pour les chaînes de la TNT, non citées dans ce classement.",
-      "commentary_date": "2026-08-12"
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-08-13",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-14T08:41:09.197918Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-14T08:41:09.200594Z"
+  "last_updated": "2026-08-14T08:41:17.354208Z"
 }
