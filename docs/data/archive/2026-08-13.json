@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -49,7 +49,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Der+Amsterdam-Krimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-15T13:09:05.737769Z",
+      "scraped_at": "2026-08-15T16:36:06.263041Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 13 août voit le ZDF s'imposer grâce à la retransmission sportive, rassemblant 4,64 millions de téléspectateurs et 26,6% de part de marché. Cette performance place la chaîne publique en tête du prime time, un leadership qu'elle n'avait pas occupé sur les sept jours précédents, où Das Erste dominait systématiquement avec son journal de 20h. La fiction concurrente, « Der Amsterdam-Krimi », se positionne en troisième place avec 3,54 millions de curieux, confirmant la capacité des chaînes publiques à capter une audience significative sur cette case horaire. Le journal de Das Erste, habituel leader, se retrouve cette fois en seconde position, enregistrant 3,68 millions de téléspectateurs, soit une baisse par rapport à sa moyenne hebdomadaire qui avoisinait les 4 millions. La stratégie de contre-programmation autour de l'événement sportif semble ainsi avoir perturbé la dynamique habituelle du marché allemand, où les chaînes publiques rivalisent souvent sur des formats d'information ou de fiction.",
@@ -74,7 +74,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_longest-running_Spanish_television_series"
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         },
         {
           "rank": 5,
@@ -129,7 +129,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Gipuzkoa%29%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-15T14:41:08.880307Z",
+      "scraped_at": "2026-08-15T16:36:09.160263Z",
       "status": "ok",
       "error": null,
       "commentary": "La 1 confirme sa position de leader sur la semaine en prime time, avec cinq soirées en tête des audiences, un résultat notable face au duopole historique Telecinco/Antena 3. Ce jeudi 13 août, le programme d'archives « Viaje al Centro de la Tele » attire 875 000 téléspectateurs (9.9% de PDM), devançant de peu le divertissement « First Dates » sur Telecinco (851 000, 9.8%). La baisse de régime d'« El Hormiguero » sur Antena 3, qui enregistre 693 000 curieux (8.0% PDM), s'inscrit dans une tendance observée sur la semaine, ses scores se situant en deçà de la moyenne de ses invités précédents. La stratégie de La 1 semble porter ses fruits, capitalisant sur des formats familiaux et un positionnement qui attire une part significative du public, tandis que Telecinco maintient une présence solide avec son rendez-vous quotidien. Le football du 12 août sur La 1, avec 1,29 million de spectateurs, souligne l'impact des événements sportifs dans la conquête des premières places.",
@@ -310,5 +310,5 @@
       "commentary_date": "2026-08-13"
     }
   },
-  "last_updated": "2026-08-15T14:41:08.882542Z"
+  "last_updated": "2026-08-15T16:36:09.162454Z"
 }

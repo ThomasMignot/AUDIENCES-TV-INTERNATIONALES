@@ -5,13 +5,53 @@
       "country_code": "DE",
       "country_name": "Allemagne",
       "flag": "🇩🇪",
-      "date": "2026-08-14",
+      "date": "2026-08-13",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-08-15T14:41:01.522718Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f8cec74b590>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "ZDFsportstudio live: LA-EM",
+          "program_fr": null,
+          "viewers": 4637000,
+          "share": 26.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live%22+ZDF+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 3678000,
+          "share": 21.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Der Amsterdam-Krimi: Der falsche To",
+          "program_fr": null,
+          "viewers": 3540000,
+          "share": 19.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Der+Amsterdam-Krimi%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-15T16:36:06.263041Z",
+      "status": "partial",
+      "error": null,
       "commentary": "La soirée du 13 août voit le ZDF s'imposer grâce à la retransmission sportive, rassemblant 4,64 millions de téléspectateurs et 26,6% de part de marché. Cette performance place la chaîne publique en tête du prime time, un leadership qu'elle n'avait pas occupé sur les sept jours précédents, où Das Erste dominait systématiquement avec son journal de 20h. La fiction concurrente, « Der Amsterdam-Krimi », se positionne en troisième place avec 3,54 millions de curieux, confirmant la capacité des chaînes publiques à capter une audience significative sur cette case horaire. Le journal de Das Erste, habituel leader, se retrouve cette fois en seconde position, enregistrant 3,68 millions de téléspectateurs, soit une baisse par rapport à sa moyenne hebdomadaire qui avoisinait les 4 millions. La stratégie de contre-programmation autour de l'événement sportif semble ainsi avoir perturbé la dynamique habituelle du marché allemand, où les chaînes publiques rivalisent souvent sur des formats d'information ou de fiction.",
       "commentary_date": "2026-08-13"
     },
@@ -34,7 +74,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_longest-running_Spanish_television_series"
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
         },
         {
           "rank": 2,
@@ -73,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         },
         {
           "rank": 5,
@@ -89,7 +129,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Gipuzkoa%29%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-15T14:41:08.880307Z",
+      "scraped_at": "2026-08-15T16:36:09.160263Z",
       "status": "ok",
       "error": null,
       "commentary": "La 1 confirme sa position de leader sur la semaine en prime time, avec cinq soirées en tête des audiences, un résultat notable face au duopole historique Telecinco/Antena 3. Ce jeudi 13 août, le programme d'archives « Viaje al Centro de la Tele » attire 875 000 téléspectateurs (9.9% de PDM), devançant de peu le divertissement « First Dates » sur Telecinco (851 000, 9.8%). La baisse de régime d'« El Hormiguero » sur Antena 3, qui enregistre 693 000 curieux (8.0% PDM), s'inscrit dans une tendance observée sur la semaine, ses scores se situant en deçà de la moyenne de ses invités précédents. La stratégie de La 1 semble porter ses fruits, capitalisant sur des formats familiaux et un positionnement qui attire une part significative du public, tandis que Telecinco maintient une présence solide avec son rendez-vous quotidien. Le football du 12 août sur La 1, avec 1,29 million de spectateurs, souligne l'impact des événements sportifs dans la conquête des premières places.",
@@ -103,7 +143,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-15T14:41:14.976431Z",
+      "scraped_at": "2026-08-15T16:36:16.833730Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -167,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-14-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Non_si_ruba_a_casa_dei_ladri"
+          "wikipedia_url": "https://www.google.com/search?q=%22Non+si+ruba+a+casa+dei+ladri%22+Rete+4+ratings"
         },
         {
           "rank": 5,
@@ -183,7 +223,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Coppa+Italia%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-08-15T14:41:13.503522Z",
+      "scraped_at": "2026-08-15T16:36:15.566447Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 14 août voit Rai 1, historiquement leader, se faire déclasser par Rai 2, qui diffuse les Championnats d'Europe d'athlétisme. Ce programme sportif rassemble 1,93 million de téléspectateurs et atteint 15,6% de part de marché, une performance supérieure à celle de la veille (1,58 M, 12,3%). La chaîne publique confirme ainsi sa capacité à mobiliser un large public sur des événements sportifs d'envergure, notamment face à la concurrence de Canale 5. La chaîne privée, qui avait mené quatre soirées sur sept la semaine précédente, se positionne cette fois en troisième position avec le divertissement « L’Erede » (1,37 M, 13,7%), un score en légère baisse par rapport à son offre de la veille (1,72 M, 15,7%). L'écart entre les deux principales offres de Rai et le divertissement de Canale 5 se creuse légèrement, les chaînes généralistes publiques montrant une résilience sur cette case horaire estivale.",
@@ -263,12 +303,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-08-15T14:40:27.316216Z",
+      "scraped_at": "2026-08-15T16:35:58.860502Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce vendredi 14 août avec une fiction, \"Capitaine Marleau\", attirant 2,39 millions de téléspectateurs et 18,0% de part d'audience. Ce score est légèrement inférieur à celui de la semaine précédente pour le même programme (2,58 millions, 19,7%), mais confirme la capacité de la chaîne publique à mobiliser sur cette case du prime time. La retransmission des Championnats d'Europe d'athlétisme sur France 3, avec 2,07 millions de curieux (16,3% PDM), démontre la force de l'événement sportif dans la conquête d'audience, se plaçant devant TF1. La Une, qui avait mené le classement trois soirs cette semaine, se retrouve troisième avec un divertissement familial à 1,55 million de téléspectateurs (11,4% PDM). M6 et Arte ferment la marche, témoignant de la difficulté des chaînes privées et thématiques à rivaliser avec les offres des grandes généralistes sur ce créneau horaire estival.",
       "commentary_date": "2026-08-14"
     }
   },
-  "last_updated": "2026-08-15T14:41:14.978838Z"
+  "last_updated": "2026-08-15T16:36:16.836066Z"
 }
