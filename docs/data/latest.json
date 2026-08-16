@@ -8,10 +8,50 @@
       "date": "2026-08-15",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-08-16T09:37:38.814555Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f644ef4e850>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "ZDFsportstudio live: LA-EM",
+          "program_fr": null,
+          "viewers": 4184999,
+          "share": 24.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live%22+ZDF+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 3802000,
+          "share": 23.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Gefragt - Gejagt",
+          "program_fr": null,
+          "viewers": 2719000,
+          "share": 16.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gefragt_%E2%80%93_Gejagt"
+        }
+      ],
+      "scraped_at": "2026-08-16T10:58:04.911289Z",
+      "status": "partial",
+      "error": null,
       "commentary": "Le direct sportif sur ZDF, avec la \"LA-EM\", s'impose ce 15 août avec 4,18 millions de téléspectateurs et 24,5% de part de marché. Cette performance place la chaîne publique en tête, devant le journal de Das Erste (3,80 M, 23,6%). La semaine précédente, le \"ZDFsportstudio live: LA-EM\" avait déjà enregistré une forte mobilisation le 13 août, atteignant 4,64 millions de curieux et 26,6% de PDA, signe d'une captation significative de l'audience sportive sur cette case. La présence de deux journaux d'information et d'un magazine de jeux dans le top 3 met en lumière la prédominance des programmes fédérateurs sur les chaînes publiques allemandes, particulièrement en cette période estivale. La compétition pour la tête du prime time reste donc ouverte entre ARD et ZDF, avec une stratégie qui semble payer pour les événements sportifs en direct.",
       "commentary_date": "2026-08-15"
     },
@@ -19,81 +59,81 @@
       "country_code": "ES",
       "country_name": "Espagne",
       "flag": "🇪🇸",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [
         {
           "rank": 1,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele:Clasicos (Parece Que Fue Ayer)",
-          "program_fr": null,
-          "viewers": 875000,
-          "share": 9.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Marisa_Paredes"
-        },
-        {
-          "rank": 2,
           "channel": "Telecinco",
           "channel_color": "blue",
           "program": "First Dates",
           "program_fr": "First Dates",
-          "viewers": 851000,
+          "viewers": 783000,
           "share": 9.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-agosto-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Viaje al Centro de la Tele:la Noche Tematica (70 Exitos)",
+          "program_fr": null,
+          "viewers": 772000,
+          "share": 10.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
         },
         {
           "rank": 3,
           "channel": "Antena 3",
           "channel_color": "amber",
-          "program": "El Hormiguero 20 Años Juntos (Clara Galle,Claudia Salas y Paula Usero)",
+          "program": "El Peliculon (a Todo Tren 2)",
           "program_fr": null,
-          "viewers": 693000,
-          "share": 8.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Clara+Galle%2CClaudia+Salas+y+Paula+Usero%29%22+Antena+3+ratings"
+          "viewers": 676000,
+          "share": 8.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Peliculon+%28a+Todo+Tren+2%29%22+Antena+3+ratings"
         },
         {
           "rank": 4,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "El Blockbuster (Largo Winch:el Precio del Dinero)",
           "program_fr": null,
-          "viewers": 572000,
-          "share": 6.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "viewers": 439000,
+          "share": 5.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-agosto-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Largo+Winch%22+Cuatro+ratings"
         },
         {
           "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Viajeros Cuatro (Gipuzkoa)",
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "D.Reg(Cifras y Letras)",
           "program_fr": null,
-          "viewers": 465000,
+          "viewers": 435000,
           "share": 5.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Gipuzkoa%29%22+Cuatro+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22D.Reg%28Cifras+y+Letras%29%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T09:37:43.209756Z",
+      "scraped_at": "2026-08-16T10:58:07.927752Z",
       "status": "ok",
       "error": null,
-      "commentary": "La 1 confirme sa position de leader sur la semaine en prime time, avec cinq soirées en tête des audiences, un résultat notable face au duopole historique Telecinco/Antena 3. Ce jeudi 13 août, le programme d'archives « Viaje al Centro de la Tele » attire 875 000 téléspectateurs (9.9% de PDM), devançant de peu le divertissement « First Dates » sur Telecinco (851 000, 9.8%). La baisse de régime d'« El Hormiguero » sur Antena 3, qui enregistre 693 000 curieux (8.0% PDM), s'inscrit dans une tendance observée sur la semaine, ses scores se situant en deçà de la moyenne de ses invités précédents. La stratégie de La 1 semble porter ses fruits, capitalisant sur des formats familiaux et un positionnement qui attire une part significative du public, tandis que Telecinco maintient une présence solide avec son rendez-vous quotidien. Le football du 12 août sur La 1, avec 1,29 million de spectateurs, souligne l'impact des événements sportifs dans la conquête des premières places.",
-      "commentary_date": "2026-08-13"
+      "commentary": "La soirée du 14 août voit Telecinco reprendre la tête du prime avec \"First Dates\", attirant 783 000 téléspectateurs et 9.8% de part de marché, une légère érosion par rapport aux 851 000 enregistrés le 13 août. La chaîne publique La 1 se positionne en deuxième place avec son programme historique \"Viaje al Centro de la Tele\", qui réalise 772 000 spectateurs et 10.5% de PDM, marquant une progression par rapport à la semaine précédente. Antena 3, avec le film \"a Todo Tren 2\", se retrouve en troisième position avec 676 000 téléspectateurs (8.7% PDM), confirmant une certaine fragilité de sa case cinéma face à la concurrence. La 1 a dominé le classement sur les six soirées précédentes, témoignant d'une dynamique positive pour la chaîne publique. La stratégie de La 1 semble porter ses fruits, en capitalisant sur des formats documentaires et de divertissement fédérateurs. La lutte pour la première place du prime time reste donc ouverte entre Telecinco et La 1.",
+      "commentary_date": "2026-08-14"
     },
     "NL": {
       "country_code": "NL",
@@ -103,7 +143,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-16T09:37:51.827002Z",
+      "scraped_at": "2026-08-16T10:58:12.890859Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -183,7 +223,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+buono%2C+il+brutto%2C+il+cattivo%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T09:37:50.708751Z",
+      "scraped_at": "2026-08-16T10:58:11.640431Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 15 août voit Rai 2 s'imposer avec les championnats d'athlétisme, réunissant 1,77 million de téléspectateurs et 15,9% de part de marché. Cette performance place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des soirées précédentes de la semaine, où Canale 5 avait majoritairement dominé. La fiction turque « Ciao Darwin » sur Canale 5 enregistre un score honorable de 1,10 million de téléspectateurs, mais marque un recul par rapport à ses précédentes diffusions. Rai 1, avec son programme musical, se positionne en troisième place, démontrant une difficulté à capter un large public en cette soirée de milieu de semaine. La stratégie de Rai 2 de programmer un événement sportif en continu semble porter ses fruits face aux offres de divertissement et de fiction des autres grandes chaînes.",
@@ -263,12 +303,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-08-16T09:37:03.516210Z",
+      "scraped_at": "2026-08-16T10:57:57.314745Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce vendredi 14 août avec une fiction, \"Capitaine Marleau\", attirant 2,39 millions de téléspectateurs et 18,0% de part d'audience. Ce score est légèrement inférieur à celui de la semaine précédente pour le même programme (2,58 millions, 19,7%), mais confirme la capacité de la chaîne publique à mobiliser sur cette case du prime time. La retransmission des Championnats d'Europe d'athlétisme sur France 3, avec 2,07 millions de curieux (16,3% PDM), démontre la force de l'événement sportif dans la conquête d'audience, se plaçant devant TF1. La Une, qui avait mené le classement trois soirs cette semaine, se retrouve troisième avec un divertissement familial à 1,55 million de téléspectateurs (11,4% PDM). M6 et Arte ferment la marche, témoignant de la difficulté des chaînes privées et thématiques à rivaliser avec les offres des grandes généralistes sur ce créneau horaire estival.",
       "commentary_date": "2026-08-14"
     }
   },
-  "last_updated": "2026-08-16T09:37:51.828549Z"
+  "last_updated": "2026-08-16T10:58:12.892554Z"
 }
