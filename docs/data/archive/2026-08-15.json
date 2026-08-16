@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
           "rank": 3,
@@ -46,10 +46,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Gefragt_%E2%80%93_Gejagt"
+          "wikipedia_url": "https://www.google.com/search?q=%22Gefragt%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T10:58:04.911289Z",
+      "scraped_at": "2026-08-16T13:10:50.286674Z",
       "status": "partial",
       "error": null,
       "commentary": "Le direct sportif sur ZDF, avec la \"LA-EM\", s'impose ce 15 août avec 4,18 millions de téléspectateurs et 24,5% de part de marché. Cette performance place la chaîne publique en tête, devant le journal de Das Erste (3,80 M, 23,6%). La semaine précédente, le \"ZDFsportstudio live: LA-EM\" avait déjà enregistré une forte mobilisation le 13 août, atteignant 4,64 millions de curieux et 26,6% de PDA, signe d'une captation significative de l'audience sportive sur cette case. La présence de deux journaux d'information et d'un magazine de jeux dans le top 3 met en lumière la prédominance des programmes fédérateurs sur les chaînes publiques allemandes, particulièrement en cette période estivale. La compétition pour la tête du prime time reste donc ouverte entre ARD et ZDF, avec une stratégie qui semble payer pour les événements sportifs en direct.",
@@ -63,7 +63,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-16T10:58:12.890859Z",
+      "scraped_at": "2026-08-16T13:10:58.332119Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -143,12 +143,92 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+buono%2C+il+brutto%2C+il+cattivo%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T10:58:11.640431Z",
+      "scraped_at": "2026-08-16T13:10:57.144675Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 15 août voit Rai 2 s'imposer avec les championnats d'athlétisme, réunissant 1,77 million de téléspectateurs et 15,9% de part de marché. Cette performance place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des soirées précédentes de la semaine, où Canale 5 avait majoritairement dominé. La fiction turque « Ciao Darwin » sur Canale 5 enregistre un score honorable de 1,10 million de téléspectateurs, mais marque un recul par rapport à ses précédentes diffusions. Rai 1, avec son programme musical, se positionne en troisième place, démontrant une difficulté à capter un large public en cette soirée de milieu de semaine. La stratégie de Rai 2 de programmer un événement sportif en continu semble porter ses fruits face aux offres de divertissement et de fiction des autres grandes chaînes.",
       "commentary_date": "2026-08-15"
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-08-15",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "Cine 5 Estrellas (Mañana Es Hoy)",
+          "program_fr": null,
+          "viewers": 861000,
+          "share": 11.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cine+5+Estrellas+%28Ma%C3%B1ana+Es+Hoy%29%22+Telecinco+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Atrapa un Millon",
+          "program_fr": null,
+          "viewers": 734000,
+          "share": 9.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Atrapa+un+Millon%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Informe Semanal",
+          "program_fr": null,
+          "viewers": 615000,
+          "share": 7.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Informe+Semanal%22+La+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 364000,
+          "share": 4.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "TV3",
+          "channel_color": "gray",
+          "program": "Telenoticies Vespre",
+          "program_fr": null,
+          "viewers": 318000,
+          "share": 27.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Telenoticies+Vespre%22+TV3+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-16T13:10:52.837840Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 15 août, Telecinco s'empare de la tête du prime time avec un film attirant 861 000 téléspectateurs, soit 11.3% de part de marché. Cette performance contraste avec les soirées précédentes où La 1 dominait régulièrement, remportant cinq des six journées de la semaine écoulée. Antena 3 se positionne en deuxième place avec un divertissement, \"Atrapa un Millon\", qui rassemble 734 000 personnes (9.5% PDM). Le programme d'information de La 1, \"Informe Semanal\", obtient 615 000 fidèles, représentant 7.8% de part de marché. La chaîne publique catalane TV3, bien que plus confidentielle en audience absolue avec 318 000 téléspectateurs, affiche une part de marché très élevée de 27.6% sur son bassin de diffusion. La stratégie de Telecinco semble axée sur le cinéma pour capter une audience large en cette période estivale.",
+      "commentary_date": "2026-08-15"
     }
   },
-  "last_updated": "2026-08-16T10:58:12.891940Z"
+  "last_updated": "2026-08-16T13:11:00.067308Z"
 }
