@@ -8,50 +8,10 @@
       "date": "2026-08-15",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "ZDFsportstudio live: LA-EM",
-          "program_fr": null,
-          "viewers": 4184999,
-          "share": 24.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live%22+ZDF+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
-          "program_fr": null,
-          "viewers": 3802000,
-          "share": 23.6,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Gefragt - Gejagt",
-          "program_fr": null,
-          "viewers": 2719000,
-          "share": 16.7,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Gefragt%22+Autre+cha%C3%AEne+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-16T07:50:15.098121Z",
-      "status": "partial",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-08-16T09:37:38.814555Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f644ef4e850>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
       "commentary": "Le direct sportif sur ZDF, avec la \"LA-EM\", s'impose ce 15 août avec 4,18 millions de téléspectateurs et 24,5% de part de marché. Cette performance place la chaîne publique en tête, devant le journal de Das Erste (3,80 M, 23,6%). La semaine précédente, le \"ZDFsportstudio live: LA-EM\" avait déjà enregistré une forte mobilisation le 13 août, atteignant 4,64 millions de curieux et 26,6% de PDA, signe d'une captation significative de l'audience sportive sur cette case. La présence de deux journaux d'information et d'un magazine de jeux dans le top 3 met en lumière la prédominance des programmes fédérateurs sur les chaînes publiques allemandes, particulièrement en cette période estivale. La compétition pour la tête du prime time reste donc ouverte entre ARD et ZDF, avec une stratégie qui semble payer pour les événements sportifs en direct.",
       "commentary_date": "2026-08-15"
     },
@@ -74,7 +34,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Marisa_Paredes"
         },
         {
           "rank": 2,
@@ -129,7 +89,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Gipuzkoa%29%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T07:50:18.178844Z",
+      "scraped_at": "2026-08-16T09:37:43.209756Z",
       "status": "ok",
       "error": null,
       "commentary": "La 1 confirme sa position de leader sur la semaine en prime time, avec cinq soirées en tête des audiences, un résultat notable face au duopole historique Telecinco/Antena 3. Ce jeudi 13 août, le programme d'archives « Viaje al Centro de la Tele » attire 875 000 téléspectateurs (9.9% de PDM), devançant de peu le divertissement « First Dates » sur Telecinco (851 000, 9.8%). La baisse de régime d'« El Hormiguero » sur Antena 3, qui enregistre 693 000 curieux (8.0% PDM), s'inscrit dans une tendance observée sur la semaine, ses scores se situant en deçà de la moyenne de ses invités précédents. La stratégie de La 1 semble porter ses fruits, capitalisant sur des formats familiaux et un positionnement qui attire une part significative du public, tandis que Telecinco maintient une présence solide avec son rendez-vous quotidien. Le football du 12 août sur La 1, avec 1,29 million de spectateurs, souligne l'impact des événements sportifs dans la conquête des premières places.",
@@ -143,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-16T07:50:24.995957Z",
+      "scraped_at": "2026-08-16T09:37:51.827002Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -153,7 +113,7 @@
       "country_code": "IT",
       "country_name": "Italie",
       "flag": "🇮🇹",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "source_name": "Davide Maggio · Ascolti TV",
       "source_url": "https://www.davidemaggio.it/ascolti-tv",
       "entries": [
@@ -163,71 +123,71 @@
           "channel_color": "teal",
           "program": "Europei di Atletica",
           "program_fr": null,
-          "viewers": 1928000,
-          "share": 15.6,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-14-agosto-2026",
+          "viewers": 1769000,
+          "share": 15.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
           "wikipedia_url": "https://www.google.com/search?q=%22Europei+di+Atletica%22+Rai+2+ratings"
         },
         {
           "rank": 2,
-          "channel": "Rai 1",
-          "channel_color": "blue",
-          "program": "Viva Mogol! Con i Grandi della Musica",
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Ciao Darwin",
           "program_fr": null,
-          "viewers": 1552000,
-          "share": 17.1,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-14-agosto-2026",
+          "viewers": 1099000,
+          "share": 13.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viva+Mogol%21+Con+i+Grandi+della+Musica%22+Rai+1+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
         },
         {
           "rank": 3,
-          "channel": "Canale 5",
-          "channel_color": "red",
-          "program": "L’Erede",
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Sogno e Son Desto",
           "program_fr": null,
-          "viewers": 1369000,
-          "share": 13.7,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-14-agosto-2026",
+          "viewers": 962000,
+          "share": 10.6,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Erede%22+Canale+5+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Sogno+e+Son+Desto%22+Rai+1+ratings"
         },
         {
           "rank": 4,
           "channel": "Rete 4",
           "channel_color": "purple",
-          "program": "Non si ruba a casa dei ladri",
+          "program": "La Promessa",
           "program_fr": null,
-          "viewers": 602000,
-          "share": 5.1,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-14-agosto-2026",
+          "viewers": 753000,
+          "share": 7.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Non+si+ruba+a+casa+dei+ladri%22+Rete+4+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
         },
         {
           "rank": 5,
-          "channel": "Italia 1",
-          "channel_color": "amber",
-          "program": "Coppa Italia",
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Il buono, il brutto, il cattivo",
           "program_fr": null,
-          "viewers": 572000,
-          "share": 4.8,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-14-agosto-2026",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Coppa+Italia%22+Italia+1+ratings"
+          "viewers": 627000,
+          "share": 6.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+buono%2C+il+brutto%2C+il+cattivo%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T07:50:23.726443Z",
+      "scraped_at": "2026-08-16T09:37:50.708751Z",
       "status": "ok",
       "error": null,
-      "commentary": "Le prime time du 14 août voit Rai 1, historiquement leader, se faire déclasser par Rai 2, qui diffuse les Championnats d'Europe d'athlétisme. Ce programme sportif rassemble 1,93 million de téléspectateurs et atteint 15,6% de part de marché, une performance supérieure à celle de la veille (1,58 M, 12,3%). La chaîne publique confirme ainsi sa capacité à mobiliser un large public sur des événements sportifs d'envergure, notamment face à la concurrence de Canale 5. La chaîne privée, qui avait mené quatre soirées sur sept la semaine précédente, se positionne cette fois en troisième position avec le divertissement « L’Erede » (1,37 M, 13,7%), un score en légère baisse par rapport à son offre de la veille (1,72 M, 15,7%). L'écart entre les deux principales offres de Rai et le divertissement de Canale 5 se creuse légèrement, les chaînes généralistes publiques montrant une résilience sur cette case horaire estivale.",
-      "commentary_date": "2026-08-14"
+      "commentary": "Le prime time du 15 août voit Rai 2 s'imposer avec les championnats d'athlétisme, réunissant 1,77 million de téléspectateurs et 15,9% de part de marché. Cette performance place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des soirées précédentes de la semaine, où Canale 5 avait majoritairement dominé. La fiction turque « Ciao Darwin » sur Canale 5 enregistre un score honorable de 1,10 million de téléspectateurs, mais marque un recul par rapport à ses précédentes diffusions. Rai 1, avec son programme musical, se positionne en troisième place, démontrant une difficulté à capter un large public en cette soirée de milieu de semaine. La stratégie de Rai 2 de programmer un événement sportif en continu semble porter ses fruits face aux offres de divertissement et de fiction des autres grandes chaînes.",
+      "commentary_date": "2026-08-15"
     },
     "FR": {
       "country_code": "FR",
@@ -303,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-08-16T07:50:08.001223Z",
+      "scraped_at": "2026-08-16T09:37:03.516210Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce vendredi 14 août avec une fiction, \"Capitaine Marleau\", attirant 2,39 millions de téléspectateurs et 18,0% de part d'audience. Ce score est légèrement inférieur à celui de la semaine précédente pour le même programme (2,58 millions, 19,7%), mais confirme la capacité de la chaîne publique à mobiliser sur cette case du prime time. La retransmission des Championnats d'Europe d'athlétisme sur France 3, avec 2,07 millions de curieux (16,3% PDM), démontre la force de l'événement sportif dans la conquête d'audience, se plaçant devant TF1. La Une, qui avait mené le classement trois soirs cette semaine, se retrouve troisième avec un divertissement familial à 1,55 million de téléspectateurs (11,4% PDM). M6 et Arte ferment la marche, témoignant de la difficulté des chaînes privées et thématiques à rivaliser avec les offres des grandes généralistes sur ce créneau horaire estival.",
       "commentary_date": "2026-08-14"
     }
   },
-  "last_updated": "2026-08-16T07:50:24.998045Z"
+  "last_updated": "2026-08-16T09:37:51.828549Z"
 }

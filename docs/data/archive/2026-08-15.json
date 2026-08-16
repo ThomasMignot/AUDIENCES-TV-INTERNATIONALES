@@ -8,50 +8,10 @@
       "date": "2026-08-15",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "ZDFsportstudio live: LA-EM",
-          "program_fr": null,
-          "viewers": 4184999,
-          "share": 24.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live%22+ZDF+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
-          "program_fr": null,
-          "viewers": 3802000,
-          "share": 23.6,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Gefragt - Gejagt",
-          "program_fr": null,
-          "viewers": 2719000,
-          "share": 16.7,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Gefragt%22+Autre+cha%C3%AEne+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-16T07:50:15.098121Z",
-      "status": "partial",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-08-16T09:37:38.814555Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f644ef4e850>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
       "commentary": "Le direct sportif sur ZDF, avec la \"LA-EM\", s'impose ce 15 août avec 4,18 millions de téléspectateurs et 24,5% de part de marché. Cette performance place la chaîne publique en tête, devant le journal de Das Erste (3,80 M, 23,6%). La semaine précédente, le \"ZDFsportstudio live: LA-EM\" avait déjà enregistré une forte mobilisation le 13 août, atteignant 4,64 millions de curieux et 26,6% de PDA, signe d'une captation significative de l'audience sportive sur cette case. La présence de deux journaux d'information et d'un magazine de jeux dans le top 3 met en lumière la prédominance des programmes fédérateurs sur les chaînes publiques allemandes, particulièrement en cette période estivale. La compétition pour la tête du prime time reste donc ouverte entre ARD et ZDF, avec une stratégie qui semble payer pour les événements sportifs en direct.",
       "commentary_date": "2026-08-15"
     },
@@ -63,12 +23,92 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-16T07:50:24.995957Z",
+      "scraped_at": "2026-08-16T09:37:51.827002Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-15",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "Europei di Atletica",
+          "program_fr": null,
+          "viewers": 1769000,
+          "share": 15.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Europei+di+Atletica%22+Rai+2+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Ciao Darwin",
+          "program_fr": null,
+          "viewers": 1099000,
+          "share": 13.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Ciao+Darwin%22+Canale+5+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Sogno e Son Desto",
+          "program_fr": null,
+          "viewers": 962000,
+          "share": 10.6,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Sogno+e+Son+Desto%22+Rai+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "La Promessa",
+          "program_fr": null,
+          "viewers": 753000,
+          "share": 7.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Il buono, il brutto, il cattivo",
+          "program_fr": null,
+          "viewers": 627000,
+          "share": 6.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-15-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+buono%2C+il+brutto%2C+il+cattivo%22+Rai+3+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-16T09:37:50.708751Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le prime time du 15 août voit Rai 2 s'imposer avec les championnats d'athlétisme, réunissant 1,77 million de téléspectateurs et 15,9% de part de marché. Cette performance place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des soirées précédentes de la semaine, où Canale 5 avait majoritairement dominé. La fiction turque « Ciao Darwin » sur Canale 5 enregistre un score honorable de 1,10 million de téléspectateurs, mais marque un recul par rapport à ses précédentes diffusions. Rai 1, avec son programme musical, se positionne en troisième place, démontrant une difficulté à capter un large public en cette soirée de milieu de semaine. La stratégie de Rai 2 de programmer un événement sportif en continu semble porter ses fruits face aux offres de divertissement et de fiction des autres grandes chaînes.",
+      "commentary_date": "2026-08-15"
     }
   },
-  "last_updated": "2026-08-16T07:50:30.296649Z"
+  "last_updated": "2026-08-16T09:37:53.458783Z"
 }
