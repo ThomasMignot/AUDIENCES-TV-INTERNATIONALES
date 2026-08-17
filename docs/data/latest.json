@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "countries": {
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
       "flag": "🇩🇪",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
       "entries": [
@@ -13,47 +13,73 @@
           "rank": 1,
           "channel": "ZDF",
           "channel_color": "amber",
-          "program": "ZDFsportstudio live: LA-EM",
+          "program": "Frühling - Mit dem Feind im Bett",
           "program_fr": null,
-          "viewers": 4184999,
-          "share": 24.5,
+          "viewers": 3041000,
+          "share": 14.3,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live%22+ZDF+ratings"
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Fr%C3%BChling"
         },
         {
           "rank": 2,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "The Accountant 2",
           "program_fr": null,
-          "viewers": 3802000,
-          "share": 23.6,
+          "viewers": 1447000,
+          "share": 7.2,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Accountant_2"
         },
         {
           "rank": 3,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "Gefragt - Gejagt",
+          "program": "Back Up - Auf Streife mit der Ex",
           "program_fr": null,
-          "viewers": 2719000,
-          "share": 16.7,
+          "viewers": 1161000,
+          "share": 6.8,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Gefragt%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Backup_(disambiguation)"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Kaum zu glauben! Folge 5",
+          "program_fr": null,
+          "viewers": 1116000,
+          "share": 5.8,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Kaum+zu+glauben%21+Folge+5%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 1104000,
+          "share": 5.4,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T16:37:11.082417Z",
-      "status": "partial",
+      "scraped_at": "2026-08-17T08:04:38.882203Z",
+      "status": "ok",
       "error": null,
-      "commentary": "Le direct sportif sur ZDF, avec la \"LA-EM\", s'impose ce 15 août avec 4,18 millions de téléspectateurs et 24,5% de part de marché. Cette performance place la chaîne publique en tête, devant le journal de Das Erste (3,80 M, 23,6%). La semaine précédente, le \"ZDFsportstudio live: LA-EM\" avait déjà enregistré une forte mobilisation le 13 août, atteignant 4,64 millions de curieux et 26,6% de PDA, signe d'une captation significative de l'audience sportive sur cette case. La présence de deux journaux d'information et d'un magazine de jeux dans le top 3 met en lumière la prédominance des programmes fédérateurs sur les chaînes publiques allemandes, particulièrement en cette période estivale. La compétition pour la tête du prime time reste donc ouverte entre ARD et ZDF, avec une stratégie qui semble payer pour les événements sportifs en direct.",
-      "commentary_date": "2026-08-15"
+      "commentary": "Le prime time du 16 août voit la fiction de ZDF, « Frühling - Mit dem Feind im Bett », s'imposer avec 3,04 millions de téléspectateurs et 14,3% de part de marché. Ce score place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des six soirées précédentes, dominées par Das Erste avec sa « Tagesschau » en lead-in et des événements sportifs. La fiction du ZDF se positionne nettement devant les offres des chaînes privées, dont le meilleur score atteint 1,45 million de curieux. Ce résultat contraste avec la semaine écoulée où les compétitions sportives, notamment d'athlétisme et de natation, avaient captivé une audience plus large, atteignant des pics de plus de 4 millions de téléspectateurs sur les chaînes publiques et privées. La stratégie de ZDF semble porter ses fruits en proposant une offre de fiction dans une case habituellement occupée par des programmes d'information ou des événements sportifs.",
+      "commentary_date": "2026-08-16"
     },
     "ES": {
       "country_code": "ES",
@@ -129,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Telenoticies+Vespre%22+TV3+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T16:37:13.068692Z",
+      "scraped_at": "2026-08-17T08:04:41.319886Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 15 août, Telecinco s'empare de la tête du prime time avec un film attirant 861 000 téléspectateurs, soit 11.3% de part de marché. Cette performance contraste avec les soirées précédentes où La 1 dominait régulièrement, remportant cinq des six journées de la semaine écoulée. Antena 3 se positionne en deuxième place avec un divertissement, \"Atrapa un Millon\", qui rassemble 734 000 personnes (9.5% PDM). Le programme d'information de La 1, \"Informe Semanal\", obtient 615 000 fidèles, représentant 7.8% de part de marché. La chaîne publique catalane TV3, bien que plus confidentielle en audience absolue avec 318 000 téléspectateurs, affiche une part de marché très élevée de 27.6% sur son bassin de diffusion. La stratégie de Telecinco semble axée sur le cinéma pour capter une audience large en cette période estivale.",
@@ -139,11 +165,11 @@
       "country_code": "NL",
       "country_name": "Pays-Bas",
       "flag": "🇳🇱",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-16T16:37:18.589955Z",
+      "scraped_at": "2026-08-17T08:04:47.520841Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -223,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+buono%2C+il+brutto%2C+il+cattivo%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-16T16:37:17.352060Z",
+      "scraped_at": "2026-08-17T08:04:46.190589Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 15 août voit Rai 2 s'imposer avec les championnats d'athlétisme, réunissant 1,77 million de téléspectateurs et 15,9% de part de marché. Cette performance place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des soirées précédentes de la semaine, où Canale 5 avait majoritairement dominé. La fiction turque « Ciao Darwin » sur Canale 5 enregistre un score honorable de 1,10 million de téléspectateurs, mais marque un recul par rapport à ses précédentes diffusions. Rai 1, avec son programme musical, se positionne en troisième place, démontrant une difficulté à capter un large public en cette soirée de milieu de semaine. La stratégie de Rai 2 de programmer un événement sportif en continu semble porter ses fruits face aux offres de divertissement et de fiction des autres grandes chaînes.",
@@ -233,82 +259,82 @@
       "country_code": "FR",
       "country_name": "France",
       "flag": "🇫🇷",
-      "date": "2026-08-14",
+      "date": "2026-08-16",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-du-jeu-une-famille-en-or-sur-tf1/656301",
+      "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
       "entries": [
         {
           "rank": 1,
           "channel": "France 2",
           "channel_color": "red",
-          "program": "CAPITAINE MARLEAU \\ L'ARBRE AUX ESCLAVES",
+          "program": "ATHLETISME CHAMPIONNAT D'EUROPE \\ BIRMINGHAM - EDITION 2026",
           "program_fr": null,
-          "viewers": 2394000,
-          "share": 18.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-du-jeu-une-famille-en-or-sur-tf1/656301",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
+          "viewers": 2856000,
+          "share": 21.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_d%27Europe_d%27athl%C3%A9tisme_2026"
         },
         {
           "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ATHLETISME : CHAMPIONNAT D'EUROPE \\ BIRMINGHAM - EDITION 2026 RETRANSMISSION D'EVENEMENTS SPORTIFS",
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "BLUE BEETLE",
           "program_fr": null,
-          "viewers": 2070000,
-          "share": 16.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-du-jeu-une-famille-en-or-sur-tf1/656301",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Athl%C3%A9tisme"
+          "viewers": 2054000,
+          "share": 14.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Blue_Beetle"
         },
         {
           "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "UNE FAMILLE EN OR",
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "ASSOCIATION CRIMINELLE",
           "program_fr": null,
-          "viewers": 1548000,
-          "share": 11.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-du-jeu-une-famille-en-or-sur-tf1/656301",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Une_famille_en_or"
+          "viewers": 1234000,
+          "share": 7.7,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Association_criminelle"
         },
         {
           "rank": 4,
           "channel": "M6",
           "channel_color": "coral",
-          "program": "LA CHAMBRE DES MERVEILLES",
+          "program": "CAPITAL \\ LOW-COST OU GRAND LUXE : LE BUSINESS XXL DES CAMPING CARS",
           "program_fr": null,
-          "viewers": 957000,
-          "share": 7.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-du-jeu-une-famille-en-or-sur-tf1/656301",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Chambre_des_merveilles"
+          "viewers": 1191000,
+          "share": 7.9,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Agadir"
         },
         {
           "rank": 5,
           "channel": "Arte",
           "channel_color": "purple",
-          "program": "MEURTRES A SANDHAMN \\ NADIA",
+          "program": "RENDEZ VOUS AVEC LA MORT",
           "program_fr": null,
-          "viewers": 774000,
-          "share": 5.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-le-retour-du-jeu-une-famille-en-or-sur-tf1/656301",
+          "viewers": 978000,
+          "share": 6.3,
+          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Rendez-vous_avec_la_mort_%28t%C3%A9l%C3%A9film%29"
         }
       ],
-      "scraped_at": "2026-08-16T16:37:03.128476Z",
+      "scraped_at": "2026-08-17T08:04:29.533450Z",
       "status": "ok",
       "error": null,
-      "commentary": "France 2 s'impose ce vendredi 14 août avec une fiction, \"Capitaine Marleau\", attirant 2,39 millions de téléspectateurs et 18,0% de part d'audience. Ce score est légèrement inférieur à celui de la semaine précédente pour le même programme (2,58 millions, 19,7%), mais confirme la capacité de la chaîne publique à mobiliser sur cette case du prime time. La retransmission des Championnats d'Europe d'athlétisme sur France 3, avec 2,07 millions de curieux (16,3% PDM), démontre la force de l'événement sportif dans la conquête d'audience, se plaçant devant TF1. La Une, qui avait mené le classement trois soirs cette semaine, se retrouve troisième avec un divertissement familial à 1,55 million de téléspectateurs (11,4% PDM). M6 et Arte ferment la marche, témoignant de la difficulté des chaînes privées et thématiques à rivaliser avec les offres des grandes généralistes sur ce créneau horaire estival.",
-      "commentary_date": "2026-08-14"
+      "commentary": "France 2 s'impose ce dimanche 16 août avec la retransmission de l'athlétisme, atteignant 2,86 millions de téléspectateurs et 21,1% de part d'audience. Cette performance publique se distingue nettement de celle de TF1, qui réunit 2,05 millions de personnes devant le film \"Blue Beetle\", soit 14,8% de PDA. La case sportive de France 2, qui avait déjà mobilisé 2,15 millions de personnes le 13 août, confirme sa capacité à fédérer un large public lors de grands événements. L'écart creusé ce soir avec la première chaîne privée s'inscrit dans une dynamique hebdomadaire où TF1 a pourtant été leader du prime à trois reprises sur les sept derniers jours. France 3, avec sa série \"Association criminelle\", se positionne en troisième chaîne nationale, mais accuse un net recul par rapport à ses scores habituels sur cette case, tombant à 1,23 million de téléspectateurs. Le programme de M6 \"Capital\", bien que traitant d'un sujet populaire, peine à dépasser le million de curieux, reflétant la difficulté des magazines d'information à rivaliser avec les offres de fiction et de sport en cette période estivale.",
+      "commentary_date": "2026-08-16"
     }
   },
-  "last_updated": "2026-08-16T16:37:18.592302Z"
+  "last_updated": "2026-08-17T08:04:47.523164Z"
 }
