@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Rendez-vous_avec_la_mort_%28t%C3%A9l%C3%A9film%29"
         }
       ],
-      "scraped_at": "2026-08-17T08:04:29.533450Z",
+      "scraped_at": "2026-08-17T09:53:20.030636Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce dimanche 16 août avec la retransmission de l'athlétisme, atteignant 2,86 millions de téléspectateurs et 21,1% de part d'audience. Cette performance publique se distingue nettement de celle de TF1, qui réunit 2,05 millions de personnes devant le film \"Blue Beetle\", soit 14,8% de PDA. La case sportive de France 2, qui avait déjà mobilisé 2,15 millions de personnes le 13 août, confirme sa capacité à fédérer un large public lors de grands événements. L'écart creusé ce soir avec la première chaîne privée s'inscrit dans une dynamique hebdomadaire où TF1 a pourtant été leader du prime à trois reprises sur les sept derniers jours. France 3, avec sa série \"Association criminelle\", se positionne en troisième chaîne nationale, mais accuse un net recul par rapport à ses scores habituels sur cette case, tombant à 1,23 million de téléspectateurs. Le programme de M6 \"Capital\", bien que traitant d'un sujet populaire, peine à dépasser le million de curieux, reflétant la difficulté des magazines d'information à rivaliser avec les offres de fiction et de sport en cette période estivale.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         }
       ],
-      "scraped_at": "2026-08-17T08:04:38.882203Z",
+      "scraped_at": "2026-08-17T09:53:24.283639Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 16 août voit la fiction de ZDF, « Frühling - Mit dem Feind im Bett », s'imposer avec 3,04 millions de téléspectateurs et 14,3% de part de marché. Ce score place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des six soirées précédentes, dominées par Das Erste avec sa « Tagesschau » en lead-in et des événements sportifs. La fiction du ZDF se positionne nettement devant les offres des chaînes privées, dont le meilleur score atteint 1,45 million de curieux. Ce résultat contraste avec la semaine écoulée où les compétitions sportives, notamment d'athlétisme et de natation, avaient captivé une audience plus large, atteignant des pics de plus de 4 millions de téléspectateurs sur les chaînes publiques et privées. La stratégie de ZDF semble porter ses fruits en proposant une offre de fiction dans une case habituellement occupée par des programmes d'information ou des événements sportifs.",
@@ -169,12 +169,172 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-17T08:04:47.520841Z",
+      "scraped_at": "2026-08-17T09:53:30.505748Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-08-16",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Pelicula de la Semana (Robin Hood.Forajido,Heroe,Leyenda)",
+          "program_fr": null,
+          "viewers": 1071000,
+          "share": 12.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Pelicula+de+la+Semana+%28Robin+Hood.Forajido%2CHeroe%2CLeyenda%29%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Una Nueva Vida",
+          "program_fr": null,
+          "viewers": 810000,
+          "share": 10.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-agosto-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Una+Nueva+Vida%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 657000,
+          "share": 8.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Taquillazo (Toc Toc(2017))",
+          "program_fr": null,
+          "viewers": 430000,
+          "share": 4.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Taquillazo+%28Toc+Toc%282017%29%29%22+La+Sexta+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Cuarto Milenio",
+          "program_fr": null,
+          "viewers": 387000,
+          "share": 4.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-agosto-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-17T09:53:25.886450Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La diffusion de « Pelicula de la Semana » sur La 1, avec 1,07 million de téléspectateurs et 12,1% de part de marché, positionne la chaîne publique en tête des audiences du prime time du 16 août. Ce résultat confirme la tendance observée sur la semaine écoulée, où La 1 a été leader cinq soirs sur sept, s'appuyant sur des offres cinématographiques et des magazines d'information. La fiction d'Antena 3, « Una Nueva Vida », se classe deuxième avec 810 000 curieux (10,4% PDM), une performance stable par rapport à la semaine précédente. Telecinco, avec son divertissement « First Dates », attire 657 000 téléspectateurs (8,0% PDM), marquant un léger recul par rapport à ses scores habituels de la semaine. La Sexta et Cuatro ferment le classement, leurs offres de cinéma et de magazine d'investigation enregistrant des parts de marché inférieures à 5%.",
+      "commentary_date": "2026-08-16"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-16",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "Europei di Atletica",
+          "program_fr": null,
+          "viewers": 2417000,
+          "share": 18.4,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-16-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Europei+di+Atletica%22+Rai+2+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Racconto di una Notte",
+          "program_fr": null,
+          "viewers": 1596000,
+          "share": 13.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-16-agosto-2026",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Racconto+di+una+Notte%22+Canale+5+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Stasera… Pippo Baudo",
+          "program_fr": null,
+          "viewers": 1169000,
+          "share": 11.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-16-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Stasera%E2%80%A6+Pippo+Baudo%22+Rai+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Coppa Italia",
+          "program_fr": null,
+          "viewers": 769000,
+          "share": 6.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-16-agosto-2026",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Coppa+Italia%22+Italia+1+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "Viaggi di nozze",
+          "program_fr": null,
+          "viewers": 567000,
+          "share": 4.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-16-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaggi+di+nozze%22+Rete+4+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-17T09:53:29.169316Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La diffusion des \"Europei di Atletica\" sur Rai 2 s'impose en tête des audiences du prime time ce 16 août, rassemblant 2,42 millions de téléspectateurs, soit 18,4% de part de marché. Cette performance représente une progression par rapport aux jours précédents, où le même programme oscillait entre 1,19 et 1,93 million de fidèles. La chaîne publique prend ainsi le leadership face à Canale 5, dont la fiction \"Racconto di una Notte\" se classe deuxième avec 1,60 million de curieux (13,7% PDM). La stratégie de Rai 2 de programmer l'événement sportif sur plusieurs soirées semble porter ses fruits, captant une audience plus large que les offres de divertissement ou de fiction des chaînes concurrentes. Rai 1, traditionnellement leader, se retrouve reléguée en troisième position avec le divertissement \"Stasera… Pippo Baudo\", qui enregistre 1,17 million de téléspectateurs (11,0% PDM).",
+      "commentary_date": "2026-08-16"
     }
   },
-  "last_updated": "2026-08-17T08:04:52.439849Z"
+  "last_updated": "2026-08-17T09:53:34.917806Z"
 }
