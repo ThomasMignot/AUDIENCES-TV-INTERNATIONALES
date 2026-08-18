@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "countries": {
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
       "flag": "🇩🇪",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
       "entries": [
@@ -15,8 +15,8 @@
           "channel_color": "blue",
           "program": "Tagesschau",
           "program_fr": null,
-          "viewers": 5977000,
-          "share": 29.5,
+          "viewers": 5294000,
+          "share": 25.9,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
@@ -26,60 +26,60 @@
           "rank": 2,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "Leichtathletik-EM",
+          "program": "Der Buchspazierer",
           "program_fr": null,
-          "viewers": 5438000,
-          "share": 27.1,
+          "viewers": 4199000,
+          "share": 19.9,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Leichtathletik-EM%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Der+Buchspazierer%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 3,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "Schwimm-EM",
+          "program": "Unter anderen Umständen - Nordwind",
           "program_fr": null,
-          "viewers": 4578000,
-          "share": 21.8,
+          "viewers": 4038000,
+          "share": 19.2,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Schwimm-EM%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://www.google.com/search?q=%22Unter+anderen+Umst%C3%A4nden%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 4,
           "channel": "ZDF",
           "channel_color": "amber",
-          "program": "Frühling - Mit dem Feind im Bett",
+          "program": "heute journal",
           "program_fr": null,
-          "viewers": 3041000,
-          "share": 14.3,
+          "viewers": 3376000,
+          "share": 18.0,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fr%C3%BChling%22+ZDF+ratings"
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         },
         {
           "rank": 5,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "The Accountant 2",
+          "program": "Memory - Sein letzter Auftrag",
           "program_fr": null,
-          "viewers": 1447000,
-          "share": 7.2,
+          "viewers": 1660000,
+          "share": 13.7,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Accountant_2"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Memory"
         }
       ],
-      "scraped_at": "2026-08-17T16:39:14.277496Z",
+      "scraped_at": "2026-08-18T07:58:17.056140Z",
       "status": "ok",
       "error": null,
-      "commentary": "Le prime time du 16 août voit la fiction de ZDF, « Frühling - Mit dem Feind im Bett », s'imposer avec 3,04 millions de téléspectateurs et 14,3% de part de marché. Ce score place la chaîne publique en tête, une position qu'elle n'avait pas occupée lors des six soirées précédentes, dominées par Das Erste avec sa « Tagesschau » en lead-in et des événements sportifs. La fiction du ZDF se positionne nettement devant les offres des chaînes privées, dont le meilleur score atteint 1,45 million de curieux. Ce résultat contraste avec la semaine écoulée où les compétitions sportives, notamment d'athlétisme et de natation, avaient captivé une audience plus large, atteignant des pics de plus de 4 millions de téléspectateurs sur les chaînes publiques et privées. La stratégie de ZDF semble porter ses fruits en proposant une offre de fiction dans une case habituellement occupée par des programmes d'information ou des événements sportifs.",
-      "commentary_date": "2026-08-16"
+      "commentary": "Le journal « Tagesschau » de Das Erste s'affirme comme le leader incontesté de la case du prime time, atteignant 5,29 millions de téléspectateurs et 25,9% de part de marché ce lundi 17 août. Cette performance est supérieure à la moyenne de ses propres scores de la semaine écoulée, qui s'établissait à 4,48 millions (24.3% PDM) sur les six soirées précédentes où il figurait dans le top 3. La présence de deux fictions, « Der Buchspazierer » et « Unter anderen Umständen - Nordwind », qui captivent respectivement 4,20 et 4,04 millions de personnes, témoigne de la puissance des offres de divertissement face à l'information, même celle des chaînes publiques. Le « heute journal » de ZDF, avec 3,38 millions de téléspectateurs (18.0% PDM), se positionne en quatrième position, confirmant la domination des chaînes publiques sur cette tranche horaire. La faible performance du cinquième programme, avec 1,66 million de téléspectateurs, suggère une concentration des audiences sur les offres les plus fortes, potentiellement sur les publics plus âgés, traditionnellement fidèles aux chaînes généralistes.",
+      "commentary_date": "2026-08-17"
     },
     "ES": {
       "country_code": "ES",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-17T16:39:15.231819Z",
+      "scraped_at": "2026-08-18T07:58:19.094374Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de « Pelicula de la Semana » sur La 1, avec 1,07 million de téléspectateurs et 12,1% de part de marché, positionne la chaîne publique en tête des audiences du prime time du 16 août. Ce résultat confirme la tendance observée sur la semaine écoulée, où La 1 a été leader cinq soirs sur sept, s'appuyant sur des offres cinématographiques et des magazines d'information. La fiction d'Antena 3, « Una Nueva Vida », se classe deuxième avec 810 000 curieux (10,4% PDM), une performance stable par rapport à la semaine précédente. Telecinco, avec son divertissement « First Dates », attire 657 000 téléspectateurs (8,0% PDM), marquant un léger recul par rapport à ses scores habituels de la semaine. La Sexta et Cuatro ferment le classement, leurs offres de cinéma et de magazine d'investigation enregistrant des parts de marché inférieures à 5%.",
@@ -165,13 +165,13 @@
       "country_code": "NL",
       "country_name": "Pays-Bas",
       "flag": "🇳🇱",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-17T16:39:18.761085Z",
+      "scraped_at": "2026-08-18T07:58:52.828380Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7fbe2cdabc10>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viaggi+di+nozze%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-08-17T16:39:17.749440Z",
+      "scraped_at": "2026-08-18T07:58:22.465726Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion des \"Europei di Atletica\" sur Rai 2 s'impose en tête des audiences du prime time ce 16 août, rassemblant 2,42 millions de téléspectateurs, soit 18,4% de part de marché. Cette performance représente une progression par rapport aux jours précédents, où le même programme oscillait entre 1,19 et 1,93 million de fidèles. La chaîne publique prend ainsi le leadership face à Canale 5, dont la fiction \"Racconto di una Notte\" se classe deuxième avec 1,60 million de curieux (13,7% PDM). La stratégie de Rai 2 de programmer l'événement sportif sur plusieurs soirées semble porter ses fruits, captant une audience plus large que les offres de divertissement ou de fiction des chaînes concurrentes. Rai 1, traditionnellement leader, se retrouve reléguée en troisième position avec le divertissement \"Stasera… Pippo Baudo\", qui enregistre 1,17 million de téléspectateurs (11,0% PDM).",
@@ -259,82 +259,82 @@
       "country_code": "FR",
       "country_name": "France",
       "flag": "🇫🇷",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-lamour-est-dans-le-pre-sur-m6/656379",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ATHLETISME CHAMPIONNAT D'EUROPE \\ BIRMINGHAM - EDITION 2026",
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "L'AMOUR EST DANS LE PRE",
           "program_fr": null,
-          "viewers": 2856000,
-          "share": 21.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
-          "category": "sport",
-          "category_emoji": "⚽",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_d%27Europe_d%27athl%C3%A9tisme_2026"
+          "viewers": 2826000,
+          "share": 19.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-lamour-est-dans-le-pre-sur-m6/656379",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27amour_est_dans_le_pr%C3%A9"
         },
         {
           "rank": 2,
           "channel": "TF1",
           "channel_color": "blue",
-          "program": "BLUE BEETLE",
+          "program": "CAMPING PARADIS : UN BOYS BAND AU PARADIS \\ PARTIE 1",
           "program_fr": null,
-          "viewers": 2054000,
-          "share": 14.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "viewers": 2095000,
+          "share": 14.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-lamour-est-dans-le-pre-sur-m6/656379",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Blue_Beetle"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
         },
         {
           "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "ASSOCIATION CRIMINELLE",
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENQUETES AU PARADIS \\ UNE VIE DE ROMAN",
           "program_fr": null,
-          "viewers": 1234000,
-          "share": 7.7,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "viewers": 1990000,
+          "share": 13.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-lamour-est-dans-le-pre-sur-m6/656379",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Association_criminelle"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAtes_au_paradis"
         },
         {
           "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAPITAL \\ LOW-COST OU GRAND LUXE : LE BUSINESS XXL DES CAMPING CARS",
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "POUR UNE POIGNEE DE DOLLARS",
           "program_fr": null,
-          "viewers": 1191000,
-          "share": 7.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Agadir"
+          "viewers": 1650000,
+          "share": 11.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-lamour-est-dans-le-pre-sur-m6/656379",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Pour_une_poign%C3%A9e_de_dollars"
         },
         {
           "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "RENDEZ VOUS AVEC LA MORT",
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "SPIDER-MAN 2",
           "program_fr": null,
-          "viewers": 978000,
-          "share": 6.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-film-inedit-blue-beetle-sur-tf1-sest-il-impose-face-a-lathletisme/656305",
+          "viewers": 820000,
+          "share": 6.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-lamour-est-dans-le-pre-sur-m6/656379",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Rendez-vous_avec_la_mort_%28t%C3%A9l%C3%A9film%29"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Spider-Man_2"
         }
       ],
-      "scraped_at": "2026-08-17T16:39:11.260889Z",
+      "scraped_at": "2026-08-18T07:58:10.734921Z",
       "status": "ok",
       "error": null,
-      "commentary": "France 2 s'impose ce dimanche 16 août avec la retransmission de l'athlétisme, atteignant 2,86 millions de téléspectateurs et 21,1% de part d'audience. Cette performance publique se distingue nettement de celle de TF1, qui réunit 2,05 millions de personnes devant le film \"Blue Beetle\", soit 14,8% de PDA. La case sportive de France 2, qui avait déjà mobilisé 2,15 millions de personnes le 13 août, confirme sa capacité à fédérer un large public lors de grands événements. L'écart creusé ce soir avec la première chaîne privée s'inscrit dans une dynamique hebdomadaire où TF1 a pourtant été leader du prime à trois reprises sur les sept derniers jours. France 3, avec sa série \"Association criminelle\", se positionne en troisième chaîne nationale, mais accuse un net recul par rapport à ses scores habituels sur cette case, tombant à 1,23 million de téléspectateurs. Le programme de M6 \"Capital\", bien que traitant d'un sujet populaire, peine à dépasser le million de curieux, reflétant la difficulté des magazines d'information à rivaliser avec les offres de fiction et de sport en cette période estivale.",
-      "commentary_date": "2026-08-16"
+      "commentary": "Ce 17 août, M6 s'empare du leadership du prime time avec 2,83 millions de téléspectateurs et 19,0% de part d'audience pour \"L'amour est dans le pré\", dépassant TF1 et France 2. La fiction de TF1, \"Camping Paradis\", réunit 2,10 millions de personnes (14,0% PDM), un score inférieur à celui de la semaine précédente (2,28 M, 15.1%). France 2, qui dominait la semaine avec trois soirées en tête, voit sa fiction \"Enquêtes au Paradis\" se classer troisième avec 1,99 million de téléspectateurs (13,3% PDM). La performance de M6 illustre la capacité des programmes de flux à capter une large audience, indépendamment des événements sportifs qui avaient précédemment soutenu France 2. La fragmentation de l'audience, accentuée par la TNT, rend ces variations de positionnement plus fréquentes dans les cases de prime time.",
+      "commentary_date": "2026-08-17"
     }
   },
-  "last_updated": "2026-08-17T16:39:18.763138Z"
+  "last_updated": "2026-08-18T07:58:52.829521Z"
 }
