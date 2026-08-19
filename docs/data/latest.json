@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Helen+Dorn%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-19T13:26:32.162851Z",
+      "scraped_at": "2026-08-19T14:53:24.085702Z",
       "status": "partial",
       "error": null,
       "commentary": "Le journal télévisé « Tagesschau » sur Das Erste s'affirme en tête du prime time avec 4,31 millions de téléspectateurs et 21,3% de part de marché, confirmant sa position de leader sur six des sept derniers jours. Le « heute journal » du ZDF se classe second, mais accuse un écart significatif, avec 3,08 millions de fidèles et 16,8% de PDM. La compétition pour la troisième place s'intensifie, « Die Kanzlei Folge 73 » attirant 2,89 millions de téléspectateurs, soit une légère érosion par rapport aux scores de fiction des jours précédents. Cette performance souligne la prégnance des chaînes publiques dans les cases d'information et de divertissement, malgré la présence de compétiteurs proposant des formats de fiction ou des événements sportifs. La fiction concurrente « Helen Dorn - Das rote Tuch » peine à s'installer, avec seulement 1,34 million de curieux.",
@@ -75,76 +75,10 @@
       "date": "2026-08-18",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele:Clasicos (Musica en Femenino)",
-          "program_fr": null,
-          "viewers": 907000,
-          "share": 10.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "En Tierra Lejana",
-          "program_fr": null,
-          "viewers": 849000,
-          "share": 12.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-agosto-2026/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22En+Tierra+Lejana%22+Antena+3+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 797000,
-          "share": 9.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-agosto-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
-          "program_fr": null,
-          "viewers": 585000,
-          "share": 6.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Viajeros Cuatro (Punta Umbria)",
-          "program_fr": null,
-          "viewers": 476000,
-          "share": 5.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-agosto-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Punta+Umbria%29%22+Cuatro+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-19T13:26:33.762714Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-08-19T14:53:24.696159Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La chaîne publique La 1 s'affirme comme leader du prime time sur la semaine écoulée, remportant cinq soirées sur sept, un positionnement renforcé par le succès de son magazine « Viaje al Centro de la Tele » qui réalise 10.7% de PDM ce mardi. La fiction d'Antena 3, « En Tierra Lejana », se maintient en deuxième position avec 12.5% de part de marché, mais accuse une légère baisse par rapport aux 12.3% enregistrés dimanche dernier. Telecinco voit son divertissement « First Dates » reculer à 9.4% de PDM, un score inférieur aux 8.9% de la veille et aux 9.8% du 11 août. La compétition pour le leadership du prime time s'intensifie entre La 1 et le duopole Antena 3/Telecinco, ce dernier cherchant à consolider sa présence face à la remontée de la chaîne publique. La stratégie de La 1 semble s'appuyer sur des formats fédérateurs, tandis qu'Antena 3 mise sur la fiction et Telecinco sur des programmes de flux éprouvés.",
       "commentary_date": "2026-08-18"
     },
@@ -156,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-19T13:26:39.139158Z",
+      "scraped_at": "2026-08-19T14:53:28.687515Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -236,7 +170,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Io%2C+noi+e+Gaber%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-19T13:26:37.866145Z",
+      "scraped_at": "2026-08-19T14:53:27.272861Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 s'impose en tête des audiences du prime time du 18 août avec 1,72 million de téléspectateurs et 15,7% de part de marché grâce à la fiction « Il mio amico Tempesta ». La chaîne privée Mediaset devance ainsi Rai 1 et sa production « Emma e il giaguaro nero », qui rassemble 1,50 million de personnes (12,8% PDM). Cette performance de Canale 5 marque une rupture avec la domination de Rai 2 sur les soirées précédentes, où la chaîne publique s'appuyait sur la diffusion des Championnats d'Europe d'athlétisme, atteignant jusqu'à 2,42 millions de spectateurs le 16 août. La stratégie de Rai 2 semble avoir porté ses fruits en captant un public large, tandis que Rai 1 peine à confirmer son leadership historique sur cette période estivale. Italia 1, avec son divertissement « Radio Estate », se positionne en troisième force avec 839 000 téléspectateurs (7,9% PDM), confirmant une certaine fragmentation des audiences en dehors des événements sportifs majeurs.",
@@ -316,12 +250,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Surtourisme"
         }
       ],
-      "scraped_at": "2026-08-19T13:26:27.620001Z",
+      "scraped_at": "2026-08-19T14:53:20.726220Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction unitaire de France 3, « OPJ \\ AUTOPSIE, SCENE DE CRIME ET BOTANIQUE », s'impose en tête des audiences avec 2,67 millions de téléspectateurs et 18,0% de part de marché. Ce score est quasi stable par rapport à la semaine précédente, où un épisode similaire de la même série avait rassemblé 2,69 millions de personnes (18,3% PDM). La chaîne publique confirme ainsi la force de sa case fiction du mardi soir, qui surperforme régulièrement les offres des grandes chaînes commerciales. TF1, avec le film « THE MARVELS », réalise 1,69 million de téléspectateurs (12,1% PDM), un résultat inférieur à la moyenne hebdomadaire des films diffusés sur la chaîne. France 2, avec « RENDEZ-VOUS EN TERRE INCONNUE », enregistre 1,41 million de curieux (10,0% PDM), marquant une baisse significative par rapport aux pics de la semaine liés aux Championnats d'Europe d'athlétisme. M6, avec « ZONE INTERDITE », se positionne en cinquième position, démontrant la difficulté de la case magazine d'information à capter une large audience face aux fictions et aux événements sportifs.",
       "commentary_date": "2026-08-18"
     }
   },
-  "last_updated": "2026-08-19T13:26:39.141206Z"
+  "last_updated": "2026-08-19T14:53:28.689751Z"
 }
