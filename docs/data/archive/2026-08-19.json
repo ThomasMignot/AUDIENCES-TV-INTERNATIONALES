@@ -1,6 +1,86 @@
 {
   "date": "2026-08-19",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-19",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LES INVISIBLES \\ CASSEL - PARTIE 1",
+          "program_fr": null,
+          "viewers": 2164000,
+          "share": 15.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Invisibles_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%2C_2021%29"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "FESTIVAL INTERCELTIQUE DE LORIENT \\ LE GRAND SPECTACLE 2026 CONCERT",
+          "program_fr": null,
+          "viewers": 1705000,
+          "share": 13.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Festival_interceltique_de_Lorient"
+        },
+        {
+          "rank": 3,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "DUCOBU PRESIDENT",
+          "program_fr": null,
+          "viewers": 1592000,
+          "share": 12.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ducobu_pr%C3%A9sident_%21"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "A QUEL PRIX ?",
+          "program_fr": null,
+          "viewers": 1109000,
+          "share": 8.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%80_quel_prix_%3F"
+        },
+        {
+          "rank": 5,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "AU BOUT C'EST LA MER",
+          "program_fr": null,
+          "viewers": 947000,
+          "share": 6.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
+        }
+      ],
+      "scraped_at": "2026-08-20T08:01:08.711181Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 reprend la tête du prime time ce mercredi 19 août avec la fiction \"Les Invisibles\", qui rassemble 2,16 millions de téléspectateurs et atteint 15,6% de part d'audience. Cette performance la place devant France 3 et son \"Festival Interceltique de Lorient\", qui enregistre 1,71 million de curieux (13,1% PDM). La fiction de France 2 s'inscrit dans une stratégie de consolidation de sa position de leader, qu'elle a occupée trois soirs sur les sept derniers jours, notamment grâce à des événements sportifs comme les championnats d'athlétisme. La semaine précédente, le leadership du prime avait été plus disputé, avec des victoires de France 2, mais aussi de M6 et TF1 sur des formats de flux comme \"L'amour est dans le pré\" ou des blockbusters. La présence de TF1 et M6 en quatrième et cinquième position, avec des scores inférieurs à 1,2 million de téléspectateurs, témoigne d'une fragmentation de l'audience, accentuée par la TNT.",
+      "commentary_date": "2026-08-19"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,167 +241,7 @@
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
-    },
-    "IT": {
-      "country_code": "IT",
-      "country_name": "Italie",
-      "flag": "🇮🇹",
-      "date": "2026-08-18",
-      "source_name": "Davide Maggio · Ascolti TV",
-      "source_url": "https://www.davidemaggio.it/ascolti-tv",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Canale 5",
-          "channel_color": "red",
-          "program": "Il mio amico Tempesta",
-          "program_fr": null,
-          "viewers": 1721000,
-          "share": 15.7,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-18-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+mio+amico+Tempesta%22+Canale+5+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Rai 1",
-          "channel_color": "blue",
-          "program": "Emma e il giaguaro nero",
-          "program_fr": null,
-          "viewers": 1497000,
-          "share": 12.8,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-18-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Emma+e+il+giaguaro+nero%22+Rai+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Italia 1",
-          "channel_color": "amber",
-          "program": "Radio Estate",
-          "program_fr": null,
-          "viewers": 839000,
-          "share": 7.9,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-18-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Radio+Estate%22+Italia+1+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Rai 2",
-          "channel_color": "teal",
-          "program": "Palermo Milano – Solo andata",
-          "program_fr": null,
-          "viewers": 617000,
-          "share": 4.9,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-18-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Palermo+Milano%22+Rai+2+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Rai 3",
-          "channel_color": "coral",
-          "program": "Io, noi e Gaber",
-          "program_fr": null,
-          "viewers": 562000,
-          "share": 4.7,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-18-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Io%2C+noi+e+Gaber%22+Rai+3+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-20T08:01:18.003353Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Canale 5 s'impose en tête des audiences du prime time du 18 août avec 1,72 million de téléspectateurs et 15,7% de part de marché grâce à la fiction « Il mio amico Tempesta ». La chaîne privée Mediaset devance ainsi Rai 1 et sa production « Emma e il giaguaro nero », qui rassemble 1,50 million de personnes (12,8% PDM). Cette performance de Canale 5 marque une rupture avec la domination de Rai 2 sur les soirées précédentes, où la chaîne publique s'appuyait sur la diffusion des Championnats d'Europe d'athlétisme, atteignant jusqu'à 2,42 millions de spectateurs le 16 août. La stratégie de Rai 2 semble avoir porté ses fruits en captant un public large, tandis que Rai 1 peine à confirmer son leadership historique sur cette période estivale. Italia 1, avec son divertissement « Radio Estate », se positionne en troisième force avec 839 000 téléspectateurs (7,9% PDM), confirmant une certaine fragmentation des audiences en dehors des événements sportifs majeurs.",
-      "commentary_date": "2026-08-18"
-    },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-08-19",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LES INVISIBLES \\ CASSEL - PARTIE 1",
-          "program_fr": null,
-          "viewers": 2164000,
-          "share": 15.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Invisibles_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%2C_2021%29"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "FESTIVAL INTERCELTIQUE DE LORIENT \\ LE GRAND SPECTACLE 2026 CONCERT",
-          "program_fr": null,
-          "viewers": 1705000,
-          "share": 13.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Festival_interceltique_de_Lorient"
-        },
-        {
-          "rank": 3,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "DUCOBU PRESIDENT",
-          "program_fr": null,
-          "viewers": 1592000,
-          "share": 12.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Ducobu_pr%C3%A9sident_%21"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "A QUEL PRIX ?",
-          "program_fr": null,
-          "viewers": 1109000,
-          "share": 8.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%80_quel_prix_%3F"
-        },
-        {
-          "rank": 5,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "AU BOUT C'EST LA MER",
-          "program_fr": null,
-          "viewers": 947000,
-          "share": 6.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-nouveau-numero-du-magazine-a-quel-prix-sur-m6/656382",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
-        }
-      ],
-      "scraped_at": "2026-08-20T08:01:08.711181Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 reprend la tête du prime time ce mercredi 19 août avec la fiction \"Les Invisibles\", qui rassemble 2,16 millions de téléspectateurs et atteint 15,6% de part d'audience. Cette performance la place devant France 3 et son \"Festival Interceltique de Lorient\", qui enregistre 1,71 million de curieux (13,1% PDM). La fiction de France 2 s'inscrit dans une stratégie de consolidation de sa position de leader, qu'elle a occupée trois soirs sur les sept derniers jours, notamment grâce à des événements sportifs comme les championnats d'athlétisme. La semaine précédente, le leadership du prime avait été plus disputé, avec des victoires de France 2, mais aussi de M6 et TF1 sur des formats de flux comme \"L'amour est dans le pré\" ou des blockbusters. La présence de TF1 et M6 en quatrième et cinquième position, avec des scores inférieurs à 1,2 million de téléspectateurs, témoigne d'une fragmentation de l'audience, accentuée par la TNT.",
-      "commentary_date": "2026-08-19"
     }
   },
-  "last_updated": "2026-08-20T08:01:19.072547Z"
+  "last_updated": "2026-08-20T08:01:27.410319Z"
 }
