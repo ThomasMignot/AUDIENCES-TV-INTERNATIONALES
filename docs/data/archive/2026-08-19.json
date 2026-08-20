@@ -100,7 +100,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Aktenzeichen++XY...+Ungel%C3%B6st%22+Sat.1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aktenzeichen_XY..._ungel%C3%B6st"
         },
         {
           "rank": 3,
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Bis+zur+Wahrheit%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-20T08:01:14.297588Z",
+      "scraped_at": "2026-08-20T09:46:43.273350Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 19 août voit le journal télévisé de Das Erste, « Tagesschau », reconquérir la première place avec 4,71 millions de téléspectateurs et 24,4% de part de marché. Ce score le positionne nettement devant « Aktenzeichen XY... Ungelöst » sur Sat.1, qui réalise une performance notable pour une chaîne privée avec 19,8% de PDM. Le ZDF, avec son « heute journal », se classe troisième, confirmant une tendance de fragilité sur cette case par rapport aux performances de la semaine précédente, notamment celles liées aux retransmissions sportives européennes. La domination de Das Erste sur la semaine, avec quatre soirées en tête, s'appuie sur la régularité de ses programmes d'information en début de prime. La présence de deux chaînes publiques dans le top 3 illustre la force historique de ces diffuseurs auprès des publics plus âgés, tandis que les chaînes privées tentent de capter des audiences plus jeunes avec des formats de divertissement ou des séries.",
@@ -222,7 +222,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-20T08:01:15.426626Z",
+      "scraped_at": "2026-08-20T09:46:45.273216Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 19 août voit le retour de Telecinco en tête du prime avec \"First Dates\", attirant 898 000 téléspectateurs (10.0% PDM), une performance en hausse par rapport aux jours précédents, où le programme oscillait autour de 800 000 spectateurs. La chaîne publique La 1 se positionne juste derrière avec \"Viaje al Centro de la Tele\", qui maintient un niveau d'audience stable (847 000, 9.8% PDM). Antena 3, avec \"El Hormiguero\", enregistre 607 000 téléspectateurs (6.8% PDM), un score inférieur à ses performances habituelles dans cette case stratégique de l'access prime time. La diffusion du match de football du Trofeu Joan Gamper sur TV3, bien que classée quatrième en nombre absolu, réalise une part de marché exceptionnelle de 40.8%, témoignant de la puissance du sport sur les audiences segmentées. La semaine précédente, La 1 avait dominé le prime time cinq soirs sur sept, démontrant une dynamique différente.",
@@ -236,12 +236,92 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-20T08:01:19.070575Z",
+      "scraped_at": "2026-08-20T09:46:50.928893Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-19",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "50 km all’ora",
+          "program_fr": null,
+          "viewers": 1691000,
+          "share": 15.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%2250+km+all%E2%80%99ora%22+Canale+5+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Finché notte non ci separi",
+          "program_fr": null,
+          "viewers": 1569000,
+          "share": 13.1,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Finch%C3%A9+notte+non+ci+separi%22+Rai+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Chicago Med",
+          "program_fr": "Chicago Med",
+          "viewers": 1170000,
+          "share": 9.6,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Med%22+Italia+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "Un Giorno in Pretura",
+          "program_fr": null,
+          "viewers": 863000,
+          "share": 7.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Un+Giorno+in+Pretura%22+Rai+3+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "Il Padrino – Parte II",
+          "program_fr": null,
+          "viewers": 499000,
+          "share": 5.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+Padrino%22+Rete+4+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-20T09:46:49.706668Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Canale 5 s'affirme en tête des soirées de prime time sur la semaine écoulée, menant trois des sept journées analysées. Ce 19 août, la chaîne privée confirme sa position avec \"50 km all’ora\", attirant 1,69 million de téléspectateurs et 15,5% de part de marché, une performance en légère hausse par rapport à son programme de la veille (\"Il mio amico Tempesta\", 1,72 M, 15,7%). La Rai 1, leader historique, se positionne en deuxième place avec \"Finché notte non ci separi\" (1,57 M, 13,1%), enregistrant une légère baisse par rapport à la fiction \"Emma e il giaguaro nero\" diffusée le 18 août (1,50 M, 12,8%). La lutte pour la deuxième place du prime time semble s'intensifier, Rai 1 et Rai 2 ayant échangé les positions à plusieurs reprises au cours de la semaine, notamment lors de la diffusion des Championnats d'Europe d'Athlétisme sur Rai 2 qui avaient dominé les audiences. La stratégie de Canale 5 semble s'appuyer sur des productions locales et des films, tandis que Rai 1 alterne entre fictions et divertissements, cherchant à reconquérir son leadership.",
+      "commentary_date": "2026-08-19"
     }
   },
-  "last_updated": "2026-08-20T08:01:27.410319Z"
+  "last_updated": "2026-08-20T09:46:56.126662Z"
 }
