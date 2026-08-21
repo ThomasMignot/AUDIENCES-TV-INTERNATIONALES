@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Politbarometer%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Politbarometer"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Merz+gegen+Merz%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-21T11:02:29.467754Z",
+      "scraped_at": "2026-08-21T13:27:58.471980Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé \"Tagesschau\" de Das Erste confirme sa position de leader du prime time, rassemblant 4,87 millions de téléspectateurs et 25,7% de part de marché, un score en hausse par rapport aux 4,71 millions de la veille. La fiction \"Der Amsterdam-Krimi\" sur une chaîne concurrente se positionne en deuxième place avec 3,94 millions de curieux, démontrant la capacité des chaînes publiques à capter une audience significative sur ce créneau. Le \"heute journal\" de ZDF, avec 3 millions de téléspectateurs, se maintient en troisième position, reflétant une certaine stabilité de ce format d'information face à la concurrence. La soirée du 20 août voit une fragmentation des audiences au-delà du trio de tête, avec des programmes aux scores plus modestes, illustrant la difficulté de s'imposer durablement face aux offres établies. La performance de \"Tagesschau\" sur la semaine, avec 4 soirées sur 6 en tête du classement, souligne la prépondérance des journaux télévisés sur le public le plus âgé.",
@@ -139,7 +139,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Elena_Herraiz"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Cantabria%29%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cantabria"
         }
       ],
-      "scraped_at": "2026-08-21T11:02:31.287195Z",
+      "scraped_at": "2026-08-21T13:28:03.609726Z",
       "status": "ok",
       "error": null,
       "commentary": "Telecinco retrouve la tête du prime ce jeudi 20 août avec \"First Dates\", qui réunit 955 000 téléspectateurs et 10.4% de part de marché, dépassant La 1 et Antena 3. Cette performance marque un retour en force pour la chaîne après plusieurs jours où La 1 dominait le classement hebdomadaire avec des films et des divertissements comme \"Grand Prix\". La chaîne publique, qui avait pourtant bénéficié du leadership la veille avec \"Viaje al Centro de la Tele\" (847k, 9.8%), se classe deuxième ce soir-là. Antena 3, avec \"El Hormiguero\", peine à retrouver son audience habituelle dans cette case, ne dépassant pas les 700 000 spectateurs, une audience en retrait par rapport à la moyenne des access du début de semaine. La stratégie de Telecinco semble porter ses fruits en misant sur un format de divertissement récurrent, tandis que La 1 alterne les succès sur la semaine.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-21T11:02:37.392221Z",
+      "scraped_at": "2026-08-21T13:28:09.181565Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-20-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Doc%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Doc"
         },
         {
           "rank": 3,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-20-agosto-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Med%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago_Med"
         },
         {
           "rank": 4,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Il+Commissario+Rex%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-21T11:02:35.338575Z",
+      "scraped_at": "2026-08-21T13:28:07.854939Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 20 août voit Canale 5 reprendre la tête du prime time avec le film « Ghost » et 15.8% de part de marché, devançant Rai 1 et sa série « Doc » qui rassemble 1.45 million de téléspectateurs. Ce résultat pour Canale 5 se situe dans la continuité de ses performances de la semaine, où la chaîne privée a mené le classement trois soirs sur sept. La fiction italienne sur Rai 1, bien que performante, n'atteint pas les pics observés en début de semaine, notamment les 2.29 millions de curieux pour « Il Giovane Montalbano » le 17 août. La stratégie de Rai 2, axée sur les « Europei di Atletica » jusqu'au 16 août, semble avoir déplacé une partie de son audience habituelle vers des offres plus généralistes. Italia 1 et Rete 4 se partagent les audiences plus modestes, confirmant une segmentation du public autour des offres de divertissement et d'information des deux grands groupes.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Homme_qui_ment"
         }
       ],
-      "scraped_at": "2026-08-21T11:02:21.675039Z",
+      "scraped_at": "2026-08-21T13:27:50.230409Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 3, « Crimes parfaits », prend la tête des audiences du prime ce jeudi 20 août avec 2,29 millions de téléspectateurs et 15,4% de part d'audience, devançant de peu la fiction de TF1, « Monsieur Parizot », qui rassemble 2,23 millions de personnes (15,1% PDM). Cette inversion des positions par rapport à la semaine précédente, où TF1 dominait souvent, révèle une tension concurrentielle accrue sur les cases de fiction, particulièrement après la fin des compétitions sportives. France 5 se maintient dans le trio de tête avec son magazine « Des trains pas comme les autres », signe d'une fidélité du public à ce format documentaire, tandis que M6 et France 2 peinent à dépasser le million de curieux avec leurs programmes de flux. La fragmentation de l'audience, accentuée par la TNT, continue de rendre difficile l'obtention de scores à deux chiffres pour les chaînes historiques en dehors des événements majeurs.",
       "commentary_date": "2026-08-20"
     }
   },
-  "last_updated": "2026-08-21T11:02:37.394814Z"
+  "last_updated": "2026-08-21T13:28:09.183513Z"
 }
