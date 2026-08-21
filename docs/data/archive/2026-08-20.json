@@ -1,6 +1,86 @@
 {
   "date": "2026-08-20",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-20",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "CRIMES PARFAITS \\ LE PIED A L'ETRIER",
+          "program_fr": null,
+          "viewers": 2285000,
+          "share": 15.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Crimes_parfaits"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "MONSIEUR PARIZOT \\ LE MAITRE DU CRIME - 1ERE PARTIE",
+          "program_fr": null,
+          "viewers": 2231000,
+          "share": 15.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Monsieur_Parizot"
+        },
+        {
+          "rank": 3,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "DES TRAINS PAS COMME LES AUTRES \\ TURQUIE",
+          "program_fr": null,
+          "viewers": 1662000,
+          "share": 11.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
+        },
+        {
+          "rank": 4,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAUCHEMAR EN CUISINE \\ ST BERTHEVIN LA TANNIERE",
+          "program_fr": null,
+          "viewers": 997000,
+          "share": 6.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cauchemar+En+Cuisine+%5C+St+Berthevin+La+Tanniere%22+M6+audiences&gl=fr"
+        },
+        {
+          "rank": 5,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "QUI MENT",
+          "program_fr": null,
+          "viewers": 866000,
+          "share": 6.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Homme_qui_ment"
+        }
+      ],
+      "scraped_at": "2026-08-21T08:01:31.988509Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de France 3, « Crimes parfaits », prend la tête des audiences du prime ce jeudi 20 août avec 2,29 millions de téléspectateurs et 15,4% de part d'audience, devançant de peu la fiction de TF1, « Monsieur Parizot », qui rassemble 2,23 millions de personnes (15,1% PDM). Cette inversion des positions par rapport à la semaine précédente, où TF1 dominait souvent, révèle une tension concurrentielle accrue sur les cases de fiction, particulièrement après la fin des compétitions sportives. France 5 se maintient dans le trio de tête avec son magazine « Des trains pas comme les autres », signe d'une fidélité du public à ce format documentaire, tandis que M6 et France 2 peinent à dépasser le million de curieux avec leurs programmes de flux. La fragmentation de l'audience, accentuée par la TNT, continue de rendre difficile l'obtention de scores à deux chiffres pour les chaînes historiques en dehors des événements majeurs.",
+      "commentary_date": "2026-08-20"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -174,167 +254,7 @@
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
-    },
-    "IT": {
-      "country_code": "IT",
-      "country_name": "Italie",
-      "flag": "🇮🇹",
-      "date": "2026-08-19",
-      "source_name": "Davide Maggio · Ascolti TV",
-      "source_url": "https://www.davidemaggio.it/ascolti-tv",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Canale 5",
-          "channel_color": "red",
-          "program": "50 km all’ora",
-          "program_fr": null,
-          "viewers": 1691000,
-          "share": 15.5,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%2250+km+all%E2%80%99ora%22+Canale+5+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Rai 1",
-          "channel_color": "blue",
-          "program": "Finché notte non ci separi",
-          "program_fr": null,
-          "viewers": 1569000,
-          "share": 13.1,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Finch%C3%A9+notte+non+ci+separi%22+Rai+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Italia 1",
-          "channel_color": "amber",
-          "program": "Chicago Med",
-          "program_fr": "Chicago Med",
-          "viewers": 1170000,
-          "share": 9.6,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Med%22+Italia+1+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Rai 3",
-          "channel_color": "coral",
-          "program": "Un Giorno in Pretura",
-          "program_fr": null,
-          "viewers": 863000,
-          "share": 7.0,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Un+Giorno+in+Pretura%22+Rai+3+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Rete 4",
-          "channel_color": "purple",
-          "program": "Il Padrino – Parte II",
-          "program_fr": null,
-          "viewers": 499000,
-          "share": 5.5,
-          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-19-agosto-2026",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+Padrino%22+Rete+4+ratings"
-        }
-      ],
-      "scraped_at": "2026-08-21T08:01:39.219439Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Canale 5 s'affirme en tête des soirées de prime time sur la semaine écoulée, menant trois des sept journées analysées. Ce 19 août, la chaîne privée confirme sa position avec \"50 km all’ora\", attirant 1,69 million de téléspectateurs et 15,5% de part de marché, une performance en légère hausse par rapport à son programme de la veille (\"Il mio amico Tempesta\", 1,72 M, 15,7%). La Rai 1, leader historique, se positionne en deuxième place avec \"Finché notte non ci separi\" (1,57 M, 13,1%), enregistrant une légère baisse par rapport à la fiction \"Emma e il giaguaro nero\" diffusée le 18 août (1,50 M, 12,8%). La lutte pour la deuxième place du prime time semble s'intensifier, Rai 1 et Rai 2 ayant échangé les positions à plusieurs reprises au cours de la semaine, notamment lors de la diffusion des Championnats d'Europe d'Athlétisme sur Rai 2 qui avaient dominé les audiences. La stratégie de Canale 5 semble s'appuyer sur des productions locales et des films, tandis que Rai 1 alterne entre fictions et divertissements, cherchant à reconquérir son leadership.",
-      "commentary_date": "2026-08-19"
-    },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-08-20",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "CRIMES PARFAITS \\ LE PIED A L'ETRIER",
-          "program_fr": null,
-          "viewers": 2285000,
-          "share": 15.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Crimes_parfaits"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "MONSIEUR PARIZOT \\ LE MAITRE DU CRIME - 1ERE PARTIE",
-          "program_fr": null,
-          "viewers": 2231000,
-          "share": 15.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Monsieur_Parizot"
-        },
-        {
-          "rank": 3,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "DES TRAINS PAS COMME LES AUTRES \\ TURQUIE",
-          "program_fr": null,
-          "viewers": 1662000,
-          "share": 11.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Des_trains_pas_comme_les_autres"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAUCHEMAR EN CUISINE \\ ST BERTHEVIN LA TANNIERE",
-          "program_fr": null,
-          "viewers": 997000,
-          "share": 6.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cauchemar+En+Cuisine+%5C+St+Berthevin+La+Tanniere%22+M6+audiences&gl=fr"
-        },
-        {
-          "rank": 5,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "QUI MENT",
-          "program_fr": null,
-          "viewers": 866000,
-          "share": 6.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-performance-pour-la-grande-finale-de-secret-story-sur-tmc/656383",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Homme_qui_ment"
-        }
-      ],
-      "scraped_at": "2026-08-21T08:01:31.988509Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 3, « Crimes parfaits », prend la tête des audiences du prime ce jeudi 20 août avec 2,29 millions de téléspectateurs et 15,4% de part d'audience, devançant de peu la fiction de TF1, « Monsieur Parizot », qui rassemble 2,23 millions de personnes (15,1% PDM). Cette inversion des positions par rapport à la semaine précédente, où TF1 dominait souvent, révèle une tension concurrentielle accrue sur les cases de fiction, particulièrement après la fin des compétitions sportives. France 5 se maintient dans le trio de tête avec son magazine « Des trains pas comme les autres », signe d'une fidélité du public à ce format documentaire, tandis que M6 et France 2 peinent à dépasser le million de curieux avec leurs programmes de flux. La fragmentation de l'audience, accentuée par la TNT, continue de rendre difficile l'obtention de scores à deux chiffres pour les chaînes historiques en dehors des événements majeurs.",
-      "commentary_date": "2026-08-20"
     }
   },
-  "last_updated": "2026-08-21T08:01:40.707700Z"
+  "last_updated": "2026-08-21T08:01:48.879242Z"
 }
