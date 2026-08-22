@@ -1,6 +1,86 @@
 {
   "date": "2026-08-21",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-21",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LES 12 COUPS : LE COMBAT DES MAITRES",
+          "program_fr": null,
+          "viewers": 2534000,
+          "share": 17.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Douze_Coups_de_midi"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "CAPITAINE MARLEAU \\ LA REINE DES GLACES",
+          "program_fr": null,
+          "viewers": 2130000,
+          "share": 15.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "JEFF PANACLOC : A LA POURSUITE DE JEAN-MARC",
+          "program_fr": null,
+          "viewers": 1140000,
+          "share": 8.1,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jeff_Panacloc"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "MEURTRES A SANDHAMN \\ MAX",
+          "program_fr": null,
+          "viewers": 922000,
+          "share": 6.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
+        },
+        {
+          "rank": 5,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "40 ANS DE LA FONDATION BRIGITTE BARDOT",
+          "program_fr": null,
+          "viewers": 700000,
+          "share": 5.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Madrague_%28Saint-Tropez%29"
+        }
+      ],
+      "scraped_at": "2026-08-22T07:50:04.274240Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête du prime avec son divertissement \"Les 12 Coups : Le Combat des Maîtres\", attirant 2,53 millions de téléspectateurs et 17,9% de part d'audience, devançant France 2 et sa fiction \"Capitaine Marleau\" (2,13 M, 15,4%). Cette performance de la Une marque un retour en tête après plusieurs soirées dominées par France 2, qui avait notamment bénéficié de retransmissions sportives les 14 et 16 août. La stratégie de TF1 semble privilégier les marques fortes et les concepts familiers pour fidéliser son public, contrastant avec la diversité des offres proposées par France Télévisions. M6, avec une fiction, se positionne en troisième position, réalisant 8,1% de PDA. L'offre de niche d'Arte, \"Meurtres à Sandhamn\", démontre une capacité à capter une audience significative, tandis que le documentaire de France 3 sur la fondation Brigitte Bardot peine à mobiliser.",
+      "commentary_date": "2026-08-21"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -135,20 +215,6 @@
       "commentary": "Le prime du 21 août voit une légère redistribution des cartes dans le paysage audiovisuel espagnol. Si le divertissement \"First Dates\" de Telecinco réalise une performance solide avec 735 000 téléspectateurs (9.2% de PDM), il se retrouve devancé en nombre de téléspectateurs par le magazine d'archives de La 1, \"Viaje al Centro de la Tele\", qui attire 773 000 personnes (9.6% de PDM). La chaîne publique, qui a affirmé sa présence dans le trio de tête durant la semaine, confirme ainsi sa capacité à mobiliser un public significatif, notamment avec ses formats patrimoniaux. La fiction proposée par Antena 3, \"Mama o Papa\", se positionne juste derrière avec 728 000 téléspectateurs (9.8% de PDM), une PDM qui la place en tête des parts d'audience ce soir-là. Les offres de Cuatro et La 2, respectivement autour de 500 000 téléspectateurs, témoignent de la difficulté à percer face aux programmes plus établis des grandes chaînes. La semaine précédente, Telecinco avait pourtant mené quatre soirées sur sept, illustrant la volatilité des audiences dans cette case horaire stratégique.",
       "commentary_date": "2026-08-21"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-21",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-22T07:50:15.276448Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -163,86 +229,20 @@
       "commentary": "La soirée du 20 août voit Canale 5 reprendre la tête du prime time avec le film « Ghost » et 15.8% de part de marché, devançant Rai 1 et sa série « Doc » qui rassemble 1.45 million de téléspectateurs. Ce résultat pour Canale 5 se situe dans la continuité de ses performances de la semaine, où la chaîne privée a mené le classement trois soirs sur sept. La fiction italienne sur Rai 1, bien que performante, n'atteint pas les pics observés en début de semaine, notamment les 2.29 millions de curieux pour « Il Giovane Montalbano » le 17 août. La stratégie de Rai 2, axée sur les « Europei di Atletica » jusqu'au 16 août, semble avoir déplacé une partie de son audience habituelle vers des offres plus généralistes. Italia 1 et Rete 4 se partagent les audiences plus modestes, confirmant une segmentation du public autour des offres de divertissement et d'information des deux grands groupes.",
       "commentary_date": "2026-08-20"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-21",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LES 12 COUPS : LE COMBAT DES MAITRES",
-          "program_fr": null,
-          "viewers": 2534000,
-          "share": 17.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Douze_Coups_de_midi"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "CAPITAINE MARLEAU \\ LA REINE DES GLACES",
-          "program_fr": null,
-          "viewers": 2130000,
-          "share": 15.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Capitaine_Marleau"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "JEFF PANACLOC : A LA POURSUITE DE JEAN-MARC",
-          "program_fr": null,
-          "viewers": 1140000,
-          "share": 8.1,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jeff_Panacloc"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "MEURTRES A SANDHAMN \\ MAX",
-          "program_fr": null,
-          "viewers": 922000,
-          "share": 6.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
-        },
-        {
-          "rank": 5,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "40 ANS DE LA FONDATION BRIGITTE BARDOT",
-          "program_fr": null,
-          "viewers": 700000,
-          "share": 5.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-combat-des-maitres-prime-special-du-jeu-les-12-coups-anime-par-jean-luc-reichmann-sur-tf1/656471",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Madrague_%28Saint-Tropez%29"
-        }
-      ],
-      "scraped_at": "2026-08-22T07:50:04.274240Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 reprend la tête du prime avec son divertissement \"Les 12 Coups : Le Combat des Maîtres\", attirant 2,53 millions de téléspectateurs et 17,9% de part d'audience, devançant France 2 et sa fiction \"Capitaine Marleau\" (2,13 M, 15,4%). Cette performance de la Une marque un retour en tête après plusieurs soirées dominées par France 2, qui avait notamment bénéficié de retransmissions sportives les 14 et 16 août. La stratégie de TF1 semble privilégier les marques fortes et les concepts familiers pour fidéliser son public, contrastant avec la diversité des offres proposées par France Télévisions. M6, avec une fiction, se positionne en troisième position, réalisant 8,1% de PDA. L'offre de niche d'Arte, \"Meurtres à Sandhamn\", démontre une capacité à capter une audience significative, tandis que le documentaire de France 3 sur la fondation Brigitte Bardot peine à mobiliser.",
-      "commentary_date": "2026-08-21"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-22T07:50:15.276448Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-22T07:50:15.312006Z"
+  "last_updated": "2026-08-22T07:50:22.324849Z"
 }
