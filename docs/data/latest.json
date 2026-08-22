@@ -49,7 +49,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22ZDFsportstudio+live%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-08-22T09:37:15.182831Z",
+      "scraped_at": "2026-08-22T10:58:19.559436Z",
       "status": "partial",
       "error": null,
       "commentary": "La « Tagesschau » de Das Erste s'affirme en tête du prime time avec 4,77 millions de téléspectateurs et 26,4% de part d'audience, confirmant sa domination sur la semaine avec cinq premières places sur six. La fiction de la chaîne concurrente, « Der Zürich-Krimi », obtient une performance notable avec 3,96 millions de curieux et 20,9% de PDA, se plaçant en deuxième position. Le programme sportif de ZDF, « ZDFsportstudio live », réunit 2,64 millions de personnes (14,5% PDA), une audience inférieure à celle du « Tagesschau » mais qui se maintient dans le top 3. Comparé à la semaine précédente, le bulletin d'information de Das Erste enregistre une légère baisse par rapport à ses pics de début août, mais reste stable sur les derniers jours. La présence récurrente des chaînes publiques dans le trio de tête illustre la stratégie de programmes d'information et de fiction établis, ciblant un public plus âgé et fidèle. La compétition pour la deuxième et troisième place reste ouverte, fluctuant entre chaînes publiques et privées selon les jours.",
@@ -129,7 +129,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-22T09:37:16.320498Z",
+      "scraped_at": "2026-08-22T10:58:21.296636Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime du 21 août voit une légère redistribution des cartes dans le paysage audiovisuel espagnol. Si le divertissement \"First Dates\" de Telecinco réalise une performance solide avec 735 000 téléspectateurs (9.2% de PDM), il se retrouve devancé en nombre de téléspectateurs par le magazine d'archives de La 1, \"Viaje al Centro de la Tele\", qui attire 773 000 personnes (9.6% de PDM). La chaîne publique, qui a affirmé sa présence dans le trio de tête durant la semaine, confirme ainsi sa capacité à mobiliser un public significatif, notamment avec ses formats patrimoniaux. La fiction proposée par Antena 3, \"Mama o Papa\", se positionne juste derrière avec 728 000 téléspectateurs (9.8% de PDM), une PDM qui la place en tête des parts d'audience ce soir-là. Les offres de Cuatro et La 2, respectivement autour de 500 000 téléspectateurs, témoignent de la difficulté à percer face aux programmes plus établis des grandes chaînes. La semaine précédente, Telecinco avait pourtant mené quatre soirées sur sept, illustrant la volatilité des audiences dans cette case horaire stratégique.",
@@ -143,7 +143,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-22T09:37:20.538953Z",
+      "scraped_at": "2026-08-22T10:58:27.318349Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -223,7 +223,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Sapiens%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-22T09:37:19.386843Z",
+      "scraped_at": "2026-08-22T10:58:25.665857Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 21 août, Rai 1 retrouve la tête du prime time avec le divertissement musical « Viva Mogol! Con i Grandi della Musica », qui rassemble 1,58 million de téléspectateurs et 17,0% de part d'audience. Ce score est légèrement supérieur à celui enregistré par le même programme le 14 août (1,55 M, 17,1%), marquant une consolidation de sa présence dans cette case horaire. La compétition pour le leadership du prime time se joue principalement entre Rai 1 et Canale 5, cette dernière proposant « L’Erede » à 1,45 million de curieux (13,8% PDM), un chiffre en légère hausse par rapport à la semaine précédente. La chaîne publique Rai 2, qui dominait les soirées précédentes grâce aux « Giochi del Mediterraneo », se retrouve cette fois en troisième position avec 973 000 spectateurs (7,1% PDM). Italia 1, avec la série « Chicago Fire », capte 898 000 téléspectateurs (7,3% PDM), se plaçant ainsi devant Rai 3 et son magazine « Sapiens » (618 k, 5,4% PDM).",
@@ -303,12 +303,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Madrague_%28Saint-Tropez%29"
         }
       ],
-      "scraped_at": "2026-08-22T09:37:11.791814Z",
+      "scraped_at": "2026-08-22T10:58:12.639751Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête du prime avec son divertissement \"Les 12 Coups : Le Combat des Maîtres\", attirant 2,53 millions de téléspectateurs et 17,9% de part d'audience, devançant France 2 et sa fiction \"Capitaine Marleau\" (2,13 M, 15,4%). Cette performance de la Une marque un retour en tête après plusieurs soirées dominées par France 2, qui avait notamment bénéficié de retransmissions sportives les 14 et 16 août. La stratégie de TF1 semble privilégier les marques fortes et les concepts familiers pour fidéliser son public, contrastant avec la diversité des offres proposées par France Télévisions. M6, avec une fiction, se positionne en troisième position, réalisant 8,1% de PDA. L'offre de niche d'Arte, \"Meurtres à Sandhamn\", démontre une capacité à capter une audience significative, tandis que le documentaire de France 3 sur la fondation Brigitte Bardot peine à mobiliser.",
       "commentary_date": "2026-08-21"
     }
   },
-  "last_updated": "2026-08-22T09:37:20.541141Z"
+  "last_updated": "2026-08-22T10:58:27.320847Z"
 }
