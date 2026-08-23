@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-22",
+  "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-22",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "MEURTRES DANS LE CANTAL",
+          "program_fr": null,
+          "viewers": 3329000,
+          "share": 22.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "THE VOICE KIDS",
+          "program_fr": "The Voice",
+          "viewers": 2597000,
+          "share": 17.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_Kids"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "FORT BOYARD \\ TITOFF - L'association KCNQ2",
+          "program_fr": null,
+          "viewers": 2359000,
+          "share": 17.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Boyard_Land"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ECHAPPEES BELLES",
+          "program_fr": null,
+          "viewers": 850000,
+          "share": 5.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LE ROI SOLEIL A VERSAILLES VARIETES",
+          "program_fr": null,
+          "viewers": 481000,
+          "share": 3.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Potager_du_Roi"
+        }
+      ],
+      "scraped_at": "2026-08-23T07:52:00.790039Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'impose ce samedi soir avec une fiction locale, \"Meurtres dans le Cantal\", qui enregistre 3,33 millions de téléspectateurs et 22,9% de part d'audience. Cette performance place la chaîne publique en tête des grandes chaînes gratuites, surpassant TF1 et sa programmation habituelle de divertissement, \"The Voice Kids\", qui réunit 2,60 millions de personnes (17,3% PDM). La fiction française sur France 3 confirme sa capacité à capter une audience significative, notamment par rapport à la moyenne des soirées précédentes où elle avait déjà montré des signes de dynamisme. L'écart se creuse avec France 2, dont le divertissement \"Fort Boyard\" se positionne en troisième position avec 2,36 millions de téléspectateurs (17,4% PDM). M6, avec son programme musical, peine à trouver son public, ne captant que 481 000 téléspectateurs (3,2% PDM), illustrant une difficulté persistante dans cette case horaire. La fragmentation de l'audience, accentuée par la TNT, rend la conquête du leadership particulièrement disputée chaque soir.",
+      "commentary_date": "2026-08-22"
+    },
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-08-22",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4495000,
+          "share": 26.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "München Mord - Die Stadt, die es n",
+          "program_fr": null,
+          "viewers": 4030000,
+          "share": 20.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22M%C3%BCnchen+Mord%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "ran Fußball: Franz Beckenbauer Sup",
+          "program_fr": null,
+          "viewers": 3620000,
+          "share": 18.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22ran+Fu%C3%9Fball%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "ran Fußball: Franz Beckenbauer Sup",
+          "program_fr": null,
+          "viewers": 3155000,
+          "share": 15.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22ran+Fu%C3%9Fball%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal / Wetter",
+          "program_fr": null,
+          "viewers": 2524000,
+          "share": 12.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-23T07:52:05.851103Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le journal de 20h de Das Erste s'affirme comme le rendez-vous incontournable du prime time allemand, enregistrant 4,50 millions de téléspectateurs et 26,2% de part de marché ce 22 août. Cette performance le place largement devant le magazine d'information de ZDF, qui ne recueille que 2,52 millions de fidèles (12,7% PDM). Comparé à la semaine précédente, le journal public confirme sa domination, ayant déjà mené le classement à six reprises sur les sept jours précédents, avec un pic à 5,98 millions de téléspectateurs le 16 août. Le sport, représenté par deux rencontres de football, se positionne en troisième et quatrième places, témoignant de l'attractivité des événements sportifs en direct sur les chaînes privées comme sur les chaînes publiques. La lutte pour la deuxième place du podium reste cependant ouverte, la fiction concurrente attirant 4,03 millions de téléspectateurs.",
+      "commentary_date": "2026-08-22"
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-08-22",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-23T07:52:12.502835Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
+    }
+  },
+  "last_updated": "2026-08-23T07:52:16.902655Z"
+}

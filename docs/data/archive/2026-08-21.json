@@ -154,7 +154,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-agosto-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_longest-running_Spanish_television_series"
+          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele%22+La+1+ratings"
         },
         {
           "rank": 2,
@@ -167,7 +167,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-agosto-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
         },
         {
           "rank": 3,
@@ -209,7 +209,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-22T16:36:11.015183Z",
+      "scraped_at": "2026-08-23T07:52:07.528748Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime du 21 août voit une légère redistribution des cartes dans le paysage audiovisuel espagnol. Si le divertissement \"First Dates\" de Telecinco réalise une performance solide avec 735 000 téléspectateurs (9.2% de PDM), il se retrouve devancé en nombre de téléspectateurs par le magazine d'archives de La 1, \"Viaje al Centro de la Tele\", qui attire 773 000 personnes (9.6% de PDM). La chaîne publique, qui a affirmé sa présence dans le trio de tête durant la semaine, confirme ainsi sa capacité à mobiliser un public significatif, notamment avec ses formats patrimoniaux. La fiction proposée par Antena 3, \"Mama o Papa\", se positionne juste derrière avec 728 000 téléspectateurs (9.8% de PDM), une PDM qui la place en tête des parts d'audience ce soir-là. Les offres de Cuatro et La 2, respectivement autour de 500 000 téléspectateurs, témoignent de la difficulté à percer face aux programmes plus établis des grandes chaînes. La semaine précédente, Telecinco avait pourtant mené quatre soirées sur sept, illustrant la volatilité des audiences dans cette case horaire stratégique.",
@@ -289,7 +289,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Sapiens%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-08-22T16:36:15.705356Z",
+      "scraped_at": "2026-08-23T07:52:11.251752Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 21 août, Rai 1 retrouve la tête du prime time avec le divertissement musical « Viva Mogol! Con i Grandi della Musica », qui rassemble 1,58 million de téléspectateurs et 17,0% de part d'audience. Ce score est légèrement supérieur à celui enregistré par le même programme le 14 août (1,55 M, 17,1%), marquant une consolidation de sa présence dans cette case horaire. La compétition pour le leadership du prime time se joue principalement entre Rai 1 et Canale 5, cette dernière proposant « L’Erede » à 1,45 million de curieux (13,8% PDM), un chiffre en légère hausse par rapport à la semaine précédente. La chaîne publique Rai 2, qui dominait les soirées précédentes grâce aux « Giochi del Mediterraneo », se retrouve cette fois en troisième position avec 973 000 spectateurs (7,1% PDM). Italia 1, avec la série « Chicago Fire », capte 898 000 téléspectateurs (7,3% PDM), se plaçant ainsi devant Rai 3 et son magazine « Sapiens » (618 k, 5,4% PDM).",
@@ -310,5 +310,5 @@
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-22T16:36:16.896236Z"
+  "last_updated": "2026-08-23T07:52:11.254063Z"
 }
