@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Potager_du_Roi"
         }
       ],
-      "scraped_at": "2026-08-23T07:52:00.790039Z",
+      "scraped_at": "2026-08-23T09:37:55.076219Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce samedi soir avec une fiction locale, \"Meurtres dans le Cantal\", qui enregistre 3,33 millions de téléspectateurs et 22,9% de part d'audience. Cette performance place la chaîne publique en tête des grandes chaînes gratuites, surpassant TF1 et sa programmation habituelle de divertissement, \"The Voice Kids\", qui réunit 2,60 millions de personnes (17,3% PDM). La fiction française sur France 3 confirme sa capacité à capter une audience significative, notamment par rapport à la moyenne des soirées précédentes où elle avait déjà montré des signes de dynamisme. L'écart se creuse avec France 2, dont le divertissement \"Fort Boyard\" se positionne en troisième position avec 2,36 millions de téléspectateurs (17,4% PDM). M6, avec son programme musical, peine à trouver son public, ne captant que 481 000 téléspectateurs (3,2% PDM), illustrant une difficulté persistante dans cette case horaire. La fragmentation de l'audience, accentuée par la TNT, rend la conquête du leadership particulièrement disputée chaque soir.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-08-23T07:52:05.851103Z",
+      "scraped_at": "2026-08-23T09:37:58.262501Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste s'affirme comme le rendez-vous incontournable du prime time allemand, enregistrant 4,50 millions de téléspectateurs et 26,2% de part de marché ce 22 août. Cette performance le place largement devant le magazine d'information de ZDF, qui ne recueille que 2,52 millions de fidèles (12,7% PDM). Comparé à la semaine précédente, le journal public confirme sa domination, ayant déjà mené le classement à six reprises sur les sept jours précédents, avec un pic à 5,98 millions de téléspectateurs le 16 août. Le sport, représenté par deux rencontres de football, se positionne en troisième et quatrième places, témoignant de l'attractivité des événements sportifs en direct sur les chaînes privées comme sur les chaînes publiques. La lutte pour la deuxième place du podium reste cependant ouverte, la fiction concurrente attirant 4,03 millions de téléspectateurs.",
@@ -169,12 +169,172 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-23T07:52:12.502835Z",
+      "scraped_at": "2026-08-23T09:38:05.916159Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-08-22",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "DAZN LaLiga",
+          "channel_color": "gray",
+          "program": "Futbol:Liga Española (Espanyol-R.Madrid)",
+          "program_fr": null,
+          "viewers": 876000,
+          "share": 10.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-agosto-2026/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+DAZN+LaLiga+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "Atrapa un Millon",
+          "program_fr": null,
+          "viewers": 654000,
+          "share": 8.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Atrapa+un+Millon%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Informe Semanal",
+          "program_fr": null,
+          "viewers": 646000,
+          "share": 8.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Informe+Semanal%22+La+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "Cine 5 Estrellas (¡Vaya Vacaciones!(2023))",
+          "program_fr": null,
+          "viewers": 518000,
+          "share": 6.4,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cine+5+Estrellas+%28%C2%A1Vaya+Vacaciones%21%282023%29%29%22+Telecinco+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "El Blockbuster (Instinto Peligroso)",
+          "program_fr": null,
+          "viewers": 487000,
+          "share": 6.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-agosto-2026/",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Instinto+Peligroso%29%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-23T09:37:59.209212Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La diffusion du football de la Liga Española sur DAZN LaLiga s'impose en tête des audiences du prime time du 22 août avec 876 000 téléspectateurs et 10.8% de part de marché. Cette performance place le sport en direct en tête, une position inhabituelle face aux programmes de flux des chaînes généralistes. Antena 3 et La 1 se disputent la deuxième place, avec respectivement 654 000 et 646 000 téléspectateurs, reflétant une légère érosion par rapport aux scores enregistrés la semaine précédente, où La 1 avait dominé quatre soirs sur sept. La stratégie de programmation de Telecinco, avec \"Cine 5 Estrellas\", se maintient dans le bas du classement des cinq premières offres, tandis que Cuatro tente de capter une audience avec sa fiction. L'access prime time, dominé par \"El Hormiguero\" sur Antena 3, semble avoir un impact limité sur les performances de la case principale de la chaîne ce soir-là.",
+      "commentary_date": "2026-08-22"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-22",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Ciao Darwin",
+          "program_fr": null,
+          "viewers": 1307000,
+          "share": 14.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-22-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ciao_Darwin"
+        },
+        {
+          "rank": 2,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Tutta un’altra vita",
+          "program_fr": null,
+          "viewers": 1209000,
+          "share": 11.1,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-22-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maurizio_Lombardi"
+        },
+        {
+          "rank": 3,
+          "channel": "Rai 3",
+          "channel_color": "coral",
+          "program": "La Notte della Taranta",
+          "program_fr": null,
+          "viewers": 809000,
+          "share": 8.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-22-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Notte_della_Taranta"
+        },
+        {
+          "rank": 4,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "La Promessa",
+          "program_fr": null,
+          "viewers": 743000,
+          "share": 6.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-22-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Promise_(Il_Divo_album)"
+        },
+        {
+          "rank": 5,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Viaggio al centro della Terra",
+          "program_fr": null,
+          "viewers": 639000,
+          "share": 5.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-22-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Civic_nobility_in_the_Papal_States%27_March_of_Ancona"
+        }
+      ],
+      "scraped_at": "2026-08-23T09:38:04.480371Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Sur la soirée du 22 août, Canale 5 s'impose avec \"Ciao Darwin\" et 14.7% de part de marché, devançant Rai 1 et sa fiction \"Tutta un’altra vita\" qui rassemble 11.1%. Ce score pour \"Ciao Darwin\" est en légère progression par rapport à sa précédente diffusion le 15 août (13.9%), démontrant une certaine stabilité de son audience sur la case du prime time. La troisième place est occupée par Rai 3 avec \"La Notte della Taranta\" à 8.5%, signe d'une captation d'un public moins large mais fidèle. Si Canale 5 a mené le classement trois fois sur les sept derniers jours, Rai 1 a montré sa capacité à mobiliser un public plus important, notamment le 17 août avec \"Il Giovane Montalbano\" et 20.6% de PDM. La chaîne privée Mediaset semble privilégier le divertissement et les formats longs pour fidéliser son audience dans cette période estivale.",
+      "commentary_date": "2026-08-22"
     }
   },
-  "last_updated": "2026-08-23T07:52:16.902655Z"
+  "last_updated": "2026-08-23T09:38:10.300850Z"
 }
