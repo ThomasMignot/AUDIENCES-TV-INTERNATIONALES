@@ -8,10 +8,76 @@
       "date": "2026-08-22",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-08-23T10:58:37.921797Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7fd8cff42810>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4495000,
+          "share": 26.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "München Mord - Die Stadt, die es n",
+          "program_fr": null,
+          "viewers": 4030000,
+          "share": 20.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22M%C3%BCnchen+Mord%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "ran Fußball: Franz Beckenbauer Sup",
+          "program_fr": null,
+          "viewers": 3620000,
+          "share": 18.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22ran+Fu%C3%9Fball%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "ran Fußball: Franz Beckenbauer Sup",
+          "program_fr": null,
+          "viewers": 3155000,
+          "share": 15.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://www.google.com/search?q=%22ran+Fu%C3%9Fball%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal / Wetter",
+          "program_fr": null,
+          "viewers": 2524000,
+          "share": 12.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-23T13:12:11.786973Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Le journal de 20h de Das Erste s'affirme comme le rendez-vous incontournable du prime time allemand, enregistrant 4,50 millions de téléspectateurs et 26,2% de part de marché ce 22 août. Cette performance le place largement devant le magazine d'information de ZDF, qui ne recueille que 2,52 millions de fidèles (12,7% PDM). Comparé à la semaine précédente, le journal public confirme sa domination, ayant déjà mené le classement à six reprises sur les sept jours précédents, avec un pic à 5,98 millions de téléspectateurs le 16 août. Le sport, représenté par deux rencontres de football, se positionne en troisième et quatrième places, témoignant de l'attractivité des événements sportifs en direct sur les chaînes privées comme sur les chaînes publiques. La lutte pour la deuxième place du podium reste cependant ouverte, la fiction concurrente attirant 4,03 millions de téléspectateurs.",
       "commentary_date": "2026-08-22"
     },
@@ -34,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-agosto-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+DAZN+LaLiga+ratings"
         },
         {
           "rank": 2,
@@ -89,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Instinto+Peligroso%29%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-23T10:58:38.904471Z",
+      "scraped_at": "2026-08-23T13:12:14.194367Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion du football de la Liga Española sur DAZN LaLiga s'impose en tête des audiences du prime time du 22 août avec 876 000 téléspectateurs et 10.8% de part de marché. Cette performance place le sport en direct en tête, une position inhabituelle face aux programmes de flux des chaînes généralistes. Antena 3 et La 1 se disputent la deuxième place, avec respectivement 654 000 et 646 000 téléspectateurs, reflétant une légère érosion par rapport aux scores enregistrés la semaine précédente, où La 1 avait dominé quatre soirs sur sept. La stratégie de programmation de Telecinco, avec \"Cine 5 Estrellas\", se maintient dans le bas du classement des cinq premières offres, tandis que Cuatro tente de capter une audience avec sa fiction. L'access prime time, dominé par \"El Hormiguero\" sur Antena 3, semble avoir un impact limité sur les performances de la case principale de la chaîne ce soir-là.",
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-23T10:58:42.407799Z",
+      "scraped_at": "2026-08-23T13:12:20.623306Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viaggio+al+centro+della+Terra%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-08-23T10:58:41.418177Z",
+      "scraped_at": "2026-08-23T13:12:19.310223Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 22 août, Canale 5 s'impose avec \"Ciao Darwin\" et 14.7% de part de marché, devançant Rai 1 et sa fiction \"Tutta un’altra vita\" qui rassemble 11.1%. Ce score pour \"Ciao Darwin\" est en légère progression par rapport à sa précédente diffusion le 15 août (13.9%), démontrant une certaine stabilité de son audience sur la case du prime time. La troisième place est occupée par Rai 3 avec \"La Notte della Taranta\" à 8.5%, signe d'une captation d'un public moins large mais fidèle. Si Canale 5 a mené le classement trois fois sur les sept derniers jours, Rai 1 a montré sa capacité à mobiliser un public plus important, notamment le 17 août avec \"Il Giovane Montalbano\" et 20.6% de PDM. La chaîne privée Mediaset semble privilégier le divertissement et les formats longs pour fidéliser son audience dans cette période estivale.",
@@ -263,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Potager_du_Roi"
         }
       ],
-      "scraped_at": "2026-08-23T10:58:04.185551Z",
+      "scraped_at": "2026-08-23T13:12:03.884455Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce samedi soir avec une fiction locale, \"Meurtres dans le Cantal\", qui enregistre 3,33 millions de téléspectateurs et 22,9% de part d'audience. Cette performance place la chaîne publique en tête des grandes chaînes gratuites, surpassant TF1 et sa programmation habituelle de divertissement, \"The Voice Kids\", qui réunit 2,60 millions de personnes (17,3% PDM). La fiction française sur France 3 confirme sa capacité à capter une audience significative, notamment par rapport à la moyenne des soirées précédentes où elle avait déjà montré des signes de dynamisme. L'écart se creuse avec France 2, dont le divertissement \"Fort Boyard\" se positionne en troisième position avec 2,36 millions de téléspectateurs (17,4% PDM). M6, avec son programme musical, peine à trouver son public, ne captant que 481 000 téléspectateurs (3,2% PDM), illustrant une difficulté persistante dans cette case horaire. La fragmentation de l'audience, accentuée par la TNT, rend la conquête du leadership particulièrement disputée chaque soir.",
       "commentary_date": "2026-08-22"
     }
   },
-  "last_updated": "2026-08-23T10:58:42.410154Z"
+  "last_updated": "2026-08-23T13:12:20.625345Z"
 }
