@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Grill+den+Henssler%22+VOX+ratings"
         }
       ],
-      "scraped_at": "2026-08-24T15:01:28.458172Z",
+      "scraped_at": "2026-08-24T16:51:18.908192Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal \"Tagesschau\" sur Das Erste s'affirme comme leader incontesté du prime time sur la semaine, atteignant 5,62 millions de téléspectateurs et 27,8% de part de marché ce 23 août. Cette performance, bien que légèrement inférieure aux 5,98 millions enregistrés le 16 août, maintient une domination nette sur la case face à la concurrence des chaînes publiques et privées. Le ZDF, avec son \"heute journal / Wetter\", se positionne en deuxième place avec 3,76 millions de fidèles, un score stable par rapport à la moyenne de la semaine. Les chaînes privées peinent à rivaliser sur ce créneau, avec des offres de fiction ou de divertissement qui atteignent difficilement les 2 millions de téléspectateurs, démontrant la force des programmes d'information des diffuseurs publics auprès d'un public mature. La stratégie de Das Erste de proposer son journal en début de soirée semble ainsi porter ses fruits, capitalisant sur une habitude de consommation ancrée.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+LaLiga+TV+por+M%2B+ratings"
         }
       ],
-      "scraped_at": "2026-08-24T15:01:30.407884Z",
+      "scraped_at": "2026-08-24T16:51:19.915196Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne publique La 1 s'affirme en tête du prime time sur la semaine analysée, dominant quatre soirées sur sept, une tendance qui se confirme depuis 2023 dans le paysage audiovisuel espagnol. Dimanche 23 août, son film « Pelicula de la Semana » rassemble 914 000 téléspectateurs et 10.3% de part de marché, une performance en retrait par rapport au film de la semaine précédente (1.07 M, 12.1%). Antena 3, avec sa fiction « Una Nueva Vida », se positionne en deuxième place avec 773 000 curieux (9.9%), enregistrant une légère baisse par rapport à la semaine précédente. Telecinco voit son divertissement « First Dates » attirer 618 000 personnes (7.5%), un chiffre inférieur à ses scores des jours précédents, où il dépassait régulièrement les 800 000 téléspectateurs. L'offre sportive sur LaLiga TV par M+ (479 k, 5.2%) témoigne de la fragmentation des audiences, notamment face à des programmes plus établis sur les généralistes. La stratégie de La 1 de programmer un film en première partie de soirée semble porter ses fruits, malgré une audience plus modeste ce dimanche.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-24T15:01:35.870624Z",
+      "scraped_at": "2026-08-24T16:51:23.420084Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Elsbeth%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-24T15:01:34.596734Z",
+      "scraped_at": "2026-08-24T16:51:22.349070Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 23 août 2026 en Italie voit Canale 5 s'imposer avec sa fiction \"Racconto di una Notte\", qui réunit 1,65 million de téléspectateurs, soit 16,5% de part de marché. Cette performance est en légère hausse par rapport à la diffusion du 16 août, où le même programme avait rassemblé 1,60 million de personnes (13,7% PDM). La chaîne privée Mediaset confirme ainsi sa stratégie de proposer des fictions, souvent d'origine turque, dans cette case horaire, obtenant quatre fois la tête du classement sur les sept derniers jours. Rai 1, malgré un score de 1,40 million de téléspectateurs avec \"La Forza del Perdono\", se retrouve reléguée en seconde position, marquant un écart de 2,5 points de PDM. Italia 1 et Rete 4, autres chaînes du groupe Mediaset, occupent les places suivantes avec des programmes plus légers, tandis que Rai 2 peine à dépasser les 500 000 fidèles avec la série \"Elsbeth\".",
@@ -300,7 +300,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Boyard_Land"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Titoff"
         },
         {
           "rank": 4,
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Potager_du_Roi"
         }
       ],
-      "scraped_at": "2026-08-24T15:01:21.955290Z",
+      "scraped_at": "2026-08-24T16:51:14.894770Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce samedi soir avec une fiction locale, \"Meurtres dans le Cantal\", qui enregistre 3,33 millions de téléspectateurs et 22,9% de part d'audience. Cette performance place la chaîne publique en tête des grandes chaînes gratuites, surpassant TF1 et sa programmation habituelle de divertissement, \"The Voice Kids\", qui réunit 2,60 millions de personnes (17,3% PDM). La fiction française sur France 3 confirme sa capacité à capter une audience significative, notamment par rapport à la moyenne des soirées précédentes où elle avait déjà montré des signes de dynamisme. L'écart se creuse avec France 2, dont le divertissement \"Fort Boyard\" se positionne en troisième position avec 2,36 millions de téléspectateurs (17,4% PDM). M6, avec son programme musical, peine à trouver son public, ne captant que 481 000 téléspectateurs (3,2% PDM), illustrant une difficulté persistante dans cette case horaire. La fragmentation de l'audience, accentuée par la TNT, rend la conquête du leadership particulièrement disputée chaque soir.",
       "commentary_date": "2026-08-22"
     }
   },
-  "last_updated": "2026-08-24T15:01:35.873177Z"
+  "last_updated": "2026-08-24T16:51:23.422661Z"
 }
