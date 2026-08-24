@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-23",
+  "countries": {
+    "DE": {
+      "country_code": "DE",
+      "country_name": "Allemagne",
+      "flag": "🇩🇪",
+      "date": "2026-08-23",
+      "source_name": "DWDL.de · Zahlenzentrale",
+      "source_url": "https://www.dwdl.de/zahlenzentrale/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 5625000,
+          "share": 27.8,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 2,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal / Wetter",
+          "program_fr": null,
+          "viewers": 3762000,
+          "share": 19.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Inspector Ikmen - Tod in Istanbul",
+          "program_fr": null,
+          "viewers": 1848000,
+          "share": 12.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Inspector+Ikmen%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Kaum zu glauben! Folge 6",
+          "program_fr": null,
+          "viewers": 1353000,
+          "share": 7.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Kaum+zu+glauben%21+Folge+6%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "VOX",
+          "channel_color": "purple",
+          "program": "Grill den Henssler - Sommer-Special",
+          "program_fr": null,
+          "viewers": 1206000,
+          "share": 6.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Grill+den+Henssler%22+VOX+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-24T08:08:21.981317Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le journal \"Tagesschau\" sur Das Erste s'affirme comme leader incontesté du prime time sur la semaine, atteignant 5,62 millions de téléspectateurs et 27,8% de part de marché ce 23 août. Cette performance, bien que légèrement inférieure aux 5,98 millions enregistrés le 16 août, maintient une domination nette sur la case face à la concurrence des chaînes publiques et privées. Le ZDF, avec son \"heute journal / Wetter\", se positionne en deuxième place avec 3,76 millions de fidèles, un score stable par rapport à la moyenne de la semaine. Les chaînes privées peinent à rivaliser sur ce créneau, avec des offres de fiction ou de divertissement qui atteignent difficilement les 2 millions de téléspectateurs, démontrant la force des programmes d'information des diffuseurs publics auprès d'un public mature. La stratégie de Das Erste de proposer son journal en début de soirée semble ainsi porter ses fruits, capitalisant sur une habitude de consommation ancrée.",
+      "commentary_date": "2026-08-23"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-23",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [],
+      "scraped_at": "2026-08-24T08:08:26.112094Z",
+      "status": "failed",
+      "error": "Aucune entrée extraite (ni bloc structuré, ni paragraphe)",
+      "commentary": "Sur la soirée du 22 août, Canale 5 s'impose avec \"Ciao Darwin\" et 14.7% de part de marché, devançant Rai 1 et sa fiction \"Tutta un’altra vita\" qui rassemble 11.1%. Ce score pour \"Ciao Darwin\" est en légère progression par rapport à sa précédente diffusion le 15 août (13.9%), démontrant une certaine stabilité de son audience sur la case du prime time. La troisième place est occupée par Rai 3 avec \"La Notte della Taranta\" à 8.5%, signe d'une captation d'un public moins large mais fidèle. Si Canale 5 a mené le classement trois fois sur les sept derniers jours, Rai 1 a montré sa capacité à mobiliser un public plus important, notamment le 17 août avec \"Il Giovane Montalbano\" et 20.6% de PDM. La chaîne privée Mediaset semble privilégier le divertissement et les formats longs pour fidéliser son audience dans cette période estivale.",
+      "commentary_date": "2026-08-22"
+    },
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-08-23",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-24T08:08:27.241721Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
+    }
+  },
+  "last_updated": "2026-08-24T08:08:28.951524Z"
+}
