@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Elsbeth%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-24T16:51:22.349070Z",
+      "scraped_at": "2026-08-25T08:03:22.490343Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 23 août 2026 en Italie voit Canale 5 s'imposer avec sa fiction \"Racconto di una Notte\", qui réunit 1,65 million de téléspectateurs, soit 16,5% de part de marché. Cette performance est en légère hausse par rapport à la diffusion du 16 août, où le même programme avait rassemblé 1,60 million de personnes (13,7% PDM). La chaîne privée Mediaset confirme ainsi sa stratégie de proposer des fictions, souvent d'origine turque, dans cette case horaire, obtenant quatre fois la tête du classement sur les sept derniers jours. Rai 1, malgré un score de 1,40 million de téléspectateurs avec \"La Forza del Perdono\", se retrouve reléguée en seconde position, marquant un écart de 2,5 points de PDM. Italia 1 et Rete 4, autres chaînes du groupe Mediaset, occupent les places suivantes avec des programmes plus légers, tandis que Rai 2 peine à dépasser les 500 000 fidèles avec la série \"Elsbeth\".",
@@ -220,7 +220,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-agosto-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 4,
@@ -246,15 +246,15 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-agosto-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+LaLiga+TV+por+M%2B+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         }
       ],
-      "scraped_at": "2026-08-24T16:51:19.915196Z",
+      "scraped_at": "2026-08-25T08:03:18.882395Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne publique La 1 s'affirme en tête du prime time sur la semaine analysée, dominant quatre soirées sur sept, une tendance qui se confirme depuis 2023 dans le paysage audiovisuel espagnol. Dimanche 23 août, son film « Pelicula de la Semana » rassemble 914 000 téléspectateurs et 10.3% de part de marché, une performance en retrait par rapport au film de la semaine précédente (1.07 M, 12.1%). Antena 3, avec sa fiction « Una Nueva Vida », se positionne en deuxième place avec 773 000 curieux (9.9%), enregistrant une légère baisse par rapport à la semaine précédente. Telecinco voit son divertissement « First Dates » attirer 618 000 personnes (7.5%), un chiffre inférieur à ses scores des jours précédents, où il dépassait régulièrement les 800 000 téléspectateurs. L'offre sportive sur LaLiga TV par M+ (479 k, 5.2%) témoigne de la fragmentation des audiences, notamment face à des programmes plus établis sur les généralistes. La stratégie de La 1 de programmer un film en première partie de soirée semble porter ses fruits, malgré une audience plus modeste ce dimanche.",
       "commentary_date": "2026-08-23"
     }
   },
-  "last_updated": "2026-08-24T16:51:23.421893Z"
+  "last_updated": "2026-08-25T08:03:22.492766Z"
 }

@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "countries": {
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
       "flag": "🇩🇪",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
       "entries": [
@@ -15,8 +15,8 @@
           "channel_color": "blue",
           "program": "Tagesschau",
           "program_fr": null,
-          "viewers": 5625000,
-          "share": 27.8,
+          "viewers": 4474000,
+          "share": 22.3,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
@@ -24,62 +24,62 @@
         },
         {
           "rank": 2,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Sarah Kohr - Koma",
+          "program_fr": null,
+          "viewers": 4315000,
+          "share": 20.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Sarah+Kohr%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 3,
           "channel": "ZDF",
           "channel_color": "amber",
-          "program": "heute journal / Wetter",
+          "program": "heute journal",
           "program_fr": null,
-          "viewers": 3762000,
-          "share": 19.3,
+          "viewers": 3172000,
+          "share": 16.4,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
           "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         },
         {
-          "rank": 3,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Inspector Ikmen - Tod in Istanbul",
-          "program_fr": null,
-          "viewers": 1848000,
-          "share": 12.1,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Inspector+Ikmen%22+Autre+cha%C3%AEne+ratings"
-        },
-        {
           "rank": 4,
           "channel": "Autre chaîne",
           "channel_color": "gray",
-          "program": "Kaum zu glauben! Folge 6",
+          "program": "DFB-Pokal: Hallescher FC - FC Schal",
           "program_fr": null,
-          "viewers": 1353000,
-          "share": 7.5,
+          "viewers": 2646000,
+          "share": 14.9,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Kaum+zu+glauben%21+Folge+6%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/DFB-Pokal"
         },
         {
           "rank": 5,
-          "channel": "VOX",
-          "channel_color": "purple",
-          "program": "Grill den Henssler - Sommer-Special",
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Subservience",
           "program_fr": null,
-          "viewers": 1206000,
-          "share": 6.6,
+          "viewers": 1284000,
+          "share": 9.8,
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grill+den+Henssler%22+VOX+ratings"
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Subservience%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-24T16:51:18.908192Z",
+      "scraped_at": "2026-08-25T08:03:17.369537Z",
       "status": "ok",
       "error": null,
-      "commentary": "Le journal \"Tagesschau\" sur Das Erste s'affirme comme leader incontesté du prime time sur la semaine, atteignant 5,62 millions de téléspectateurs et 27,8% de part de marché ce 23 août. Cette performance, bien que légèrement inférieure aux 5,98 millions enregistrés le 16 août, maintient une domination nette sur la case face à la concurrence des chaînes publiques et privées. Le ZDF, avec son \"heute journal / Wetter\", se positionne en deuxième place avec 3,76 millions de fidèles, un score stable par rapport à la moyenne de la semaine. Les chaînes privées peinent à rivaliser sur ce créneau, avec des offres de fiction ou de divertissement qui atteignent difficilement les 2 millions de téléspectateurs, démontrant la force des programmes d'information des diffuseurs publics auprès d'un public mature. La stratégie de Das Erste de proposer son journal en début de soirée semble ainsi porter ses fruits, capitalisant sur une habitude de consommation ancrée.",
-      "commentary_date": "2026-08-23"
+      "commentary": "Le journal télévisé de Das Erste maintient sa position de leader sur la semaine, avec 22.3% de part de marché pour sa diffusion du 24 août, un chiffre en retrait par rapport aux pics observés la semaine précédente, notamment les 27.8% du 23 août. La chaîne publique ZDF positionne son « heute journal » à la troisième place avec 3,17 millions de téléspectateurs, confirmant une certaine stabilité dans sa case face à la concurrence des chaînes privées. La soirée voit une lutte serrée pour la deuxième place, remportée par un unitaire de fiction sur une chaîne non spécifiée, qui dépasse le « heute journal » de 1,15 million de téléspectateurs. Cette configuration reflète une tendance structurelle où les programmes d'information des chaînes publiques conservent un socle d'audience solide, particulièrement sur les cibles plus âgées, tandis que la fiction et le sport s'affrontent pour capter les audiences plus hétérogènes. La présence du football de la DFB-Pokal en quatrième position, avec 2,65 millions de curieux, illustre la capacité des événements sportifs à générer une audience significative en prime time.",
+      "commentary_date": "2026-08-24"
     },
     "ES": {
       "country_code": "ES",
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-agosto-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 4,
@@ -152,10 +152,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-agosto-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+LaLiga+TV+por+M%2B+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         }
       ],
-      "scraped_at": "2026-08-24T16:51:19.915196Z",
+      "scraped_at": "2026-08-25T08:03:18.882395Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne publique La 1 s'affirme en tête du prime time sur la semaine analysée, dominant quatre soirées sur sept, une tendance qui se confirme depuis 2023 dans le paysage audiovisuel espagnol. Dimanche 23 août, son film « Pelicula de la Semana » rassemble 914 000 téléspectateurs et 10.3% de part de marché, une performance en retrait par rapport au film de la semaine précédente (1.07 M, 12.1%). Antena 3, avec sa fiction « Una Nueva Vida », se positionne en deuxième place avec 773 000 curieux (9.9%), enregistrant une légère baisse par rapport à la semaine précédente. Telecinco voit son divertissement « First Dates » attirer 618 000 personnes (7.5%), un chiffre inférieur à ses scores des jours précédents, où il dépassait régulièrement les 800 000 téléspectateurs. L'offre sportive sur LaLiga TV par M+ (479 k, 5.2%) témoigne de la fragmentation des audiences, notamment face à des programmes plus établis sur les généralistes. La stratégie de La 1 de programmer un film en première partie de soirée semble porter ses fruits, malgré une audience plus modeste ce dimanche.",
@@ -165,11 +165,11 @@
       "country_code": "NL",
       "country_name": "Pays-Bas",
       "flag": "🇳🇱",
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-24T16:51:23.420084Z",
+      "scraped_at": "2026-08-25T08:03:23.648186Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Elsbeth%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-24T16:51:22.349070Z",
+      "scraped_at": "2026-08-25T08:03:22.490343Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 23 août 2026 en Italie voit Canale 5 s'imposer avec sa fiction \"Racconto di una Notte\", qui réunit 1,65 million de téléspectateurs, soit 16,5% de part de marché. Cette performance est en légère hausse par rapport à la diffusion du 16 août, où le même programme avait rassemblé 1,60 million de personnes (13,7% PDM). La chaîne privée Mediaset confirme ainsi sa stratégie de proposer des fictions, souvent d'origine turque, dans cette case horaire, obtenant quatre fois la tête du classement sur les sept derniers jours. Rai 1, malgré un score de 1,40 million de téléspectateurs avec \"La Forza del Perdono\", se retrouve reléguée en seconde position, marquant un écart de 2,5 points de PDM. Italia 1 et Rete 4, autres chaînes du groupe Mediaset, occupent les places suivantes avec des programmes plus légers, tandis que Rai 2 peine à dépasser les 500 000 fidèles avec la série \"Elsbeth\".",
@@ -259,82 +259,82 @@
       "country_code": "FR",
       "country_name": "France",
       "flag": "🇫🇷",
-      "date": "2026-08-22",
+      "date": "2026-08-24",
       "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+      "source_url": "https://www.ozap.com/actu/audiences-linedit-de-camping-paradis-sur-tf1-a-t-il-reussi-a-passer-devant-lamour-est-dans-le-pre-sur-m6/656597",
       "entries": [
         {
           "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "MEURTRES DANS LE CANTAL",
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "L'AMOUR EST DANS LE PRE",
           "program_fr": null,
-          "viewers": 3329000,
-          "share": 22.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
+          "viewers": 3361000,
+          "share": 20.0,
+          "source_url": "https://www.ozap.com/actu/audiences-linedit-de-camping-paradis-sur-tf1-a-t-il-reussi-a-passer-devant-lamour-est-dans-le-pre-sur-m6/656597",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27amour_est_dans_le_pr%C3%A9"
         },
         {
           "rank": 2,
           "channel": "TF1",
           "channel_color": "blue",
-          "program": "THE VOICE KIDS",
-          "program_fr": "The Voice",
-          "viewers": 2597000,
-          "share": 17.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_Kids"
+          "program": "CAMPING PARADIS : PATISSERIE AU PARADIS \\ PARTIE 1",
+          "program_fr": null,
+          "viewers": 3003000,
+          "share": 17.4,
+          "source_url": "https://www.ozap.com/actu/audiences-linedit-de-camping-paradis-sur-tf1-a-t-il-reussi-a-passer-devant-lamour-est-dans-le-pre-sur-m6/656597",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
         },
         {
           "rank": 3,
           "channel": "France 2",
           "channel_color": "red",
-          "program": "FORT BOYARD \\ TITOFF - L'association KCNQ2",
+          "program": "ENQUETES AU PARADIS \\ NOCES EMPOISONNEES",
           "program_fr": null,
-          "viewers": 2359000,
-          "share": 17.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Titoff"
+          "viewers": 2150000,
+          "share": 12.4,
+          "source_url": "https://www.ozap.com/actu/audiences-linedit-de-camping-paradis-sur-tf1-a-t-il-reussi-a-passer-devant-lamour-est-dans-le-pre-sur-m6/656597",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Enqu%C3%AAtes_au_paradis"
         },
         {
           "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LES ANNEES BOUVARD : LE RIRE ET L'IMPERTINENCE",
           "program_fr": null,
-          "viewers": 850000,
-          "share": 5.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
+          "viewers": 1396000,
+          "share": 9.0,
+          "source_url": "https://www.ozap.com/actu/audiences-linedit-de-camping-paradis-sur-tf1-a-t-il-reussi-a-passer-devant-lamour-est-dans-le-pre-sur-m6/656597",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Philippe_Bouvard"
         },
         {
           "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LE ROI SOLEIL A VERSAILLES VARIETES",
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "SYMPHONIE POUR UN MASSACRE",
           "program_fr": null,
-          "viewers": 481000,
-          "share": 3.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quelle-audience-pour-le-lancement-de-la-nouvelle-saison-de-the-voice-kids-sur-tf1/656473",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Potager_du_Roi"
+          "viewers": 1003000,
+          "share": 6.2,
+          "source_url": "https://www.ozap.com/actu/audiences-linedit-de-camping-paradis-sur-tf1-a-t-il-reussi-a-passer-devant-lamour-est-dans-le-pre-sur-m6/656597",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Symphonie_pour_un_massacre"
         }
       ],
-      "scraped_at": "2026-08-24T16:51:14.894770Z",
+      "scraped_at": "2026-08-25T08:03:11.298278Z",
       "status": "ok",
       "error": null,
-      "commentary": "France 3 s'impose ce samedi soir avec une fiction locale, \"Meurtres dans le Cantal\", qui enregistre 3,33 millions de téléspectateurs et 22,9% de part d'audience. Cette performance place la chaîne publique en tête des grandes chaînes gratuites, surpassant TF1 et sa programmation habituelle de divertissement, \"The Voice Kids\", qui réunit 2,60 millions de personnes (17,3% PDM). La fiction française sur France 3 confirme sa capacité à capter une audience significative, notamment par rapport à la moyenne des soirées précédentes où elle avait déjà montré des signes de dynamisme. L'écart se creuse avec France 2, dont le divertissement \"Fort Boyard\" se positionne en troisième position avec 2,36 millions de téléspectateurs (17,4% PDM). M6, avec son programme musical, peine à trouver son public, ne captant que 481 000 téléspectateurs (3,2% PDM), illustrant une difficulté persistante dans cette case horaire. La fragmentation de l'audience, accentuée par la TNT, rend la conquête du leadership particulièrement disputée chaque soir.",
-      "commentary_date": "2026-08-22"
+      "commentary": "La soirée du 24 août voit M6 reprendre la tête du prime time avec la franchise « L'amour est dans le pré », attirant 3,36 millions de téléspectateurs et 20,0% de part d'audience, un score supérieur à celui de la semaine précédente. TF1, avec « Camping Paradis », se positionne en deuxième place avec 3,00 millions de spectateurs et 17,4% de PDA, tandis que France 2, avec une nouvelle fiction d'« Enquêtes au Paradis », obtient 2,15 millions de téléspectateurs et 12,4% de PDA. Cette configuration marque un retour des chaînes privées en tête, contrastant avec la domination de France 3 observée lors de plusieurs soirées de la semaine précédente, notamment le 22 août avec « Meurtres dans le Cantal » qui avait rassemblé 3,33 millions de personnes. La fragmentation de l'audience, accentuée par la TNT, continue de structurer la compétition, chaque chaîne cherchant à consolider sa case horaire avec des programmes identifiés.",
+      "commentary_date": "2026-08-24"
     }
   },
-  "last_updated": "2026-08-24T16:51:23.422661Z"
+  "last_updated": "2026-08-25T08:03:23.651127Z"
 }
