@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Symphonie_pour_un_massacre"
         }
       ],
-      "scraped_at": "2026-08-25T08:03:11.298278Z",
+      "scraped_at": "2026-08-25T09:47:42.344448Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 24 août voit M6 reprendre la tête du prime time avec la franchise « L'amour est dans le pré », attirant 3,36 millions de téléspectateurs et 20,0% de part d'audience, un score supérieur à celui de la semaine précédente. TF1, avec « Camping Paradis », se positionne en deuxième place avec 3,00 millions de spectateurs et 17,4% de PDA, tandis que France 2, avec une nouvelle fiction d'« Enquêtes au Paradis », obtient 2,15 millions de téléspectateurs et 12,4% de PDA. Cette configuration marque un retour des chaînes privées en tête, contrastant avec la domination de France 3 observée lors de plusieurs soirées de la semaine précédente, notamment le 22 août avec « Meurtres dans le Cantal » qui avait rassemblé 3,33 millions de personnes. La fragmentation de l'audience, accentuée par la TNT, continue de structurer la compétition, chaque chaîne cherchant à consolider sa case horaire avec des programmes identifiés.",
@@ -152,10 +152,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Subservience%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Subservience"
         }
       ],
-      "scraped_at": "2026-08-25T08:03:17.369537Z",
+      "scraped_at": "2026-08-25T09:47:49.585690Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste maintient sa position de leader sur la semaine, avec 22.3% de part de marché pour sa diffusion du 24 août, un chiffre en retrait par rapport aux pics observés la semaine précédente, notamment les 27.8% du 23 août. La chaîne publique ZDF positionne son « heute journal » à la troisième place avec 3,17 millions de téléspectateurs, confirmant une certaine stabilité dans sa case face à la concurrence des chaînes privées. La soirée voit une lutte serrée pour la deuxième place, remportée par un unitaire de fiction sur une chaîne non spécifiée, qui dépasse le « heute journal » de 1,15 million de téléspectateurs. Cette configuration reflète une tendance structurelle où les programmes d'information des chaînes publiques conservent un socle d'audience solide, particulièrement sur les cibles plus âgées, tandis que la fiction et le sport s'affrontent pour capter les audiences plus hétérogènes. La présence du football de la DFB-Pokal en quatrième position, avec 2,65 millions de curieux, illustre la capacité des événements sportifs à générer une audience significative en prime time.",
@@ -169,12 +169,172 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-25T08:03:23.648186Z",
+      "scraped_at": "2026-08-25T09:47:57.593876Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
+    },
+    "ES": {
+      "country_code": "ES",
+      "country_name": "Espagne",
+      "flag": "🇪🇸",
+      "date": "2026-08-24",
+      "source_name": "Barlovento Comunicación",
+      "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Grand Prix:Presenta",
+          "program_fr": null,
+          "viewers": 927000,
+          "share": 9.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Grand+Prix%22+La+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero 20 Años Juntos (Antonio Orozco,Luis Fonsi y Edurne)",
+          "program_fr": null,
+          "viewers": 858000,
+          "share": 8.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+20+A%C3%B1os+Juntos+%28Antonio+Orozco%2CLuis+Fonsi+y+Edurne%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 778000,
+          "share": 9.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-agosto-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 695000,
+          "share": 6.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Viajeros Cuatro (Costa del Sol)",
+          "program_fr": null,
+          "viewers": 659000,
+          "share": 6.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-agosto-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28Costa+del+Sol%29%22+Cuatro+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-25T09:47:51.829694Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La soirée du 24 août voit La 1 reprendre la tête du prime avec « Grand Prix », attirant 927 000 téléspectateurs et 9.1% de part de marché. Ce chiffre est inférieur à celui de la semaine précédente pour le même programme (1,06 M, 13.8%), mais confirme la stratégie de La 1 de s'appuyer sur ce divertissement familial pour structurer sa case du lundi. Antena 3 et Telecinco se tiennent au coude-à-coude, avec « El Hormiguero » et « First Dates » respectivement, affichant 8.6% et 9.1% de PDM. Bien que « El Hormiguero » soit l'access le plus puissant du marché, son lead-in vers le prime d'Antena 3 semble moins efficace que celui de Telecinco pour « First Dates », qui, malgré une audience brute plus faible, obtient une PDM équivalente ce soir-là. La présence de La 2 et Cuatro dans le top 5 témoigne d'une fragmentation des audiences, mais leur performance reste modeste face aux trois grands acteurs historiques. La 1 s'affirme ainsi comme leader du prime sur la semaine écoulée, ayant occupé la première place quatre fois sur sept.",
+      "commentary_date": "2026-08-24"
+    },
+    "IT": {
+      "country_code": "IT",
+      "country_name": "Italie",
+      "flag": "🇮🇹",
+      "date": "2026-08-24",
+      "source_name": "Davide Maggio · Ascolti TV",
+      "source_url": "https://www.davidemaggio.it/ascolti-tv",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Il Giovane Montalbano",
+          "program_fr": "Le Jeune Inspecteur Montalbano",
+          "viewers": 2209000,
+          "share": 18.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-24-agosto-2026",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+Giovane+Montalbano%22+Rai+1+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Scherzi a Parte",
+          "program_fr": null,
+          "viewers": 1333000,
+          "share": 12.9,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-24-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Scherzi+a+Parte%22+Canale+5+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Icefall – Caccia sul ghiaccio",
+          "program_fr": null,
+          "viewers": 991000,
+          "share": 7.3,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-24-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Icefall%22+Italia+1+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "Il codice Da Vinci",
+          "program_fr": null,
+          "viewers": 691000,
+          "share": 5.8,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-24-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+codice+Da+Vinci%22+Rai+2+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Rete 4",
+          "channel_color": "purple",
+          "program": "Zona Bianca",
+          "program_fr": null,
+          "viewers": 520000,
+          "share": 5.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-24-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Zona+Bianca%22+Rete+4+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-25T09:47:56.403176Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Ce 24 août, Rai 1 reprend la tête du prime time avec la fiction « Il Giovane Montalbano », qui rassemble 2,21 millions de téléspectateurs et 18,7% de part de marché. Ce chiffre est légèrement inférieur à celui de la semaine précédente (2,29 M, 20.6%), mais confirme la capacité du programme à mobiliser un large public. Canale 5, avec « Scherzi a Parte », se positionne en deuxième force avec 1,33 million de curieux (12.9% PDM), une performance stable par rapport à ses émissions de divertissement des jours précédents. La lutte pour la troisième place voit Italia 1 s'imposer avec un film, tandis que Rai 2 et Rete 4 ferment le classement avec des scores plus modestes. La domination de Canale 5 sur une majorité des soirées de la semaine précédente semble s'interrompre, laissant Rai 1 réaffirmer sa position de leader historique sur cette case.",
+      "commentary_date": "2026-08-24"
     }
   },
-  "last_updated": "2026-08-25T08:03:28.073769Z"
+  "last_updated": "2026-08-25T09:48:03.079946Z"
 }
