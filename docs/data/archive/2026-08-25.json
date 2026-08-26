@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Nikita"
         }
       ],
-      "scraped_at": "2026-08-26T08:04:18.207069Z",
+      "scraped_at": "2026-08-26T09:53:16.767494Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'affirme comme leader du prime sur la semaine écoulée, remportant trois soirées, dont celle du 25 août avec \"OPJ \\ COUPLE MOTEUR - PARTIE 1\" qui réunit 2,91 millions de téléspectateurs et 18,4% de part d'audience. La chaîne publique devance TF1 et \"Les Aventuriers de Koh-Lanta \\ All Stars - Episode 1\", qui enregistre 2,84 millions de fidèles et 18,2% de PDA, marquant une lutte serrée pour la première place. Cette performance de France 3, notamment sur la fiction, contraste avec le succès plus ponctuel du divertissement sur TF1, dont les scores de \"The Voice Kids\" ou \"Koh-Lanta\" varient davantage. M6, avec \"Zone Interdite\", se positionne en troisième force avec 1,22 million de téléspectateurs (8,3% PDM), confirmant une certaine stabilité dans cette case horaire. France 2, en revanche, peine à trouver son public avec 1,13 million de téléspectateurs pour \"Mon Jour de Chance Théâtre\", une audience inférieure à ses scores récents sur des formats de fiction ou de jeux.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Report+M%C3%BCnchen%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-26T08:04:25.245104Z",
+      "scraped_at": "2026-08-26T09:53:24.519452Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé \"Tagesschau\" de Das Erste maintient sa position dominante sur le prime time allemand, rassemblant 4,17 millions de téléspectateurs et 21% de part de marché ce mardi. Cette performance, bien que légèrement inférieure à celle du dimanche précédent (4,47 millions), s'inscrit dans une tendance de leadership constant sur les sept derniers jours. La case du \"heute journal\" de ZDF se positionne en troisième position avec 3 millions de téléspectateurs et 17,3% de PDM, une audience en légère hausse par rapport à la veille. La concurrence semble se jouer entre les chaînes publiques, qui captent une large part des audiences, et des productions de chaînes non spécifiées qui parviennent à se hisser dans le top 5. La série \"Die Kanzlei\" sur une chaîne non identifiée se place en deuxième position, démontrant l'attractivité de ce type de fiction dans la grille de programmation.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viajeros+Cuatro+%28la+Palma+y+el+Hierro%29%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-08-26T08:04:27.013464Z",
+      "scraped_at": "2026-08-26T09:53:26.173388Z",
       "status": "ok",
       "error": null,
       "commentary": "La série de fiction \"En Tierra Lejana\" sur Antena 3 se positionne en tête des audiences ce mardi 25 août avec 14.0% de part de marché, dépassant ses concurrents directs du prime. Ce score représente une progression notable par rapport à la semaine précédente où le même programme réunissait 12.5% de PDM. Le divertissement \"First Dates\" sur Telecinco, bien que second, voit son score chuter à 9.7% contre 10.4% le 20 août. La chaîne publique La 1, qui a mené quatre soirées sur sept la semaine passée, se retrouve quatrième avec \"Viaje al Centro de la Tele (70 Momentos de Humor)\" à 10.2% de PDM, un chiffre stable comparé à ses performances récentes. La stratégie d'Antena 3 semble porter ses fruits en proposant un format fictionnel fort dans une case horaire traditionnellement disputée.",
@@ -248,12 +248,78 @@
       "date": "2026-08-25",
       "source_name": "Davide Maggio · Ascolti TV",
       "source_url": "https://www.davidemaggio.it/ascolti-tv",
-      "entries": [],
-      "scraped_at": "2026-08-26T08:04:29.958248Z",
-      "status": "failed",
-      "error": "Aucune entrée extraite (ni bloc structuré, ni paragraphe)",
-      "commentary": "Ce 24 août, Rai 1 reprend la tête du prime time avec la fiction « Il Giovane Montalbano », qui rassemble 2,21 millions de téléspectateurs et 18,7% de part de marché. Ce chiffre est légèrement inférieur à celui de la semaine précédente (2,29 M, 20.6%), mais confirme la capacité du programme à mobiliser un large public. Canale 5, avec « Scherzi a Parte », se positionne en deuxième force avec 1,33 million de curieux (12.9% PDM), une performance stable par rapport à ses émissions de divertissement des jours précédents. La lutte pour la troisième place voit Italia 1 s'imposer avec un film, tandis que Rai 2 et Rete 4 ferment le classement avec des scores plus modestes. La domination de Canale 5 sur une majorité des soirées de la semaine précédente semble s'interrompre, laissant Rai 1 réaffirmer sa position de leader historique sur cette case.",
-      "commentary_date": "2026-08-24"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Canale 5",
+          "channel_color": "red",
+          "program": "Nata per te",
+          "program_fr": null,
+          "viewers": 1624000,
+          "share": 14.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-25-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Nata+per+te%22+Canale+5+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Rai 1",
+          "channel_color": "blue",
+          "program": "Lassie torna a casa",
+          "program_fr": null,
+          "viewers": 1345000,
+          "share": 10.6,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-25-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Lassie+torna+a+casa%22+Rai+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Rai 2",
+          "channel_color": "teal",
+          "program": "Angeli e demoni",
+          "program_fr": null,
+          "viewers": 926000,
+          "share": 7.5,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-25-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Angeli+e+demoni%22+Rai+2+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La7",
+          "channel_color": "green",
+          "program": "In Onda Prima Serata",
+          "program_fr": null,
+          "viewers": 838000,
+          "share": 6.0,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-25-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22In+Onda+Prima+Serata%22+La7+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Italia 1",
+          "channel_color": "amber",
+          "program": "Radio Estate",
+          "program_fr": null,
+          "viewers": 806000,
+          "share": 7.7,
+          "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-25-agosto-2026",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Radio+Estate%22+Italia+1+ratings"
+        }
+      ],
+      "scraped_at": "2026-08-26T09:53:29.971373Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La soirée du 25 août voit Canale 5, avec « Nata per te » attirant 1,62 million de téléspectateurs et 14,0% de part de marché, confirmer sa position de leader du prime time sur la semaine écoulée, s'imposant cinq fois sur sept. Rai 1, malgré un score honorable de 1,34 million de téléspectateurs pour « Lassie torna a casa », reste en retrait par rapport à ses performances de la veille où « Il Giovane Montalbano » avait rassemblé 2,21 millions de personnes. La chaîne publique peine à capitaliser sur le lead-in de sa concurrente privée, illustrant une tension structurelle dans la conquête de l'audience du début de soirée. Italia 1, avec « Radio Estate », se maintient dans sa case habituelle mais avec un score (806 000 téléspectateurs, 7,7% PDM) inférieur à celui du film diffusé le 24 août. La7, avec « In Onda Prima Serata », confirme sa stratégie de niche sur l'information politique en fin de soirée. La stratégie de Canale 5 semble s'appuyer sur une offre de fictions et de divertissements plus homogène face à une Rai 1 dont les succès dépendent davantage de programmes événementiels ou de séries fortes.",
+      "commentary_date": "2026-08-25"
     },
     "NL": {
       "country_code": "NL",
@@ -263,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-26T08:05:00.411944Z",
+      "scraped_at": "2026-08-26T09:53:31.288389Z",
       "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f8de03ff250>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-26T08:05:08.301388Z"
+  "last_updated": "2026-08-26T09:53:32.989465Z"
 }
