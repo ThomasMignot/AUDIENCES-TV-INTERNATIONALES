@@ -1,6 +1,86 @@
 {
   "date": "2026-08-26",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-08-26",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "TRACKER \\ DISPARITION PROGRAMMEE",
+          "program_fr": null,
+          "viewers": 2882000,
+          "share": 18.3,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tracker_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LES INVISIBLES \\ CAMELIA",
+          "program_fr": null,
+          "viewers": 2387000,
+          "share": 15.1,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Invisibles_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%2C_2021%29"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "NOS TERRES INCONNUES \\ EN AVEYRON AVEC JEANFI JANSSENS",
+          "program_fr": null,
+          "viewers": 1226000,
+          "share": 8.3,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nos_terres_inconnues"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "AU BOUT C'EST LA MER",
+          "program_fr": null,
+          "viewers": 1092000,
+          "share": 6.9,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LES AMATEURS \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 919000,
+          "share": 5.8,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tropiques_criminels"
+        }
+      ],
+      "scraped_at": "2026-08-27T18:20:03.725727Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 s'impose en tête des audiences du prime time ce 26 août avec la fiction \"Tracker\", attirant 2,88 millions de téléspectateurs et 18,3% de part de marché. La chaîne privée confirme ainsi sa position de leader sur la case, devançant France 2 et sa série \"Les Invisibles\" qui rassemble 2,39 millions de personnes (15,1% PDM). Cette performance de TF1 contraste avec le début de semaine où France 3 avait dominé les soirées, notamment avec \"Meurtres dans le Cantal\" qui avait enregistré 3,33 millions de curieux le 22 août. L'analyse de la semaine révèle une fragmentation des succès, avec des scores élevés pour des événements spécifiques ou des marques fortes comme \"L'amour est dans le pré\" sur M6 le 24 août, mais une lutte plus serrée entre les chaînes historiques sur les autres soirées. La stratégie de contre-programmation semble jouer un rôle, avec TF1 privilégiant la fiction américaine face aux productions françaises ou documentaires des autres diffuseurs.",
+      "commentary_date": "2026-08-26"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Telecinco reprend la tête du prime ce jeudi 26 août avec \"First Dates\", attirant 1,03 million de téléspectateurs et 10,8% de part de marché. Ce résultat marque une amélioration par rapport aux 910 000 téléspectateurs enregistrés dimanche dernier, mais reste inférieur au leadership de La 1 sur la semaine. La chaîne publique se positionne en deuxième place avec \"Viaje al Centro de la Tele\", démontrant une résilience dans sa case horaire malgré un léger repli par rapport à la veille. La performance de \"El Hormiguero\" sur Antena 3, bien que plus faible que les pics observés en début de semaine, confirme la stratégie de divertissement en access, mais peine à se traduire en lead-in suffisant pour le prime. Le sport sur LaLiga TV par M+ s'insère dans ce paysage concurrentiel, tandis que La 2 maintient une audience stable avec un programme culturel.",
       "commentary_date": "2026-08-26"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-08-26",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-08-27T18:20:15.129807Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Canale 5 s'adjuge la tête des audiences du prime time italien ce 26 août avec le film « Back to Black » et ses 13.4% de part de marché. Cette performance le place néanmoins en retrait par rapport à ses scores des soirées précédentes ; le 23 août, « Racconto di una Notte » avait réuni 1.78 million de téléspectateurs, soit 16.5% de PDM. La stratégie de Canale 5 semble privilégier le cinéma et le divertissement, occupant la première place du classement cinq soirs sur les sept derniers jours. Rai 1, avec « Il Gattopardo », se positionne en troisième position, un résultat inférieur à celui du film « Lassie torna a casa » diffusé la veille (1.34 M, 10.6%). La fiction de Italia 1, « Chicago P.D. », ferme ce top 5, confirmant une présence récurrente dans le classement mais avec des scores de part de marché fluctuants, passant de 9.6% pour « Chicago Med » le 19 août à 6.5% ce jour.",
       "commentary_date": "2026-08-26"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-08-26",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "TRACKER \\ DISPARITION PROGRAMMEE",
-          "program_fr": null,
-          "viewers": 2882000,
-          "share": 18.3,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tracker_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LES INVISIBLES \\ CAMELIA",
-          "program_fr": null,
-          "viewers": 2387000,
-          "share": 15.1,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Invisibles_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%2C_2021%29"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "NOS TERRES INCONNUES \\ EN AVEYRON AVEC JEANFI JANSSENS",
-          "program_fr": null,
-          "viewers": 1226000,
-          "share": 8.3,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Nos_terres_inconnues"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "AU BOUT C'EST LA MER",
-          "program_fr": null,
-          "viewers": 1092000,
-          "share": 6.9,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_P%C3%A9cheux"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LES AMATEURS \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 919000,
-          "share": 5.8,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-sur-tf1-sous-les-3-millions-mais-leader-pour-son-retour-flop-pour-vincent-dedienne-et-francois-damiens-sur-m6-battus-par-france-5/656643",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tropiques_criminels"
-        }
-      ],
-      "scraped_at": "2026-08-27T18:20:03.725727Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 s'impose en tête des audiences du prime time ce 26 août avec la fiction \"Tracker\", attirant 2,88 millions de téléspectateurs et 18,3% de part de marché. La chaîne privée confirme ainsi sa position de leader sur la case, devançant France 2 et sa série \"Les Invisibles\" qui rassemble 2,39 millions de personnes (15,1% PDM). Cette performance de TF1 contraste avec le début de semaine où France 3 avait dominé les soirées, notamment avec \"Meurtres dans le Cantal\" qui avait enregistré 3,33 millions de curieux le 22 août. L'analyse de la semaine révèle une fragmentation des succès, avec des scores élevés pour des événements spécifiques ou des marques fortes comme \"L'amour est dans le pré\" sur M6 le 24 août, mais une lutte plus serrée entre les chaînes historiques sur les autres soirées. La stratégie de contre-programmation semble jouer un rôle, avec TF1 privilégiant la fiction américaine face aux productions françaises ou documentaires des autres diffuseurs.",
-      "commentary_date": "2026-08-26"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-08-27T18:20:15.129807Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-08-27T18:20:15.132399Z"
+  "last_updated": "2026-08-27T18:20:25.123846Z"
 }
