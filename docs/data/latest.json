@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22M%C3%BCnchen+Beats+Folge+1%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-27T20:45:56.961670Z",
+      "scraped_at": "2026-08-27T22:31:21.726068Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste s'affirme comme un pilier de la case du prime time, réunissant 4,20 millions de téléspectateurs et 22% de part de marché ce 26 août. Ce chiffre, bien qu'en retrait par rapport à la moyenne de la semaine précédente (4,50 M), confirme la domination de la chaîne publique sur la soirée, face au « heute journal » du ZDF qui atteint 2,89 millions de fidèles. La lutte pour les audiences se dessine également en dehors de ce duel classique, avec une série concurrente, « München Beats », qui parvient à capter l'attention de 2,11 millions de personnes, illustrant une stratégie de contre-programmation sur une case horaire historiquement occupée par les formats plus établis. La présence de deux épisodes de cette même série dans le top 5 suggère une tentative de fidélisation sur cette offre concurrente.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-27T20:45:59.007595Z",
+      "scraped_at": "2026-08-27T22:31:23.322351Z",
       "status": "ok",
       "error": null,
       "commentary": "Telecinco reprend la tête du prime ce jeudi 26 août avec \"First Dates\", attirant 1,03 million de téléspectateurs et 10,8% de part de marché. Ce résultat marque une amélioration par rapport aux 910 000 téléspectateurs enregistrés dimanche dernier, mais reste inférieur au leadership de La 1 sur la semaine. La chaîne publique se positionne en deuxième place avec \"Viaje al Centro de la Tele\", démontrant une résilience dans sa case horaire malgré un léger repli par rapport à la veille. La performance de \"El Hormiguero\" sur Antena 3, bien que plus faible que les pics observés en début de semaine, confirme la stratégie de divertissement en access, mais peine à se traduire en lead-in suffisant pour le prime. Le sport sur LaLiga TV par M+ s'insère dans ce paysage concurrentiel, tandis que La 2 maintient une audience stable avec un programme culturel.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-27T20:46:05.714929Z",
+      "scraped_at": "2026-08-27T22:31:30.207080Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-26-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Back_to_Black"
+          "wikipedia_url": "https://www.google.com/search?q=%22Back+to+Black%22+Canale+5+ratings"
         },
         {
           "rank": 2,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-26-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/A_Day_in_Court"
+          "wikipedia_url": "https://www.google.com/search?q=%22Un+Giorno+in+Pretura%22+Rai+3+ratings"
         },
         {
           "rank": 3,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-26-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Leopard"
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+Gattopardo%22+Rai+1+ratings"
         },
         {
           "rank": 4,
@@ -233,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-26-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Johnny_Stecchino"
+          "wikipedia_url": "https://www.google.com/search?q=%22Johnny+Stecchino%22+Rete+4+ratings"
         },
         {
           "rank": 5,
@@ -246,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-26-agosto-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago_Police_Department"
+          "wikipedia_url": "https://www.google.com/search?q=%22Chicago+P.D.%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-08-27T20:46:04.131862Z",
+      "scraped_at": "2026-08-27T22:31:29.084482Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 s'adjuge la tête des audiences du prime time italien ce 26 août avec le film « Back to Black » et ses 13.4% de part de marché. Cette performance le place néanmoins en retrait par rapport à ses scores des soirées précédentes ; le 23 août, « Racconto di una Notte » avait réuni 1.78 million de téléspectateurs, soit 16.5% de PDM. La stratégie de Canale 5 semble privilégier le cinéma et le divertissement, occupant la première place du classement cinq soirs sur les sept derniers jours. Rai 1, avec « Il Gattopardo », se positionne en troisième position, un résultat inférieur à celui du film « Lassie torna a casa » diffusé la veille (1.34 M, 10.6%). La fiction de Italia 1, « Chicago P.D. », ferme ce top 5, confirmant une présence récurrente dans le classement mais avec des scores de part de marché fluctuants, passant de 9.6% pour « Chicago Med » le 19 août à 6.5% ce jour.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Ulysse_31"
         }
       ],
-      "scraped_at": "2026-08-27T20:45:49.328634Z",
+      "scraped_at": "2026-08-27T22:31:16.986383Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 s'impose en tête des audiences du prime time ce 26 août avec la fiction \"Tracker\", attirant 2,88 millions de téléspectateurs et 18,3% de part de marché. La chaîne privée confirme ainsi sa position de leader sur la case, devançant France 2 et sa série \"Les Invisibles\" qui rassemble 2,39 millions de personnes (15,1% PDM). Cette performance de TF1 contraste avec le début de semaine où France 3 avait dominé les soirées, notamment avec \"Meurtres dans le Cantal\" qui avait enregistré 3,33 millions de curieux le 22 août. L'analyse de la semaine révèle une fragmentation des succès, avec des scores élevés pour des événements spécifiques ou des marques fortes comme \"L'amour est dans le pré\" sur M6 le 24 août, mais une lutte plus serrée entre les chaînes historiques sur les autres soirées. La stratégie de contre-programmation semble jouer un rôle, avec TF1 privilégiant la fiction américaine face aux productions françaises ou documentaires des autres diffuseurs.",
       "commentary_date": "2026-08-26"
     }
   },
-  "last_updated": "2026-08-27T20:46:05.716961Z"
+  "last_updated": "2026-08-27T22:31:30.209889Z"
 }
