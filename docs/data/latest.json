@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/3._Liga"
+          "wikipedia_url": "https://www.google.com/search?q=%22ran+Fu%C3%9Fball%22+Das+Erste+ratings"
         },
         {
           "rank": 2,
@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Die_Chefin"
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+Chefin%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 3,
@@ -72,10 +72,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/3._Liga"
+          "wikipedia_url": "https://www.google.com/search?q=%22ran+Fu%C3%9Fball%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-08-29T13:13:07.289595Z",
+      "scraped_at": "2026-08-29T14:25:24.935593Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match d'ouverture de la Bundesliga sur Das Erste réalise une performance solide avec 4,48 millions de téléspectateurs et 22,7% de part de marché, se plaçant en tête des audiences du prime time du 28 août. Cette position confirme la domination habituelle des chaînes publiques allemandes, bien que le chiffre soit inférieur aux meilleures audiences de la semaine précédente, notamment le 27 août où un téléfilm avait atteint 6,64 millions de curieux. La fiction, avec \"Die Chefin\" et \"SOKO Leipzig\", occupe les places suivantes, témoignant de l'attractivité des séries sur le public allemand. La présence d'un second programme sportif, \"ran Fußball: Highlights Folge 3\", dans le top 5, souligne l'impact des événements sportifs sur la case du prime. Le lead-in de \"Tagesschau\" sur Das Erste, qui a régulièrement dépassé les 4 millions de téléspectateurs ces derniers jours, a contribué à ce résultat.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-29T13:13:08.697060Z",
+      "scraped_at": "2026-08-29T14:25:26.864882Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 28 août voit Antena 3 reprendre la tête avec le film « El Peliculon », attirant 832 000 téléspectateurs et 10.4% de part de marché, délogeant Telecinco de sa position de leader observée la veille. Le programme « First Dates » de Telecinco, bien que restant en deuxième position avec 813 000 curieux et 9.4% de PDM, enregistre une légère baisse par rapport à son score de 969 000 téléspectateurs le 27 août. La 1, qui avait mené le prime quatre soirs sur sept la semaine écoulée, se retrouve troisième avec « Viaje al Centro de la Tele », captant 626 000 spectateurs (7.5% PDM), un chiffre inférieur à ses performances habituelles dans cette case. La stratégie d'Antena 3 de programmer un film dans sa case habituelle du vendredi semble porter ses fruits, marquant une rupture avec la tendance de la semaine où les retransmissions sportives sur DAZN LaLiga et les magazines de La 1 dominaient. La faible performance de « El Blockbuster » sur Cuatro (589 k, 7.0%) et de « Cifras y Letras » sur La 2 (517 k, 5.8%) confirme la difficulté pour les chaînes secondaires de rivaliser dans cette tranche horaire.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-08-29T13:13:13.218510Z",
+      "scraped_at": "2026-08-29T14:25:32.560898Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Ispettore+Coliandro%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-08-29T13:13:11.951029Z",
+      "scraped_at": "2026-08-29T14:25:30.933517Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 28 août voit Rai 1 reprendre la tête du prime time avec « TechetecheShow », attirant 1,55 million de téléspectateurs et 14,2% de part de marché. Ce résultat marque un retour en tête pour la chaîne publique, après que Canale 5 ait remporté cinq des sept soirées précédentes, notamment grâce à des programmes comme « Da grandi » (1,69 M, 15.0% le 27 août). La fiction américaine « Chicago Fire » sur Italia 1 obtient 948 000 téléspectateurs (7,7% PDM), une performance en retrait par rapport à des films diffusés en semaine auparavant. « L’Erede » sur Canale 5, avec 1,39 million de téléspectateurs (13,0% PDM), confirme la difficulté pour le diffuseur privé de maintenir son leadership face à des offres événementielles de Rai 1. Le positionnement de Rete 4 avec « Quarto Grado » (822 k, 8.8% PDM) illustre une stratégie de niche sur ce créneau, tandis que Rai 2 peine à trouver son public avec la série « L’Ispettore Coliandro » (628 k, 5.0% PDM).",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Sandhamn"
         }
       ],
-      "scraped_at": "2026-08-29T13:12:59.135964Z",
+      "scraped_at": "2026-08-29T14:25:15.977722Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce vendredi 28 août avec sa fiction \"A L'INSTINCT - LE FEU SACRE\", captant 23.4% de part de marché, une performance notable dans un contexte où France 3 avait mené le classement lors de trois soirées de la semaine précédente. La chaîne publique devance TF1 et son divertissement \"Le Grand Concours\", qui réunit 12.6% de PDM, un score inférieur à celui de \"The Voice Kids\" ou \"Koh-Lanta\" observés les jours précédents. Cette dynamique met en lumière la capacité de France 2 à mobiliser un large public, notamment sur les cases de fiction le vendredi, face à une concurrence privée qui peine à stabiliser ses scores. M6, avec un magazine d'information, se positionne en quatrième place, démontrant la difficulté des chaînes privées à rivaliser avec les offres de France Télévisions sur cette case horaire en cette fin de mois d'août. La fragmentation de l'audience, accentuée par la TNT, continue de façonner le paysage concurrentiel du prime time.",
       "commentary_date": "2026-08-28"
     }
   },
-  "last_updated": "2026-08-29T13:13:13.220075Z"
+  "last_updated": "2026-08-29T14:25:32.563034Z"
 }
