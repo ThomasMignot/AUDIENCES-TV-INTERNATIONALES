@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Claude_Sautet"
         }
       ],
-      "scraped_at": "2026-09-01T15:10:56.126292Z",
+      "scraped_at": "2026-09-01T16:51:27.794873Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 31 août 2026, la concurrence pour la tête du prime time français se resserre entre M6 et TF1. La chaîne de RTL Group prend l'avantage avec \"L'amour est dans le pré\", attirant 3,15 millions de téléspectateurs (17,7% de PDM), devançant de peu la fiction de TF1 \"Camping Paradis\" (3,12 millions, 17,6% PDM). Cette performance de M6 marque un léger repli par rapport à son score de la semaine précédente (3,36 millions, 20,0% PDM), tandis que TF1 progresse légèrement par rapport à son offre de fiction du 24 août (3,00 millions, 17,4% PDM). France 2 se positionne en troisième force avec une nouvelle fiction, \"Le Rouge et le Noir\", réunissant 2,74 millions de personnes (15,4% PDM), un score inférieur aux meilleures performances de la semaine précédente pour la chaîne. La stratégie de France 3, qui avait dominé plusieurs soirées, semble moins efficace ce lundi, avec une rediffusion de western atteignant 1,23 million de téléspectateurs (9,2% PDM). La fragmentation du marché, accentuée par la TNT, continue de structurer la bataille des audiences, rendant la conquête du leadership particulièrement disputée chaque soir.",
@@ -88,10 +88,76 @@
       "date": "2026-08-31",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-09-01T15:11:28.782783Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f97e7ffc910>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4379000,
+          "share": 22.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 2,
+          "channel": "RTL",
+          "channel_color": "red",
+          "program": "Wer wird Millionär ? Folge 1",
+          "program_fr": "Qui veut gagner des millions ?",
+          "viewers": 2993000,
+          "share": 16.1,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22Wer+wird+Million%C3%A4r+%3F+Folge+1%22+RTL+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Fang mich doch!",
+          "program_fr": null,
+          "viewers": 2590000,
+          "share": 12.3,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Fang+mich+doch%21%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal",
+          "program_fr": null,
+          "viewers": 2574000,
+          "share": 13.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Land unter Druck - 50 Stimmen aus d",
+          "program_fr": null,
+          "viewers": 1909000,
+          "share": 9.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Land+unter+Druck%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-09-01T16:51:33.126280Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Le journal \"Tagesschau\" sur Das Erste maintient sa position de leader, réunissant 4,38 millions de téléspectateurs et 22,1% de part de marché ce 31 août. Cette audience, bien que solide, accuse une légère baisse par rapport aux 4,64 millions enregistrés le 27 août, jour où un film de la série \"Nord bei Nordwest\" avait exceptionnellement dominé la soirée. La compétition pour la deuxième place reste vive entre RTL et ZDF, avec \"Wer wird Millionär ?\" devançant de peu le \"heute journal\" de ZDF, 2,99 millions contre 2,57 millions. La présence de deux programmes d'information dans le top 5, \"Tagesschau\" et \"heute journal\", illustre la prégnance des chaînes publiques sur les cases d'information du soir, un segment traditionnellement fort pour le public des 50 ans et plus. Le succès du divertissement de RTL, \"Wer wird Millionär ?\", à 16,1% de PDM, confirme sa capacité à attirer un public significatif, bien que inférieur aux scores de la chaîne publique.",
       "commentary_date": "2026-08-31"
     },
@@ -114,7 +180,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-31-agosto-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Young_Montalbano"
+          "wikipedia_url": "https://www.google.com/search?q=%22Il+Giovane+Montalbano%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -127,7 +193,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-31-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Scherzi_a_parte"
+          "wikipedia_url": "https://www.google.com/search?q=%22Scherzi+a+Parte%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -153,7 +219,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-31-agosto-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Inferno"
+          "wikipedia_url": "https://www.google.com/search?q=%22Inferno%22+Rai+2+ratings"
         },
         {
           "rank": 5,
@@ -169,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Filorosso%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-09-01T15:11:35.164395Z",
+      "scraped_at": "2026-09-01T16:51:39.453944Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 31 août voit Rai 1 reprendre la tête du classement avec la fiction « Il Giovane Montalbano », qui attire 2,25 millions de téléspectateurs et 17,5% de part de marché. Ce score est en légère hausse par rapport à la semaine précédente où le même programme avait rassemblé 2,21 millions de personnes, mais avec une part de marché plus élevée (18,7%), suggérant une légère érosion de l'audience globale de la case. Canale 5, qui avait mené le classement quatre soirs sur sept la semaine passée, se retrouve en deuxième position avec son divertissement « Scherzi a Parte », enregistrant 1,16 million de fidèles (10,8% PDM). La compétition directe entre Rai 1 et Canale 5 pour la domination du prime time se confirme, Rai 1 s'appuyant sur sa fiction historique tandis que Canale 5 alterne divertissement et films. Italia 1 et Rai 2 se disputent les places suivantes, avec des scores inférieurs à un million de téléspectateurs, illustrant la difficulté des chaînes secondaires à s'imposer face aux leaders. La fragmentation des audiences est manifeste, avec une concentration des téléspectateurs sur les deux principales chaînes généralistes.",
@@ -183,12 +249,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-01T15:11:36.179991Z",
+      "scraped_at": "2026-09-01T16:51:40.695474Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-01T15:11:36.181326Z"
+  "last_updated": "2026-09-01T16:51:40.696751Z"
 }
