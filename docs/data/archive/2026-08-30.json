@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-agosto-2026/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Una+Nueva+Vida%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Mart%C3%ADn_%28actor%29"
         },
         {
           "rank": 3,
@@ -206,7 +206,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-agosto-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 4,
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-09-01T16:51:35.485648Z",
+      "scraped_at": "2026-09-01T17:50:08.854299Z",
       "status": "ok",
       "error": null,
       "commentary": "La chaîne publique La 1 s'affirme en tête des audiences du prime time espagnol ce 30 août, avec 1,28 million de téléspectateurs et 13,9% de part de marché pour sa \"Pelicula de la Semana\". Ce score représente une nette progression par rapport au film diffusé le 23 août, qui rassemblait 914 000 personnes (10,3% PDM). La fiction d'Antena 3, \"Una Nueva Vida\", se positionne en deuxième place avec 796 000 curieux (10,1% PDM), marquant une légère hausse par rapport à la semaine précédente. Telecinco, avec \"First Dates\", enregistre 697 000 fidèles (8,2% PDM), un chiffre inférieur à ses performances des jours précédents où le programme frôlait le million de téléspectateurs. La stratégie de La 1 semble porter ses fruits en proposant du cinéma en semaine, tandis que les chaînes privées peinent à maintenir leur public habituel dans cette case tardive.",
@@ -336,5 +336,5 @@
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-01T16:51:35.488158Z"
+  "last_updated": "2026-09-01T17:50:08.856402Z"
 }
