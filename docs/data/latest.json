@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Fakt%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-02T17:54:55.256015Z",
+      "scraped_at": "2026-09-02T19:21:40.442615Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal \"Tagesschau\" de Das Erste conserve sa position de leader ce 1er septembre, réunissant 4,16 millions de téléspectateurs, soit 21,2% de part de marché. Ce score est légèrement inférieur à celui enregistré le 31 août (4,38 M, 22,1%), mais demeure dans la fourchette haute observée sur la semaine. La fiction \"Die Kanzlei Folge 75\" sur une chaîne concurrente se positionne en deuxième place avec 3,63 millions de spectateurs (17,7% PDM), une performance notable qui la distingue des autres programmes de divertissement privés diffusés en face. Le \"heute journal\" de ZDF, avec 3,43 millions de téléspectateurs (18,2% PDM), confirme la solidité des journaux télévisés en access prime time, particulièrement auprès du public plus âgé, cœur de cible des chaînes publiques. La diffusion d'un match de football sur RTL, attirant 3,03 millions de personnes (14,5% PDM), témoigne de la capacité du sport à mobiliser un public conséquent, bien que sa performance soit inférieure à celle du \"Tatort\" du dimanche précédent (5,58 M, 25,9%).",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-02T17:54:57.065189Z",
+      "scraped_at": "2026-09-02T19:21:42.264416Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 1er septembre voit Cuatro s'installer en tête du prime avec 1,06 million de téléspectateurs et 10,4% de part de marché pour son magazine d'information « Horizonte ». Ce résultat contraste avec la tendance observée sur la semaine écoulée, où La 1 avait mené à trois reprises, notamment grâce à son film du samedi 30 août qui avait rassemblé 1,28 million de personnes. La chaîne publique confirme toutefois sa présence dans le trio de tête avec « Viaje al Centro de la Tele », qui capte 9,2% du public, se plaçant devant Telecinco et Antena 3. Le divertissement « First Dates » sur Telecinco et « El Hormiguero » sur Antena 3 enregistrent des scores respectifs de 9,2% et 8,9%, des chiffres en retrait par rapport à leurs performances habituelles en semaine. La stratégie de Cuatro semble porter ses fruits sur cette case horaire, traditionnellement disputée par les deux grands groupes privés.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-02T17:55:12.902026Z",
+      "scraped_at": "2026-09-02T19:21:47.948514Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-1-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Hotel_Costiera"
+          "wikipedia_url": "https://www.google.com/search?q=%22Hotel+Costiera%22+Canale+5+ratings"
         },
         {
           "rank": 2,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-1-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Law_According_to_Lidia_Po%C3%ABt"
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Legge+di+Lidia+Po%C3%ABt%22+Rai+1+ratings"
         },
         {
           "rank": 3,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-1-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Eugenio_Mastrandrea"
+          "wikipedia_url": "https://www.google.com/search?q=%22Verit%C3%A0+Nascoste%22+Rete+4+ratings"
         },
         {
           "rank": 4,
@@ -233,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-1-settembre-2026",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Coppa_Italia"
+          "wikipedia_url": "https://www.google.com/search?q=%22Coppa+Italia%22+Italia+1+ratings"
         },
         {
           "rank": 5,
@@ -246,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-1-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Love_and_Vendetta"
+          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99ultima+vendetta%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-02T17:55:11.618134Z",
+      "scraped_at": "2026-09-02T19:21:46.671997Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 1er septembre, Canale 5 s'affirme en tête du prime time avec la fiction « Hotel Costiera », attirant 1,94 million de téléspectateurs et 14,4% de part de marché. Cette performance place la chaîne privée devant Rai 1 et sa série « La Legge di Lidia Poët », qui réunit 1,55 million de fidèles (11,2% PDM). On observe une stabilité de la domination de Canale 5 sur la case, la chaîne privée ayant mené quatre des sept soirées précédentes, souvent avec des scores de PDM avoisinant les 14-16%. La compétition reste vive entre les deux groupes historiques, Rai et Mediaset, même si Rai 1 a connu un pic notable le 31 août avec « Il Giovane Montalbano » (2,25 M, 17,5%). La stratégie de Canale 5 semble reposer sur des séries inédites pour consolider sa position face à la généraliste publique.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Claude_Sautet"
         }
       ],
-      "scraped_at": "2026-09-02T17:54:46.217608Z",
+      "scraped_at": "2026-09-02T19:21:33.465966Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 31 août 2026, la concurrence pour la tête du prime time français se resserre entre M6 et TF1. La chaîne de RTL Group prend l'avantage avec \"L'amour est dans le pré\", attirant 3,15 millions de téléspectateurs (17,7% de PDM), devançant de peu la fiction de TF1 \"Camping Paradis\" (3,12 millions, 17,6% PDM). Cette performance de M6 marque un léger repli par rapport à son score de la semaine précédente (3,36 millions, 20,0% PDM), tandis que TF1 progresse légèrement par rapport à son offre de fiction du 24 août (3,00 millions, 17,4% PDM). France 2 se positionne en troisième force avec une nouvelle fiction, \"Le Rouge et le Noir\", réunissant 2,74 millions de personnes (15,4% PDM), un score inférieur aux meilleures performances de la semaine précédente pour la chaîne. La stratégie de France 3, qui avait dominé plusieurs soirées, semble moins efficace ce lundi, avec une rediffusion de western atteignant 1,23 million de téléspectateurs (9,2% PDM). La fragmentation du marché, accentuée par la TNT, continue de structurer la bataille des audiences, rendant la conquête du leadership particulièrement disputée chaque soir.",
       "commentary_date": "2026-08-31"
     }
   },
-  "last_updated": "2026-09-02T17:55:12.904056Z"
+  "last_updated": "2026-09-02T19:21:47.950517Z"
 }
