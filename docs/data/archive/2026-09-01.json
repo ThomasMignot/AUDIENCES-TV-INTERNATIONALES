@@ -161,20 +161,6 @@
       "commentary": "La soirée du 1er septembre voit Cuatro s'installer en tête du prime avec 1,06 million de téléspectateurs et 10,4% de part de marché pour son magazine d'information « Horizonte ». Ce résultat contraste avec la tendance observée sur la semaine écoulée, où La 1 avait mené à trois reprises, notamment grâce à son film du samedi 30 août qui avait rassemblé 1,28 million de personnes. La chaîne publique confirme toutefois sa présence dans le trio de tête avec « Viaje al Centro de la Tele », qui capte 9,2% du public, se plaçant devant Telecinco et Antena 3. Le divertissement « First Dates » sur Telecinco et « El Hormiguero » sur Antena 3 enregistrent des scores respectifs de 9,2% et 8,9%, des chiffres en retrait par rapport à leurs performances habituelles en semaine. La stratégie de Cuatro semble porter ses fruits sur cette case horaire, traditionnellement disputée par les deux grands groupes privés.",
       "commentary_date": "2026-09-01"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-01",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-02T12:09:49.959500Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +241,20 @@
       "commentary": "Sur la soirée du 1er septembre, Canale 5 s'affirme en tête du prime time avec la fiction « Hotel Costiera », attirant 1,94 million de téléspectateurs et 14,4% de part de marché. Cette performance place la chaîne privée devant Rai 1 et sa série « La Legge di Lidia Poët », qui réunit 1,55 million de fidèles (11,2% PDM). On observe une stabilité de la domination de Canale 5 sur la case, la chaîne privée ayant mené quatre des sept soirées précédentes, souvent avec des scores de PDM avoisinant les 14-16%. La compétition reste vive entre les deux groupes historiques, Rai et Mediaset, même si Rai 1 a connu un pic notable le 31 août avec « Il Giovane Montalbano » (2,25 M, 17,5%). La stratégie de Canale 5 semble reposer sur des séries inédites pour consolider sa position face à la généraliste publique.",
       "commentary_date": "2026-09-01"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-08-31",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-serie-de-france-2-le-rouge-et-le-noir-face-a-camping-paradis-sur-tf1-et-lamour-est-dans-le-pre-sur-m6/656722",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "L'AMOUR EST DANS LE PRE",
-          "program_fr": null,
-          "viewers": 3155000,
-          "share": 17.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-serie-de-france-2-le-rouge-et-le-noir-face-a-camping-paradis-sur-tf1-et-lamour-est-dans-le-pre-sur-m6/656722",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27amour_est_dans_le_pr%C3%A9"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "CAMPING PARADIS : COUPS DE COEUR AU PARADIS \\ PARTIE 1",
-          "program_fr": null,
-          "viewers": 3116000,
-          "share": 17.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-serie-de-france-2-le-rouge-et-le-noir-face-a-camping-paradis-sur-tf1-et-lamour-est-dans-le-pre-sur-m6/656722",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_Paradis"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LE ROUGE ET LE NOIR \\ PREMIERE PARTIE - EPISODE 1",
-          "program_fr": null,
-          "viewers": 2744000,
-          "share": 15.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-serie-de-france-2-le-rouge-et-le-noir-face-a-camping-paradis-sur-tf1-et-lamour-est-dans-le-pre-sur-m6/656722",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Rouge_et_le_Noir"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LE BON, LA BRUTE ET LE TRUAND",
-          "program_fr": null,
-          "viewers": 1228000,
-          "share": 9.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-serie-de-france-2-le-rouge-et-le-noir-face-a-camping-paradis-sur-tf1-et-lamour-est-dans-le-pre-sur-m6/656722",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Bon%2C_la_Brute_et_le_Truand"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "L'ARME A GAUCHE (CLAUDE SAUTET)",
-          "program_fr": null,
-          "viewers": 974000,
-          "share": 5.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-serie-de-france-2-le-rouge-et-le-noir-face-a-camping-paradis-sur-tf1-et-lamour-est-dans-le-pre-sur-m6/656722",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Claude_Sautet"
-        }
-      ],
-      "scraped_at": "2026-09-02T12:09:41.032256Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Le 31 août 2026, la concurrence pour la tête du prime time français se resserre entre M6 et TF1. La chaîne de RTL Group prend l'avantage avec \"L'amour est dans le pré\", attirant 3,15 millions de téléspectateurs (17,7% de PDM), devançant de peu la fiction de TF1 \"Camping Paradis\" (3,12 millions, 17,6% PDM). Cette performance de M6 marque un léger repli par rapport à son score de la semaine précédente (3,36 millions, 20,0% PDM), tandis que TF1 progresse légèrement par rapport à son offre de fiction du 24 août (3,00 millions, 17,4% PDM). France 2 se positionne en troisième force avec une nouvelle fiction, \"Le Rouge et le Noir\", réunissant 2,74 millions de personnes (15,4% PDM), un score inférieur aux meilleures performances de la semaine précédente pour la chaîne. La stratégie de France 3, qui avait dominé plusieurs soirées, semble moins efficace ce lundi, avec une rediffusion de western atteignant 1,23 million de téléspectateurs (9,2% PDM). La fragmentation du marché, accentuée par la TNT, continue de structurer la bataille des audiences, rendant la conquête du leadership particulièrement disputée chaque soir.",
-      "commentary_date": "2026-08-31"
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-09-01",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-02T12:09:49.959500Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-02T12:09:49.961554Z"
+  "last_updated": "2026-09-02T12:09:58.179700Z"
 }
