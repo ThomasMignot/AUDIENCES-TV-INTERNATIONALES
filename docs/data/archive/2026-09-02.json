@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_3"
         }
       ],
-      "scraped_at": "2026-09-03T14:43:08.614792Z",
+      "scraped_at": "2026-09-03T16:38:06.676586Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de TF1, \"Tracker\", s'impose en tête des audiences du 2 septembre avec 3,19 millions de téléspectateurs, mais ne parvient pas à distancer France 2 qui, avec \"Un dimanche de chasse\", réalise une performance très proche (3,01 millions). Cette lutte serrée entre les deux chaînes historiques pour la première place du prime time s'inscrit dans une dynamique où France 3 a pourtant dominé la semaine précédente, témoignant de la volatilité des lead-ins et de la puissance des genres fictionnels face aux divertissements de M6. Le divertissement de M6, \"Quel est l'âge de votre cerveau ?\", se positionne en troisième position avec 1,30 million de curieux, une audience en retrait par rapport aux programmes leaders des jours précédents. La présence de TMC dans le top 5, avec 606 000 spectateurs pour une fiction, illustre la fragmentation induite par la TNT.",
@@ -129,7 +129,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22DFB-Pokal%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-03T14:43:13.353132Z",
+      "scraped_at": "2026-09-03T16:38:11.546557Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 2 septembre, la fiction de ZDF « Friesland - Sturmmöwen » enregistre 4,66 millions de téléspectateurs et 22,2% de part de marché, se plaçant juste derrière le journal de Das Erste (4,47 M, 23,3%). La rencontre de football de la DFB-Pokal sur une autre chaîne complète ce trio de tête avec 4,40 millions de curieux et 22,0% de PDA. Cette performance de la fiction publique contraste avec la domination de Das Erste sur la semaine, qui a mené 5 des 7 soirées précédentes, notamment grâce à « Tatort » (5,58 M le 30 août). La présence du football en milieu de semaine, un format généralement performant, confirme la difficulté pour les chaînes privées de s'immiscer dans le duel historique entre les deux grands diffuseurs publics allemands sur ce créneau. Les audiences de la semaine montrent une forte adhérence du public aux rendez-vous d'information et aux fictions établies des chaînes publiques, particulièrement sur la cible senior.",
@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-septiembre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grand+Prix%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Prix"
         },
         {
           "rank": 4,
@@ -209,7 +209,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-03T14:43:14.413512Z",
+      "scraped_at": "2026-09-03T16:38:12.626070Z",
       "status": "ok",
       "error": null,
       "commentary": "Le programme d'information de Cuatro, « Horizonte », s'empare de la tête des audiences du prime time ce 2 septembre, rassemblant 1,18 million de téléspectateurs (11,6% de PDM). Cette performance marque une progression par rapport à sa diffusion du 1er septembre, où il avait déjà mené le classement avec 1,06 million de curieux (10,4% de PDM). La chaîne confirme ainsi une stratégie de contre-programmation payante face aux offres plus établies du duopole Antena 3 et Telecinco. Le divertissement « El Hormiguero 20 Años Juntos » d'Antena 3, bien que toujours présent dans le top 3 avec 977 000 téléspectateurs (9,4% PDM), se retrouve devancé par la chaîne de Mediaset. La 1, qui avait pourtant dominé le classement durant la semaine précédente, voit « Grand Prix:Presenta » se classer quatrième avec 952 000 fidèles (9,1% PDM). La compétition pour le leadership du prime time espagnol demeure donc animée, avec une diversification des stratégies de captation d'audience.",
@@ -289,7 +289,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22%C3%88+Sempre+Cartabianca%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-09-03T14:43:17.216943Z",
+      "scraped_at": "2026-09-03T16:38:15.358602Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 2 septembre, Canale 5 s'impose en tête du prime time avec la fiction « Erica », attirant 2,32 millions de téléspectateurs, soit 18,9% de part d'audience. Ce score marque une nette progression par rapport à la semaine précédente, où le film « Hotel Costiera » avait réuni 1,94 million de personnes (14,4% PDM). La chaîne privée du groupe Mediaset conforte ainsi sa position de leader sur la période récente, ayant occupé la première place quatre soirs sur sept. Rai 1, leader historique, se place en deuxième position avec un concert, réunissant 1,55 million de fidèles (13,2% PDM), un chiffre stable par rapport à « La Legge di Lidia Poët » le dimanche précédent. La fiction turque semble avoir trouvé son public dans la case du mardi soir sur Canale 5, tandis que Rai 1 alterne les programmes pour capter une audience plus large.",
@@ -303,12 +303,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-03T14:43:18.705733Z",
+      "scraped_at": "2026-09-03T16:38:16.775975Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-03T14:43:18.707211Z"
+  "last_updated": "2026-09-03T16:38:16.777367Z"
 }
