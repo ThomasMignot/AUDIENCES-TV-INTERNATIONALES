@@ -1,6 +1,86 @@
 {
   "date": "2026-09-02",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-02",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "TRACKER \\ UNE PROTECTION INATTENDUE",
+          "program_fr": null,
+          "viewers": 3189000,
+          "share": 20.0,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tracker_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "UN DIMANCHE DE CHASSE",
+          "program_fr": null,
+          "viewers": 3013000,
+          "share": 20.1,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Un_dimanche_de_chasse"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "QUEL EST L'AGE DE VOTRE CERVEAU ?",
+          "program_fr": null,
+          "viewers": 1302000,
+          "share": 8.2,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2026_%C3%A0_la_t%C3%A9l%C3%A9vision"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA FRANCE DES VILLAGES : VIVRE DANS LE MORBIHAN",
+          "program_fr": null,
+          "viewers": 1087000,
+          "share": 6.8,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Plus_Beaux_Villages_de_France"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "CAMPING 3",
+          "program_fr": null,
+          "viewers": 606000,
+          "share": 4.5,
+          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_3"
+        }
+      ],
+      "scraped_at": "2026-09-03T12:09:56.886025Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La fiction de TF1, \"Tracker\", s'impose en tête des audiences du 2 septembre avec 3,19 millions de téléspectateurs, mais ne parvient pas à distancer France 2 qui, avec \"Un dimanche de chasse\", réalise une performance très proche (3,01 millions). Cette lutte serrée entre les deux chaînes historiques pour la première place du prime time s'inscrit dans une dynamique où France 3 a pourtant dominé la semaine précédente, témoignant de la volatilité des lead-ins et de la puissance des genres fictionnels face aux divertissements de M6. Le divertissement de M6, \"Quel est l'âge de votre cerveau ?\", se positionne en troisième position avec 1,30 million de curieux, une audience en retrait par rapport aux programmes leaders des jours précédents. La présence de TMC dans le top 5, avec 606 000 spectateurs pour une fiction, illustre la fragmentation induite par la TNT.",
+      "commentary_date": "2026-09-02"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -135,20 +215,6 @@
       "commentary": "Le programme d'information de Cuatro, « Horizonte », s'empare de la tête des audiences du prime time ce 2 septembre, rassemblant 1,18 million de téléspectateurs (11,6% de PDM). Cette performance marque une progression par rapport à sa diffusion du 1er septembre, où il avait déjà mené le classement avec 1,06 million de curieux (10,4% de PDM). La chaîne confirme ainsi une stratégie de contre-programmation payante face aux offres plus établies du duopole Antena 3 et Telecinco. Le divertissement « El Hormiguero 20 Años Juntos » d'Antena 3, bien que toujours présent dans le top 3 avec 977 000 téléspectateurs (9,4% PDM), se retrouve devancé par la chaîne de Mediaset. La 1, qui avait pourtant dominé le classement durant la semaine précédente, voit « Grand Prix:Presenta » se classer quatrième avec 952 000 fidèles (9,1% PDM). La compétition pour le leadership du prime time espagnol demeure donc animée, avec une diversification des stratégies de captation d'audience.",
       "commentary_date": "2026-09-02"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-02",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-03T12:10:05.829264Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -229,86 +295,20 @@
       "commentary": "Ce 2 septembre, Canale 5 s'impose en tête du prime time avec la fiction « Erica », attirant 2,32 millions de téléspectateurs, soit 18,9% de part d'audience. Ce score marque une nette progression par rapport à la semaine précédente, où le film « Hotel Costiera » avait réuni 1,94 million de personnes (14,4% PDM). La chaîne privée du groupe Mediaset conforte ainsi sa position de leader sur la période récente, ayant occupé la première place quatre soirs sur sept. Rai 1, leader historique, se place en deuxième position avec un concert, réunissant 1,55 million de fidèles (13,2% PDM), un chiffre stable par rapport à « La Legge di Lidia Poët » le dimanche précédent. La fiction turque semble avoir trouvé son public dans la case du mardi soir sur Canale 5, tandis que Rai 1 alterne les programmes pour capter une audience plus large.",
       "commentary_date": "2026-09-02"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-02",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "TRACKER \\ UNE PROTECTION INATTENDUE",
-          "program_fr": null,
-          "viewers": 3189000,
-          "share": 20.0,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tracker_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "UN DIMANCHE DE CHASSE",
-          "program_fr": null,
-          "viewers": 3013000,
-          "share": 20.1,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Un_dimanche_de_chasse"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "QUEL EST L'AGE DE VOTRE CERVEAU ?",
-          "program_fr": null,
-          "viewers": 1302000,
-          "share": 8.2,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2026_%C3%A0_la_t%C3%A9l%C3%A9vision"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA FRANCE DES VILLAGES : VIVRE DANS LE MORBIHAN",
-          "program_fr": null,
-          "viewers": 1087000,
-          "share": 6.8,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Plus_Beaux_Villages_de_France"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "CAMPING 3",
-          "program_fr": null,
-          "viewers": 606000,
-          "share": 4.5,
-          "source_url": "https://www.ozap.com/actu/audiences-le-polar-inedit-de-france-2-a-t-il-reussi-a-dominer-tracker-avec-justin-hartley-sur-tf1/656764",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Camping_3"
-        }
-      ],
-      "scraped_at": "2026-09-03T12:09:56.886025Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de TF1, \"Tracker\", s'impose en tête des audiences du 2 septembre avec 3,19 millions de téléspectateurs, mais ne parvient pas à distancer France 2 qui, avec \"Un dimanche de chasse\", réalise une performance très proche (3,01 millions). Cette lutte serrée entre les deux chaînes historiques pour la première place du prime time s'inscrit dans une dynamique où France 3 a pourtant dominé la semaine précédente, témoignant de la volatilité des lead-ins et de la puissance des genres fictionnels face aux divertissements de M6. Le divertissement de M6, \"Quel est l'âge de votre cerveau ?\", se positionne en troisième position avec 1,30 million de curieux, une audience en retrait par rapport aux programmes leaders des jours précédents. La présence de TMC dans le top 5, avec 606 000 spectateurs pour une fiction, illustre la fragmentation induite par la TNT.",
-      "commentary_date": "2026-09-02"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-03T12:10:05.829264Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-03T12:10:05.831390Z"
+  "last_updated": "2026-09-03T12:10:17.907138Z"
 }
