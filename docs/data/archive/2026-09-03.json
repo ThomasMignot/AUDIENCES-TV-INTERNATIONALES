@@ -1,6 +1,86 @@
 {
   "date": "2026-09-03",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-03",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE MYSTERE DE LA CHAMBRE JAUNE \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 3958000,
+          "share": 24.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Amazing_Digital_Circus"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LAME DE FOND",
+          "program_fr": null,
+          "viewers": 2077000,
+          "share": 13.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Lame_de_fond_%28t%C3%A9l%C3%A9film%29"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "RECHERCHE APPARTEMENT OU MAISON",
+          "program_fr": null,
+          "viewers": 1494000,
+          "share": 9.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Recherche_appartement_ou_maison"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "ENVOYE SPECIAL MAGAZINE ( économique, politique, sociologique )",
+          "program_fr": null,
+          "viewers": 883000,
+          "share": 5.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jared_Kushner"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "TAXI",
+          "program_fr": null,
+          "viewers": 665000,
+          "share": 4.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Taxi"
+        }
+      ],
+      "scraped_at": "2026-09-04T12:10:44.902564Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 reprend la tête du prime time ce 3 septembre avec la fiction « Le Mystère de la Chambre Jaune », attirant 3,96 millions de téléspectateurs et s'adjugeant 24,7% de part d'audience. Cette performance marque un net rebond par rapport à la semaine précédente, où la chaîne privée avait vu ses scores fléchir, notamment face à une France 3 dominante sur plusieurs soirées. France 3, qui menait le classement hebdomadaire, se positionne en deuxième place ce soir avec « Lame de Fond » (2,08 M, 13,4% PDM), confirmant la force de ses fictions dans cette case horaire. M6, avec son magazine de consommation « Recherche Appartement ou Maison », réalise une audience de 1,49 million de téléspectateurs, se plaçant en retrait par rapport aux deux chaînes historiques. La chaîne publique France 2, diffusant « Envoyé Spécial », peine à dépasser le million de curieux avec 883 000 téléspectateurs et 5,9% de PDA. La TNT, représentée par TMC, se maintient dans les 5 premiers avec une part de marché de 4,6%.",
+      "commentary_date": "2026-09-03"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -148,20 +228,6 @@
       "commentary": "La soirée du 3 septembre voit Cuatro prendre la tête du prime time avec 1,18 million de téléspectateurs et 11,8% de part de marché pour son magazine d'information « Horizonte:Avance », une performance notable qui confirme la dynamique de cette case sur la chaîne. La 1, avec « Viaje al Centro de la Tele », se positionne juste derrière avec 1,15 million de curieux (11,3% PDM), démontrant une certaine constance dans sa capacité à mobiliser un public large en milieu de semaine. Antena 3, bien que plaçant sa série « Las Hijas de la Criada » en tête des audiences en part de marché avec 12,0%, ne rassemble que 979 000 téléspectateurs, une performance inférieure à celle de la veille (1er septembre) où « Horizonte » avait déjà devancé La 1. La stratégie de contre-programmation de Cuatro semble porter ses fruits, tandis que le duopole historique Antena 3/Telecinco peine à imposer ses offres face à la résilience de La 1 et à la stratégie informationnelle de Cuatro dans cette case. La persistance de « First Dates » sur Telecinco, bien que stable dans son lead-in, le maintient en quatrième position avec 870 000 téléspectateurs et 8,7% de PDM, loin des performances des leaders.",
       "commentary_date": "2026-09-03"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-03",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-04T12:10:57.902056Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -242,86 +308,20 @@
       "commentary": "Ce 3 septembre, Rai 1 reprend la tête du prime time avec 1,72 million de téléspectateurs pour le film « Torno indietro e cambio vita », mais Canale 5 reste au coude-à-coude avec 1,64 million pour sa série « Hotel Costiera ». La part de marché de Canale 5 (13.4%) est même légèrement supérieure à celle de Rai 1 (13.0%), marquant une lutte serrée dans la case stratégique du début de soirée. Cette performance de Rai 1 contraste avec les scores plus faibles enregistrés lors des soirées précédentes, notamment le 27 août où « Costanza » n'avait attiré que 916 000 personnes. L'offre sportive d'Italia 1, « Coppa Italia », se positionne en troisième force avec 1,02 million de curieux, tandis que les chaînes du groupe Mediaset et Rai 3 peinent à dépasser le million. La semaine précédente, Canale 5 avait mené le classement quatre soirs sur sept, témoignant de sa dynamique actuelle face à sa concurrente historique.",
       "commentary_date": "2026-09-03"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-03",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE MYSTERE DE LA CHAMBRE JAUNE \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 3958000,
-          "share": 24.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Amazing_Digital_Circus"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LAME DE FOND",
-          "program_fr": null,
-          "viewers": 2077000,
-          "share": 13.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Lame_de_fond_%28t%C3%A9l%C3%A9film%29"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "RECHERCHE APPARTEMENT OU MAISON",
-          "program_fr": null,
-          "viewers": 1494000,
-          "share": 9.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Recherche_appartement_ou_maison"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "ENVOYE SPECIAL MAGAZINE ( économique, politique, sociologique )",
-          "program_fr": null,
-          "viewers": 883000,
-          "share": 5.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Jared_Kushner"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "TAXI",
-          "program_fr": null,
-          "viewers": 665000,
-          "share": 4.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-retour-de-recherche-appartement-ou-maison-sur-m6-et-sans-stephane-plaza/656785",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Taxi"
-        }
-      ],
-      "scraped_at": "2026-09-04T12:10:44.902564Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 reprend la tête du prime time ce 3 septembre avec la fiction « Le Mystère de la Chambre Jaune », attirant 3,96 millions de téléspectateurs et s'adjugeant 24,7% de part d'audience. Cette performance marque un net rebond par rapport à la semaine précédente, où la chaîne privée avait vu ses scores fléchir, notamment face à une France 3 dominante sur plusieurs soirées. France 3, qui menait le classement hebdomadaire, se positionne en deuxième place ce soir avec « Lame de Fond » (2,08 M, 13,4% PDM), confirmant la force de ses fictions dans cette case horaire. M6, avec son magazine de consommation « Recherche Appartement ou Maison », réalise une audience de 1,49 million de téléspectateurs, se plaçant en retrait par rapport aux deux chaînes historiques. La chaîne publique France 2, diffusant « Envoyé Spécial », peine à dépasser le million de curieux avec 883 000 téléspectateurs et 5,9% de PDA. La TNT, représentée par TMC, se maintient dans les 5 premiers avec une part de marché de 4,6%.",
-      "commentary_date": "2026-09-03"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-04T12:10:57.902056Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-04T12:10:57.904577Z"
+  "last_updated": "2026-09-04T12:11:10.353567Z"
 }
