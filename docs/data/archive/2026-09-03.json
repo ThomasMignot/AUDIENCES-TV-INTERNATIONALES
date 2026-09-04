@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Taxi"
         }
       ],
-      "scraped_at": "2026-09-04T16:33:14.925559Z",
+      "scraped_at": "2026-09-04T17:37:05.017764Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 reprend la tête du prime time ce 3 septembre avec la fiction « Le Mystère de la Chambre Jaune », attirant 3,96 millions de téléspectateurs et s'adjugeant 24,7% de part d'audience. Cette performance marque un net rebond par rapport à la semaine précédente, où la chaîne privée avait vu ses scores fléchir, notamment face à une France 3 dominante sur plusieurs soirées. France 3, qui menait le classement hebdomadaire, se positionne en deuxième place ce soir avec « Lame de Fond » (2,08 M, 13,4% PDM), confirmant la force de ses fictions dans cette case horaire. M6, avec son magazine de consommation « Recherche Appartement ou Maison », réalise une audience de 1,49 million de téléspectateurs, se plaçant en retrait par rapport aux deux chaînes historiques. La chaîne publique France 2, diffusant « Envoyé Spécial », peine à dépasser le million de curieux avec 883 000 téléspectateurs et 5,9% de PDA. La TNT, représentée par TMC, se maintient dans les 5 premiers avec une part de marché de 4,6%.",
@@ -100,7 +100,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Nord+bei+Nordwest%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Mojen"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22maybrit+illner%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-04T16:33:18.772314Z",
+      "scraped_at": "2026-09-04T17:37:09.794160Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 3 septembre 2026 voit un film de la catégorie \"Autre chaîne\" s'imposer avec 6,46 millions de téléspectateurs, captant 31,3% de part de marché, une performance notable dans un marché où les chaînes publiques dominent traditionnellement les audiences. La fiction, \"Nord bei Nordwest - Bei Einbruch Mo\", enregistre une légère baisse par rapport à la semaine précédente où le même titre avait attiré 6,64 millions de personnes (34,3% PDM). Les journaux télévisés de Das Erste (4,74 M, 24,2% PDM) et du ZDF (3,53 M, 19,5% PDM) se positionnent en deuxième et troisième places, confirmant la prédominance des informations sur les chaînes publiques en début de soirée. La case du prime time, autour de 20h15, reste ainsi un champ de bataille où les offres de divertissement et d'information s'affrontent, avec une certaine stabilité dans le classement des programmes les plus suivis sur la semaine. La fiction semble avoir un avantage significatif sur les offres sportives ou de divertissement plus légères, comme en témoigne la présence de \"maybrit illner\" en quatrième position avec 1,89 million de téléspectateurs.",
@@ -155,76 +155,10 @@
       "date": "2026-09-03",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte:Avance",
-          "program_fr": null,
-          "viewers": 1178000,
-          "share": 11.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-septiembre-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Viaje al Centro de la Tele (70 Artista del Verano(2 Parte))",
-          "program_fr": null,
-          "viewers": 1146000,
-          "share": 11.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Viaje+al+Centro+de+la+Tele+%2870+Artista+del+Verano%282+Parte%29%29%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "Las Hijas de la Criada (la Venganza de Renata)",
-          "program_fr": null,
-          "viewers": 979000,
-          "share": 12.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Las+Hijas+de+la+Criada+%28la+Venganza+de+Renata%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 870000,
-          "share": 8.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-septiembre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La 2",
-          "channel_color": "gray",
-          "program": "Cifras y Letras",
-          "program_fr": null,
-          "viewers": 564000,
-          "share": 5.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
-        }
-      ],
-      "scraped_at": "2026-09-04T16:33:19.774057Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-09-04T17:37:10.468229Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La soirée du 3 septembre voit Cuatro prendre la tête du prime time avec 1,18 million de téléspectateurs et 11,8% de part de marché pour son magazine d'information « Horizonte:Avance », une performance notable qui confirme la dynamique de cette case sur la chaîne. La 1, avec « Viaje al Centro de la Tele », se positionne juste derrière avec 1,15 million de curieux (11,3% PDM), démontrant une certaine constance dans sa capacité à mobiliser un public large en milieu de semaine. Antena 3, bien que plaçant sa série « Las Hijas de la Criada » en tête des audiences en part de marché avec 12,0%, ne rassemble que 979 000 téléspectateurs, une performance inférieure à celle de la veille (1er septembre) où « Horizonte » avait déjà devancé La 1. La stratégie de contre-programmation de Cuatro semble porter ses fruits, tandis que le duopole historique Antena 3/Telecinco peine à imposer ses offres face à la résilience de La 1 et à la stratégie informationnelle de Cuatro dans cette case. La persistance de « First Dates » sur Telecinco, bien que stable dans son lead-in, le maintient en quatrième position avec 870 000 téléspectateurs et 8,7% de PDM, loin des performances des leaders.",
       "commentary_date": "2026-09-03"
     },
@@ -302,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22In+Onda+Prima+Serata%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-09-04T16:33:22.306996Z",
+      "scraped_at": "2026-09-04T17:37:13.744145Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 3 septembre, Rai 1 reprend la tête du prime time avec 1,72 million de téléspectateurs pour le film « Torno indietro e cambio vita », mais Canale 5 reste au coude-à-coude avec 1,64 million pour sa série « Hotel Costiera ». La part de marché de Canale 5 (13.4%) est même légèrement supérieure à celle de Rai 1 (13.0%), marquant une lutte serrée dans la case stratégique du début de soirée. Cette performance de Rai 1 contraste avec les scores plus faibles enregistrés lors des soirées précédentes, notamment le 27 août où « Costanza » n'avait attiré que 916 000 personnes. L'offre sportive d'Italia 1, « Coppa Italia », se positionne en troisième force avec 1,02 million de curieux, tandis que les chaînes du groupe Mediaset et Rai 3 peinent à dépasser le million. La semaine précédente, Canale 5 avait mené le classement quatre soirs sur sept, témoignant de sa dynamique actuelle face à sa concurrente historique.",
@@ -316,12 +250,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-04T16:33:23.523923Z",
+      "scraped_at": "2026-09-04T17:37:44.101166Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7efc7f1934d0>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-04T16:33:23.525296Z"
+  "last_updated": "2026-09-04T17:37:44.101596Z"
 }
