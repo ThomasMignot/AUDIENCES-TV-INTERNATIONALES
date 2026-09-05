@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Sauvage"
         }
       ],
-      "scraped_at": "2026-09-05T11:18:14.875098Z",
+      "scraped_at": "2026-09-05T12:37:50.338362Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose en tête des audiences du prime time ce vendredi 4 septembre avec la fiction \"A L'INSTINCT - DANS LES LIMBES\", attirant 3,16 millions de téléspectateurs et 20,7% de part d'audience. Cette performance place la chaîne publique en tête de six soirées sur la semaine écoulée, confirmant une dynamique favorable sur ce créneau. TF1, avec son divertissement \"Qui sera le plus nul\", se positionne en deuxième place avec 2,53 millions de téléspectateurs (15,9% PDM), un score inférieur à celui de ses récents succès de fiction ou de divertissement comme \"Le Mystère de la chambre jaune\" le 3 septembre (3,96 M, 24,7%). France 3, avec \"La Carte aux trésors\", enregistre 1,21 million de curieux (8,8% PDM), tandis que M6 et France 5 ferment le top 5 sur des scores plus modestes. La fragmentation de l'audience, accentuée par la TNT, continue de structurer le paysage, rendant les performances de la fiction de France 2 particulièrement notables dans ce contexte.",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Goldene+Henne+2026%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-05T11:18:18.826130Z",
+      "scraped_at": "2026-09-05T12:37:54.258028Z",
       "status": "partial",
       "error": null,
       "commentary": "Le prime time du 4 septembre voit la fiction concurrente « Die Chefin » s'imposer avec 4,04 millions de téléspectateurs et 22,1% de part de marché, devançant le journal de Das Erste (3,53 M, 19,8%). Cette performance de la chaîne privée, non identifiée dans les données, témoigne d'une tension sur la case face aux offres historiques des chaînes publiques. Comparé à la semaine précédente, « Die Chefin » progresse de 600 000 spectateurs et 5,4 points de PDM, tandis que « Tagesschau » reste stable en nombre, mais perd 2,1 points de part de marché. La fiction « SOKO Leipzig » de ZDF se positionne en troisième place avec 3,14 millions de téléspectateurs (17,6%), confirmant la force des séries policières dans les audiences allemandes. La soirée du 3 septembre avait vu une autre fiction, « Nord bei Nordwest », dominer largement avec 6,46 millions de curieux.",
@@ -222,7 +222,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-09-05T11:18:19.840496Z",
+      "scraped_at": "2026-09-05T12:37:55.266282Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 4 septembre voit LaLiga TV par M+ s'installer en tête avec 9.1% de part de marché, une performance inhabituelle pour une chaîne thématique face aux généralistes. Antena 3 et Telecinco se talonnent avec leurs offres de films et de divertissement, respectivement à 8.6% et 11.0% de PDM, cette dernière bénéficiant du lead-in de son access. La 1, avec 7.6% pour son magazine, se positionne derrière la concurrence directe, marquant un recul par rapport à ses scores de début de semaine. La semaine précédente, Cuatro avait dominé le prime trois soirs sur sept, notamment grâce à la case \"Horizonte\" qui attirait un public plus large. Ce schéma de consommation, où le sport et le divertissement familial semblent gagner du terrain, contraste avec la prédominance historique des deux grands groupes privés. Le positionnement de LaLiga TV confirme une segmentation des audiences, où le flux sportif spécialisé peut désormais rivaliser avec les programmes de flux des chaînes généralistes.",
@@ -286,7 +286,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-4-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22CIA%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
         },
         {
           "rank": 5,
@@ -302,7 +302,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Sotto+le+foglie%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-09-05T11:18:22.434344Z",
+      "scraped_at": "2026-09-05T12:37:57.911886Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 4 septembre voit Rai 1 reprendre la tête du prime time avec 1,62 million de téléspectateurs et 14,7% de part de marché grâce à « La Notte dei Serpenti ». Ce score la replace au-dessus de Canale 5, dont le divertissement « L’Erede » réunit 1,36 million de personnes (12,8% PDM). La chaîne privée avait pourtant dominé trois des sept soirées précédentes, atteignant un pic à 2,32 millions de téléspectateurs le 2 septembre. La lutte pour la première place entre Rai 1 et Canale 5, les deux principaux acteurs du paysage audiovisuel italien, se confirme, Rai 1 ayant été leader quatre soirs sur sept sur la semaine écoulée. La troisième place est occupée par Rete 4 avec « Quarto Grado » et ses 1 million de curieux, confirmant la stabilité de cette case horaire sur la chaîne du groupe Mediaset.",
@@ -316,12 +316,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-05T11:18:23.452534Z",
+      "scraped_at": "2026-09-05T12:37:58.958127Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-05T11:18:33.545266Z"
+  "last_updated": "2026-09-05T12:37:58.959377Z"
 }
