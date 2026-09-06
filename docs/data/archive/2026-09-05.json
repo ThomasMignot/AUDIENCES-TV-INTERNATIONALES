@@ -1,6 +1,86 @@
 {
   "date": "2026-09-05",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-05",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "MEURTRES AU PUY-EN-VELAY",
+          "program_fr": null,
+          "viewers": 3231000,
+          "share": 22.4,
+          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "THE VOICE KIDS",
+          "program_fr": "The Voice",
+          "viewers": 2367000,
+          "share": 16.2,
+          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_Kids"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "VERSAILLES EN FETE VARIETES",
+          "program_fr": null,
+          "viewers": 1294000,
+          "share": 8.9,
+          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Eddie_Barclay"
+        },
+        {
+          "rank": 4,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "ORIENT-EXPRESS, LE VOYAGE D'UNE LEGENDE",
+          "program_fr": null,
+          "viewers": 701000,
+          "share": 4.8,
+          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Orient-Express"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "THE ROOKIE : LE FLIC DE LOS ANGELES \\ LES CHAISES MUSICALES",
+          "program_fr": "The Rookie : Le flic de Los Angeles",
+          "viewers": 696000,
+          "share": 4.7,
+          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Rookie_%3A_Le_Flic_de_Los_Angeles"
+        }
+      ],
+      "scraped_at": "2026-09-06T11:41:35.815184Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'impose ce samedi avec une fiction qui capte 3,23 millions de téléspectateurs, soit 22.4% de part de marché, confirmant sa capacité à dominer la case du samedi soir. Cette performance contraste avec la semaine précédente où France 2 avait mené deux soirées. TF1, avec \"The Voice Kids\", se positionne en deuxième place, enregistrant 2,37 millions de téléspectateurs et 16.2% de PDA, un score inférieur à celui de la fiction de France 3 mais stable par rapport à ses performances habituelles dans cette case. France 2, avec son divertissement \"Versailles en fête variétés\", peine à dépasser le million de spectateurs, marquant une faiblesse dans cette case horaire. La fragmentation de l'audience, exacerbée par la TNT, continue de peser sur les chaînes historiques, bien que les fictions de France 3 démontrent une résilience notable.",
+      "commentary_date": "2026-09-05"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Ce 5 septembre, Telecinco reprend la tête du prime time avec un film, mais La 1 s'impose en part de marché avec \"La Amiga Estupenda\", confirmant son redressement récent. La chaîne publique avait pourtant été largement devancée la veille par Antena 3 et son offre cinématographique. La performance de Telecinco, avec 9.8% de PDM, est inférieure aux chiffres enregistrés par La 1 ou Cuatro sur des soirées précédentes de la semaine écoulée. La stratégie de Cuatro, qui a dominé trois soirées sur sept avec des documentaires (\"Horizonte\"), témoigne d'une tentative de capter un public spécifique en milieu de semaine. La faiblesse de la fiction d'Antena 3 face au film de Telecinco et à la série de La 1 suggère une difficulté à fidéliser sur cette case face à des offres plus établies ou événementielles.",
       "commentary_date": "2026-09-05"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-05",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-06T11:42:15.778919Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7fe70a34b910>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Le 5 septembre, Canale 5 reprend la tête du prime time avec « Ciao Darwin » qui rassemble 1,36 million de téléspectateurs et 16,3% de part d'audience, devançant Rai 1 et sa proposition de fiction « Ogni Promessa è Debito » (1,10 M, 10.5%). Cette performance de Canale 5 marque un retour au leadership après plusieurs soirées dominées par Rai 1, qui avait remporté quatre des sept soirées précédentes. La chaîne privée Mediaset confirme ainsi sa capacité à mobiliser un public large sur ses programmes de divertissement, un format récurrent sur cette case horaire. Rai 1, malgré une position de leader historique, semble chercher une stabilité sur sa case prime, alternant fictions et événements. Les chaînes secondaires de Rai et Mediaset, Rai 2, Rai 3 et Italia 1, se disputent les audiences plus faibles, avec des scores inférieurs à 7% de PDM.",
       "commentary_date": "2026-09-05"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-05",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "MEURTRES AU PUY-EN-VELAY",
-          "program_fr": null,
-          "viewers": 3231000,
-          "share": 22.4,
-          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0..."
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE VOICE KIDS",
-          "program_fr": "The Voice",
-          "viewers": 2367000,
-          "share": 16.2,
-          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_Kids"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "VERSAILLES EN FETE VARIETES",
-          "program_fr": null,
-          "viewers": 1294000,
-          "share": 8.9,
-          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Eddie_Barclay"
-        },
-        {
-          "rank": 4,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "ORIENT-EXPRESS, LE VOYAGE D'UNE LEGENDE",
-          "program_fr": null,
-          "viewers": 701000,
-          "share": 4.8,
-          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Orient-Express"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "THE ROOKIE : LE FLIC DE LOS ANGELES \\ LES CHAISES MUSICALES",
-          "program_fr": "The Rookie : Le flic de Los Angeles",
-          "viewers": 696000,
-          "share": 4.7,
-          "source_url": "https://www.ozap.com/actu/audiences-qui-de-nikos-aliagas-avec-the-voice-kids-ou-de-stephane-bern-avec-versailles-en-fete-est-arrive-en-tete-hier-soir/656701",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Rookie_%3A_Le_Flic_de_Los_Angeles"
-        }
-      ],
-      "scraped_at": "2026-09-06T11:41:35.815184Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'impose ce samedi avec une fiction qui capte 3,23 millions de téléspectateurs, soit 22.4% de part de marché, confirmant sa capacité à dominer la case du samedi soir. Cette performance contraste avec la semaine précédente où France 2 avait mené deux soirées. TF1, avec \"The Voice Kids\", se positionne en deuxième place, enregistrant 2,37 millions de téléspectateurs et 16.2% de PDA, un score inférieur à celui de la fiction de France 3 mais stable par rapport à ses performances habituelles dans cette case. France 2, avec son divertissement \"Versailles en fête variétés\", peine à dépasser le million de spectateurs, marquant une faiblesse dans cette case horaire. La fragmentation de l'audience, exacerbée par la TNT, continue de peser sur les chaînes historiques, bien que les fictions de France 3 démontrent une résilience notable.",
-      "commentary_date": "2026-09-05"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-06T11:42:15.778919Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7fe70a34b910>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-06T11:42:15.780381Z"
+  "last_updated": "2026-09-06T11:42:25.499380Z"
 }
