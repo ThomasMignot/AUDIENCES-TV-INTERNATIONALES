@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Landtagswahl+in+Sachsen-Anhalt%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/2026_Saxony-Anhalt_state_election"
         },
         {
           "rank": 3,
@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute-journal%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22maybrit+illner+spezial%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-07T17:52:16.318113Z",
+      "scraped_at": "2026-09-07T18:44:28.720120Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 6 septembre, Das Erste s'impose largement en tête du prime time avec son journal \"Tagesschau\", attirant 7,73 millions de téléspectateurs et captant 34% de part de marché. Cette performance, nettement supérieure aux audiences enregistrées par le même programme au cours de la semaine écoulée, où il oscillait entre 3,5 et 4,7 millions de spectateurs, témoigne de l'attractivité de l'information en direct, d'autant que le programme devance une soirée marquée par la couverture des élections régionales en Saxe-Anhalt. La compétition pour le leadership s'articule ce soir-là autour de l'information et de la fiction, avec deux programmes de chaînes non identifiées se disputant la deuxième place. L'historique de la semaine précédente montre une prédominance de Das Erste, leader quatre soirs sur sept, mais avec des scores plus contenus, hormis le 3 septembre où un programme de fiction avait atteint 6,46 millions de téléspectateurs. La domination des chaînes publiques sur les audiences du soir se confirme, même si la présence d'un événement politique majeur offre une opportunité de visibilité aux autres acteurs du marché.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Conde+de+Montecristo%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-07T17:52:17.868396Z",
+      "scraped_at": "2026-09-07T18:44:30.201599Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 reprend la tête du prime ce dimanche avec « El Secreto », attirant 1,08 million de téléspectateurs et 12,5% de part de marché. Ce score contraste avec les performances plus modestes de la chaîne en fin de semaine passée, où elle n'atteignait pas le million. La 1, avec le film « Black Adam », se positionne en deuxième place mais enregistre un recul par rapport au précédent « Pelicula de la Semana » du 30 août, qui avait rassemblé 1,28 million de spectateurs. Telecinco, avec « First Dates », voit son divertissement rassembler 624 000 personnes, un chiffre en baisse par rapport aux 923 000 du 1er septembre. La Sexta, avec son magazine d'information, se maintient dans une fourchette proche de ses résultats récents. La domination de Cuatro sur la semaine précédente, portée par « Horizonte », ne se confirme pas ce dimanche, illustrant la volatilité des audiences en prime time.",
@@ -169,9 +169,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-07T17:52:52.063938Z",
+      "scraped_at": "2026-09-07T18:44:34.546248Z",
       "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f9e71f8b4d0>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Basket%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-07T17:52:21.375879Z",
+      "scraped_at": "2026-09-07T18:44:33.427336Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 s'affirme en tête du prime time italien pour la quatrième soirée de la semaine, avec la fiction « Racconto di una Notte » qui rassemble 1,67 million de téléspectateurs et 15,5% de part de marché. Cette performance reste légèrement en deçà de son précédent succès, « Erica », qui avait atteint 2,32 millions de spectateurs le 2 septembre. Rai 1, avec le film « Sei mai stata sulla luna ? », se positionne en seconde place, atteignant 1,52 million de téléspectateurs, un score proche de celui de « La Notte dei Serpenti » le 4 septembre. La stratégie de Canale 5 semble porter ses fruits en occupant régulièrement la première position, malgré une légère érosion par rapport aux pics de la semaine. Italia 1 et Rai 3 ferment le top 5, témoignant d'une fragmentation des audiences en fin de semaine.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
         }
       ],
-      "scraped_at": "2026-09-07T17:52:07.998997Z",
+      "scraped_at": "2026-09-07T18:44:22.332807Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose en tête des audiences ce dimanche 6 septembre avec la fiction « Boîte Noire », attirant 3,19 millions de téléspectateurs et réalisant 20,0% de part de marché. Cette performance place la chaîne publique en tête de la soirée, une position qu'elle a déjà occupée à deux reprises au cours des sept derniers jours, confirmant une certaine dynamique sur la case du prime. France 3 se positionne en deuxième position avec la série « Brokenwood » (2,34 M, 13,6% PDM), une audience en légère hausse par rapport à sa précédente diffusion le 30 août. La compétition entre les grandes chaînes généralistes reste vive, TF1 proposant un film de super-héros qui, malgré un score honorable de 1,80 million de curieux (12,5% PDM), se retrouve derrière M6 et son magazine « Capital » (1,98 M, 12,1% PDM). La fragmentation des audiences, accentuée par la TNT, continue de rendre difficile l'obtention de scores supérieurs à 20% de manière systématique pour l'ensemble des programmes diffusés en cette période de rentrée.",
       "commentary_date": "2026-09-06"
     }
   },
-  "last_updated": "2026-09-07T17:52:52.065683Z"
+  "last_updated": "2026-09-07T18:44:34.547904Z"
 }
