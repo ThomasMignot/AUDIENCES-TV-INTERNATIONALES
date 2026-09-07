@@ -1,6 +1,86 @@
 {
   "date": "2026-09-06",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-06",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "BOITE NOIRE",
+          "program_fr": null,
+          "viewers": 3189000,
+          "share": 20.0,
+          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Bo%C3%AEte_noire"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "BROKENWOOD \\ QUIZ MORTEL",
+          "program_fr": null,
+          "viewers": 2341000,
+          "share": 13.6,
+          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brokenwood"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "CAPITAL \\ GRAND FRAIS  : LES RECETTES SECRETES DU SUPERMARCHE...",
+          "program_fr": null,
+          "viewers": 1984000,
+          "share": 12.1,
+          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Grand_Frais"
+        },
+        {
+          "rank": 4,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "SPIDER-MAN : NO WAY HOME",
+          "program_fr": null,
+          "viewers": 1805000,
+          "share": 12.5,
+          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Spider-Man"
+        },
+        {
+          "rank": 5,
+          "channel": "Canal+",
+          "channel_color": "green",
+          "program": "EMISSIONS CRYPTEES",
+          "program_fr": null,
+          "viewers": 937000,
+          "share": 5.2,
+          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
+        }
+      ],
+      "scraped_at": "2026-09-07T13:34:20.406898Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 s'impose en tête des audiences ce dimanche 6 septembre avec la fiction « Boîte Noire », attirant 3,19 millions de téléspectateurs et réalisant 20,0% de part de marché. Cette performance place la chaîne publique en tête de la soirée, une position qu'elle a déjà occupée à deux reprises au cours des sept derniers jours, confirmant une certaine dynamique sur la case du prime. France 3 se positionne en deuxième position avec la série « Brokenwood » (2,34 M, 13,6% PDM), une audience en légère hausse par rapport à sa précédente diffusion le 30 août. La compétition entre les grandes chaînes généralistes reste vive, TF1 proposant un film de super-héros qui, malgré un score honorable de 1,80 million de curieux (12,5% PDM), se retrouve derrière M6 et son magazine « Capital » (1,98 M, 12,1% PDM). La fragmentation des audiences, accentuée par la TNT, continue de rendre difficile l'obtention de scores supérieurs à 20% de manière systématique pour l'ensemble des programmes diffusés en cette période de rentrée.",
+      "commentary_date": "2026-09-06"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Antena 3 reprend la tête du prime ce dimanche avec « El Secreto », attirant 1,08 million de téléspectateurs et 12,5% de part de marché. Ce score contraste avec les performances plus modestes de la chaîne en fin de semaine passée, où elle n'atteignait pas le million. La 1, avec le film « Black Adam », se positionne en deuxième place mais enregistre un recul par rapport au précédent « Pelicula de la Semana » du 30 août, qui avait rassemblé 1,28 million de spectateurs. Telecinco, avec « First Dates », voit son divertissement rassembler 624 000 personnes, un chiffre en baisse par rapport aux 923 000 du 1er septembre. La Sexta, avec son magazine d'information, se maintient dans une fourchette proche de ses résultats récents. La domination de Cuatro sur la semaine précédente, portée par « Horizonte », ne se confirme pas ce dimanche, illustrant la volatilité des audiences en prime time.",
       "commentary_date": "2026-09-06"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-06",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-07T13:35:00.721505Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f511ffcf690>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Canale 5 s'affirme en tête du prime time italien pour la quatrième soirée de la semaine, avec la fiction « Racconto di una Notte » qui rassemble 1,67 million de téléspectateurs et 15,5% de part de marché. Cette performance reste légèrement en deçà de son précédent succès, « Erica », qui avait atteint 2,32 millions de spectateurs le 2 septembre. Rai 1, avec le film « Sei mai stata sulla luna ? », se positionne en seconde place, atteignant 1,52 million de téléspectateurs, un score proche de celui de « La Notte dei Serpenti » le 4 septembre. La stratégie de Canale 5 semble porter ses fruits en occupant régulièrement la première position, malgré une légère érosion par rapport aux pics de la semaine. Italia 1 et Rai 3 ferment le top 5, témoignant d'une fragmentation des audiences en fin de semaine.",
       "commentary_date": "2026-09-06"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-06",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "BOITE NOIRE",
-          "program_fr": null,
-          "viewers": 3189000,
-          "share": 20.0,
-          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Bo%C3%AEte_noire"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "BROKENWOOD \\ QUIZ MORTEL",
-          "program_fr": null,
-          "viewers": 2341000,
-          "share": 13.6,
-          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brokenwood"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "CAPITAL \\ GRAND FRAIS  : LES RECETTES SECRETES DU SUPERMARCHE...",
-          "program_fr": null,
-          "viewers": 1984000,
-          "share": 12.1,
-          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Grand_Frais"
-        },
-        {
-          "rank": 4,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "SPIDER-MAN : NO WAY HOME",
-          "program_fr": null,
-          "viewers": 1805000,
-          "share": 12.5,
-          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Spider-Man"
-        },
-        {
-          "rank": 5,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
-          "program_fr": null,
-          "viewers": 937000,
-          "share": 5.2,
-          "source_url": "https://www.ozap.com/actu/audiences-pierre-niney-dans-boite-noire-sur-france-2-surclasse-tom-holland-dans-spider-man-sur-tf1-seulement-4e-chaine-de-la-soiree/656810",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
-        }
-      ],
-      "scraped_at": "2026-09-07T13:34:20.406898Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 s'impose en tête des audiences ce dimanche 6 septembre avec la fiction « Boîte Noire », attirant 3,19 millions de téléspectateurs et réalisant 20,0% de part de marché. Cette performance place la chaîne publique en tête de la soirée, une position qu'elle a déjà occupée à deux reprises au cours des sept derniers jours, confirmant une certaine dynamique sur la case du prime. France 3 se positionne en deuxième position avec la série « Brokenwood » (2,34 M, 13,6% PDM), une audience en légère hausse par rapport à sa précédente diffusion le 30 août. La compétition entre les grandes chaînes généralistes reste vive, TF1 proposant un film de super-héros qui, malgré un score honorable de 1,80 million de curieux (12,5% PDM), se retrouve derrière M6 et son magazine « Capital » (1,98 M, 12,1% PDM). La fragmentation des audiences, accentuée par la TNT, continue de rendre difficile l'obtention de scores supérieurs à 20% de manière systématique pour l'ensemble des programmes diffusés en cette période de rentrée.",
-      "commentary_date": "2026-09-06"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-07T13:35:00.721505Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f511ffcf690>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-07T13:35:00.722464Z"
+  "last_updated": "2026-09-07T13:35:12.905112Z"
 }
