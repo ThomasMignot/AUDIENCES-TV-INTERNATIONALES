@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Terreur_aveugle"
         }
       ],
-      "scraped_at": "2026-09-08T16:48:36.221470Z",
+      "scraped_at": "2026-09-08T17:55:51.683289Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 s'assure la tête du classement des audiences du prime time avec le lancement de sa nouvelle fiction \"La Cible\", qui rassemble 3,91 millions de téléspectateurs et 22,6% de part d'audience. Cette performance place la chaîne en tête des audiences du lundi, rompant la domination des chaînes publiques sur la semaine écoulée. M6, avec \"L'amour est dans le pré\", se positionne en deuxième position, un score stable par rapport à sa moyenne hebdomadaire. France 3 et France 2, avec des fictions plus confidentielles, peinent à rivaliser avec les deux leaders historiques, tandis qu'Arte ferme la marche. La stratégie de TF1 semble porter ses fruits en cette rentrée, en proposant une offre de fiction forte face à des programmes plus établis.",
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Wer+wird+Million%C3%A4r+%3F+Folge+2%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-09-08T16:48:40.026727Z",
+      "scraped_at": "2026-09-08T17:56:00.011021Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 7 septembre, une fiction allemande sur une chaîne non identifiée s'impose en tête du prime time avec 5,35 millions de téléspectateurs et 25,2% de part de marché, dépassant les journaux télévisés des chaînes publiques Das Erste (4,51 M, 22,3%) et ZDF (3,14 M, 16,3%). Cette performance contraste avec la domination habituelle de Das Erste, qui a mené le classement lors de trois soirées de la semaine précédente, démontrant une possible fluctuation dans la fidélité des audiences pour les formats d'information. La lutte pour la tête de case semble s'intensifier, avec la fiction proposée par cette \"Autre chaîne\" obtenant un lead-in significatif pour les programmes suivants. Le divertissement \"Wer wird Millionär ?\" sur RTL, avec 2,10 millions de curieux (11,8% PDM), confirme la difficulté des chaînes privées à rivaliser avec les offres des services publics sur ce créneau horaire. L'analyse des données des sept derniers jours révèle une compétition accrue, où les chaînes publiques ne sont plus assurées de leur position dominante sans une offre de fiction attractive.",
@@ -155,10 +155,76 @@
       "date": "2026-09-07",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-09-08T16:48:40.619114Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Carlos Alsina y Rafa Latorre)",
+          "program_fr": null,
+          "viewers": 1893000,
+          "share": 17.9,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Carlos+Alsina+y+Rafa+Latorre%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Ernesto & Joaquin)",
+          "program_fr": null,
+          "viewers": 1440000,
+          "share": 13.1,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Hormiguero"
+        },
+        {
+          "rank": 3,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 930000,
+          "share": 8.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+        },
+        {
+          "rank": 4,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 897000,
+          "share": 8.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-septiembre-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 636000,
+          "share": 5.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-septiembre-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
+        }
+      ],
+      "scraped_at": "2026-09-08T17:56:02.164677Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La soirée du 7 septembre voit Antena 3 reprendre la tête du prime avec le divertissement « El Hormiguero », qui enregistre 1,89 million de téléspectateurs et 17,9% de part de marché. Ce score marque un net rebond par rapport à la semaine précédente, où le programme avait enregistré 977 000 curieux le 2 septembre, bien que ce chiffre ne corresponde pas à une diffusion habituelle en tant que tel. La chaîne publique La 1, avec « La Revuelta », se positionne en deuxième place avec 1,44 million de téléspectateurs (13,1% PDM), confirmant une dynamique ascendante observée depuis le début du mois. La tension concurrentielle se manifeste dans la lutte pour la troisième position, où Telecinco et Cuatro se disputent l'attention des téléspectateurs, cette dernière ayant pourtant dominé le classement sur une majorité de soirées de la semaine écoulée. La baisse de régime de « First Dates » (Telecinco), passant de 923 000 téléspectateurs le 1er septembre à 930 000 ce jour-là après un plus bas à 624 000 le 6, illustre la volatilité de cette case face à une offre de divertissement et d'information plus installée.",
       "commentary_date": "2026-09-07"
     },
@@ -181,7 +247,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-7-settembre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Temptation+Island+e+poi%E2%80%A6+e+poi%E2%80%A6%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Forgia"
         },
         {
           "rank": 2,
@@ -194,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-7-settembre-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+Giovane+Montalbano%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Young_Montalbano"
         },
         {
           "rank": 3,
@@ -207,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-7-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Killer+Elite%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Killer_Elite"
         },
         {
           "rank": 4,
@@ -236,7 +302,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Io+sono+ancora+qui%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-09-08T16:48:43.399298Z",
+      "scraped_at": "2026-09-08T17:56:06.094463Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 7 septembre, Canale 5 s'impose nettement en tête des audiences du prime time italien avec « Temptation Island e poi… e poi… » qui rassemble 3,38 millions de téléspectateurs, captant 24,0% de part de marché. Cette performance place la chaîne privée en position de leader pour la quatrième soirée consécutive de la semaine, confirmant sa stratégie de proposer des programmes de divertissement populaires en première partie de soirée. Le programme de fiction de Rai 1, « Il Giovane Montalbano », se positionne en deuxième place avec 2,29 millions de fidèles et 15,9% de PDM, un score en légère hausse par rapport à sa précédente diffusion le 31 août (2,25 M, 17.5%). La concurrence sur les chaînes secondaires s'avère plus disputée, Italia 1 et Rete 4 affichant des scores proches pour leurs offres cinématographiques et d'information, respectivement 1,00 million et 711 000 téléspectateurs. Ces chiffres témoignent de la difficulté des autres acteurs à rivaliser avec la puissance du divertissement de Canale 5 et la fidélité de l'audience de Rai 1 sur ce créneau.",
@@ -250,12 +316,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-08T16:48:44.451831Z",
+      "scraped_at": "2026-09-08T17:56:07.117701Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-08T16:48:44.453083Z"
+  "last_updated": "2026-09-08T17:56:07.119228Z"
 }
