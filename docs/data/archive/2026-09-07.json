@@ -1,6 +1,86 @@
 {
   "date": "2026-09-07",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-07",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LA CIBLE \\ EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 3911000,
+          "share": 22.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/SEAL_Team"
+        },
+        {
+          "rank": 2,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "L'AMOUR EST DANS LE PRE",
+          "program_fr": null,
+          "viewers": 3146000,
+          "share": 18.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27amour_est_dans_le_pr%C3%A9"
+        },
+        {
+          "rank": 3,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "COMMISSAIRE DUPIN \\ NOCES DE SANG",
+          "program_fr": null,
+          "viewers": 1647000,
+          "share": 9.9,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Commissaire_Dupin"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LE ROUGE ET LE NOIR \\ DEUXIEME PARTIE - EPISODE 1",
+          "program_fr": null,
+          "viewers": 1579000,
+          "share": 9.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Rouge_et_le_Noir"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "TERREUR AVEUGLE",
+          "program_fr": null,
+          "viewers": 616000,
+          "share": 3.6,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Terreur_aveugle"
+        }
+      ],
+      "scraped_at": "2026-09-08T12:11:37.928334Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 2 s'impose en tête des audiences ce dimanche 6 septembre avec la fiction « Boîte Noire », attirant 3,19 millions de téléspectateurs et réalisant 20,0% de part de marché. Cette performance place la chaîne publique en tête de la soirée, une position qu'elle a déjà occupée à deux reprises au cours des sept derniers jours, confirmant une certaine dynamique sur la case du prime. France 3 se positionne en deuxième position avec la série « Brokenwood » (2,34 M, 13,6% PDM), une audience en légère hausse par rapport à sa précédente diffusion le 30 août. La compétition entre les grandes chaînes généralistes reste vive, TF1 proposant un film de super-héros qui, malgré un score honorable de 1,80 million de curieux (12,5% PDM), se retrouve derrière M6 et son magazine « Capital » (1,98 M, 12,1% PDM). La fragmentation des audiences, accentuée par la TNT, continue de rendre difficile l'obtention de scores supérieurs à 20% de manière systématique pour l'ensemble des programmes diffusés en cette période de rentrée.",
+      "commentary_date": "2026-09-06"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -148,20 +228,6 @@
       "commentary": "La soirée du 7 septembre voit Antena 3 reprendre la tête du prime avec le divertissement « El Hormiguero », qui enregistre 1,89 million de téléspectateurs et 17,9% de part de marché. Ce score marque un net rebond par rapport à la semaine précédente, où le programme avait enregistré 977 000 curieux le 2 septembre, bien que ce chiffre ne corresponde pas à une diffusion habituelle en tant que tel. La chaîne publique La 1, avec « La Revuelta », se positionne en deuxième place avec 1,44 million de téléspectateurs (13,1% PDM), confirmant une dynamique ascendante observée depuis le début du mois. La tension concurrentielle se manifeste dans la lutte pour la troisième position, où Telecinco et Cuatro se disputent l'attention des téléspectateurs, cette dernière ayant pourtant dominé le classement sur une majorité de soirées de la semaine écoulée. La baisse de régime de « First Dates » (Telecinco), passant de 923 000 téléspectateurs le 1er septembre à 930 000 ce jour-là après un plus bas à 624 000 le 6, illustre la volatilité de cette case face à une offre de divertissement et d'information plus installée.",
       "commentary_date": "2026-09-07"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-07",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-08T12:11:49.855067Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -242,86 +308,20 @@
       "commentary": "Canale 5 s'affirme en tête du prime time italien pour la quatrième soirée de la semaine, avec la fiction « Racconto di una Notte » qui rassemble 1,67 million de téléspectateurs et 15,5% de part de marché. Cette performance reste légèrement en deçà de son précédent succès, « Erica », qui avait atteint 2,32 millions de spectateurs le 2 septembre. Rai 1, avec le film « Sei mai stata sulla luna ? », se positionne en seconde place, atteignant 1,52 million de téléspectateurs, un score proche de celui de « La Notte dei Serpenti » le 4 septembre. La stratégie de Canale 5 semble porter ses fruits en occupant régulièrement la première position, malgré une légère érosion par rapport aux pics de la semaine. Italia 1 et Rai 3 ferment le top 5, témoignant d'une fragmentation des audiences en fin de semaine.",
       "commentary_date": "2026-09-06"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-07",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LA CIBLE \\ EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 3911000,
-          "share": 22.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/SEAL_Team"
-        },
-        {
-          "rank": 2,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "L'AMOUR EST DANS LE PRE",
-          "program_fr": null,
-          "viewers": 3146000,
-          "share": 18.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27amour_est_dans_le_pr%C3%A9"
-        },
-        {
-          "rank": 3,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "COMMISSAIRE DUPIN \\ NOCES DE SANG",
-          "program_fr": null,
-          "viewers": 1647000,
-          "share": 9.9,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Commissaire_Dupin"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LE ROUGE ET LE NOIR \\ DEUXIEME PARTIE - EPISODE 1",
-          "program_fr": null,
-          "viewers": 1579000,
-          "share": 9.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Rouge_et_le_Noir"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "TERREUR AVEUGLE",
-          "program_fr": null,
-          "viewers": 616000,
-          "share": 3.6,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-cible-la-nouvelle-mini-serie-de-tf1-avec-tomer-sisley-et-fauve-hautot/656848",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Terreur_aveugle"
-        }
-      ],
-      "scraped_at": "2026-09-08T12:11:37.928334Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 2 s'impose en tête des audiences ce dimanche 6 septembre avec la fiction « Boîte Noire », attirant 3,19 millions de téléspectateurs et réalisant 20,0% de part de marché. Cette performance place la chaîne publique en tête de la soirée, une position qu'elle a déjà occupée à deux reprises au cours des sept derniers jours, confirmant une certaine dynamique sur la case du prime. France 3 se positionne en deuxième position avec la série « Brokenwood » (2,34 M, 13,6% PDM), une audience en légère hausse par rapport à sa précédente diffusion le 30 août. La compétition entre les grandes chaînes généralistes reste vive, TF1 proposant un film de super-héros qui, malgré un score honorable de 1,80 million de curieux (12,5% PDM), se retrouve derrière M6 et son magazine « Capital » (1,98 M, 12,1% PDM). La fragmentation des audiences, accentuée par la TNT, continue de rendre difficile l'obtention de scores supérieurs à 20% de manière systématique pour l'ensemble des programmes diffusés en cette période de rentrée.",
-      "commentary_date": "2026-09-06"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-08T12:11:49.855067Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-08T12:11:49.856918Z"
+  "last_updated": "2026-09-08T12:13:59.367706Z"
 }
