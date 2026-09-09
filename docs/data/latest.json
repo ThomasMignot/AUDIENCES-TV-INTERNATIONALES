@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
           "rank": 2,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Erzgebirgskrimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-09T17:50:28.867163Z",
+      "scraped_at": "2026-09-09T19:14:23.746587Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 8 septembre, la \"Tagesschau\" sur Das Erste conserve sa position de tête avec 4,19 millions de téléspectateurs et 21,6% de part de marché, une performance stable par rapport à son score du 1er septembre (4,16 M, 21.2%). Cependant, la soirée voit une réorganisation des forces en présence, avec un programme de fiction (\"Die Kanzlei Folge 76\") se hissant à la deuxième place, devançant le \"heute journal\" du ZDF. Cette configuration contraste avec les soirées précédentes de la semaine où les chaînes publiques dominaient plus nettement le podium. La \"Tagesschau\" maintient un lead-in solide, mais la stratégie de programmation des chaînes privées semble influencer la répartition des audiences dans la case du prime time. Le score de 3,42 millions pour \"Die Kanzlei Folge 76\" témoigne de la capacité de certains formats à capter une audience significative, même face à l'information des chaînes publiques.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+Movistar+Liga+de+Campeones+ratings"
         }
       ],
-      "scraped_at": "2026-09-09T17:50:29.887282Z",
+      "scraped_at": "2026-09-09T19:14:25.497856Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur la soirée du 8 septembre, Antena 3 s'impose avec \"El Hormiguero\", attirant 1,52 million de téléspectateurs et 13,8% de part de marché. Ce score est inférieur à celui du dimanche précédent (1,89 M, 17,9%), qui bénéficiait d'une personnalité politique en plateau, mais reste supérieur à la moyenne de la semaine pour le programme. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième place (1,11 M, 9,7%), reprenant ainsi une position plus habituelle après un week-end contrasté. Cuatro maintient une présence solide en troisième position avec son magazine d'information \"Horizonte\" (961 k, 8,6%), confirmant sa performance récurrente sur cette case horaire. La chaîne spécialisée Movistar Liga de Campeones réalise une audience honorable pour un match de Ligue des Champions, mais reste loin des performances des chaînes généralistes. Le duel entre Antena 3 et La 1 semble s'intensifier, cette dernière montrant une capacité à rivaliser sur les cases de divertissement et d'information.",
@@ -169,9 +169,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-09T17:51:03.716888Z",
+      "scraped_at": "2026-09-09T19:14:30.683670Z",
       "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7effd3943b90>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+furia+di+un+uomo%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-09T17:50:33.002021Z",
+      "scraped_at": "2026-09-09T19:14:29.408139Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 8 septembre, Canale 5 s'adjuge la première place du prime time avec « Super Karaoke » et 1,93 million de téléspectateurs, soit 16,4% de part de marché. Cette performance la place nettement devant Rai 1 et sa fiction « La Legge di Lidia Poët » qui rassemble 1,51 million de personnes (9,9% PDM). Le programme de divertissement de Mediaset confirme ainsi sa stratégie de proposer des formats populaires en concurrence directe avec les offres plus classiques de la chaîne publique historique. Sur la semaine écoulée, Canale 5 a mené le classement du prime time cinq soirs sur sept, preuve de la dynamique de la chaîne sur ce créneau. La troisième place revient à Rai 3 avec « Mi Manda Raitre », qui capte 1,06 million de curieux (8,2% PDM), reléguant la fiction de Rete 4, « Verità Nascoste », à la quatrième position.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Terreur_aveugle"
         }
       ],
-      "scraped_at": "2026-09-09T17:50:25.381206Z",
+      "scraped_at": "2026-09-09T19:14:17.183547Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 s'assure la tête du classement des audiences du prime time avec le lancement de sa nouvelle fiction \"La Cible\", qui rassemble 3,91 millions de téléspectateurs et 22,6% de part d'audience. Cette performance place la chaîne en tête des audiences du lundi, rompant la domination des chaînes publiques sur la semaine écoulée. M6, avec \"L'amour est dans le pré\", se positionne en deuxième position, un score stable par rapport à sa moyenne hebdomadaire. France 3 et France 2, avec des fictions plus confidentielles, peinent à rivaliser avec les deux leaders historiques, tandis qu'Arte ferme la marche. La stratégie de TF1 semble porter ses fruits en cette rentrée, en proposant une offre de fiction forte face à des programmes plus établis.",
       "commentary_date": "2026-09-07"
     }
   },
-  "last_updated": "2026-09-09T17:51:03.717980Z"
+  "last_updated": "2026-09-09T19:14:30.685585Z"
 }
