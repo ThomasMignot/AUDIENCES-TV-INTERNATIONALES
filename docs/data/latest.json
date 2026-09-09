@@ -20,7 +20,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
           "rank": 2,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Erzgebirgskrimi%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-09T12:23:12.864808Z",
+      "scraped_at": "2026-09-09T13:39:59.612242Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 8 septembre, la \"Tagesschau\" sur Das Erste conserve sa position de tête avec 4,19 millions de téléspectateurs et 21,6% de part de marché, une performance stable par rapport à son score du 1er septembre (4,16 M, 21.2%). Cependant, la soirée voit une réorganisation des forces en présence, avec un programme de fiction (\"Die Kanzlei Folge 76\") se hissant à la deuxième place, devançant le \"heute journal\" du ZDF. Cette configuration contraste avec les soirées précédentes de la semaine où les chaînes publiques dominaient plus nettement le podium. La \"Tagesschau\" maintient un lead-in solide, mais la stratégie de programmation des chaînes privées semble influencer la répartition des audiences dans la case du prime time. Le score de 3,42 millions pour \"Die Kanzlei Folge 76\" témoigne de la capacité de certains formats à capter une audience significative, même face à l'information des chaînes publiques.",
@@ -88,10 +88,76 @@
       "date": "2026-09-08",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-09-09T12:23:13.559049Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Luis de la Fuente)",
+          "program_fr": null,
+          "viewers": 1523000,
+          "share": 13.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aitana_%28singer%29"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Borja Iglesias-Carmen Lomana)",
+          "program_fr": null,
+          "viewers": 1107000,
+          "share": 9.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Vox_%28political_party%29"
+        },
+        {
+          "rank": 3,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 961000,
+          "share": 8.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-septiembre-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
+        },
+        {
+          "rank": 4,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 734000,
+          "share": 6.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+        },
+        {
+          "rank": 5,
+          "channel": "Movistar Liga de Campeones",
+          "channel_color": "gray",
+          "program": "Futbol:Champions League (R.Madrid-Inter)",
+          "program_fr": null,
+          "viewers": 663000,
+          "share": 6.0,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-septiembre-2026/",
+          "category": "sport",
+          "category_emoji": "⚽",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
+        }
+      ],
+      "scraped_at": "2026-09-09T13:40:02.872605Z",
+      "status": "ok",
+      "error": null,
       "commentary": "La soirée du 7 septembre voit Antena 3 reprendre la tête du prime avec le divertissement « El Hormiguero », qui enregistre 1,89 million de téléspectateurs et 17,9% de part de marché. Ce score marque un net rebond par rapport à la semaine précédente, où le programme avait enregistré 977 000 curieux le 2 septembre, bien que ce chiffre ne corresponde pas à une diffusion habituelle en tant que tel. La chaîne publique La 1, avec « La Revuelta », se positionne en deuxième place avec 1,44 million de téléspectateurs (13,1% PDM), confirmant une dynamique ascendante observée depuis le début du mois. La tension concurrentielle se manifeste dans la lutte pour la troisième position, où Telecinco et Cuatro se disputent l'attention des téléspectateurs, cette dernière ayant pourtant dominé le classement sur une majorité de soirées de la semaine écoulée. La baisse de régime de « First Dates » (Telecinco), passant de 923 000 téléspectateurs le 1er septembre à 930 000 ce jour-là après un plus bas à 624 000 le 6, illustre la volatilité de cette case face à une offre de divertissement et d'information plus installée.",
       "commentary_date": "2026-09-07"
     },
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-09T12:23:20.451310Z",
+      "scraped_at": "2026-09-09T13:40:09.708433Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -128,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-8-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Super+Karaoke%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Car%2C_the_Garden"
         },
         {
           "rank": 2,
@@ -141,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-8-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Legge+di+Lidia+Po%C3%ABt%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Law_According_to_Lidia_Po%C3%ABt"
         },
         {
           "rank": 3,
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+furia+di+un+uomo%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-09T12:23:18.972440Z",
+      "scraped_at": "2026-09-09T13:40:08.701705Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 8 septembre, Canale 5 s'adjuge la première place du prime time avec « Super Karaoke » et 1,93 million de téléspectateurs, soit 16,4% de part de marché. Cette performance la place nettement devant Rai 1 et sa fiction « La Legge di Lidia Poët » qui rassemble 1,51 million de personnes (9,9% PDM). Le programme de divertissement de Mediaset confirme ainsi sa stratégie de proposer des formats populaires en concurrence directe avec les offres plus classiques de la chaîne publique historique. Sur la semaine écoulée, Canale 5 a mené le classement du prime time cinq soirs sur sept, preuve de la dynamique de la chaîne sur ce créneau. La troisième place revient à Rai 3 avec « Mi Manda Raitre », qui capte 1,06 million de curieux (8,2% PDM), reléguant la fiction de Rete 4, « Verità Nascoste », à la quatrième position.",
@@ -263,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Terreur_aveugle"
         }
       ],
-      "scraped_at": "2026-09-09T12:23:04.565129Z",
+      "scraped_at": "2026-09-09T13:39:54.183775Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 s'assure la tête du classement des audiences du prime time avec le lancement de sa nouvelle fiction \"La Cible\", qui rassemble 3,91 millions de téléspectateurs et 22,6% de part d'audience. Cette performance place la chaîne en tête des audiences du lundi, rompant la domination des chaînes publiques sur la semaine écoulée. M6, avec \"L'amour est dans le pré\", se positionne en deuxième position, un score stable par rapport à sa moyenne hebdomadaire. France 3 et France 2, avec des fictions plus confidentielles, peinent à rivaliser avec les deux leaders historiques, tandis qu'Arte ferme la marche. La stratégie de TF1 semble porter ses fruits en cette rentrée, en proposant une offre de fiction forte face à des programmes plus établis.",
       "commentary_date": "2026-09-07"
     }
   },
-  "last_updated": "2026-09-09T12:23:20.453297Z"
+  "last_updated": "2026-09-09T13:40:09.710408Z"
 }
