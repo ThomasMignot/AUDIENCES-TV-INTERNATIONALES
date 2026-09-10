@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Accord_%28musique%29"
         }
       ],
-      "scraped_at": "2026-09-10T16:38:35.837393Z",
+      "scraped_at": "2026-09-10T17:42:46.337728Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 s'impose en tête du prime time avec 2,78 millions de téléspectateurs et 16,8% de part d'audience pour la fiction \"TRACKER \\ CHASSE AU MONSTRE\". Ce score marque un recul par rapport aux 3,19 millions enregistrés une semaine plus tôt pour le même programme, illustrant la volatilité des performances sur cette case. France 2 suit avec \"LES EVAPORES \\ ALBA ET CHARLOTTE - EPISODE PILOTE\" qui rassemble 2,46 millions de personnes, soit 14,7% du public, se positionnant comme un concurrent direct de la première chaîne. La fiction française sur France 2 démontre une capacité à capter une part significative de l'audience, tandis que Canal+ et les chaînes d'information comme France 3 et M6 se partagent le reste du marché. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour ces dernières de rivaliser avec les offres plus larges des chaînes historiques.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Der+Deutsche+Fernsehpreis+2026%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-10T16:38:40.895068Z",
+      "scraped_at": "2026-09-10T17:42:51.787627Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé \"Tagesschau\" de Das Erste enregistre 4,76 millions de téléspectateurs, soit 24,2% de part de marché, se plaçant en tête des audiences du prime time ce mercredi 9 septembre 2026. Ce résultat est en légère progression par rapport à sa performance de la semaine précédente (4,19 millions le 8 septembre), mais reste inférieur à certains pics observés en début de mois, notamment le 3 septembre avec 4,74 millions. La chaîne privée Sat.1 parvient à se positionner en deuxième place avec \"Aktenzeichen XY... Ungelöst\" et 4,50 millions de téléspectateurs, démontrant une capacité à rivaliser avec les offres des chaînes publiques sur cette case horaire. Le \"heute journal\" de ZDF, bien qu'en recul par rapport au 2 septembre, maintient une audience solide avec 3,77 millions de personnes, confirmant la prédominance des programmes d'information en début de soirée. La lutte pour la première place entre les chaînes publiques et certains programmes privés sur des cases similaires reste une dynamique de marché notable.",
@@ -168,10 +168,76 @@
       "date": "2026-09-09",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-09-10T16:38:41.492792Z",
-      "status": "failed",
-      "error": "Aucune ligne prime time extraite (page récap + article daily)",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "El Hormiguero (Paula Echevarria)",
+          "program_fr": null,
+          "viewers": 1399000,
+          "share": 12.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Paula+Echevarria%29%22+Antena+3+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "La Revuelta (Michelle Jenner-Tanxugueiras)",
+          "program_fr": null,
+          "viewers": 1340000,
+          "share": 11.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Michelle+Jenner-Tanxugueiras%29%22+La+1+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte:Avance",
+          "program_fr": null,
+          "viewers": 1166000,
+          "share": 10.2,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-septiembre-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 1075000,
+          "share": 9.5,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-septiembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La Sexta",
+          "channel_color": "green",
+          "program": "El Intermedio",
+          "program_fr": null,
+          "viewers": 637000,
+          "share": 5.6,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-septiembre-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+        }
+      ],
+      "scraped_at": "2026-09-10T17:42:53.299437Z",
+      "status": "ok",
+      "error": null,
       "commentary": "Sur le prime du 9 septembre, Antena 3 reprend la tête avec \"El Hormiguero\", qui réunit 1,40 million de téléspectateurs et 12,6% de part de marché, dépassant La 1 et son divertissement \"La Revuelta\" (1,34 M, 11,8%). Ce score d'Antena 3 est inférieur à celui de la veille (1,52 M), mais reste une performance solide pour cette case horaire. La chaîne s'affirme ainsi comme leader du prime sur la semaine écoulée, ayant occupé la première place trois fois sur sept. Cuatro, avec \"Horizonte:Avance\", se positionne en troisième force avec 1,17 million de curieux (10,2%), un chiffre en légère hausse par rapport au 8 septembre. Telecinco, malgré la présence de \"First Dates\" dans son offre, peine à dépasser le million de téléspectateurs (1,07 M, 9,5%), marquant un recul par rapport à ses performances de début septembre.",
       "commentary_date": "2026-09-09"
     },
@@ -249,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Rino+Gaetano%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-09-10T16:38:44.654669Z",
+      "scraped_at": "2026-09-10T17:42:59.208070Z",
       "status": "ok",
       "error": null,
       "commentary": "Canale 5 confirme sa domination sur le prime time italien en remportant cinq des sept soirées de la semaine précédente, y compris celle du 9 septembre avec « Erica » et ses 18.5% de part de marché. La fiction turque, stratégie récurrente de la chaîne, réalise une performance solide, légèrement inférieure à celle de la semaine passée sur le même programme (2,32 M contre 2,30 M). Rai 1, leader historique, se positionne en deuxième place avec 11.4% de PDM grâce à « Il sesso degli angeli », une audience en légère hausse par rapport à la fiction diffusée le 8 septembre (1,51 M contre 1,62 M). La compétition pour la troisième position voit s'affronter des formats variés, avec Italia 1 et sa série policière devant la programmation culturelle de Rai 3 et le sport sur TV8. La stratégie de contre-programmation de Canale 5 semble porter ses fruits face à une Rai 1 qui peine à s'imposer durablement en tête des audiences.",
@@ -263,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-10T16:38:45.640041Z",
+      "scraped_at": "2026-09-10T17:43:29.553160Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f93c114f810>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-10T16:38:45.641292Z"
+  "last_updated": "2026-09-10T17:43:29.553699Z"
 }
