@@ -1,6 +1,86 @@
 {
   "date": "2026-09-09",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-09",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "TRACKER \\ CHASSE AU MONSTRE",
+          "program_fr": null,
+          "viewers": 2782000,
+          "share": 16.8,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tracker_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
+        },
+        {
+          "rank": 2,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "LES EVAPORES \\ ALBA ET CHARLOTTE - EPISODE PILOTE",
+          "program_fr": null,
+          "viewers": 2457000,
+          "share": 14.7,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_%C3%89vapor%C3%A9s"
+        },
+        {
+          "rank": 3,
+          "channel": "Canal+",
+          "channel_color": "green",
+          "program": "EMISSIONS CRYPTEES",
+          "program_fr": null,
+          "viewers": 1526000,
+          "share": 9.1,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
+        },
+        {
+          "rank": 4,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "DES RACINES ET DES AILES \\ LA BOURGOGNE TERRE DE PASSIONS",
+          "program_fr": null,
+          "viewers": 1233000,
+          "share": 8.2,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9missions_de_Des_racines_et_des_ailes"
+        },
+        {
+          "rank": 5,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "ON N'EST PAS D'ACCORD : QUI A RAISON QUI A TORD ?",
+          "program_fr": null,
+          "viewers": 925000,
+          "share": 5.6,
+          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Accord_%28musique%29"
+        }
+      ],
+      "scraped_at": "2026-09-10T12:16:56.438540Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 s'impose en tête du prime time avec 2,78 millions de téléspectateurs et 16,8% de part d'audience pour la fiction \"TRACKER \\ CHASSE AU MONSTRE\". Ce score marque un recul par rapport aux 3,19 millions enregistrés une semaine plus tôt pour le même programme, illustrant la volatilité des performances sur cette case. France 2 suit avec \"LES EVAPORES \\ ALBA ET CHARLOTTE - EPISODE PILOTE\" qui rassemble 2,46 millions de personnes, soit 14,7% du public, se positionnant comme un concurrent direct de la première chaîne. La fiction française sur France 2 démontre une capacité à capter une part significative de l'audience, tandis que Canal+ et les chaînes d'information comme France 3 et M6 se partagent le reste du marché. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour ces dernières de rivaliser avec les offres plus larges des chaînes historiques.",
+      "commentary_date": "2026-09-09"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Sur le prime du 9 septembre, Antena 3 reprend la tête avec \"El Hormiguero\", qui réunit 1,40 million de téléspectateurs et 12,6% de part de marché, dépassant La 1 et son divertissement \"La Revuelta\" (1,34 M, 11,8%). Ce score d'Antena 3 est inférieur à celui de la veille (1,52 M), mais reste une performance solide pour cette case horaire. La chaîne s'affirme ainsi comme leader du prime sur la semaine écoulée, ayant occupé la première place trois fois sur sept. Cuatro, avec \"Horizonte:Avance\", se positionne en troisième force avec 1,17 million de curieux (10,2%), un chiffre en légère hausse par rapport au 8 septembre. Telecinco, malgré la présence de \"First Dates\" dans son offre, peine à dépasser le million de téléspectateurs (1,07 M, 9,5%), marquant un recul par rapport à ses performances de début septembre.",
       "commentary_date": "2026-09-09"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-09",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-10T12:17:40.181205Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7fb889d4b5d0>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Canale 5 confirme sa domination sur le prime time italien en remportant cinq des sept soirées de la semaine précédente, y compris celle du 9 septembre avec « Erica » et ses 18.5% de part de marché. La fiction turque, stratégie récurrente de la chaîne, réalise une performance solide, légèrement inférieure à celle de la semaine passée sur le même programme (2,32 M contre 2,30 M). Rai 1, leader historique, se positionne en deuxième place avec 11.4% de PDM grâce à « Il sesso degli angeli », une audience en légère hausse par rapport à la fiction diffusée le 8 septembre (1,51 M contre 1,62 M). La compétition pour la troisième position voit s'affronter des formats variés, avec Italia 1 et sa série policière devant la programmation culturelle de Rai 3 et le sport sur TV8. La stratégie de contre-programmation de Canale 5 semble porter ses fruits face à une Rai 1 qui peine à s'imposer durablement en tête des audiences.",
       "commentary_date": "2026-09-09"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-09",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "TRACKER \\ CHASSE AU MONSTRE",
-          "program_fr": null,
-          "viewers": 2782000,
-          "share": 16.8,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Tracker_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29"
-        },
-        {
-          "rank": 2,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "LES EVAPORES \\ ALBA ET CHARLOTTE - EPISODE PILOTE",
-          "program_fr": null,
-          "viewers": 2457000,
-          "share": 14.7,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_%C3%89vapor%C3%A9s"
-        },
-        {
-          "rank": 3,
-          "channel": "Canal+",
-          "channel_color": "green",
-          "program": "EMISSIONS CRYPTEES",
-          "program_fr": null,
-          "viewers": 1526000,
-          "share": 9.1,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
-        },
-        {
-          "rank": 4,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "DES RACINES ET DES AILES \\ LA BOURGOGNE TERRE DE PASSIONS",
-          "program_fr": null,
-          "viewers": 1233000,
-          "share": 8.2,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Liste_des_%C3%A9missions_de_Des_racines_et_des_ailes"
-        },
-        {
-          "rank": 5,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "ON N'EST PAS D'ACCORD : QUI A RAISON QUI A TORD ?",
-          "program_fr": null,
-          "viewers": 925000,
-          "share": 5.6,
-          "source_url": "https://www.ozap.com/actu/audiences-tracker-leader-sur-tf1-deception-pour-les-evapores-sur-france-2-flop-pour-julien-courbet-sur-m6/656895",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Accord_%28musique%29"
-        }
-      ],
-      "scraped_at": "2026-09-10T12:16:56.438540Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 s'impose en tête du prime time avec 2,78 millions de téléspectateurs et 16,8% de part d'audience pour la fiction \"TRACKER \\ CHASSE AU MONSTRE\". Ce score marque un recul par rapport aux 3,19 millions enregistrés une semaine plus tôt pour le même programme, illustrant la volatilité des performances sur cette case. France 2 suit avec \"LES EVAPORES \\ ALBA ET CHARLOTTE - EPISODE PILOTE\" qui rassemble 2,46 millions de personnes, soit 14,7% du public, se positionnant comme un concurrent direct de la première chaîne. La fiction française sur France 2 démontre une capacité à capter une part significative de l'audience, tandis que Canal+ et les chaînes d'information comme France 3 et M6 se partagent le reste du marché. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour ces dernières de rivaliser avec les offres plus larges des chaînes historiques.",
-      "commentary_date": "2026-09-09"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-10T12:17:40.181205Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7fb889d4b5d0>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-10T12:17:40.182864Z"
+  "last_updated": "2026-09-10T12:17:50.841792Z"
 }
