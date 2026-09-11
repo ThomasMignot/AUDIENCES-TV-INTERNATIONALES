@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22maybrit+illner%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-11T13:29:44.401800Z",
+      "scraped_at": "2026-09-11T14:37:04.454354Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 10 septembre 2026, la fiction d'une chaîne non spécifiée s'impose en tête des audiences allemandes avec 5,30 millions de téléspectateurs, devançant de peu le journal de Das Erste (5,18 millions). Cette performance de la fiction s'inscrit dans une tendance observée sur les sept derniers jours, où une chaîne non nommée a mené le classement du prime time à trois reprises. Le journal de ZDF, \"heute journal\", capte 3,26 millions de personnes, une audience stable par rapport à la semaine précédente. La présence du journal d'information de Das Erste en seconde position, avec 26,6% de part de marché, confirme la force des chaînes publiques sur cette tranche horaire, notamment auprès du public senior. La lutte pour le leadership du prime time semble s'articuler entre les programmes de fiction diffusés par des chaînes non identifiées et les journaux d'information des diffuseurs publics.",
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-09-11T13:29:46.406047Z",
+      "scraped_at": "2026-09-11T14:37:05.576475Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa position de leader du prime time sur la semaine, s'appuyant sur la puissance de son access « El Hormiguero » qui réunit 1,49 million de téléspectateurs et 13,8% de part de marché ce jeudi. La chaîne publique La 1, avec son divertissement « La Revuelta », se maintient en seconde position avec 1,32 million de spectateurs (12,0% PDM), une performance solide qui témoigne de sa remontée structurelle depuis 2023. Cuatro, grâce à son magazine d'information « Horizonte:Avance », parvient à capter 1,07 million de téléspectateurs (9,8% PDM), se positionnant devant Telecinco dont le divertissement « Supervivientes All Stars Express » atteint 1 million de curieux (9,3% PDM). La performance de « El Hormiguero » ce jeudi est toutefois inférieure à celle du 7 septembre (1,89 M, 17,9% PDM), mais reste dans la lignée des scores du 8 septembre (1,52 M, 13,8% PDM). La Sexta ferme ce classement avec « El Intermedio », qui enregistre 656 000 téléspectateurs (5,9% PDM).",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-11T13:29:52.161116Z",
+      "scraped_at": "2026-09-11T14:37:09.336888Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Chicago+Med%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-09-11T13:29:50.903949Z",
+      "scraped_at": "2026-09-11T14:37:08.214559Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 10 septembre, la fiction italienne « La vita da grandi » sur Rai 1 s'impose en tête des audiences du prime time avec 1,72 million de téléspectateurs et 11,6% de part de marché. Ce résultat la place légèrement devant la fiction concurrente de Canale 5, « Hotel Costiera », qui rassemble 1,54 million de personnes (11,0% PDM). La chaîne publique Rai 2, avec la diffusion sportive « Pallavolo », se positionne en troisième position avec 1,41 million de spectateurs (9,2% PDM). Comparé à la semaine précédente, le score de Rai 1 est stable, tandis que Canale 5 enregistre une légère érosion après ses excellents scores du week-end, notamment le 7 septembre avec « Temptation Island ». La stratégie de Rai 1 semble privilégier la fiction nationale en tête de grille, tandis que Canale 5 alterne entre divertissement et séries, avec une présence notable des productions turques dans son historique récent. Les chaînes Rete 4 et Italia 1 ferment le top 5, témoignant d'une fragmentation des audiences sur les offres moins généralistes.",
@@ -300,7 +300,7 @@
           "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Myst%C3%A8res_de_l%27Univers"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Myst%C3%A8res_d%27Osiris"
         },
         {
           "rank": 5,
@@ -316,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Y%27a_que_la_v%C3%A9rit%C3%A9_qui_compte"
         }
       ],
-      "scraped_at": "2026-09-11T13:29:37.796695Z",
+      "scraped_at": "2026-09-11T14:37:00.303383Z",
       "status": "ok",
       "error": null,
       "commentary": "TF1 s'impose de nouveau en tête des audiences du prime time avec sa fiction \"Le Mystère de la Chambre Jaune\", attirant 3,23 millions de téléspectateurs, soit 19,9% de part d'audience. Ce score est inférieur à ses précédents succès de la semaine comme \"La Cible\" (3,91 M) ou \"Le Mystère de la Chambre Jaune\" (3,96 M), mais confirme la bonne tenue de la chaîne privée sur cette case horaire. France 3 se positionne en deuxième place, un schéma récurrent, grâce à sa propre fiction, \"La Malédiction de Provins\", qui rassemble 1,91 million de personnes. La chaîne publique confirme ainsi sa capacité à mobiliser une part significative de l'audience sur ce créneau, bien que sa fiction soit distancée par celle de TF1. M6, avec \"La Chute de la Maison Blanche\", ferme ce trio de tête avec 1,32 million de téléspectateurs, un chiffre en retrait par rapport à des programmes plus établis comme \"L'Amour est dans le pré\" diffusé la semaine précédente. La fragmentation de l'audience, accentuée par la TNT, continue de structurer le paysage audiovisuel français, rendant les performances des chaînes historiques plus hétérogènes.",
       "commentary_date": "2026-09-10"
     }
   },
-  "last_updated": "2026-09-11T13:29:52.163270Z"
+  "last_updated": "2026-09-11T14:37:09.339359Z"
 }
