@@ -1,6 +1,86 @@
 {
   "date": "2026-09-10",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-10",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "LE MYSTERE DE LA CHAMBRE JAUNE",
+          "program_fr": null,
+          "viewers": 3235000,
+          "share": 19.9,
+          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Myst%C3%A8re_de_la_chambre_jaune"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "LA MALEDICTION DE PROVINS",
+          "program_fr": null,
+          "viewers": 1912000,
+          "share": 12.2,
+          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Mal%C3%A9diction_de_Provins"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "LA CHUTE DE LA MAISON BLANCHE",
+          "program_fr": null,
+          "viewers": 1318000,
+          "share": 9.3,
+          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Chute_de_la_Maison-Blanche"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "MYSTERES DU SYSTEME SOLAIRE \\ LES MONDES DE L'ETRANGE",
+          "program_fr": null,
+          "viewers": 901000,
+          "share": 5.4,
+          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Myst%C3%A8res_d%27Osiris"
+        },
+        {
+          "rank": 5,
+          "channel": "W9",
+          "channel_color": "pink",
+          "program": "Y A QUE LA VERITE QUI COMPTE",
+          "program_fr": null,
+          "viewers": 652000,
+          "share": 4.2,
+          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Y%27a_que_la_v%C3%A9rit%C3%A9_qui_compte"
+        }
+      ],
+      "scraped_at": "2026-09-11T12:15:15.378663Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "TF1 s'impose de nouveau en tête des audiences du prime time avec sa fiction \"Le Mystère de la Chambre Jaune\", attirant 3,23 millions de téléspectateurs, soit 19,9% de part d'audience. Ce score est inférieur à ses précédents succès de la semaine comme \"La Cible\" (3,91 M) ou \"Le Mystère de la Chambre Jaune\" (3,96 M), mais confirme la bonne tenue de la chaîne privée sur cette case horaire. France 3 se positionne en deuxième place, un schéma récurrent, grâce à sa propre fiction, \"La Malédiction de Provins\", qui rassemble 1,91 million de personnes. La chaîne publique confirme ainsi sa capacité à mobiliser une part significative de l'audience sur ce créneau, bien que sa fiction soit distancée par celle de TF1. M6, avec \"La Chute de la Maison Blanche\", ferme ce trio de tête avec 1,32 million de téléspectateurs, un chiffre en retrait par rapport à des programmes plus établis comme \"L'Amour est dans le pré\" diffusé la semaine précédente. La fragmentation de l'audience, accentuée par la TNT, continue de structurer le paysage audiovisuel français, rendant les performances des chaînes historiques plus hétérogènes.",
+      "commentary_date": "2026-09-10"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -148,20 +228,6 @@
       "commentary": "Antena 3 confirme sa position de leader du prime time sur la semaine, s'appuyant sur la puissance de son access « El Hormiguero » qui réunit 1,49 million de téléspectateurs et 13,8% de part de marché ce jeudi. La chaîne publique La 1, avec son divertissement « La Revuelta », se maintient en seconde position avec 1,32 million de spectateurs (12,0% PDM), une performance solide qui témoigne de sa remontée structurelle depuis 2023. Cuatro, grâce à son magazine d'information « Horizonte:Avance », parvient à capter 1,07 million de téléspectateurs (9,8% PDM), se positionnant devant Telecinco dont le divertissement « Supervivientes All Stars Express » atteint 1 million de curieux (9,3% PDM). La performance de « El Hormiguero » ce jeudi est toutefois inférieure à celle du 7 septembre (1,89 M, 17,9% PDM), mais reste dans la lignée des scores du 8 septembre (1,52 M, 13,8% PDM). La Sexta ferme ce classement avec « El Intermedio », qui enregistre 656 000 téléspectateurs (5,9% PDM).",
       "commentary_date": "2026-09-10"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-10",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-11T12:15:31.813916Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -242,86 +308,20 @@
       "commentary": "Le 10 septembre, la fiction italienne « La vita da grandi » sur Rai 1 s'impose en tête des audiences du prime time avec 1,72 million de téléspectateurs et 11,6% de part de marché. Ce résultat la place légèrement devant la fiction concurrente de Canale 5, « Hotel Costiera », qui rassemble 1,54 million de personnes (11,0% PDM). La chaîne publique Rai 2, avec la diffusion sportive « Pallavolo », se positionne en troisième position avec 1,41 million de spectateurs (9,2% PDM). Comparé à la semaine précédente, le score de Rai 1 est stable, tandis que Canale 5 enregistre une légère érosion après ses excellents scores du week-end, notamment le 7 septembre avec « Temptation Island ». La stratégie de Rai 1 semble privilégier la fiction nationale en tête de grille, tandis que Canale 5 alterne entre divertissement et séries, avec une présence notable des productions turques dans son historique récent. Les chaînes Rete 4 et Italia 1 ferment le top 5, témoignant d'une fragmentation des audiences sur les offres moins généralistes.",
       "commentary_date": "2026-09-10"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-10",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "LE MYSTERE DE LA CHAMBRE JAUNE",
-          "program_fr": null,
-          "viewers": 3235000,
-          "share": 19.9,
-          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Myst%C3%A8re_de_la_chambre_jaune"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA MALEDICTION DE PROVINS",
-          "program_fr": null,
-          "viewers": 1912000,
-          "share": 12.2,
-          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Mal%C3%A9diction_de_Provins"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "LA CHUTE DE LA MAISON BLANCHE",
-          "program_fr": null,
-          "viewers": 1318000,
-          "share": 9.3,
-          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Chute_de_la_Maison-Blanche"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "MYSTERES DU SYSTEME SOLAIRE \\ LES MONDES DE L'ETRANGE",
-          "program_fr": null,
-          "viewers": 901000,
-          "share": 5.4,
-          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Myst%C3%A8res_d%27Osiris"
-        },
-        {
-          "rank": 5,
-          "channel": "W9",
-          "channel_color": "pink",
-          "program": "Y A QUE LA VERITE QUI COMPTE",
-          "program_fr": null,
-          "viewers": 652000,
-          "share": 4.2,
-          "source_url": "https://www.ozap.com/actu/audiences-le-mystere-de-la-chambre-jaune-a-t-elle-confirme-son-bon-demarrage-sur-tf1/656915",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Y%27a_que_la_v%C3%A9rit%C3%A9_qui_compte"
-        }
-      ],
-      "scraped_at": "2026-09-11T12:15:15.378663Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "TF1 s'impose de nouveau en tête des audiences du prime time avec sa fiction \"Le Mystère de la Chambre Jaune\", attirant 3,23 millions de téléspectateurs, soit 19,9% de part d'audience. Ce score est inférieur à ses précédents succès de la semaine comme \"La Cible\" (3,91 M) ou \"Le Mystère de la Chambre Jaune\" (3,96 M), mais confirme la bonne tenue de la chaîne privée sur cette case horaire. France 3 se positionne en deuxième place, un schéma récurrent, grâce à sa propre fiction, \"La Malédiction de Provins\", qui rassemble 1,91 million de personnes. La chaîne publique confirme ainsi sa capacité à mobiliser une part significative de l'audience sur ce créneau, bien que sa fiction soit distancée par celle de TF1. M6, avec \"La Chute de la Maison Blanche\", ferme ce trio de tête avec 1,32 million de téléspectateurs, un chiffre en retrait par rapport à des programmes plus établis comme \"L'Amour est dans le pré\" diffusé la semaine précédente. La fragmentation de l'audience, accentuée par la TNT, continue de structurer le paysage audiovisuel français, rendant les performances des chaînes historiques plus hétérogènes.",
-      "commentary_date": "2026-09-10"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-11T12:15:31.813916Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-11T12:15:31.816482Z"
+  "last_updated": "2026-09-11T12:15:46.288784Z"
 }
