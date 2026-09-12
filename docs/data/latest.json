@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
         },
         {
           "rank": 3,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22The+Voice+of+Germany%22+ProSieben+ratings"
         }
       ],
-      "scraped_at": "2026-09-12T15:45:57.815680Z",
+      "scraped_at": "2026-09-12T17:12:08.620445Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 11 septembre 2026 voit la fiction de ZDF, « Ein Fall für zwei », s'imposer en tête des audiences avec 4,14 millions de téléspectateurs, devançant de peu les informations de Das Erste (« Tagesschau ») qui rassemblent 3,98 millions de personnes. Cette performance place la fiction de ZDF en légère hausse par rapport à son score du 4 septembre (3,14 M), confirmant une certaine stabilité dans sa case horaire. La lutte pour la première place oppose ainsi les deux chaînes publiques, une dynamique récurrente sur le marché allemand, bien que leur leadership ait été contesté en milieu de semaine par des offres sur d'autres chaînes, notamment le 10 septembre avec un film de crime ayant atteint 5,30 millions de spectateurs. Le divertissement de ProSieben, « The Voice of Germany », peine à se positionner face à ces offres, ne captant que 1,29 million de téléspectateurs, illustrant la difficulté des chaînes privées à rivaliser sur le prime time généraliste face aux contenus des diffuseurs publics. La fragmentation des audiences se confirme, avec des programmes de niche attirant des parts de marché significatives, comme en témoigne la troisième et quatrième position occupées par des titres ne figurant pas dans les historiques récents.",
@@ -88,76 +88,10 @@
       "date": "2026-09-11",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Peliculon (sin Instrucciones)",
-          "program_fr": null,
-          "viewers": 1067000,
-          "share": 12.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Peliculon+%28sin+Instrucciones%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Los Archivos Secretos del Nodo",
-          "program_fr": null,
-          "viewers": 972000,
-          "share": 10.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Los+Archivos+Secretos+del+Nodo%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "¡De Viernes!",
-          "program_fr": null,
-          "viewers": 728000,
-          "share": 11.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22%C2%A1De+Viernes%21%22+Telecinco+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "Equipo de Investigacion (la Ruta de la Fruta Barata)",
-          "program_fr": null,
-          "viewers": 558000,
-          "share": 6.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-septiembre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Equipo+de+Investigacion+%28la+Ruta+de+la+Fruta+Barata%29%22+La+Sexta+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 551000,
-          "share": 6.1,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-septiembre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
-        }
-      ],
-      "scraped_at": "2026-09-12T15:45:59.563690Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-09-12T17:12:09.295069Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 s'impose une nouvelle fois en tête des audiences du prime time avec son film, qui réunit 1,07 million de téléspectateurs et 12,7% de part de marché. Ce score est en léger retrait par rapport à la soirée du 6 septembre où le même créneau \"El Peliculon\" avait attiré 1,08 million de personnes, mais confirme la puissance du film comme locomotive de la case face à la concurrence. La chaîne publique La 1 se positionne en deuxième place avec un documentaire, affichant 10,4% de PDA, un chiffre inférieur à celui de la semaine précédente où elle avait atteint 11,7% avec une série. Telecinco, malgré un programme de divertissement en troisième position, voit sa part de marché remonter à 11,2% après un score plus bas le 6 septembre. La stratégie d'Antena 3 de programmer un film fort dans cette case semble porter ses fruits, tandis que La 1 peine à maintenir ses performances antérieures sur ce créneau.",
       "commentary_date": "2026-09-11"
     },
@@ -169,9 +103,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-12T15:46:08.235819Z",
+      "scraped_at": "2026-09-12T17:12:42.150731Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f3522553390>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -207,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-11-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Italy_national_football_team"
+          "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99Erede%22+Canale+5+ratings"
         },
         {
           "rank": 3,
@@ -220,7 +154,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-11-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Murders_of_Peter_Neumair_and_Laura_Perselli"
+          "wikipedia_url": "https://www.google.com/search?q=%22Quarto+Grado%22+Rete+4+ratings"
         },
         {
           "rank": 4,
@@ -246,10 +180,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-11-settembre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Belve"
+          "wikipedia_url": "https://www.google.com/search?q=%22Belve%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-09-12T15:46:06.852953Z",
+      "scraped_at": "2026-09-12T17:12:11.836987Z",
       "status": "ok",
       "error": null,
       "commentary": "Le programme musical de Rai 1, « Jukebox – La Notte delle Hit », s'impose en tête des audiences du prime time ce vendredi 11 septembre avec 17.2% de part de marché. Ce score place la chaîne publique en position de leader, une dynamique contrastant avec la tendance observée sur les sept jours précédents où Canale 5 dominait à cinq reprises. La chaîne privée de Mediaset, avec « L’Erede », se positionne en deuxième place, rassemblant 13.3% du public. La troisième marche du podium est occupée par Rete 4 et son magazine d'actualité « Quarto Grado », qui enregistre 8.7% de PDM, un résultat inférieur à sa moyenne sur la semaine passée. Le positionnement de « Jukebox » sur Rai 1, un format de divertissement musical, semble ainsi capter une audience plus large que les fictions ou les films proposés en début de semaine. L'écart de 3.9 points entre le leader Rai 1 et Canale 5 marque une rupture par rapport aux soirées précédentes où la compétition était plus serrée.",
@@ -329,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Jardinier"
         }
       ],
-      "scraped_at": "2026-09-12T15:45:51.524875Z",
+      "scraped_at": "2026-09-12T17:12:04.351421Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 reprend la tête du prime ce vendredi 11 septembre avec la fiction « A l’instinct - En eaux profondes », qui rassemble 2,94 millions de téléspectateurs et 19,2% de part d'audience. Ce score, bien que solide, marque un léger repli par rapport aux 3,16 millions du précédent épisode de la même série diffusé le 4 septembre (20,7% PDM). TF1, avec son divertissement « Qui sera le plus nul ? », se positionne en deuxième place, enregistrant 2,16 millions de curieux (13,9% PDM), un chiffre inférieur à celui de la semaine précédente (2,53 M, 15,9%). France 3 maintient une présence dans le trio de tête grâce à « La carte aux trésors », attirant 1,17 million de fidèles (8,5% PDM), dans la continuité de ses performances habituelles sur cette case. La fragmentation de l'audience, accentuée par la TNT, continue de limiter la portée des chaînes historiques, rendant chaque point de part d'audience et chaque lead-in particulièrement stratégiques.",
       "commentary_date": "2026-09-11"
     }
   },
-  "last_updated": "2026-09-12T15:46:08.237973Z"
+  "last_updated": "2026-09-12T17:12:42.151959Z"
 }
