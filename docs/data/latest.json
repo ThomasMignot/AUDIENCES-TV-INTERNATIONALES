@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22The+Voice+of+Germany%22+ProSieben+ratings"
         }
       ],
-      "scraped_at": "2026-09-13T12:46:32.032190Z",
+      "scraped_at": "2026-09-13T13:47:10.721851Z",
       "status": "ok",
       "error": null,
       "commentary": "Le « Tagesschau » de Das Erste se maintient en tête des audiences du prime time allemand avec 4,41 millions de téléspectateurs et 25,0% de part de marché ce 12 septembre. Cette performance est légèrement inférieure à celle du 9 septembre (4,76 M, 24,2%), mais confirme la domination des chaînes publiques sur cette case horaire face aux acteurs privés. La compétition pour la deuxième place est intense, avec un film de fiction diffusé par une chaîne non spécifiée qui atteint 4,39 millions de spectateurs, démontrant la capacité des fictions à capter un large public. Le « heute journal » du ZDF se positionne en troisième position, consolidant sa présence sur la tranche informationnelle. La soirée voit également « The Voice of Germany » sur ProSieben attirer 1,27 million de téléspectateurs, signe d'une stratégie de ciblage sur les audiences plus jeunes, distincte de celle des chaînes publiques.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-09-13T12:46:33.661871Z",
+      "scraped_at": "2026-09-13T13:47:12.474811Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 s'affirme comme leader du prime time sur la semaine, remportant cinq des six soirées analysées, une domination confirmée par les 11.0% de part de marché de « La Ruleta de la Suerte Noche » ce 12 septembre. La chaîne publique La 1, bien que remontant depuis 2023, voit son magazine « Informe Semanal » se classer quatrième avec 7.3% de PDM, un score inférieur à ses performances de la semaine précédente, notamment le 5 septembre où « La Amiga Estupenda » atteignait 11.7%. La compétition pour la deuxième place du prime semble se jouer entre Telecinco et DAZN LaLiga, ce dernier s'immisçant dans le top 3 grâce à la diffusion d'un match de football de la Liga espagnole. La stratégie d'Antena 3 de capitaliser sur des formats de jeu et des magazines de société semble porter ses fruits, tandis que Telecinco peine à retrouver la dynamique de son offre cinématographique de la semaine passée. La présence de « First Dates » de Cuatro, bien que dans le top 5, souligne une audience plus fragmentée sur cette case horaire.",
@@ -169,9 +169,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-13T12:46:38.712334Z",
+      "scraped_at": "2026-09-13T13:47:46.887498Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f92379f7b10>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-12-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Jukebox%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jukebox"
         },
         {
           "rank": 2,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Viaggio+nell%E2%80%99isola+misteriosa%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-09-13T12:46:37.185258Z",
+      "scraped_at": "2026-09-13T13:47:16.503492Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 12 septembre, Rai 1 reprend la tête du prime time avec \"Jukebox – La Notte delle Hit\" et 1,67 million de téléspectateurs, soit 15,1% de part de marché. Ce chiffre est toutefois inférieur aux 2,06 millions enregistrés le 11 septembre avec le même programme, marquant une baisse de 2,1 points de PDM. La chaîne généraliste publique confirme sa position face à Canale 5, qui propose \"Pooh 60\" et réalise 1,31 million de curieux (13,5% PDM), un score en retrait par rapport à sa moyenne hebdomadaire de 16,4% sur les sept jours précédents. La performance de Rai 2 avec la retransmission de la \"Pallavolo\" (1,51 M, 10,8% PDM) démontre une capacité à capter un public significatif sur ce créneau. Les chaînes secondaires comme Rete 4 et Italia 1 restent positionnées sur des niches, avec des parts de marché plus modestes autour de 6%.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Villa_de_Popp%C3%A9e"
         }
       ],
-      "scraped_at": "2026-09-13T12:46:26.954166Z",
+      "scraped_at": "2026-09-13T13:47:05.550424Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce samedi soir avec une fiction qui réunit 2,95 millions de téléspectateurs, captant 20,4% de part d'audience, une performance supérieure à celle de la semaine précédente pour un autre opus de la collection \"Meurtres à\". TF1, avec \"The Voice Kids\", se positionne en deuxième place, mais enregistre une légère érosion de son audience par rapport à son lead-in de la semaine passée. France 2, proposant un nouveau divertissement, peine à retrouver le niveau de ses récents succès en fiction, démontrant la fragilité de certaines cases face à des offres plus établies. La stratégie de France 3 semble payer sur ce créneau, tirant profit d'une audience fidèle aux genres de fiction procédurale. La fragmentation des publics, accentuée par la TNT, rend la conquête d'une large part d'audience toujours plus complexe pour les chaînes historiques.",
       "commentary_date": "2026-09-12"
     }
   },
-  "last_updated": "2026-09-13T12:46:38.715296Z"
+  "last_updated": "2026-09-13T13:47:46.889314Z"
 }
