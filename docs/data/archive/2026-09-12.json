@@ -1,6 +1,86 @@
 {
   "date": "2026-09-12",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-12",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "MEURTRES A CHATEAU-THIERRY",
+          "program_fr": null,
+          "viewers": 2948000,
+          "share": 20.4,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Ch%C3%A2teau-Thierry"
+        },
+        {
+          "rank": 2,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "THE VOICE KIDS",
+          "program_fr": "The Voice",
+          "viewers": 2545000,
+          "share": 17.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_Kids"
+        },
+        {
+          "rank": 3,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "THE FLOOR A LA CONQUETE DU SOL",
+          "program_fr": null,
+          "viewers": 1960000,
+          "share": 15.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Floor%2C_%C3%A0_la_conqu%C3%AAte_du_sol"
+        },
+        {
+          "rank": 4,
+          "channel": "France 5",
+          "channel_color": "purple",
+          "program": "ECHAPPEES BELLES",
+          "program_fr": null,
+          "viewers": 837000,
+          "share": 5.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
+        },
+        {
+          "rank": 5,
+          "channel": "Arte",
+          "channel_color": "purple",
+          "program": "POMPEI LA VILLA DE POPPEE ET NERON",
+          "program_fr": null,
+          "viewers": 573000,
+          "share": 4.0,
+          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Villa_de_Popp%C3%A9e"
+        }
+      ],
+      "scraped_at": "2026-09-13T12:46:26.954166Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "France 3 s'impose ce samedi soir avec une fiction qui réunit 2,95 millions de téléspectateurs, captant 20,4% de part d'audience, une performance supérieure à celle de la semaine précédente pour un autre opus de la collection \"Meurtres à\". TF1, avec \"The Voice Kids\", se positionne en deuxième place, mais enregistre une légère érosion de son audience par rapport à son lead-in de la semaine passée. France 2, proposant un nouveau divertissement, peine à retrouver le niveau de ses récents succès en fiction, démontrant la fragilité de certaines cases face à des offres plus établies. La stratégie de France 3 semble payer sur ce créneau, tirant profit d'une audience fidèle aux genres de fiction procédurale. La fragmentation des publics, accentuée par la TNT, rend la conquête d'une large part d'audience toujours plus complexe pour les chaînes historiques.",
+      "commentary_date": "2026-09-12"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +241,6 @@
       "commentary": "Antena 3 s'affirme comme leader du prime time sur la semaine, remportant cinq des six soirées analysées, une domination confirmée par les 11.0% de part de marché de « La Ruleta de la Suerte Noche » ce 12 septembre. La chaîne publique La 1, bien que remontant depuis 2023, voit son magazine « Informe Semanal » se classer quatrième avec 7.3% de PDM, un score inférieur à ses performances de la semaine précédente, notamment le 5 septembre où « La Amiga Estupenda » atteignait 11.7%. La compétition pour la deuxième place du prime semble se jouer entre Telecinco et DAZN LaLiga, ce dernier s'immisçant dans le top 3 grâce à la diffusion d'un match de football de la Liga espagnole. La stratégie d'Antena 3 de capitaliser sur des formats de jeu et des magazines de société semble porter ses fruits, tandis que Telecinco peine à retrouver la dynamique de son offre cinématographique de la semaine passée. La présence de « First Dates » de Cuatro, bien que dans le top 5, souligne une audience plus fragmentée sur cette case horaire.",
       "commentary_date": "2026-09-12"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-12",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-13T12:46:38.712334Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +321,20 @@
       "commentary": "Ce 12 septembre, Rai 1 reprend la tête du prime time avec \"Jukebox – La Notte delle Hit\" et 1,67 million de téléspectateurs, soit 15,1% de part de marché. Ce chiffre est toutefois inférieur aux 2,06 millions enregistrés le 11 septembre avec le même programme, marquant une baisse de 2,1 points de PDM. La chaîne généraliste publique confirme sa position face à Canale 5, qui propose \"Pooh 60\" et réalise 1,31 million de curieux (13,5% PDM), un score en retrait par rapport à sa moyenne hebdomadaire de 16,4% sur les sept jours précédents. La performance de Rai 2 avec la retransmission de la \"Pallavolo\" (1,51 M, 10,8% PDM) démontre une capacité à capter un public significatif sur ce créneau. Les chaînes secondaires comme Rete 4 et Italia 1 restent positionnées sur des niches, avec des parts de marché plus modestes autour de 6%.",
       "commentary_date": "2026-09-12"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-12",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "MEURTRES A CHATEAU-THIERRY",
-          "program_fr": null,
-          "viewers": 2948000,
-          "share": 20.4,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Meurtres_%C3%A0_Ch%C3%A2teau-Thierry"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "THE VOICE KIDS",
-          "program_fr": "The Voice",
-          "viewers": 2545000,
-          "share": 17.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Voice_Kids"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "THE FLOOR A LA CONQUETE DU SOL",
-          "program_fr": null,
-          "viewers": 1960000,
-          "share": 15.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/The_Floor%2C_%C3%A0_la_conqu%C3%AAte_du_sol"
-        },
-        {
-          "rank": 4,
-          "channel": "France 5",
-          "channel_color": "purple",
-          "program": "ECHAPPEES BELLES",
-          "program_fr": null,
-          "viewers": 837000,
-          "share": 5.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
-        },
-        {
-          "rank": 5,
-          "channel": "Arte",
-          "channel_color": "purple",
-          "program": "POMPEI LA VILLA DE POPPEE ET NERON",
-          "program_fr": null,
-          "viewers": 573000,
-          "share": 4.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-le-lancement-de-la-nouvelle-saison-de-the-floor-a-la-conquete-du-sol-avec-cyril-feraud-sur-france-2/656822",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Villa_de_Popp%C3%A9e"
-        }
-      ],
-      "scraped_at": "2026-09-13T12:46:26.954166Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "France 3 s'impose ce samedi soir avec une fiction qui réunit 2,95 millions de téléspectateurs, captant 20,4% de part d'audience, une performance supérieure à celle de la semaine précédente pour un autre opus de la collection \"Meurtres à\". TF1, avec \"The Voice Kids\", se positionne en deuxième place, mais enregistre une légère érosion de son audience par rapport à son lead-in de la semaine passée. France 2, proposant un nouveau divertissement, peine à retrouver le niveau de ses récents succès en fiction, démontrant la fragilité de certaines cases face à des offres plus établies. La stratégie de France 3 semble payer sur ce créneau, tirant profit d'une audience fidèle aux genres de fiction procédurale. La fragmentation des publics, accentuée par la TNT, rend la conquête d'une large part d'audience toujours plus complexe pour les chaînes historiques.",
-      "commentary_date": "2026-09-12"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-13T12:46:38.712334Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-13T12:46:38.715296Z"
+  "last_updated": "2026-09-13T12:46:48.863518Z"
 }
