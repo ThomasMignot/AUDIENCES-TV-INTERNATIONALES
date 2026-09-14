@@ -1,6 +1,86 @@
 {
   "date": "2026-09-13",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-13",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "TF1",
+          "channel_color": "blue",
+          "program": "QU'EST-CE QU'ON A TOUS FAIT AU BON DIEU",
+          "program_fr": null,
+          "viewers": 3875000,
+          "share": 23.3,
+          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Qu%27est-ce_qu%27on_a_tous_fait_au_Bon_Dieu_%3F"
+        },
+        {
+          "rank": 2,
+          "channel": "France 3",
+          "channel_color": "amber",
+          "program": "BROKENWOOD \\ ESPRIT ES-TU LA ?",
+          "program_fr": null,
+          "viewers": 1964000,
+          "share": 11.2,
+          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brokenwood"
+        },
+        {
+          "rank": 3,
+          "channel": "M6",
+          "channel_color": "coral",
+          "program": "ZONE INTERDITE \\ NOUS AVONS INFILTRE L'ECOLE : L'ENQUETE CHOC",
+          "program_fr": null,
+          "viewers": 1744000,
+          "share": 10.7,
+          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Attaque_du_Hamas_contre_Isra%C3%ABl_d%27octobre_2023"
+        },
+        {
+          "rank": 4,
+          "channel": "France 2",
+          "channel_color": "red",
+          "program": "SECOND TOUR",
+          "program_fr": null,
+          "viewers": 1639000,
+          "share": 9.5,
+          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
+          "category": "fiction",
+          "category_emoji": "🎬",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Second_Tour"
+        },
+        {
+          "rank": 5,
+          "channel": "TMC",
+          "channel_color": "blue",
+          "program": "BASKET CHAMPIONNAT DU MONDE FEMININ : BASKET-MATCH \\ ETATS-UNIS - FRANCE - FINALE RETRANSMISSION D'EVENEMENTS SPORTIFS",
+          "program_fr": null,
+          "viewers": 1423000,
+          "share": 7.8,
+          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_f%C3%A9minine_de_basket-ball"
+        }
+      ],
+      "scraped_at": "2026-09-14T14:15:50.578588Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Le film « Qu'est-ce qu'on a tous fait au Bon Dieu » sur TF1 réalise une performance solide ce dimanche 13 septembre, attirant 3,88 millions de téléspectateurs et s'adjugeant 23,3% de part de marché. Cette audience place la fiction largement en tête des programmes de prime time, distançant nettement la concurrence. France 3 se positionne en deuxième chaîne avec la série « Brokenwood », qui rassemble 1,96 million de personnes (11,2% PDM), une performance inférieure à celle de la semaine précédente. M6, avec « Zone Interdite », enregistre 1,74 million de téléspectateurs (10,7% PDM), se situant derrière France 3. La chaîne privée TF1 confirme sa position de leader sur la semaine, ayant remporté six soirées sur les sept dernières jours, bien que le chiffre de ce dimanche soit légèrement inférieur à celui de la fiction diffusée le 7 septembre. La TNT, représentée par TMC avec la finale du championnat du monde de basket féminin, capte 1,42 million de curieux (7,8% PDM), témoignant de la fragmentation de l'audience.",
+      "commentary_date": "2026-09-13"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -148,20 +228,6 @@
       "commentary": "La chaîne publique La 1 s'impose en tête du prime time du 13 septembre avec 1,18 million de téléspectateurs et 12,1% de part de marché, devançant Antena 3 et sa série « El Secreto » (1,04 M, 11,5%). Cette performance marque une rupture avec la domination d'Antena 3 sur la semaine écoulée, où la chaîne avait emporté les six soirées précédentes. La série de La 1 progresse ainsi de près de 2 points de PDM par rapport au film diffusé le 6 septembre (967 k, 10,3%). Telecinco, malgré un divertissement en access plus faible, maintient une présence dans le trio de tête avec 704 000 fidèles et 10,4% de PDM. Les chaînes thématiques Cuatro et La Sexta ferment la marche avec des scores respectifs de 6,8% et 6,0% de PDM.",
       "commentary_date": "2026-09-13"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-13",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-14T14:16:09.612409Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -242,86 +308,20 @@
       "commentary": "La soirée du 13 septembre voit la fiction de Canale 5, « Racconto di una Notte », s'installer en tête des audiences avec 1,75 million de téléspectateurs et 14,6% de part de marché, devançant légèrement la compétition sportive de Rai 2. Ce score est en progression par rapport à la diffusion de la même fiction le 6 septembre, qui avait rassemblé 1,67 million de fidèles pour 15,5% de PDA. Rai 1, leader historique, se positionne troisième avec « Il principe abusivo », affichant 1,53 million de spectateurs, un chiffre en deçà de sa moyenne hebdomadaire sur le top 3. L'observation des sept derniers jours confirme la domination de Canale 5 sur la case du prime time, avec quatre victoires sur sept soirées, notamment grâce à des programmes de divertissement et des fictions. La stratégie de Rai 2, axée sur le sport avec « Pallavolo », semble trouver son public, atteignant 1,88 million de téléspectateurs, un résultat encourageant dans un paysage concurrentiel dominé par les offres de divertissement et de fiction des chaînes privées.",
       "commentary_date": "2026-09-13"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-13",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "QU'EST-CE QU'ON A TOUS FAIT AU BON DIEU",
-          "program_fr": null,
-          "viewers": 3875000,
-          "share": 23.3,
-          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Qu%27est-ce_qu%27on_a_tous_fait_au_Bon_Dieu_%3F"
-        },
-        {
-          "rank": 2,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "BROKENWOOD \\ ESPRIT ES-TU LA ?",
-          "program_fr": null,
-          "viewers": 1964000,
-          "share": 11.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Brokenwood"
-        },
-        {
-          "rank": 3,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "ZONE INTERDITE \\ NOUS AVONS INFILTRE L'ECOLE : L'ENQUETE CHOC",
-          "program_fr": null,
-          "viewers": 1744000,
-          "share": 10.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Attaque_du_Hamas_contre_Isra%C3%ABl_d%27octobre_2023"
-        },
-        {
-          "rank": 4,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "SECOND TOUR",
-          "program_fr": null,
-          "viewers": 1639000,
-          "share": 9.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Second_Tour"
-        },
-        {
-          "rank": 5,
-          "channel": "TMC",
-          "channel_color": "blue",
-          "program": "BASKET CHAMPIONNAT DU MONDE FEMININ : BASKET-MATCH \\ ETATS-UNIS - FRANCE - FINALE RETRANSMISSION D'EVENEMENTS SPORTIFS",
-          "program_fr": null,
-          "viewers": 1423000,
-          "share": 7.8,
-          "source_url": "https://www.ozap.com/actu/audiences-quest-ce-quon-a-tous-fait-au-bon-dieu-leader-sans-surprise-sur-tf1-flop-pour-albert-dupontel-et-cecile-de-france-sur-france-2/656929",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Coupe_du_monde_f%C3%A9minine_de_basket-ball"
-        }
-      ],
-      "scraped_at": "2026-09-14T14:15:50.578588Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "Le film « Qu'est-ce qu'on a tous fait au Bon Dieu » sur TF1 réalise une performance solide ce dimanche 13 septembre, attirant 3,88 millions de téléspectateurs et s'adjugeant 23,3% de part de marché. Cette audience place la fiction largement en tête des programmes de prime time, distançant nettement la concurrence. France 3 se positionne en deuxième chaîne avec la série « Brokenwood », qui rassemble 1,96 million de personnes (11,2% PDM), une performance inférieure à celle de la semaine précédente. M6, avec « Zone Interdite », enregistre 1,74 million de téléspectateurs (10,7% PDM), se situant derrière France 3. La chaîne privée TF1 confirme sa position de leader sur la semaine, ayant remporté six soirées sur les sept dernières jours, bien que le chiffre de ce dimanche soit légèrement inférieur à celui de la fiction diffusée le 7 septembre. La TNT, représentée par TMC avec la finale du championnat du monde de basket féminin, capte 1,42 million de curieux (7,8% PDM), témoignant de la fragmentation de l'audience.",
-      "commentary_date": "2026-09-13"
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-14T14:16:09.612409Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-14T14:16:09.614851Z"
+  "last_updated": "2026-09-14T14:16:51.909962Z"
 }
