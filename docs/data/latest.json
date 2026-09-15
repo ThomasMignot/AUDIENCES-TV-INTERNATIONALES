@@ -33,7 +33,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Die+Bachmanns%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ingeborg_Bachmann_%E2%80%93_Journey_into_the_Desert"
         },
         {
           "rank": 3,
@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Wer+wird+Million%C3%A4r+%3F+Folge+3%22+RTL+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_German_television_series"
         },
         {
           "rank": 4,
@@ -59,7 +59,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 5,
@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Wie+extrem+wird+das+Wetter%2C+Sven+Pl%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-15T18:13:29.028769Z",
+      "scraped_at": "2026-09-15T19:40:03.604665Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal \"Tagesschau\" de Das Erste s'établit en tête des audiences de prime time avec 4,67 millions de téléspectateurs et 22,9% de part de marché, une performance en légère hausse par rapport à la semaine précédente, où il atteignait 4,41 millions le 12 septembre. La compétition pour la deuxième place est intense, opposant cette semaine un téléfilm (\"Die Bachmanns - Gefahr im Verzug\") à la fiction \"Wer wird Millionär ?\" de RTL, qui enregistre 2,83 millions de téléspectateurs et 15,6% de PDM. Cette dernière, bien que plus faible que le numéro du 9 septembre (4,50 M, 21,7%), démontre la capacité de RTL à mobiliser un public significatif sur sa case du mardi. ZDF, avec son journal \"heute journal\", se positionne en quatrième position, recueillant 2,59 millions de téléspectateurs, une audience inférieure à celle observée la veille (3,75 M, 18,6%). La domination de Das Erste sur la semaine, avec 4 soirées sur 7 en tête, confirme la force des chaînes publiques allemandes sur les publics plus âgés, contrastant avec les stratégies des chaînes privées visant les audiences plus jeunes.",
@@ -100,7 +100,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-septiembre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Entrevista+%28Juan+Vivas%29%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Eslava_Gal%C3%A1n"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-septiembre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Entrevista+%28Pedro+Sanchez%29%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Alonso"
         },
         {
           "rank": 3,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
         }
       ],
-      "scraped_at": "2026-09-15T18:13:31.536679Z",
+      "scraped_at": "2026-09-15T19:40:07.852944Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 s'affirme comme leader du prime, remportant cinq des six soirées de la semaine écoulée. La chaîne privée confirme sa domination avec une interview politique atteignant 17.0% de part de marché, un score supérieur à celui de son access \"El Hormiguero\" le 7 septembre (17.9%), mais dans la continuité de ses performances habituelles. La Sexta se positionne en challenger sur ce créneau, dépassant La 1 de près de 3 points avec une autre interview politique, tandis que la chaîne publique peine à retrouver le niveau de la semaine précédente. Telecinco, historiquement un acteur majeur, observe une part de marché de 8.6% pour son divertissement, un score en retrait par rapport à ses programmes phares de la semaine. La chaîne publique, La 1, voit son divertissement \"La Revuelta\" reculer à 10.3% après avoir atteint 13.1% le 7 septembre.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-15T18:13:37.057202Z",
+      "scraped_at": "2026-09-15T19:40:12.624600Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+Torre+di+Babele%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-09-15T18:13:35.770546Z",
+      "scraped_at": "2026-09-15T19:40:11.055001Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 14 septembre, Canale 5 s'impose en tête du prime time avec « Temptation Island e poi… e poi… », réunissant 2,94 millions de téléspectateurs et 20.2% de part de marché. Ce score marque un repli par rapport au lancement de l'émission la semaine précédente (3,38 M, 24.0%), mais confirme la capacité de la chaîne Mediaset à capter un large public en concurrence directe avec Rai 1. La chaîne publique, avec « Il Giovane Montalbano », se positionne en deuxième place avec 2,42 millions de spectateurs (16.7% PDM), un chiffre en légère hausse par rapport à la fiction de la semaine passée. Rai 3 et Italia 1 ferment le classement des cinq chaînes principales, avec des performances nettement inférieures, illustrant la concentration des audiences sur les deux grands duopoles. La stratégie de Canale 5 semble privilégier les formats de divertissement pour fidéliser son audience, tandis que Rai 1 alterne entre fiction et programmes musicaux pour maintenir sa présence.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Fred_Zinnemann"
         }
       ],
-      "scraped_at": "2026-09-15T18:13:21.938396Z",
+      "scraped_at": "2026-09-15T19:39:54.880749Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 14 septembre, TF1 s'impose avec la fiction « LA CIBLE » et 20.6% de part de marché, devançant M6 et son programme phare « L'AMOUR EST DANS LE PRE » qui rassemble 18.2% du public. Cette performance de TF1 marque un retour en tête après plusieurs soirées où la concurrence, notamment France 2 ou France 3, avait pris l'ascendant, comme le 12 septembre avec « MEURTRES A CHATEAU-THIERRY » sur France 3 (20.4%). La fiction diffusée par TF1 réalise un score inférieur à celui de la semaine précédente pour le lancement de la même série (22.6% le 7 septembre), mais confirme sa capacité à capter une large audience en début de semaine. France 2, avec 10.8% pour le pilote de sa nouvelle fiction, peine à s'imposer dans cette case face aux deux chaînes privées leaders. Arte, avec 3.6% de part de marché, reste sur ses positions habituelles sur cette case horaire.",
       "commentary_date": "2026-09-14"
     }
   },
-  "last_updated": "2026-09-15T18:13:37.059848Z"
+  "last_updated": "2026-09-15T19:40:12.626192Z"
 }
