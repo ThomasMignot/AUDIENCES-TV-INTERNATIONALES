@@ -161,20 +161,6 @@
       "commentary": "Antena 3 confirme sa domination sur le prime time espagnol, s'adjugeant cinq des six soirées de la semaine passée, avec une performance notable de son divertissement « El Hormiguero » le 16 septembre, qui rassemble 1,38 million de téléspectateurs et 12,1% de part de marché. Cette émission, habituelle locomotive de la case access, permet à la chaîne de sécuriser un lead-in solide pour sa programmation principale. La chaîne publique La 1, qui avait montré des signes de reprise, voit son programme « La Revuelta » se positionner en quatrième place avec 1,10 million de curieux, un chiffre inférieur à ses performances des jours précédents, notamment le 10 septembre où une émission similaire avait attiré 1,32 million de personnes. La chaîne Cuatro, avec son format d'information « Horizonte », parvient à se hisser en deuxième position, témoignant d'une certaine appétence pour ce type de contenu en milieu de semaine, et se positionne devant Telecinco dont « First Dates » peine à dépasser le seuil du million. La présence de DAZN LaLiga dans le top 5, avec 1,02 million d'amateurs de football, souligne la capacité du sport à capter une audience significative, même face aux offres généralistes.",
       "commentary_date": "2026-09-16"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-16",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-17T12:39:12.162741Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,86 +241,20 @@
       "commentary": "Ce 16 septembre, Canale 5 reprend la tête du prime time avec la fiction « Erica », qui rassemble 2,28 millions de téléspectateurs et 17.1% de part de marché. Ce score est très proche de celui obtenu par la même fiction le 9 septembre (2,30 M, 18.5%), marquant une stabilité dans la performance de cette offre sur la chaîne du groupe Mediaset. Rai 1, malgré une présence constante dans le top 3 de la semaine, se retrouve en seconde position avec « Non così vicino » (1,87 M, 13.2%), affichant un léger recul par rapport à la fiction « Il Giovane Montalbano » diffusée le dimanche précédent (2,27 M, 15.2%). La chaîne publique, leader du prime sur la semaine écoulée, voit ici sa stratégie de contre-programmation face à l'offre de divertissement de Canale 5 légèrement moins efficace. L'offre de niche sur Italia 1 et Rete 4 confirme la difficulté des chaînes secondaires à capter une audience significative dans cette case horaire.",
       "commentary_date": "2026-09-16"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
-      "date": "2026-09-15",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-sauvons-nos-forets-lemission-speciale-presentee-par-lea-salame-et-hugo-clement-sur-france-2/656980",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "France 3",
-          "channel_color": "amber",
-          "program": "LA STAGIAIRE \\ T11",
-          "program_fr": null,
-          "viewers": 3647000,
-          "share": 21.2,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-sauvons-nos-forets-lemission-speciale-presentee-par-lea-salame-et-hugo-clement-sur-france-2/656980",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Stagiaire"
-        },
-        {
-          "rank": 2,
-          "channel": "TF1",
-          "channel_color": "blue",
-          "program": "KOH-LANTA \\ ALL STARS - EPISODE 4",
-          "program_fr": null,
-          "viewers": 2771000,
-          "share": 16.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-sauvons-nos-forets-lemission-speciale-presentee-par-lea-salame-et-hugo-clement-sur-france-2/656980",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Koh-Lanta_All_Stars"
-        },
-        {
-          "rank": 3,
-          "channel": "France 2",
-          "channel_color": "red",
-          "program": "SAUVONS NOS FORETS",
-          "program_fr": null,
-          "viewers": 1153000,
-          "share": 6.7,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-sauvons-nos-forets-lemission-speciale-presentee-par-lea-salame-et-hugo-clement-sur-france-2/656980",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Sauvons_la_for%C3%AAt"
-        },
-        {
-          "rank": 4,
-          "channel": "M6",
-          "channel_color": "coral",
-          "program": "9-1-1 \\ RETOUR SUR TERRE",
-          "program_fr": null,
-          "viewers": 1124000,
-          "share": 6.5,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-sauvons-nos-forets-lemission-speciale-presentee-par-lea-salame-et-hugo-clement-sur-france-2/656980",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Saison_9_de_9-1-1"
-        },
-        {
-          "rank": 5,
-          "channel": "TFX",
-          "channel_color": "coral",
-          "program": "CAPTAIN MARVEL",
-          "program_fr": null,
-          "viewers": 738000,
-          "share": 5.0,
-          "source_url": "https://www.ozap.com/actu/audiences-quel-score-pour-sauvons-nos-forets-lemission-speciale-presentee-par-lea-salame-et-hugo-clement-sur-france-2/656980",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Captain_Marvel"
-        }
-      ],
-      "scraped_at": "2026-09-17T12:38:55.642464Z",
-      "status": "ok",
-      "error": null,
-      "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
-      "commentary_date": "2026-09-15"
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
+      "date": "2026-09-16",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
+      "entries": [],
+      "scraped_at": "2026-09-17T12:39:12.162741Z",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-17T12:39:12.164807Z"
+  "last_updated": "2026-09-17T12:39:19.445123Z"
 }
