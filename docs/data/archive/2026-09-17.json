@@ -8,63 +8,10 @@
       "date": "2026-09-17",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Wer einmal lügt. Ein Krimi aus Pas",
-          "program_fr": null,
-          "viewers": 5198000,
-          "share": 25.7,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "fiction",
-          "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Wer+einmal+l%C3%BCgt.+Ein+Krimi+aus+Pas%22+Autre+cha%C3%AEne+ratings"
-        },
-        {
-          "rank": 2,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
-          "program_fr": null,
-          "viewers": 4478000,
-          "share": 22.6,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "heute journal",
-          "program_fr": null,
-          "viewers": 3373000,
-          "share": 19.0,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "maybrit illner",
-          "program_fr": null,
-          "viewers": 2073000,
-          "share": 15.6,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22maybrit+illner%22+Autre+cha%C3%AEne+ratings"
-        }
-      ],
-      "scraped_at": "2026-09-18T14:38:36.082863Z",
-      "status": "partial",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-09-18T16:40:43.224357Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7fef93fcee90>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
       "commentary": "La fiction diffusée sur une chaîne non identifiée, « Wer einmal lügt. Ein Krimi aus Pas », s'adjuge la première place du prime time avec 5,20 millions de téléspectateurs et 25,7% de part de marché. Ce score reste inférieur à celui du polar de la semaine précédente, « Verlorene Seelen. Ein Krimi aus Pas », qui avait rassemblé 5,30 millions de personnes et 26,5% de PDA le 10 septembre. Les journaux télévisés des chaînes publiques confirment leur rôle de locomotives, le « Tagesschau » de Das Erste réunissant 4,48 millions de téléspectateurs (22,6% PDM) et le « heute journal » de ZDF 3,37 millions (19,0% PDM). La performance de « Wer einmal lügt » suggère une stratégie de contre-programmation efficace face à la domination habituelle de Das Erste, leader sur cinq des sept soirées de la semaine analysée. La présence de deux programmes d'information publique dans le top 3 met en lumière la stabilité de leurs audiences, particulièrement auprès des segments démographiques plus âgés.",
       "commentary_date": "2026-09-17"
     },
@@ -142,7 +89,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-09-18T14:38:37.795541Z",
+      "scraped_at": "2026-09-18T16:40:44.843008Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination du prime time espagnol, plaçant \"El Hormiguero\" en tête avec 1,64 million de téléspectateurs et 15,0% de part de marché, une performance en hausse par rapport aux 1,38 million enregistrés le dimanche précédent. La chaîne du groupe Atresmedia a mené six soirées sur sept au cours de la semaine écoulée, renforçant sa position face à ses concurrents historiques. Cuatro, avec son programme d'information \"Horizonte: Avance\", se positionne en deuxième force ce jeudi soir, dépassant La 1 et Telecinco, une inversion notable par rapport à la veille où La 1 avait pourtant attiré 1,06 million de curieux. La stratégie de contre-programmation de Cuatro semble porter ses fruits face à la fiction de La 1 et au divertissement de Telecinco. La chaîne publique, La 1, voit \"La Revuelta\" rassembler 1,06 million de personnes, une audience stable mais inférieure aux 1,32 million du 10 septembre.",
@@ -222,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Dritto+e+Rovescio%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-09-18T14:38:41.516014Z",
+      "scraped_at": "2026-09-18T16:40:47.366343Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 17 septembre voit Rai 1 reprendre la tête du prime time avec le film « Napoli-New York », attirant 2,11 millions de téléspectateurs et 13,9% de part de marché. Ce résultat contraste avec la soirée précédente où Canale 5 dominait avec un divertissement, mais se rapproche des performances de Rai 1 en milieu de semaine. La case sportive de Rai 2, avec la « Pallavolo », confirme sa capacité à mobiliser un public significatif, atteignant 1,86 million de personnes et 11,0% de PDM, une audience stable par rapport aux jours précédents. La compétition entre Rai 1 et Canale 5 reste prégnante, le divertissement de cette dernière, « Grande Fratello Vip », occupant la deuxième place avec 1,88 million de téléspectateurs et une part de marché supérieure (16,9%). Les chaînes secondaires comme Italia 1 et Rete 4 peinent à rivaliser, leurs offres cinéma et débat se positionnant nettement en retrait.",
@@ -236,12 +183,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-18T14:38:42.917943Z",
+      "scraped_at": "2026-09-18T16:40:48.436026Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-18T14:38:42.919289Z"
+  "last_updated": "2026-09-18T16:40:48.437279Z"
 }
