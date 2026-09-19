@@ -1,6 +1,20 @@
 {
   "date": "2026-09-18",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-09-18",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "entries": [],
+      "scraped_at": "2026-09-19T11:58:13.835600Z",
+      "status": "failed",
+      "error": "Aucun article 'soirée' trouvé sur la page de listing",
+      "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
+      "commentary_date": "2026-09-15"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +175,6 @@
       "commentary": "Antena 3 confirme sa position de leader hebdomadaire du prime, plaçant six de ses programmes dans le top 3 sur les sept derniers jours. Ce vendredi 18 septembre, la chaîne enregistre 1,08 million de téléspectateurs et 13,8% de part de marché avec « La Voz: Audiciones », devançant La 1 et son magazine « Los Archivos Secretos del Nodo » (1,12 M, 11.0%). Cette dernière progresse par rapport à sa performance du 11 septembre (972 k, 10.4%), bénéficiant potentiellement de sa case face à la concurrence du divertissement. Telecinco, avec « First Dates », capte 930 000 téléspectateurs (9.2%), une légère baisse par rapport à sa case du 16 septembre (1,13 M, 9.8%). La tension concurrentielle s'observe entre les chaînes généralistes et les chaînes d'information continue qui peinent à se positionner dans le top 5 du prime ce soir-là.",
       "commentary_date": "2026-09-18"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-09-18",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-09-19T11:58:23.977960Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,20 +255,20 @@
       "commentary": "La soirée du 18 septembre voit Rai 1 reprendre la tête du prime time avec « Music Awards », attirant 2,21 millions de téléspectateurs et 18,7% de part de marché. Ce chiffre est supérieur aux programmes diffusés par la chaîne publique la semaine précédente, comme « Napoli-New York » (2,11 M, 13.9%) ou « Non così vicino » (1,87 M, 13.2%). Canale 5, avec « L’Erede », se positionne en deuxième chaîne, enregistrant 1,43 million de fidèles et 12,9% de PDM, un score en retrait par rapport à ses succès de la semaine passée tels que « Erica » (2,28 M, 17.1%) ou « Temptation Island » (2,94 M, 20.2%). La chaîne privée semble ainsi marquer le pas face à la stratégie de Rai 1 sur cette soirée musicale. Rete 4 et La7 maintiennent leurs positions habituelles dans le classement, avec des scores stables sur leurs cases respectives. Italia 1, diffusant un film, peine à dépasser les 5% de part de marché, confirmant une difficulté structurelle à capter une audience significative en prime time.",
       "commentary_date": "2026-09-18"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-09-18",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-19T11:58:13.835600Z",
+      "scraped_at": "2026-09-19T11:58:23.977960Z",
       "status": "failed",
-      "error": "Aucun article 'soirée' trouvé sur la page de listing",
-      "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
-      "commentary_date": "2026-09-15"
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-19T11:58:23.979926Z"
+  "last_updated": "2026-09-19T11:58:35.631689Z"
 }
