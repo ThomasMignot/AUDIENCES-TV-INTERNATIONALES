@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Babelsberg_Studio"
         }
       ],
-      "scraped_at": "2026-09-20T17:29:22.350805Z",
+      "scraped_at": "2026-09-20T18:43:16.501032Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de Das Erste, \"Tagesschau\", conserve sa position de leader du prime time avec 4,90 millions de téléspectateurs et 26,0% de part de marché, une performance solide qui confirme sa domination sur la semaine. La fiction allemande \"Babylon Berlin\" s'installe en deuxième position, démontrant une capacité à capter un public significatif, bien que légèrement inférieur aux chiffres habituels des grandes soirées de fiction sur les chaînes publiques. Comparé à la semaine précédente, où un téléfilm diffusé le 17 septembre avait atteint 5,20 millions de téléspectateurs, on observe une légère érosion des audiences sur les programmes suivants le journal de Das Erste. La chaîne privée RTL, dont le format \"Wer wird Millionär ?\" est habituellement un marqueur de la concurrence, n'apparaît pas dans le top 5 de cette soirée. La présence de \"Die Giovanni Zarrella Show\" en troisième position suggère une stratégie de divertissement populaire qui peine à rivaliser avec l'information et la fiction sur le créneau 20h15.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cine+5+Estrellas+%28Wolfgang%29%22+Telecinco+ratings"
         }
       ],
-      "scraped_at": "2026-09-20T17:29:24.606227Z",
+      "scraped_at": "2026-09-20T18:43:18.925967Z",
       "status": "ok",
       "error": null,
       "commentary": "Sur le prime du 19 septembre, Antena 3 retrouve la tête avec « La Ruleta de la Suerte Noche » et 10.6% de part de marché, un score en retrait par rapport à la semaine précédente où la chaîne dominait largement les audiences. La chaîne sportive LaLiga TV par M+ s'intercale en deuxième position avec le football, un format qui, selon l'historique, peut générer des pics d'audience significatifs. La 1, après un début de semaine prometteur, se positionne en quatrième place avec « Informe Semanal », illustrant la volatilité des performances de la chaîne publique dans cette case. Le duopole historique Antena 3 / Telecinco reste marqué par la capacité de la première à fidéliser son public en access avec « El Hormiguero », qui sert de lead-in pour ses programmes de prime. La soirée du 14 septembre, avec des interviews politiques, avait démontré un potentiel d'audience supérieur, captant un public plus large. La fragmentation de l'offre, avec des chaînes spécialisées comme LaLiga TV, redéfinit la compétition pour le public du prime time.",
@@ -169,9 +169,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-20T17:29:30.908837Z",
+      "scraped_at": "2026-09-20T18:43:53.223252Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7fe03dc3c050>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Blu+Notte%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-09-20T17:29:29.740778Z",
+      "scraped_at": "2026-09-20T18:43:22.740807Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 19 septembre voit Rai 1 reprendre la tête du prime time avec « Music Awards », attirant 2,22 millions de téléspectateurs et 20,5% de part de marché. Ce score se situe dans la lignée de ses performances de la semaine, affichant une légère progression par rapport à son « Music Awards » de la veille (2,21 M, 18,7%). Le divertissement de Canale 5, « Grande Fratello Vip », confirme son positionnement dans cette case avec 1,53 million de téléspectateurs (15,8%), un résultat inférieur cependant à ses précédents numéros de la semaine, notamment « Temptation Island e poi… e poi… » qui avait atteint 2,94 millions (20,2%) le 14 septembre. La chaîne La7 réalise une performance notable avec « In Altre Parole », se classant troisième chaîne nationale avec 887 000 téléspectateurs (5,8%), dépassant Italia 1 et Rai 3 sur cette soirée. La compétition pour le leadership hebdomadaire, où Rai 1 mène quatre soirées sur sept, s'appuie sur des événements musicaux et des séries populaires.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-09-20T17:29:16.335405Z",
+      "scraped_at": "2026-09-20T18:43:08.007990Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-09-20T17:29:30.910657Z"
+  "last_updated": "2026-09-20T18:43:53.224513Z"
 }
