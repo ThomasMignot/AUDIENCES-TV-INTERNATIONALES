@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-09-22T15:10:05.005361Z",
+      "scraped_at": "2026-09-22T17:12:07.350167Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Kloeppel"
         }
       ],
-      "scraped_at": "2026-09-22T15:10:09.365594Z",
+      "scraped_at": "2026-09-22T17:12:12.672564Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 21 septembre voit une \"Autre chaîne\" s'imposer en tête du prime time avec 4,62 millions de téléspectateurs et 21,3% de part de marché, devançant de peu la \"Tagesschau\" de Das Erste (4,27 M, 20,7%). Cette performance confirme la capacité des chaînes non identifiées à capter une audience significative, souvent en concurrence directe avec les programmes d'information des diffuseurs publics historiques. Le \"heute journal\" de ZDF se positionne en troisième place avec 3,30 millions de fidèles, un chiffre en léger retrait par rapport à la semaine précédente. Le divertissement de RTL, \"Wer wird Millionär ?\", réalise une audience de 2,44 millions, inférieure à ses scores des jours précédents, suggérant une certaine volatilité de ce format phare dans sa case. La comparaison avec le 17 septembre, où un téléfilm avait atteint 5,20 millions de téléspectateurs, met en lumière la diversité des succès potentiels sur le marché allemand.",
@@ -102,76 +102,10 @@
       "date": "2026-09-21",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero (Ferran Torres)",
-          "program_fr": null,
-          "viewers": 1773000,
-          "share": 15.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-septiembre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/25th_Iris_Awards_%28Spain%29"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "La Revuelta (Jose Mota-Ralph Echemendia)",
-          "program_fr": null,
-          "viewers": 1291000,
-          "share": 10.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-septiembre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Jose+Mota-Ralph+Echemendia%29%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
-          "program_fr": null,
-          "viewers": 1125000,
-          "share": 9.6,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-septiembre-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 1032000,
-          "share": 8.7,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-septiembre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "El Intermedio",
-          "program_fr": null,
-          "viewers": 778000,
-          "share": 6.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-septiembre-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-09-22T15:10:11.969204Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-09-22T17:12:13.194577Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Antena 3 confirme sa domination du prime time, plaçant six de ses programmes dans le top 3 sur les sept derniers jours, et remportant la soirée du 21 septembre avec « El Hormiguero » et 15.2% de part de marché. La chaîne publique La 1, bien que ne figurant pas en tête ce jour-là, maintient une présence régulière dans le trio de tête, signe d'une stratégie de reconstruction payante depuis 2023. La chaîne privée Cuatro, avec son magazine d'information « Horizonte », démontre une certaine stabilité en se maintenant autour de 1.1 million de téléspectateurs et 9.6% de PDM sur les derniers jours. La comparaison avec le 14 septembre révèle une baisse significative pour l'interview politique de Pedro Sanchez sur La Sexta, passée de 1.47M à 778k pour « El Intermedio », tandis que le divertissement d'Antena 3 progresse. La stratégie de contre-programmation semble s'intensifier, avec des chaînes cherchant à capter différentes audiences, comme le confirme la présence de « First Dates » sur Telecinco, stable autour du million de téléspectateurs.",
       "commentary_date": "2026-09-21"
     },
@@ -194,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-21-settembre-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+Giovane+Montalbano%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Young_Montalbano"
         },
         {
           "rank": 2,
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+Torre+di+Babele%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-09-22T15:10:15.394344Z",
+      "scraped_at": "2026-09-22T17:12:17.756928Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « Il Giovane Montalbano », retrouve la première place du prime time avec 2,93 millions de téléspectateurs et 19,8% de part de marché, marquant une progression par rapport à sa diffusion du 15 septembre (2,27 M, 15,2%). Le divertissement de Canale 5, « Grande Fratello Vip », se positionne en seconde place mais enregistre un léger repli par rapport à la semaine précédente, passant de 1,88 million (16,9%) le 17 septembre à 1,91 million (18,3%) le 21 septembre, bien que ce chiffre soit supérieur à celui du 19 septembre (1,53 M, 15,8%). Cette opposition entre la fiction événementielle de la chaîne publique et le divertissement de flux de la privée illustre une tension concurrentielle récurrente sur la case du prime. Italia 1 et La7 se disputent les audiences plus confidentielles avec des offres distinctes, cinéma pour la première et débat pour la seconde. Rai 1 confirme sa position de leader sur la semaine, ayant remporté cinq soirées.",
@@ -263,12 +197,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-22T15:10:16.707539Z",
+      "scraped_at": "2026-09-22T17:12:48.073389Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f51c5b4bb50>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-22T15:10:16.709065Z"
+  "last_updated": "2026-09-22T17:12:48.073826Z"
 }
