@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-09-24T15:30:02.975244Z",
+      "scraped_at": "2026-09-24T17:29:51.178642Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Impact_of_the_September_11_attacks_on_the_entertainment_industry"
         }
       ],
-      "scraped_at": "2026-09-24T15:30:06.663330Z",
+      "scraped_at": "2026-09-24T17:29:55.360787Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste, « Tagesschau », reprend la tête des audiences ce 23 septembre avec 5,21 millions de téléspectateurs et 25,9% de part de marché, retrouvant ainsi son leadership habituel sur la case du prime time. La soirée voit une chaîne privée s'intercaler en deuxième position avec « Eine Nacht in Bangkok », attirant 4,43 millions de curieux, une performance notable qui perturbe la domination des chaînes publiques observée lors de plusieurs soirées précédentes. Comparé à la semaine précédente, le journal de Das Erste affiche une légère hausse par rapport aux 4,18 millions enregistrés dimanche dernier, mais reste en deçà de son pic de 7,91 millions du samedi 20 septembre. Le « heute journal » de ZDF se positionne en troisième place, consolidant la présence des informations publiques dans le classement. La présence de ce type de contenu en tête des audiences confirme la préférence historique du public allemand, notamment les téléspectateurs plus âgés, pour les journaux télévisés du service public.",
@@ -128,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-23-settembre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tale+e+Quale+Show%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tale_e_quale_show"
         },
         {
           "rank": 2,
@@ -141,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-23-settembre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Ruota+dei+Campioni%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/AC_Monza"
         },
         {
           "rank": 3,
@@ -154,7 +154,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-23-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Pallavolo%22+Rai+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pallavolo_Scandicci"
         },
         {
           "rank": 4,
@@ -167,7 +167,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-23-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chi_l%27ha_visto%3F"
         },
         {
           "rank": 5,
@@ -180,10 +180,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-23-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Shark%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Shark"
         }
       ],
-      "scraped_at": "2026-09-24T15:30:15.863955Z",
+      "scraped_at": "2026-09-24T17:30:06.475990Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 23 septembre voit le divertissement de Rai 1, « Tale e Quale Show », s'imposer avec 2,60 millions de téléspectateurs et 19,3% de part de marché, confirmant la position de leader historique de la chaîne publique. La compétition pour la deuxième place du prime time oppose Canale 5 et Rai 2, avec « La Ruota dei Campioni » (2,57 M, 16.8%) devançant de peu la retransmission sportive de « Pallavolo » (2,40 M, 13.5%). Cette dernière, diffusée sur Rai 2, enregistre une progression notable par rapport à ses précédentes apparitions dans les audiences de la semaine, atteignant un niveau proche de celui du 20 septembre. Les programmes de Rai 3 et Italia 1 restent en retrait, témoignant d'une fragmentation des audiences en fin de semaine. La stratégie de Rai 1 semble privilégier des formats de divertissement fédérateurs pour son case du vendredi soir.",
@@ -197,12 +197,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-24T15:30:16.936549Z",
+      "scraped_at": "2026-09-24T17:30:07.690557Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-24T15:30:16.937701Z"
+  "last_updated": "2026-09-24T17:30:07.691860Z"
 }
