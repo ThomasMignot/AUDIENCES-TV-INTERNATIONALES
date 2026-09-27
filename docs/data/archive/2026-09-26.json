@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-09-27T17:13:08.204554Z",
+      "scraped_at": "2026-09-27T18:26:13.882487Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/The_Voice_of_Germany"
         }
       ],
-      "scraped_at": "2026-09-27T17:13:13.189465Z",
+      "scraped_at": "2026-09-27T18:26:18.594320Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 26 septembre, la première chaîne publique, Das Erste, voit son journal \"Tagesschau\" capter 4,69 millions de téléspectateurs (25.8% de PDM), se plaçant juste derrière une offre concurrente non identifiée qui rassemble 4,81 millions de personnes avec une fiction. La veille, ce même journal avait atteint 3,80 millions de fidèles, démontrant une reprise d'audience pour la case d'information. La semaine précédente, le journal de Das Erste avait été le leader du prime time sur quatre des sept soirées, avec un pic à 5,21 millions de téléspectateurs le 23 septembre. La fragmentation des offres se confirme avec une fiction policière sur une chaîne non nommée qui enregistre 2,17 millions de curieux, et \"The Voice of Germany\" sur ProSieben, qui peine à dépasser le million de téléspectateurs. L'analyse de la semaine montre une nette domination des chaînes publiques sur les cibles plus âgées, tandis que les formats de divertissement sur les chaînes privées peinent à rivaliser sur cette soirée.",
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+_xplica%2F.%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-09-27T17:13:15.436914Z",
+      "scraped_at": "2026-09-27T18:26:22.536691Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la Ligue des Nations de football sur La 1 s'impose logiquement en tête des audiences du 26 septembre, captant 43.0% de part de marché et 4,36 millions de téléspectateurs. Cette performance exceptionnelle contraste fortement avec les chiffres habituels des autres chaînes, démontrant la capacité du sport en direct à mobiliser un large public, y compris celui des chaînes généralistes historiques. La soirée voit ainsi le duopole Antena 3 et Telecinco relégué à des niveaux de PDM bien plus modestes, respectivement 8.6% et 7.5% pour leurs programmes de prime time. Si Antena 3 domine généralement le classement hebdomadaire avec son access et ses programmes phares, ce match de football a temporairement redistribué les cartes de la consommation télévisuelle espagnole. La capacité de La 1 à attirer ce segment d'audience, souvent captif des offres sportives, souligne une tension concurrentielle structurelle dans la lutte pour le leadership du prime time.",
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-26-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Nations+League%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nations_League"
         },
         {
           "rank": 4,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+Promessa%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-09-27T17:13:19.101115Z",
+      "scraped_at": "2026-09-27T18:26:26.915908Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 26 septembre voit Rai 1 conserver sa position de leader du prime time avec 2,10 millions de téléspectateurs pour « Bello di Mamma… Rai », représentant 16,7% de part de marché. Ce score est inférieur de 120 000 téléspectateurs et de 3,1 points de PDM à celui de « Music Awards » diffusé le 19 septembre, mais se maintient au-dessus de la moyenne hebdomadaire de la chaîne sur les programmes de divertissement. Canale 5, avec « Battiti Live 2000 Hits », rassemble 1,58 million de personnes (16,2% PDM), se plaçant en deuxième position et marquant une légère baisse par rapport au score de « Grande Fratello Vip » la veille (1,78 M, 17.0%). La chaîne Italia 1, en diffusant la « Nations League », atteint 1,36 million de téléspectateurs (8,9% PDM), un chiffre nettement inférieur à celui de la même compétition la veille (6,34 M, 34.2%), illustrant la volatilité des audiences sportives selon les affiches. La7 et Rete 4 se maintiennent dans leurs niches respectives, avec des parts de marché inférieures à 10%.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-27T17:13:20.227899Z",
+      "scraped_at": "2026-09-27T18:26:28.229862Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-09-27T17:13:20.229170Z"
+  "last_updated": "2026-09-27T18:26:28.231233Z"
 }
