@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Newstime"
         }
       ],
-      "scraped_at": "2026-09-28T18:15:23.903297Z",
+      "scraped_at": "2026-09-28T19:48:58.503796Z",
       "status": "ok",
       "error": null,
       "commentary": "Le football de la Nations League sur une chaîne non spécifiée s'impose avec 10,97 millions de téléspectateurs et 45,6% de part de marché, une performance qui dépasse significativement les programmes d'information des chaînes publiques habituelles. Le \"Tagesthemen\" de Das Erste enregistre 9,36 millions de téléspectateurs, une audience plus élevée que sa moyenne de la semaine précédente, suggérant un report d'intérêt vers l'actualité en lien avec l'événement sportif. Le ZDF, avec \"Das Traumschiff\", se positionne en troisième place avec 3,53 millions de téléspectateurs, une audience en retrait par rapport aux programmes d'information des jours précédents. La domination des chaînes publiques sur les audiences du prime time semble remise en cause par les retransmissions sportives événementielles, qui captent une large part du public, y compris potentiellement les téléspectateurs des chaînes publiques. La semaine écoulée avait vu Das Erste dominer le classement du prime time sur trois soirées, soulignant la volatilité des audiences en fonction des événements.",
@@ -139,7 +139,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-septiembre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Secreto%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Secret_in_Their_Eyes"
         },
         {
           "rank": 5,
@@ -152,10 +152,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-septiembre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cuarto_milenio"
         }
       ],
-      "scraped_at": "2026-09-28T18:15:27.838491Z",
+      "scraped_at": "2026-09-28T19:49:02.189400Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la Ligue des Nations de l'UEFA sur La 1 s'impose ce dimanche 27 septembre avec 1,66 million de téléspectateurs et 14,4% de part d'audience, bénéficiant du contexte sportif. Ce score, bien que significatif, reste inférieur à la performance exceptionnelle du match Angleterre-Espagne la semaine précédente (4,36 millions). La Sexta, avec 1,14 million pour « Salvados », confirme sa position de challenger sur les soirées d'information en semaine, devançant cette fois Telecinco et Antena 3. Le programme de divertissement de Telecinco, « Supervivientes All Stars:Conexion Honduras », réalise 872 000 téléspectateurs, une audience en légère hausse par rapport à la semaine passée. Antena 3, malgré la présence de « El Secreto » dans le top 5, voit son score de 854 000 téléspectateurs rester stable par rapport à la semaine précédente. La domination d'Antena 3 sur le prime time durant la semaine écoulée, avec trois soirées en tête, contraste avec cette journée dominicale où le sport prend le dessus.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-28T18:15:33.445467Z",
+      "scraped_at": "2026-09-28T19:49:07.145167Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-27-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+mio+nome+%C3%A8+Carlo%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fighting_Fist_of_Shanghai_Joe"
         },
         {
           "rank": 2,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-27-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Lo+sposo+indeciso%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ilenia_Pastorelli"
         },
         {
           "rank": 3,
@@ -233,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-27-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Nations_League"
+          "wikipedia_url": "https://www.google.com/search?q=%22Nations+League%22+TV8+ratings"
         },
         {
           "rank": 5,
@@ -246,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-27-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Inside%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Inside"
         }
       ],
-      "scraped_at": "2026-09-28T18:15:32.110588Z",
+      "scraped_at": "2026-09-28T19:49:06.054151Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time italien du 27 septembre voit Canale 5 s'imposer avec une fiction, « Il mio nome è Carlo », attirant 4,27 millions de téléspectateurs et captant 29,6% de part de marché. Cette performance contraste avec la domination habituelle de Rai 1, leader sur six des sept soirées précédentes, qui se contente ici de 1,63 million de curieux avec une offre de divertissement. La chaîne privée Mediaset confirme sa stratégie de proposer des films ou séries à fort potentiel d'audience en tête de grille, une tactique qui semble porter ses fruits face à une offre publique plus dispersée. La troisième place est occupée par Rai 3 et son magazine d'investigation « Presadiretta », témoignant d'une certaine diversité dans les choix des téléspectateurs, tandis que le sport sur TV8 et une série sur Italia 1 ferment le top 5.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-09-28T18:15:21.364932Z",
+      "scraped_at": "2026-09-28T19:48:56.850035Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-09-28T18:15:33.447554Z"
+  "last_updated": "2026-09-28T19:49:07.147479Z"
 }
