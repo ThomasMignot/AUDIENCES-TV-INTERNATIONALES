@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Das+Geheimnis+der+Tierwanderungen+m%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-09-29T15:43:26.550217Z",
+      "scraped_at": "2026-09-29T16:37:50.486179Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 28 septembre voit une fiction diffusée sur une chaîne non spécifiée prendre la tête des audiences avec 5,64 millions de téléspectateurs et 25,3% de part de marché, dépassant le journal de 20h de Das Erste (4,70 M, 22,2%). Cette performance place une offre de fiction en tête pour la troisième soirée de la semaine, soulignant une diversification des succès par rapport aux journaux d'information qui dominaient précédemment. La chaîne publique ZDF, avec son \"heute journal\" à 3,12 millions (16,3%), se maintient en troisième position, derrière le divertissement \"Wer wird Millionär ?\" de RTL (2,56 M, 13,5%). Cette configuration rappelle la dynamique habituelle du marché allemand où les chaînes publiques captent une audience significative, mais révèle une capacité des autres acteurs à rivaliser sur ce créneau horaire. La présence de deux programmes de fiction dans le top 5, dont un sur une chaîne non nommée, suggère une stratégie de programmation audacieuse sur ce jour.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-09-29T15:43:30.833416Z",
+      "scraped_at": "2026-09-29T16:37:53.158239Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 maintient sa position de leader du prime time sur la semaine, avec \"El Hormiguero\" qui enregistre 1,52 million de téléspectateurs et 12,8% de part de marché ce lundi. Ce chiffre est inférieur à sa performance de la semaine précédente, où le même programme atteignait 1,77 million de fidèles le 21 septembre. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième place, attirant 1,29 million de téléspectateurs, un score stable par rapport à la semaine passée. Telecinco, bien que troisième avec \"First Dates\", voit son divertissement phare \"Supervivientes\" réaliser une audience plus faible le 27 septembre (872 000 téléspectateurs). L'information de Cuatro, \"Horizonte\", confirme sa présence dans le top 5, atteignant 1,08 million de téléspectateurs. La performance du football de La 1, qui a dominé la soirée du 26 septembre avec 4,36 millions de téléspectateurs, illustre la sensibilité du public espagnol aux événements sportifs majeurs, perturbant temporairement les dynamiques habituelles du prime time.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-09-29T15:43:37.100901Z",
+      "scraped_at": "2026-09-29T16:37:57.001515Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-28-settembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Nations+League%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nations_League"
         },
         {
           "rank": 2,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Jack+Reacher%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-09-29T15:43:35.754261Z",
+      "scraped_at": "2026-09-29T16:37:55.952562Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la « Nations League » sur Rai 1 le 28 septembre 2026 s'impose avec 7,38 millions de téléspectateurs et 36,4% de part de marché, confirmant la suprématie de la chaîne publique sur la case du prime time, déjà observée lors de la précédente rencontre sportive le 25 septembre (6,34 M, 34,2%). Cette performance creuse l'écart avec Canale 5, dont le divertissement « Grande Fratello Vip » rassemble 1,83 million de fidèles (16,6%), un score stable par rapport à la semaine précédente mais largement distancé. La fragmentation des audiences sur les autres chaînes, Rai 3, Rai 2 et Italia 1, ne permet pas de dégager une réelle force de contre-programmation face à l'événement sportif. La stratégie de Rai 1 de capitaliser sur de grands événements sportifs semble porter ses fruits, captant une large part de l'audience nationale.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-09-29T15:43:22.558127Z",
+      "scraped_at": "2026-09-29T16:37:48.242537Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-09-29T15:43:37.103003Z"
+  "last_updated": "2026-09-29T16:37:57.003659Z"
 }
