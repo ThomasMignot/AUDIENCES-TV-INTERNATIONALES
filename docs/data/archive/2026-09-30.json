@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-01T14:35:46.513224Z",
+      "scraped_at": "2026-10-01T16:21:23.241078Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Series%3A_XY"
         }
       ],
-      "scraped_at": "2026-10-01T14:35:48.103301Z",
+      "scraped_at": "2026-10-01T16:21:25.272474Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 30 septembre, le journal télévisé \"Tagesschau\" de Das Erste s'impose en tête des audiences avec 5,21 millions de téléspectateurs et 25,6% de part de marché, reprenant sa position de leader face à la concurrence privée. Le \"heute journal\" de ZDF suit avec 3,13 millions de fidèles, confirmant la prédominance des chaînes publiques sur ce segment d'information. La compétition pour la troisième place est plus disputée, avec des programmes de fiction et de documentaires historiques affichant des scores similaires, autour de 2,8 millions de téléspectateurs. Cette configuration contraste avec les soirées précédentes où les événements sportifs, notamment le football, avaient généré des pics d'audience significatifs pour les chaînes privées ou publiques, captant plus de 10 millions de personnes. La semaine précédente, un autre programme de fiction avait réussi à se hisser en tête, témoignant d'une certaine volatilité dans la course à la deuxième place du prime time. La stratégie de diffusion de programmes événementiels semble ainsi jouer un rôle clé dans la structuration des audiences hebdomadaires.",
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-01T14:35:55.060224Z",
+      "scraped_at": "2026-10-01T16:21:28.864404Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 maintient sa position de leader sur la soirée du 30 septembre avec \"El Hormiguero\" qui enregistre 1,56 million de téléspectateurs, soit 13,4% de part de marché. Cette performance est légèrement inférieure à celle de la semaine précédente (1,57 M, 14,1%) mais reste supérieure à la moyenne des access de la semaine écoulée. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième place avec 1,38 million de curieux, confirmant une dynamique positive depuis 2023, bien que le football ait précédemment dominé ses audiences. La chaîne d'information Cuatro, grâce à \"Horizonte\", s'assure la troisième position, démontrant la capacité des formats d'information à capter une audience significative en prime time. Telecinco, avec \"First Dates\", peine à retrouver les niveaux de la semaine précédente, témoignant des fluctuations de ce genre de divertissement. La Sexta, quant à elle, reste en retrait avec \"El Intermedio\", un format d'information satirique qui peine à rivaliser avec les offres plus généralistes.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Doppia+colpa%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-10-01T14:35:58.106573Z",
+      "scraped_at": "2026-10-01T16:21:32.798396Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement « Tale e Quale Show » sur Rai 1 s'impose en tête des audiences du prime time avec 2,55 millions de téléspectateurs et 20,9% de part de marché. Ce score est légèrement inférieur à celui enregistré le 23 septembre pour le même programme (2,60 M, 19.3%), mais maintient la chaîne publique en tête des deux principaux diffuseurs, Rai et Mediaset. Canale 5, avec « La Ruota dei Campioni », se positionne en deuxième place, attirant 2,22 millions de curieux (16,1% PDM), un chiffre en légère baisse par rapport à la semaine précédente. La7 confirme sa niche d'information et de débat avec « Una Giornata Particolare » qui dépasse le million de téléspectateurs (7,2% PDM). Les autres chaînes du duopole Rai et Mediaset, ainsi que Rai 3, se partagent les parts d'audience restantes, témoignant d'une consommation fragmentée en dehors des programmes phares. Le format de divertissement musical semble ainsi conserver une assise solide sur Rai 1, confirmant une stratégie de fidélisation de son public sur cette case horaire.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-01T14:35:59.546711Z",
+      "scraped_at": "2026-10-01T16:21:34.073580Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-01T14:36:06.789241Z"
+  "last_updated": "2026-10-01T16:21:34.074753Z"
 }
