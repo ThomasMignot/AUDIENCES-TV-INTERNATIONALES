@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-02T16:21:50.737500Z",
+      "scraped_at": "2026-10-02T17:59:13.920426Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -76,7 +76,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Lenn_Kudrjawizki"
         }
       ],
-      "scraped_at": "2026-10-02T16:21:55.162187Z",
+      "scraped_at": "2026-10-02T17:59:16.715034Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 1er octobre, le football international sur ZDF s'impose avec 10,79 millions de téléspectateurs et 47,3% de part de marché, confirmant la puissance des événements sportifs en direct sur les chaînes publiques. Ce score est très proche de celui du football du 24 septembre sur RTL (10,76 M, 50,6%), indiquant une compétition directe pour l'audience sportive premium. La chaîne publique Das Erste, avec son journal \"Tagesschau\", se maintient en seconde position avec 4,74 millions de personnes et 22,7% de PDM, un niveau proche de sa moyenne sur la semaine écoulée. Les offres de fiction, représentées par les \"Krimis\" sur une chaîne tierce, peinent à atteindre des scores significatifs face à ces événements majeurs, le premier titre réunissant 3,66 millions de téléspectateurs. Cette configuration met en lumière la prédominance des chaînes publiques pour les événements fédérateurs, tout en soulignant la difficulté des formats plus réguliers à capter une part d'audience substantielle dans ces conditions.",
@@ -89,76 +89,10 @@
       "date": "2026-10-01",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Entrevista (Isabel Diaz Ayuso)",
-          "program_fr": null,
-          "viewers": 1885000,
-          "share": 15.5,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-octubre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Party_%28Spain%29"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "La Revuelta (Mariano Benitez de Lugo)",
-          "program_fr": null,
-          "viewers": 1411000,
-          "share": 12.0,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-octubre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Mariano+Benitez+de+Lugo%29%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "El Hormiguero (Hombres G)",
-          "program_fr": null,
-          "viewers": 1395000,
-          "share": 11.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-octubre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Hombres+G%29%22+Antena+3+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "Supervivientes All Stars Express",
-          "program_fr": "Koh-Lanta",
-          "viewers": 914000,
-          "share": 7.8,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-octubre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Supervivientes+All+Stars+Express%22+Telecinco+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "El Intermedio",
-          "program_fr": null,
-          "viewers": 744000,
-          "share": 6.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-octubre-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-10-02T16:21:58.551541Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-10-02T17:59:17.252119Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "La chaîne Cuatro s'adjuge la première place du prime ce 1er octobre grâce à une interview politique d'Isabel Diaz Ayuso, attirant 1,89 million de téléspectateurs et 15,5% de part de marché. Ce score la place devant La 1 et Antena 3, dont les divertissements \"La Revuelta\" et \"El Hormiguero\" réunissent respectivement 1,41 million (12,0% PDM) et 1,40 million (11,8% PDM). La performance de Cuatro tranche avec ses résultats habituels, où le programme \"Horizonte\" se situait autour de 1,06 à 1,20 million de téléspectateurs la semaine précédente. La stratégie de contre-programmation de Cuatro face aux offres plus généralistes d'Antena 3 et La 1 semble porter ses fruits sur ce créneau. Telecinco, avec \"Supervivientes All Stars Express\", ne dépasse pas les 914 000 curieux (7,8% PDM), loin de ses scores habituels structurés par des formats plus longs.",
       "commentary_date": "2026-10-01"
     },
@@ -207,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-1-ottobre-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Iene"
+          "wikipedia_url": "https://www.google.com/search?q=%22Le+Iene%22+Italia+1+ratings"
         },
         {
           "rank": 4,
@@ -220,7 +154,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-1-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Sara_Funaro"
+          "wikipedia_url": "https://www.google.com/search?q=%22Ore+14+Sera%22+Rai+2+ratings"
         },
         {
           "rank": 5,
@@ -233,10 +167,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-1-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Veronica_Gentili"
+          "wikipedia_url": "https://www.google.com/search?q=%22Piazzapulita%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-10-02T16:22:04.480207Z",
+      "scraped_at": "2026-10-02T17:59:20.487607Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 1er octobre, Rai 1 confirme sa position de leader du prime time avec la fiction « Doc », attirant 3,98 millions de téléspectateurs, soit 26,4% de part de marché. Cette performance se situe dans la moyenne haute des programmes diffusés par la chaîne publique cette semaine, contrastant avec des soirées plus faibles comme le 24 septembre (1,75 M). La fiction turque de Canale 5, « Racconto di una Notte », réalise une audience honorable de 1,91 million de téléspectateurs, mais accuse une baisse par rapport à sa diffusion du 24 septembre (2,09 M). Le programme d'information « Le Iene » sur Italia 1 maintient une audience stable autour du million de fidèles. La chaîne La7, positionnée sur un créneau d'information et de débat politique avec « Piazzapulita », peine à dépasser les 776 000 téléspectateurs, une audience en retrait par rapport à des programmes similaires comme « DiMartedì » le 29 septembre. La stratégie de Rai 1 semble s'appuyer sur des valeurs sûres, tandis que Canale 5 alterne entre divertissement et fictions, sans toujours retrouver les pics de la semaine précédente.",
@@ -250,12 +184,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-02T16:22:05.636696Z",
+      "scraped_at": "2026-10-02T17:59:21.508082Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-02T16:22:05.637881Z"
+  "last_updated": "2026-10-02T17:59:21.509607Z"
 }
