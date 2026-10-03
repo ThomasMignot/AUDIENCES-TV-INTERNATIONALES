@@ -1,6 +1,20 @@
 {
   "date": "2026-10-02",
   "countries": {
+    "FR": {
+      "country_code": "FR",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "date": "2026-10-02",
+      "source_name": "Ozap · Puremédias",
+      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "entries": [],
+      "scraped_at": "2026-10-03T12:38:09.522197Z",
+      "status": "failed",
+      "error": "Aucun article 'soirée' trouvé sur la page de listing",
+      "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
+      "commentary_date": "2026-09-15"
+    },
     "DE": {
       "country_code": "DE",
       "country_name": "Allemagne",
@@ -161,20 +175,6 @@
       "commentary": "Le prime du 2 octobre voit Telecinco s'imposer avec \"¡De Viernes!\" et 1,23 million de téléspectateurs (19,7% de PDM), une performance solide dans sa case habituelle. La 1 parvient à capter 1,46 million de personnes avec son \"Especial Informativo\", une audience significative qui la place en tête des audiences brutes, mais derrière Telecinco en part de marché. Cette soirée confirme la résilience de la chaîne publique, souvent leader sur les grands événements sportifs mais qui cherche à consolider sa présence sur les autres cases. Antena 3, avec \"La Voz: Audiciones\", enregistre 986 000 téléspectateurs et 11,6% de PDM, se positionnant en deçà de ses performances habituelles en access avec \"El Hormiguero\" durant la semaine écoulée. La présence du football de l'UEFA Nations League sur La 2, avec 870 000 curieux (8,3% PDM), souligne la difficulté des chaînes secondaires à rivaliser face aux événements sportifs majeurs. La compétition entre les chaînes généralistes semble particulièrement marquée sur les cases d'information et de divertissement léger, où les stratégies de contre-programmation sont constantes.",
       "commentary_date": "2026-10-02"
     },
-    "NL": {
-      "country_code": "NL",
-      "country_name": "Pays-Bas",
-      "flag": "🇳🇱",
-      "date": "2026-10-02",
-      "source_name": "Televizier · De TV van gisteren",
-      "source_url": "https://www.televizier.nl/kijkcijfers",
-      "entries": [],
-      "scraped_at": "2026-10-03T12:38:18.781599Z",
-      "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
-      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
-      "commentary_date": "2026-06-06"
-    },
     "IT": {
       "country_code": "IT",
       "country_name": "Italie",
@@ -255,20 +255,20 @@
       "commentary": "La soirée du 2 octobre voit la \"Nations League\" sur Rai 1 capter 7,85 millions de téléspectateurs, soit 40,8% de part de marché, confirmant la domination de la chaîne publique sur le prime time. Cette performance est nettement supérieure à celle enregistrée le 25 septembre pour le même événement sportif (6,34 millions, 34,2%), marquant une progression significative en une semaine. La stratégie de Rai 1 de programmer des événements sportifs majeurs dans cette case horaire s'avère efficace pour mobiliser un large public, creusant l'écart avec ses concurrents directs. Canale 5, avec son divertissement \"Grande Fratello Vip\", se positionne en deuxième force avec 1,55 million de téléspectateurs (13,8%), un chiffre en retrait par rapport à sa moyenne des sept derniers jours (environ 1,78 million). Rete 4 et Italia 1 se partagent les parts d'audience restantes dans les cases suivantes, témoignant de la difficulté des autres chaînes du duopole à rivaliser lors de ces soirées de forte affluence sportive.",
       "commentary_date": "2026-10-02"
     },
-    "FR": {
-      "country_code": "FR",
-      "country_name": "France",
-      "flag": "🇫🇷",
+    "NL": {
+      "country_code": "NL",
+      "country_name": "Pays-Bas",
+      "flag": "🇳🇱",
       "date": "2026-10-02",
-      "source_name": "Ozap · Puremédias",
-      "source_url": "https://www.ozap.com/tag/audiences_t14",
+      "source_name": "Televizier · De TV van gisteren",
+      "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-03T12:38:09.522197Z",
+      "scraped_at": "2026-10-03T12:38:18.781599Z",
       "status": "failed",
-      "error": "Aucun article 'soirée' trouvé sur la page de listing",
-      "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
-      "commentary_date": "2026-09-15"
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
+      "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-03T12:38:18.783845Z"
+  "last_updated": "2026-10-03T12:38:26.722560Z"
 }
