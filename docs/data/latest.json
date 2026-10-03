@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Ninja_Warrior_Germany"
         }
       ],
-      "scraped_at": "2026-10-03T14:17:20.830238Z",
+      "scraped_at": "2026-10-03T14:54:54.211939Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 2 octobre voit un retour des chaînes publiques au sommet du prime time allemand, avec la « Tagesschau » de Das Erste en tête à 20.9% de part de marché, suivie de près par la fiction du ZDF « Ein Fall für zwei ». Ce résultat contraste avec la domination de chaînes non spécifiées lors de plusieurs soirées de la semaine précédente, notamment lors des retransmissions sportives exceptionnelles du 27 septembre (45.6% PDM) et du 1er octobre (47.3% PDM). Les chaînes privées comme ProSieben et RTL restent significativement en retrait, leurs programmes de divertissement atteignant des PDM respectives de 7.4% et 6.6%. Cette configuration des audiences reflète la tendance structurelle où les grands événements sportifs ou les journaux télévisés des diffuseurs publics captent une part d'audience dominante, reléguant les offres de divertissement des groupes privés à des positions secondaires dans la case 20h15. La fiction du ZDF, « Ein Fall für zwei », enregistre 3.90 millions de téléspectateurs, un score inférieur à celui obtenu la semaine passée le 25 septembre (4.23 millions).",
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-octubre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/CMLL_Super_Viernes"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Vierne"
         },
         {
           "rank": 3,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22D.Reg%28Futbol%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-10-03T14:17:25.334777Z",
+      "scraped_at": "2026-10-03T14:54:56.394933Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime du 2 octobre voit Telecinco s'imposer avec \"¡De Viernes!\" et 1,23 million de téléspectateurs (19,7% de PDM), une performance solide dans sa case habituelle. La 1 parvient à capter 1,46 million de personnes avec son \"Especial Informativo\", une audience significative qui la place en tête des audiences brutes, mais derrière Telecinco en part de marché. Cette soirée confirme la résilience de la chaîne publique, souvent leader sur les grands événements sportifs mais qui cherche à consolider sa présence sur les autres cases. Antena 3, avec \"La Voz: Audiciones\", enregistre 986 000 téléspectateurs et 11,6% de PDM, se positionnant en deçà de ses performances habituelles en access avec \"El Hormiguero\" durant la semaine écoulée. La présence du football de l'UEFA Nations League sur La 2, avec 870 000 curieux (8,3% PDM), souligne la difficulté des chaînes secondaires à rivaliser face aux événements sportifs majeurs. La compétition entre les chaînes généralistes semble particulièrement marquée sur les cases d'information et de divertissement léger, où les stratégies de contre-programmation sont constantes.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-03T14:17:31.303559Z",
+      "scraped_at": "2026-10-03T14:55:00.188141Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Fratelli+di+Crozza%22+Nove+ratings"
         }
       ],
-      "scraped_at": "2026-10-03T14:17:30.157168Z",
+      "scraped_at": "2026-10-03T14:54:59.093133Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 2 octobre voit la \"Nations League\" sur Rai 1 capter 7,85 millions de téléspectateurs, soit 40,8% de part de marché, confirmant la domination de la chaîne publique sur le prime time. Cette performance est nettement supérieure à celle enregistrée le 25 septembre pour le même événement sportif (6,34 millions, 34,2%), marquant une progression significative en une semaine. La stratégie de Rai 1 de programmer des événements sportifs majeurs dans cette case horaire s'avère efficace pour mobiliser un large public, creusant l'écart avec ses concurrents directs. Canale 5, avec son divertissement \"Grande Fratello Vip\", se positionne en deuxième force avec 1,55 million de téléspectateurs (13,8%), un chiffre en retrait par rapport à sa moyenne des sept derniers jours (environ 1,78 million). Rete 4 et Italia 1 se partagent les parts d'audience restantes dans les cases suivantes, témoignant de la difficulté des autres chaînes du duopole à rivaliser lors de ces soirées de forte affluence sportive.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-03T14:17:17.986164Z",
+      "scraped_at": "2026-10-03T14:54:52.607117Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-03T14:17:31.305660Z"
+  "last_updated": "2026-10-03T14:55:00.190357Z"
 }
