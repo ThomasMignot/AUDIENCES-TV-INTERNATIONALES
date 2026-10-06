@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Die+Tricks+von+dm+und+Rossmann%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-10-06T15:53:15.111023Z",
+      "scraped_at": "2026-10-06T16:55:38.068239Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 5 octobre voit une chaîne non identifiée s'imposer avec un film de fiction, \"Nord Nord Mord\", captant 31,4% de part de marché. Cette performance contraste avec les résultats des jours précédents, où les chaînes publiques ARD et ZDF dominaient plus régulièrement les premières places du prime time. On note ainsi une baisse significative pour le \"Tagesschau\" de Das Erste, tombé à 19,8% PDM contre 24,8% la veille, et pour le \"heute journal\" de ZDF, à 17,7% contre 16,3% le 28 septembre. Le divertissement de RTL, \"Wer wird Millionär?\", se classe quatrième avec 16,3% PDM, une performance stable par rapport à la moyenne de la semaine. La présence de deux journaux télévisés dans le top 3 illustre la persistance de leur rôle de locomotive pour les chaînes publiques, tandis que la fiction domine ce jour précis.",
@@ -139,7 +139,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-octubre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Dog+Dates%2CAmor+a+4+Patas%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Conan_%28Javier_Milei%27s_dog%29"
         },
         {
           "rank": 5,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-06T15:53:18.605900Z",
+      "scraped_at": "2026-10-06T16:55:42.979531Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 5 octobre voit Antena 3 reprendre la tête du prime avec son divertissement phare « El Hormiguero », qui rassemble 1,63 million de téléspectateurs et 13,4% de part de marché. Ce chiffre le place légèrement au-dessus de son score de la semaine précédente (1,56 M, 13,4% le 30 septembre), mais il est devancé par une interview politique sur Cuatro le 1er octobre (1,89 M, 15,5%). La chaîne publique La 1, pourtant leader du prime sur les six derniers jours grâce notamment à la retransmission sportive, se positionne troisième avec « La Revuelta » à 1,42 million de curieux (11,6%). La fragmentation des audiences se confirme, avec Cuatro qui parvient à se hisser en deuxième position grâce à son magazine d'information « Horizonte » (1,61 M, 13,1%), démontrant la capacité de la chaîne à capter une audience significative dans sa case. Telecinco, acteur historique du duopole, peine à trouver son public avec « Dog Dates, Amor a 4 Patas », ne dépassant pas le million de téléspectateurs.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-06T15:53:23.840941Z",
+      "scraped_at": "2026-10-06T16:55:48.050602Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+ragazza+della+palude%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-10-06T15:53:22.554033Z",
+      "scraped_at": "2026-10-06T16:55:46.768075Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la « Nations League » sur Rai 1 le 5 octobre 2026 enregistre une audience de 8,00 millions de téléspectateurs, captant 38,1% de part de marché. Ce chiffre, bien que légèrement inférieur aux 7,85 millions du 2 octobre, confirme la domination de la chaîne publique dans sa case du prime time, précédée par le football. La compétition avec Canale 5 reste marquée par le divertissement, « Grande Fratello Vip » réunissant 1,78 million de personnes (16,0% PDM), une performance stable par rapport à la semaine précédente. Sur la semaine écoulée, Rai 1 a remporté cinq des sept soirées en tête des audiences, démontrant la puissance de ses événements sportifs face aux programmes de flux de Mediaset. Rai 3 et Italia 1 se disputent les audiences plus faibles, avec « Lo Stato delle Cose » et « Jack Reacher » affichant des scores respectifs de 1,17 million (8,2% PDM) et 1,13 million (6,3% PDM).",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-06T15:53:12.130600Z",
+      "scraped_at": "2026-10-06T16:55:34.570990Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-06T15:53:23.843274Z"
+  "last_updated": "2026-10-06T16:55:48.053075Z"
 }
