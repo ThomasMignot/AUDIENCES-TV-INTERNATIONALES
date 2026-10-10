@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Ninja_Warrior_Germany"
         }
       ],
-      "scraped_at": "2026-10-10T17:26:20.864636Z",
+      "scraped_at": "2026-10-10T18:38:05.860953Z",
       "status": "ok",
       "error": null,
       "commentary": "La « Tagesschau » de Das Erste s'impose à nouveau en tête des audiences du prime time, rassemblant 4,36 millions de téléspectateurs, soit 22,0% de part de marché. Ce score est légèrement supérieur à celui de la semaine précédente (4,04 M, 20.9% le 2 octobre), mais inférieur aux pics enregistrés en début de semaine (5,66 M le 4 octobre). La compétition pour la deuxième place reste vive, avec un téléfilm sur une chaîne non spécifiée atteignant 3,74 millions de téléspectateurs (18,3% PDM), tandis que le « ZDFsportstudio » se positionne en troisième position avec 2,91 millions de curieux (14,8% PDM). La domination des chaînes publiques sur les cibles plus âgées se confirme, face à des offres plus fragmentées sur les chaînes privées, où RTL et son format « Ninja Warrior Germany » peine à dépasser les 7,1% de PDM. La première partie de soirée reste ainsi un champ de bataille où les programmes d'information et les fictions familiales rencontrent un public fidèle sur ARD et ZDF.",
@@ -88,76 +88,10 @@
       "date": "2026-10-09",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Antena 3",
-          "channel_color": "amber",
-          "program": "La Voz:Audiciones",
-          "program_fr": "The Voice",
-          "viewers": 1045000,
-          "share": 12.1,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-octubre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/La_Voz"
-        },
-        {
-          "rank": 2,
-          "channel": "La 1",
-          "channel_color": "red",
-          "program": "Los Archivos Secretos del Nodo",
-          "program_fr": null,
-          "viewers": 982000,
-          "share": 9.4,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-octubre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Los+Archivos+Secretos+del+Nodo%22+La+1+ratings"
-        },
-        {
-          "rank": 3,
-          "channel": "Telecinco",
-          "channel_color": "blue",
-          "program": "First Dates",
-          "program_fr": "First Dates",
-          "viewers": 965000,
-          "share": 9.3,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-octubre-2026/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
-        },
-        {
-          "rank": 4,
-          "channel": "Cuatro",
-          "channel_color": "purple",
-          "program": "Horizonte",
-          "program_fr": null,
-          "viewers": 925000,
-          "share": 8.9,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-octubre-2026/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
-        },
-        {
-          "rank": 5,
-          "channel": "La Sexta",
-          "channel_color": "green",
-          "program": "Lasexta Columna (en Tiendas y en Campaña:la Ultima Llave de Sanchez)",
-          "program_fr": null,
-          "viewers": 536000,
-          "share": 5.2,
-          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-octubre-2026/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28en+Tiendas+y+en+Campa%C3%B1a%22+La+Sexta+ratings"
-        }
-      ],
-      "scraped_at": "2026-10-10T17:26:23.179906Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-10-10T18:38:06.406890Z",
+      "status": "failed",
+      "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Le divertissement « La Voz: Audiciones » s'adjuge la tête du prime du 9 octobre sur Antena 3 avec 1,04 million de téléspectateurs, soit 12,1% de part de marché. Ce score est inférieur aux performances de l'access « El Hormiguero » lors des soirées précédentes, qui dépassait régulièrement les 1,6 million de fidèles. La chaîne publique La 1, leader sur la semaine avec quatre soirées en tête, se positionne en deuxième place avec « Los Archivos Secretos del Nodo » (982 k, 9,4% PDM). La troisième place revient à Telecinco et son format « First Dates » (965 k, 9,3% PDM), démontrant une fragmentation du public sur cette case horaire. La chaîne Cuatro, avec « Horizonte », maintient une présence significative dans le top 5, atteignant 8,9% de PDM. La Sexta ferme ce classement avec un score de 5,2% PDM pour « Lasexta Columna ».",
       "commentary_date": "2026-10-09"
     },
@@ -169,9 +103,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-10T17:26:27.549521Z",
+      "scraped_at": "2026-10-10T18:38:40.424122Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7f118895eb50>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -194,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-9-ottobre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22The+Voice+Senior%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_The_Voice_Senior_TV_series"
         },
         {
           "rank": 2,
@@ -207,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-9-ottobre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grande+Fratello+Vip%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Fratello_VIP"
         },
         {
           "rank": 3,
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Land+of+Bad%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-10-10T17:26:26.331086Z",
+      "scraped_at": "2026-10-10T18:38:10.112366Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 9 octobre, Rai 1 confirme sa domination sur la case du prime time avec « The Voice Senior », attirant 3,39 millions de téléspectateurs et 24,3% de part de marché. Ce score place le divertissement de la chaîne publique en nette tête, distançant significativement le programme de Canale 5, « Grande Fratello Vip », qui réunit 1,72 million de personnes (15,2% PDM). Par rapport au 2 octobre, où Rai 1 avait bénéficié de la « Nations League » avec 7,85 millions de curieux, « The Voice Senior » affiche une performance solide dans une configuration plus classique. Le programme de Rete 4, « Quarto Grado », se positionne en troisième place avec 999 000 téléspectateurs, une audience en retrait par rapport à sa moyenne de la semaine précédente (1,22 million le 2 octobre). Cette soirée illustre la stratégie de Rai 1 de s'appuyer sur des formats fédérateurs pour occuper le leadership, tandis que Canale 5 peine à réitérer les succès de ses programmes phares comme « Tú Sí Que Vales ».",
@@ -263,12 +197,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-10T17:26:17.609326Z",
+      "scraped_at": "2026-10-10T18:38:03.588839Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-10T17:26:27.551740Z"
+  "last_updated": "2026-10-10T18:38:40.425561Z"
 }
