@@ -140,7 +140,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-octubre-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+LaLiga+TV+por+M%2B+ratings"
         },
         {
           "rank": 4,
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lo+Sabe+No+Lo+Sabe%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-10-12T19:59:44.315934Z",
+      "scraped_at": "2026-10-12T21:22:38.207803Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 10 octobre, Antena 3 reprend la tête du prime time avec « La Ruleta de la Suerte Noche », attirant 892 000 téléspectateurs (9.9% PDM), une performance en retrait par rapport aux pics enregistrés en début de semaine. La 1 se positionne juste derrière avec « Informe Semanal » (883 k, 9.3% PDM), témoignant d'une lutte serrée entre les deux chaînes généralistes pour cette case horaire. La programmation sportive sur LaLiga TV par M+ se distingue avec 657 000 spectateurs, démontrant l'attractivité des événements sportifs en direct, même sur une chaîne thématique. La présence de « Titanic » sur Telecinco, réalisant 590 000 téléspectateurs (8.5% PDM), suggère une stratégie de contre-programmation face aux offres plus traditionnelles. La semaine précédente, La 1 avait dominé le prime time à trois reprises, notamment grâce à la diffusion de matchs de football européens qui avaient généré des audiences exceptionnelles.",
@@ -270,5 +270,5 @@
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-12T19:59:44.318099Z"
+  "last_updated": "2026-10-12T21:22:38.210881Z"
 }
