@@ -8,12 +8,78 @@
       "date": "2026-10-13",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [],
-      "scraped_at": "2026-10-14T12:56:50.889506Z",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7fb3eb163b50>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
-      "commentary": "La soirée du 12 octobre confirme la prédominance des chaînes publiques sur les publics plus âgés, avec un film de genre sur une \"Autre chaîne\" en tête à 5,20 millions de téléspectateurs et 23,2% de part de marché. Le journal de Das Erste, \"Tagesschau\", suit avec 4,62 millions de curieux (21,3% PDM), affichant une légère baisse par rapport aux chiffres observés en début de semaine. Le \"heute journal\" du ZDF se positionne en troisième place, consolidant sa part de marché autour de 15,4%. Sur le segment des chaînes privées, \"Wer wird Millionär ?\" sur RTL rassemble 2,56 millions de fidèles (13,1% PDM), une performance en retrait par rapport à certains numéros de la semaine passée. La comparaison avec le 11 octobre révèle une chute significative pour le \"Tatort\" de Das Erste, qui avait captivé 7,18 millions de téléspectateurs, soulignant la variabilité de l'attractivité des programmes phares. Cette configuration met en lumière la difficulté des chaînes privées à rivaliser sur la case du prime time face aux offres des diffuseurs publics, particulièrement lorsque ces derniers proposent des événements ou des séries à fort capital sympathie.",
-      "commentary_date": "2026-10-12"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Die Kanzlei Folge 81",
+          "program_fr": null,
+          "viewers": 4507000,
+          "share": 21.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+Kanzlei+Folge+81%22+Autre+cha%C3%AEne+ratings"
+        },
+        {
+          "rank": 2,
+          "channel": "Das Erste",
+          "channel_color": "blue",
+          "program": "Tagesschau",
+          "program_fr": null,
+          "viewers": 4406000,
+          "share": 20.6,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+        },
+        {
+          "rank": 3,
+          "channel": "ZDF",
+          "channel_color": "amber",
+          "program": "heute journal",
+          "program_fr": null,
+          "viewers": 2924000,
+          "share": 17.2,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
+        },
+        {
+          "rank": 4,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Fakt",
+          "program_fr": null,
+          "viewers": 2088000,
+          "share": 12.7,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Fakt"
+        },
+        {
+          "rank": 5,
+          "channel": "Autre chaîne",
+          "channel_color": "gray",
+          "program": "Die Tricks der Onlinehändler - mit",
+          "program_fr": null,
+          "viewers": 1997000,
+          "share": 9.5,
+          "source_url": "https://www.dwdl.de/zahlenzentrale/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+Tricks+der+Onlineh%C3%A4ndler%22+Autre+cha%C3%AEne+ratings"
+        }
+      ],
+      "scraped_at": "2026-10-14T14:28:02.081975Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "La soirée du 13 octobre voit une production de la catégorie \"Autre chaîne\" s'installer en tête du prime time avec 4,51 millions de téléspectateurs, devançant de peu la \"Tagesschau\" de Das Erste (4,41 millions). Cette performance s'inscrit dans une dynamique de forte concurrence sur le créneau du 20h15, où les chaînes publiques et privées alternent les succès. Comparé à la semaine précédente, où la \"Tagesschau\" avait systématiquement mené le classement, on observe une redistribution des cartes. La \"Tagesschau\" de Das Erste, malgré un léger recul par rapport à sa moyenne hebdomadaire de 4,68 millions de téléspectateurs, maintient une part de marché significative de 20,6%. Le \"heute journal\" de ZDF se positionne en troisième place avec 2,92 millions de fidèles, un chiffre stable sur les derniers jours. La présence de deux journaux télévisés parmi les quatre premières places du classement souligne la prédominance des formats d'information dans les choix du public allemand, particulièrement sur les tranches d'âge plus âgées.",
+      "commentary_date": "2026-10-13"
     },
     "ES": {
       "country_code": "ES",
@@ -86,10 +152,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-octubre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-14T12:56:54.205368Z",
+      "scraped_at": "2026-10-14T14:28:06.673336Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 13 octobre, Antena 3 s'adjuge la première place du prime time avec \"El Hormiguero\", attirant 1,64 million de téléspectateurs et 13,4% de part de marché. Ce divertissement, habitué des premières places, confirme sa position dominante dans la case de 21h45, malgré une légère érosion par rapport à sa performance du 8 octobre (1,64 M, 13,7%). La chaîne Cuatro se positionne en challenger avec son magazine d'information \"Horizonte\", qui rassemble 1,38 million de personnes (11,2% PDM), une audience stable par rapport à la semaine précédente. La chaîne publique La 1, bien qu'en progression sur l'année 2023, se classe troisième avec \"La Revuelta\", réunissant 1,15 million de fidèles (9,4% PDM), un score inférieur à celui de l'épisode du 8 octobre. La lutte pour la deuxième place du marché, traditionnellement disputée entre Telecinco et La 1, semble s'orienter vers un avantage pour cette dernière, soutenue par des formats d'information et de divertissement plus performants.",
@@ -103,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-14T12:56:59.514199Z",
+      "scraped_at": "2026-10-14T14:28:12.048939Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -128,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-13-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Modugno"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tutto+l%E2%80%99Amore+che+Resta%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -183,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Vendetta%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-10-14T12:56:58.455260Z",
+      "scraped_at": "2026-10-14T14:28:10.866000Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 13 octobre voit Rai 1 reprendre la tête du prime time avec la fiction « Tutto l’Amore che Resta », qui réalise 2,59 millions de téléspectateurs et 16.0% de part de marché. Ce score est stable par rapport à sa diffusion du 6 octobre, où le programme avait déjà enregistré 2,56 millions de curieux pour 16.0% de PDM. Sur la semaine écoulée, Rai 1 a solidement maintenu sa position de leader, remportant six des sept soirées, souvent avec des scores supérieurs à 20% de PDM grâce à des programmes comme « Doc » ou « The Voice Senior ». Canale 5, avec son divertissement « Zelig », se positionne en deuxième place avec 1,71 million de téléspectateurs (14.4% PDM), un résultat inférieur à ses performances habituelles en première partie de semaine, notamment le 6 octobre où « Zelig » avait rassemblé 2,31 millions de personnes (17.9% PDM). La chaîne d'information La7, avec « DiMartedì », confirme sa niche politique et d'information en réunissant 1,50 million de téléspectateurs (9.7% PDM), un score en légère baisse par rapport à la semaine précédente. Le positionnement de ces chaînes sur des genres distincts, fiction pour Rai 1, divertissement pour Canale 5 et information pour La7, structure la compétition hebdomadaire.",
@@ -197,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-14T12:56:20.553088Z",
+      "scraped_at": "2026-10-14T14:27:58.611132Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-14T12:56:59.516428Z"
+  "last_updated": "2026-10-14T14:28:12.051243Z"
 }
