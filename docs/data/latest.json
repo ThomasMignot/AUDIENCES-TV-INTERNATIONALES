@@ -8,63 +8,10 @@
       "date": "2026-10-14",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Frau ohne Namen",
-          "program_fr": null,
-          "viewers": 5360000,
-          "share": 26.1,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Nameless_Woman"
-        },
-        {
-          "rank": 2,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
-          "program_fr": null,
-          "viewers": 5245000,
-          "share": 25.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
-        },
-        {
-          "rank": 3,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "heute journal",
-          "program_fr": null,
-          "viewers": 2236000,
-          "share": 12.9,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
-        },
-        {
-          "rank": 4,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Mario Barth deckt auf Folge 2",
-          "program_fr": null,
-          "viewers": 1263000,
-          "share": 6.6,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Mario+Barth+deckt+auf+Folge+2%22+Autre+cha%C3%AEne+ratings"
-        }
-      ],
-      "scraped_at": "2026-10-15T18:19:09.930965Z",
-      "status": "partial",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-10-15T19:50:53.746932Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7f19b4d9bd50>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
       "commentary": "La soirée du 14 octobre voit une \"autre chaîne\" s'installer en tête du prime time avec 5,36 millions de téléspectateurs, devançant de peu le journal de Das Erste (5,25 M). Cette performance de la chaîne non identifiée marque une rupture avec la domination habituelle des chaînes publiques, Das Erste ayant mené le classement quatre soirs sur les sept précédents. La mobilisation des téléspectateurs pour le journal de Das Erste le 10 octobre (5,08 M) et pour le Tatort le 11 octobre (7,18 M) démontre la force de ses programmes de référence. Le score de 2,24 millions pour le \"heute journal\" du ZDF le 14 octobre se situe dans la fourchette basse des audiences observées pour ce journal au cours de la semaine passée. Le programme de divertissement de la chaîne privée (1,26 M) peine à rivaliser avec les offres des diffuseurs publics.",
       "commentary_date": "2026-10-14"
     },
@@ -113,7 +60,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-octubre-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Salvador+Sobral%29%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Hormiguero"
         },
         {
           "rank": 4,
@@ -126,7 +73,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-octubre-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
         },
         {
           "rank": 5,
@@ -139,10 +86,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-octubre-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+Movistar+Liga+de+Campeones+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
         }
       ],
-      "scraped_at": "2026-10-15T18:19:12.488847Z",
+      "scraped_at": "2026-10-15T19:50:56.705492Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 14 octobre, Antena 3 s'impose de nouveau en tête du prime time avec « El Hormiguero », réunissant 1,49 million de téléspectateurs et 12,5% de part d'audience. Ce score, légèrement inférieur à celui de la semaine précédente (1,64 M, 13,4% le 13 octobre), confirme néanmoins la puissance de cette case horaire pour la chaîne. La chaîne d'information en continu Cuatro, avec « Horizonte:Avance », se positionne en deuxième place, démontrant une capacité à capter une audience significative, proche de ses performances habituelles. La chaîne publique La 1, malgré un divertissement « La Revuelta » sous les 1,1 million de téléspectateurs, maintient une présence dans le trio de tête, témoignant d'une stratégie de réaffirmation sur cette tranche. La concurrence reste vive entre les chaînes généralistes, Antena 3 et La 1 se disputant les premières places, tandis que Telecinco et les chaînes thématiques peinent à rivaliser sur les audiences les plus élevées. Le programme sportif de Movistar Liga de Campeones, bien que présent dans le top 5, reste en retrait par rapport aux offres des diffuseurs généralistes.",
@@ -156,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-15T18:19:16.590461Z",
+      "scraped_at": "2026-10-15T19:51:04.078518Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -181,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-14-ottobre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tale+e+Quale+Show%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tale_e_quale_show"
         },
         {
           "rank": 2,
@@ -207,7 +154,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-14-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chi_l%27ha_visto%3F"
         },
         {
           "rank": 4,
@@ -220,7 +167,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-14-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Una+Giornata+Particolare%22+La7+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/A_Special_Day"
         },
         {
           "rank": 5,
@@ -236,7 +183,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/UEFA_Champions_League"
         }
       ],
-      "scraped_at": "2026-10-15T18:19:15.005957Z",
+      "scraped_at": "2026-10-15T19:51:02.940101Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement « Tale e Quale Show » sur Rai 1 enregistre 2,50 millions de téléspectateurs et 17,9% de part de marché, se plaçant en tête des audiences du prime time ce 14 octobre. Cette performance marque un recul par rapport aux 2,94 millions et 21,8% de part de marché obtenus par le même programme le 7 octobre. Canale 5, avec « Il Volo – Uno per Tutti », rassemble 2,07 millions de fidèles (17,7% PDM), une audience stable par rapport à la semaine précédente. La chaîne privée confirme ainsi sa stratégie de proposer des formats de divertissement musical en concurrence directe avec les productions de Rai 1. Rai 3 et La7 maintiennent leurs positions respectives avec des programmes d'information et de société, attirant des audiences plus modestes autour de 1 million de téléspectateurs. La performance de la Champions League sur TV8, avec 962 000 spectateurs, témoigne de la difficulté pour les chaînes secondaires de capter une audience significative face aux offres des deux principaux diffuseurs lors de cette soirée.",
@@ -250,12 +197,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-15T18:19:06.912265Z",
+      "scraped_at": "2026-10-15T19:50:23.504810Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-15T18:19:16.592762Z"
+  "last_updated": "2026-10-15T19:51:04.080399Z"
 }
