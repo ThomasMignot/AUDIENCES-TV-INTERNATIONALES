@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22WaPo+Bodensee+Folge+61%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-10-17T17:12:49.557887Z",
+      "scraped_at": "2026-10-17T18:24:48.813244Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 16 octobre voit une chaîne non spécifiée prendre la tête du prime avec \"Jenseits der Spree\" et 4,42 millions de téléspectateurs, soit 21,1% de part de marché. Ce résultat la place devant les deux principaux diffuseurs publics, Das Erste et ZDF, qui réalisent respectivement 3,87 millions (19,6%) avec le \"Tagesschau\" et 3,69 millions (18,3%) avec \"SOKO Leipzig\". Par rapport à la semaine précédente, le \"Tagesschau\" de Das Erste accuse une légère baisse de téléspectateurs, passant de 4,70 millions le 15 octobre à 3,87 millions. La fiction \"SOKO Leipzig\" du ZDF se maintient dans une fourchette basse par rapport aux performances habituelles de ce type de programme sur la semaine, avec 3,69 millions contre des pics observés plus tôt dans la semaine. La présence de trois fictions dans le top 5, dont deux sur des chaînes non identifiées, suggère une fragmentation des audiences en milieu de semaine, loin des pics enregistrés lors de la diffusion du \"Tatort\" le 11 octobre, qui avait rassemblé 7,18 millions de personnes sur Das Erste.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Fachalandia%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-17T17:12:51.883585Z",
+      "scraped_at": "2026-10-17T18:24:50.267500Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination en prime time avec « La Voz:Audiciones » qui attire 1,10 million de téléspectateurs et 12,6% de part de marché. Ce score place le divertissement en tête des audiences de la soirée, malgré une légère érosion par rapport aux pics enregistrés lors des précédentes diffusions d'« El Hormiguero ». Telecinco, avec « First Dates », se positionne en deuxième chaîne nationale avec 1,06 million de curieux (10,0% PDM), une performance stable par rapport à la semaine passée. La chaîne Cuatro, avec son magazine d'information « Horizonte », se distingue en occupant la troisième marche du podium avec 1,01 million de fidèles (9,5% PDM), démontrant la capacité du format à capter une audience significative en milieu de semaine. La 1, quant à elle, peine à retrouver les chiffres de ses précédentes soirées, son programme « Los Archivos Secretos del Nodo » rassemblant 796 000 téléspectateurs (8,0% PDM). La stratégie de programmation d'Antena 3, en s'appuyant sur des formats établis en access et en prime, semble porter ses fruits face à la concurrence.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-17T17:12:56.945002Z",
+      "scraped_at": "2026-10-17T18:24:53.942089Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -246,10 +246,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-16-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Hounds_of_War"
+          "wikipedia_url": "https://www.google.com/search?q=%22Hounds+of+War%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-10-17T17:12:55.734104Z",
+      "scraped_at": "2026-10-17T18:24:52.895257Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement « The Voice Senior » sur Rai 1 réalise une performance solide le 16 octobre, attirant 3,29 millions de téléspectateurs et captant 24,1% de part de marché. Cette audience place la chaîne publique en tête du prime time, confirmant sa domination sur la semaine avec six soirées sur sept en première position. La compétition directe avec Canale 5, dont « Grande Fratello Vip » rassemble 1,90 million de personnes (16,6% PDM), reste un axe majeur de la lutte pour le leadership des audiences commerciales. Par rapport à la semaine précédente, « The Voice Senior » progresse légèrement par rapport à sa précédente diffusion le 9 octobre (3,39 M, 24.3%), démontrant une stabilité de son public. La troisième place est occupée par Rete 4 avec « Quarto Grado » qui, avec 1 million de téléspectateurs (8,1% PDM), se maintient dans une fourchette d'audience similaire à celle observée le 9 octobre. Le score de Nove avec « Fratelli di Crozza » (919 k, 5.4%) suggère une stratégie de contre-programmation qui peine à rivaliser avec les offres des deux principaux acteurs historiques.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-17T17:12:43.004263Z",
+      "scraped_at": "2026-10-17T18:24:46.347097Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-17T17:12:56.947103Z"
+  "last_updated": "2026-10-17T18:24:53.944336Z"
 }
