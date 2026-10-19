@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Newstime"
         }
       ],
-      "scraped_at": "2026-10-19T14:46:44.948985Z",
+      "scraped_at": "2026-10-19T16:25:01.616393Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction « Tatort: Unter Feinden Folge 2 » sur Das Erste s'impose dimanche soir avec 7,25 millions de téléspectateurs et 29,6% de part de marché, confirmant la puissance du format dans la case du dimanche soir. Ce score est en légère progression par rapport à l'épisode précédent de la même série le 11 octobre (7,18 M, 30.0%), consolidant sa domination sur les audiences du week-end. Le journal du soir du ZDF, « heute journal / Wetter », se positionne en deuxième place avec 3,96 millions de fidèles (19.5% PDM), une performance stable par rapport aux journaux des jours précédents, qui se situaient autour de 3 millions de téléspectateurs. Les chaînes privées, représentées ici par ProSieben, peinent à rivaliser sur ce créneau du prime time avec des programmes ciblant un public plus large, comme le montre le score de 1,67 million pour « :newstime ». L'observation de la semaine révèle une compétition intense, avec une \"Autre chaîne\" ayant mené les audiences quatre soirées sur six, démontrant une stratégie de programmation efficace sur les autres jours.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cuarto+Milenio%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-10-19T14:46:47.613658Z",
+      "scraped_at": "2026-10-19T16:25:05.662092Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 18 octobre voit La 1 et LaLiga TV par M+ se disputer la première place avec 1,17 million de téléspectateurs, cette dernière atteignant 9.5% de part de marché face aux 10.8% de la chaîne publique. Telecinco, avec \"Supervivientes All Stars\", se positionne en troisième position des programmes les plus regardés avec 1 million de curieux, mais affiche la meilleure performance en termes de part de marché (12.7%). Antena 3, malgré la puissance habituelle de son access \"El Hormiguero\", voit son programme de prime \"El Secreto\" rassembler 863 000 personnes, soit 10.1% de PDM. Cette configuration contraste avec la domination d'Antena 3 sur la semaine passée, où \"El Hormiguero\" dépassait régulièrement les 1,4 million de téléspectateurs. La présence du football sur une chaîne payante en tête des audiences, aux côtés d'une offre cinéma sur La 1, témoigne d'une diversification des stratégies pour capter l'audience du prime time espagnol.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-19T14:46:51.986438Z",
+      "scraped_at": "2026-10-19T16:25:11.776768Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -233,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-18-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Inside"
+          "wikipedia_url": "https://www.google.com/search?q=%22Inside%22+Italia+1+ratings"
         },
         {
           "rank": 5,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Fuori+dal+Coro%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-10-19T14:46:50.888080Z",
+      "scraped_at": "2026-10-19T16:25:10.455361Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 18 octobre voit Rai 1 conserver sa position de leader avec un documentaire historique, « Alberto Angela racconta Giulio Cesare », attirant 2,15 millions de téléspectateurs et 15,6% de part de marché. Ce score est inférieur aux performances des divertissements et fictions de la semaine précédente, qui avaient dépassé les 2,5 millions de téléspectateurs sur la même chaîne. Canale 5, avec sa fiction « Racconto di una Notte », se positionne en deuxième place, réunissant 1,83 million de personnes (14,0% PDM), une audience stable par rapport à la semaine passée. La chaîne Nove, avec « Che Tempo Che Fa », maintient une présence notable dans le trio de tête, atteignant 1,56 million de téléspectateurs (9,3% PDM), en progression par rapport aux jours précédents. La fragmentation des audiences se confirme, avec des programmes plus spécialisés comme « Fuori dal Coro » sur Rete 4 captant une part d'audience plus modeste. La compétition entre les chaînes généralistes du duopole Rai-Mediaset reste marquée par des stratégies de programmation variées pour capter différents segments d'audience.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-19T14:46:43.031371Z",
+      "scraped_at": "2026-10-19T16:24:59.021668Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-19T14:46:51.988576Z"
+  "last_updated": "2026-10-19T16:25:11.778859Z"
 }
