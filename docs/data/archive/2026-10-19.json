@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-20T17:27:45.179259Z",
+      "scraped_at": "2026-10-20T18:28:23.211589Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Deutschland%2C+deine+Beamten%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-10-20T17:27:50.213486Z",
+      "scraped_at": "2026-10-20T18:28:28.069626Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 19 octobre 2026 en Allemagne voit une \"Autre chaîne\" s'imposer avec un téléfilm attirant 4,72 millions de téléspectateurs, soit 21,2% de part de marché, une performance inférieure à son record de la semaine précédente (5,72 M le 17 oct.). Le journal de Das Erste, \"Tagesschau\", se maintient en deuxième position avec 4,49 millions de spectateurs (20,7% PDM), montrant une certaine stabilité face à la concurrence. Le \"heute journal\" de ZDF enregistre 2,91 millions de fidèles (14,5% PDM), tandis que le divertissement de RTL, \"Wer wird Millionär ?\", peine à dépasser les 2,69 millions (13,8% PDM). Cette configuration illustre la résilience des chaînes publiques sur le créneau du prime time, bien que le leadership hebdomadaire soit disputé par une \"Autre chaîne\" qui a remporté quatre des six soirées précédentes. Le succès du téléfilm de cette \"Autre chaîne\" suggère une stratégie de contre-programmation efficace, potentiellement ciblant un public large, en dépit de la présence historique des programmes des chaînes publiques auprès des téléspectateurs plus âgés.",
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-20T17:27:52.655448Z",
+      "scraped_at": "2026-10-20T18:28:31.182545Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 19 octobre voit Antena 3 consolider sa position de leader du prime time avec « El Hormiguero », qui enregistre 1,88 million de téléspectateurs et 15,4% de part de marché. Ce divertissement bénéficie de son ancrage dans la case de l'access, attirant un public large avant le dîner tardif. La chaîne Cuatro se positionne en challenger avec son magazine d'information « Horizonte », qui capte 1,50 million de fidèles, une performance stable par rapport à la semaine précédente. La 1, quant à elle, peine à rivaliser dans cette case, son programme « La Revuelta » rassemblant 1,28 million de spectateurs, inférieur à certains de ses scores de la semaine, notamment le 15 octobre. La tension concurrentielle se manifeste ainsi entre les programmes d'information et de divertissement, avec Antena 3 qui capitalise sur un format éprouvé. Telecinco, malgré la présence de « First Dates », reste en retrait dans ce classement, démontrant la difficulté à trouver un lead-in suffisant pour ses programmes de début de soirée.",
@@ -233,7 +233,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-19-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22G20%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/G20"
         },
         {
           "rank": 5,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22M%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-10-20T17:27:56.112796Z",
+      "scraped_at": "2026-10-20T18:28:35.364270Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « I Casi di Teresa Battaglia », s'impose en tête du prime time avec 3,35 millions de téléspectateurs et 21,0% de part de marché. Ce score positionne la chaîne publique en tête de la soirée, confirmant sa domination sur la semaine, malgré la présence de formats à fort potentiel de Canale 5 comme « Grande Fratello Vip ». Ce dernier rassemble 1,87 million de personnes (17,3% PDM), un chiffre stable par rapport à la semaine précédente. La stratégie de Rai 1 semble porter ses fruits en proposant un contenu narratif face au divertissement, tandis que Canale 5 maintient une audience significative avec son programme d'enfermement. Les autres chaînes généralistes peinent à dépasser le million de téléspectateurs, illustrant la polarisation du marché autour des deux grands acteurs historiques. La chaîne La7, avec son offre axée sur l'information et le débat, capte une audience plus restreinte mais fidèle, atteignant 790 000 téléspectateurs.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-20T17:27:57.267063Z",
+      "scraped_at": "2026-10-20T18:28:36.674677Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-20T17:27:57.268597Z"
+  "last_updated": "2026-10-20T18:28:36.676366Z"
 }
