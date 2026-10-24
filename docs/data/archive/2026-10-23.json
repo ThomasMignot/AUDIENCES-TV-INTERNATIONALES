@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-24T14:07:02.403505Z",
+      "scraped_at": "2026-10-24T16:11:16.513656Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -22,76 +22,10 @@
       "date": "2026-10-23",
       "source_name": "DWDL.de · Zahlenzentrale",
       "source_url": "https://www.dwdl.de/zahlenzentrale/",
-      "entries": [
-        {
-          "rank": 1,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Jenseits der Spree",
-          "program_fr": null,
-          "viewers": 4174000,
-          "share": 20.8,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Seyneb_Saleh"
-        },
-        {
-          "rank": 2,
-          "channel": "Das Erste",
-          "channel_color": "blue",
-          "program": "Tagesschau",
-          "program_fr": null,
-          "viewers": 3953000,
-          "share": 20.3,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "info",
-          "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
-        },
-        {
-          "rank": 3,
-          "channel": "ZDF",
-          "channel_color": "amber",
-          "program": "heute-show",
-          "program_fr": null,
-          "viewers": 3477000,
-          "share": 21.5,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "divertissement",
-          "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-show"
-        },
-        {
-          "rank": 4,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Politbarometer",
-          "program_fr": null,
-          "viewers": 2745000,
-          "share": 15.9,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Politbarometer"
-        },
-        {
-          "rank": 5,
-          "channel": "Autre chaîne",
-          "channel_color": "gray",
-          "program": "Kanzlei Liebling Kreuzberg - Auf Au",
-          "program_fr": null,
-          "viewers": 2422000,
-          "share": 12.1,
-          "source_url": "https://www.dwdl.de/zahlenzentrale/",
-          "category": "autre",
-          "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Dang_Ngoc_Long"
-        }
-      ],
-      "scraped_at": "2026-10-24T14:07:04.647610Z",
-      "status": "ok",
-      "error": null,
+      "entries": [],
+      "scraped_at": "2026-10-24T16:11:46.774347Z",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /zahlenzentrale/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7c72002ecfd0>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
       "commentary": "La soirée du 23 octobre 2026 voit un film de fiction, « Jenseits der Spree », s'installer en tête des audiences avec 4,17 millions de téléspectateurs et 20.8% de part de marché. Ce résultat le place légèrement devant le journal de 20h de Das Erste, qui enregistre 3,95 millions de fidèles et 20.3% de PDA. La chaîne publique ZDF, avec son magazine satirique « heute-show », capte 3,48 millions de personnes, représentant une part d'audience de 21.5%, démontrant une forte pénétration sur sa cible. Comparé à la semaine précédente, où les soirées étaient dominées par des fictions et des journaux d'information des chaînes publiques, cette performance d'une chaîne non identifiée témoigne d'une dynamique concurrentielle fluctuante. La présence de « Politbarometer » dans le top 5 suggère un intérêt soutenu pour les programmes d'actualité et de débat, même en dehors des journaux d'information traditionnels. La diversité des programmes dans ce classement du prime time reflète une fragmentation des audiences, où les fictions de genre, l'information et le divertissement se disputent l'attention des téléspectateurs allemands.",
       "commentary_date": "2026-10-23"
     },
@@ -153,7 +87,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-octubre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
         },
         {
           "rank": 5,
@@ -169,7 +103,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+Columna+%28Conexion+Berlin-Nueva+York%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-24T14:07:05.881228Z",
+      "scraped_at": "2026-10-24T16:11:48.461367Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 23 octobre voit Antena 3 confirmer sa position dominante sur le prime avec \"La Voz:Audiciones\", qui rassemble 1,13 million de téléspectateurs et 13,1% de part de marché. Ce score est légèrement supérieur à celui de la semaine précédente pour le même programme (1,10 M, 12.6%), consolidant ainsi sa place de leader sur cinq des sept soirées de la semaine écoulée. Telecinco, avec \"First Dates\", se positionne en deuxième chaîne privée avec 1,08 million de fidèles (10.1% PDM), une performance stable par rapport à la semaine passée (1,06 M, 10.0%). La chaîne publique La 1 parvient à placer un film, \"Cuanta Guerra\", en troisième position, attirant 992 000 spectateurs (9.3% PDM), démontrant une capacité à mobiliser son public sur des offres de fiction. La chaîne d'information Cuatro, avec \"Horizonte\", enregistre une audience solide pour un magazine d'information avec 938 000 curieux (8.8% PDM), bien que ce chiffre soit inférieur aux scores enregistrés en milieu de semaine précédente pour ce même format (entre 1,50 M et 1,22 M). La Sexta ferme la marche des chaînes généralistes avec \"Lasexta Columna\", qui peine à dépasser le demi-million de téléspectateurs (5.0% PDM), illustrant la difficulté de ce canal à rivaliser sur ce créneau.",
@@ -194,7 +128,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-23-ottobre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22The+Voice+Senior%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_The_Voice_Senior_TV_series"
         },
         {
           "rank": 2,
@@ -207,7 +141,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-23-ottobre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grande+Fratello+Vip%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Fratello_VIP"
         },
         {
           "rank": 3,
@@ -249,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Propaganda+Live%22+La7+ratings"
         }
       ],
-      "scraped_at": "2026-10-24T14:07:09.000057Z",
+      "scraped_at": "2026-10-24T16:11:52.221308Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement de Rai 1, « The Voice Senior », s'affirme en tête du prime time avec 3,46 millions de téléspectateurs et 24,5% de part de marché, confirmant la domination de la chaîne publique sur la case horaire. Il distance nettement le divertissement de Canale 5, « Grande Fratello Vip », qui réunit 1,81 million de personnes (15,7% PDM), une performance en retrait par rapport à la semaine précédente. Cette configuration illustre la stratégie de Rai 1 de s'appuyer sur des formats éprouvés et populaires pour capter un large public, tandis que Canale 5 maintient une offre de divertissement de flux, mais avec un leadership moins marqué cette semaine. La chaîne Rete 4, avec son magazine d'information « Quarto Grado », se positionne en troisième force, captant 7,8% du public, une légère érosion par rapport à la semaine passée. Les chaînes de niche comme Nove et La7, avec des formats plus ciblés, se situent en retrait, témoignant de la difficulté à concurrencer les offres généralistes sur ce créneau.",
@@ -263,12 +197,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-24T14:07:10.134050Z",
+      "scraped_at": "2026-10-24T16:11:53.373931Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-24T14:07:10.135431Z"
+  "last_updated": "2026-10-24T16:11:53.375302Z"
 }
