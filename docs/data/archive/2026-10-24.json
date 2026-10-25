@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-25T16:43:15.456633Z",
+      "scraped_at": "2026-10-25T17:39:39.537605Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Heinz_Strelow"
         }
       ],
-      "scraped_at": "2026-10-25T16:43:17.209732Z",
+      "scraped_at": "2026-10-25T17:39:41.147212Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste, \"Tagesschau\", s'impose en tête des audiences du 24 octobre avec 5,92 millions de téléspectateurs et 28,8% de part de marché. Cette performance est notablement supérieure à celle enregistrée le 21 octobre (5,02 M, 23,7%), mais reste légèrement en deçà de son pic de la semaine précédente, le 18 octobre, avec un épisode de \"Tatort\" qui avait captivé 7,25 millions de personnes. La série \"Das Vergessen - Spurlos im Moor Fol\" occupe les quatre autres places du top 5, démontrant la capacité de cette chaîne privée à fédérer un large public, même face à l'information de service public. Cette domination sur quatre soirées de la semaine, observée pour une \"Autre chaîne\", suggère une stratégie de programmation audacieuse sur cette case horaire, potentiellement en décalage ou en contre-programmation des offres plus établies. Les chaînes publiques comme Das Erste et ZDF, traditionnellement fortes sur les audiences, voient leur position bousculée par cette offre concurrente.",
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Accordi+%26+Disaccordi%22+Nove+ratings"
         }
       ],
-      "scraped_at": "2026-10-25T16:43:22.855449Z",
+      "scraped_at": "2026-10-25T17:39:45.181784Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 24 octobre, Canale 5 avec « Tú Sí Que Vales » reprend la tête du prime time avec 3,45 millions de téléspectateurs, une légère hausse par rapport à la semaine précédente (3,34 M le 17 octobre). Le divertissement de Rai 1, « Ballando con le Stelle », se maintient en seconde position, attirant 2,61 millions de personnes mais perdant 0,3 point de part de marché (24,5% contre 24,8% le 17 octobre). La7 confirme sa position de troisième chaîne en audience, « In Altre Parole » rassemblant 1,14 million de téléspectateurs, soit un léger recul par rapport à la semaine passée. Le positionnement de Canale 5 sur le divertissement familial semble porter ses fruits face aux propositions plus généralistes de Rai 1, qui avait pourtant dominé la case la semaine précédente avec des fictions et des programmes de divertissement. La stratégie de Rai 1 de proposer des programmes à forte audience le dimanche, comme « Doc » le 22 octobre (3,99 M), contraste avec la régularité de Canale 5 sur ce format de télé-crochet.",
@@ -183,12 +183,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-25T16:43:25.368561Z",
+      "scraped_at": "2026-10-25T17:39:46.501100Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-10-25T16:43:25.369816Z"
+  "last_updated": "2026-10-25T17:39:46.502310Z"
 }
