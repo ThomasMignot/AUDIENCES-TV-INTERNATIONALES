@@ -62,7 +62,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         }
       ],
-      "scraped_at": "2026-10-29T14:29:31.151865Z",
+      "scraped_at": "2026-10-29T16:01:35.501335Z",
       "status": "partial",
       "error": null,
       "commentary": "La \"Tagesschau\" de Das Erste s'établit en tête des audiences du 28 octobre avec 4,98 millions de téléspectateurs, représentant 23,7% de part de marché, un score en légère hausse par rapport à la semaine précédente (4,54 M, 21,4% le 26 et 27 octobre). La rencontre de Coupe d'Allemagne sur une chaîne non spécifiée capte une part d'audience significative (22,0%), démontrant la capacité des événements sportifs à concurrencer les programmes d'information des chaînes publiques. Le film \"Wendland - Stiller und das große S\" obtient une part de marché notable de 17,8%, confirmant l'attrait des fictions pour une audience plus large. Le \"heute journal\" de ZDF réalise une performance solide mais inférieure à celle de la veille, se classant quatrième avec 3,13 millions de téléspectateurs et 15,8% de PDM. Cette soirée illustre la dynamique concurrentielle entre les chaînes publiques et les offres événementielles, particulièrement en l'absence d'un \"Tatort\" le dimanche.",
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-octubre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cifras_y_letras"
         },
         {
           "rank": 5,
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cine+%28Planes+de+Boda%29%22+Telecinco+ratings"
         }
       ],
-      "scraped_at": "2026-10-29T14:29:33.977667Z",
+      "scraped_at": "2026-10-29T16:01:39.389564Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 28 octobre 2026 en Espagne est marquée par une forte mobilisation autour de l'actualité. Cuatro s'empare de la tête des audiences avec son magazine d'information \"Horizonte:Avance\" qui rassemble 1,83 million de téléspectateurs, soit une part de marché de 15,3%. Ce score dépasse significativement le lead-in habituel de la chaîne sur la case. Antena 3 et La 1 se positionnent ensuite avec des éditions spéciales consacrées à la tragédie ferroviaire, atteignant respectivement 1,45 million (11,8% PDM) et 1,05 million (11,1% PDM) de curieux. Ces chiffres contrastent avec les performances observées la semaine précédente, où les programmes de flux comme \"La Revuelta\" sur La 1 ou \"El Hormiguero\" sur Antena 3 dominaient les débats. La structure du prime, traditionnellement occupée par des divertissements ou des fictions, se voit ainsi bouleversée par la puissance de l'information dans un contexte exceptionnel.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-29T14:29:38.540023Z",
+      "scraped_at": "2026-10-29T16:01:44.125164Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22The+Lost+City%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-10-29T14:29:37.410873Z",
+      "scraped_at": "2026-10-29T16:01:42.994462Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement « Tale e Quale Show » sur Rai 1 s'impose en tête des audiences du prime time avec 2,69 millions de téléspectateurs et 20,2% de part de marché. Ce résultat place la chaîne publique en tête pour la sixième soirée consécutive sur les sept jours étudiés, confirmant sa domination sur la période. Canale 5, avec « Il Volo – Uno per Tutti », se maintient en deuxième position, atteignant 1,86 million de fidèles (16,0% PDM), une performance stable par rapport à la semaine précédente. La troisième marche du podium est occupée par Rai 3 et son magazine d'information « Chi l’ha Visto? », qui enregistre 1,02 million de téléspectateurs (7,1% PDM), une légère baisse par rapport à ses scores récents. La compétition pour la deuxième place du prime time entre Rai 1 et Canale 5 se poursuit, cette dernière peinant à déloger le leader historique, particulièrement sur les programmes de divertissement. La fragmentation des audiences se manifeste par la présence de La7 et Italia 1 en fin de classement, captant des audiences plus confidentielles sur des niches spécifiques.",
@@ -250,12 +250,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-29T14:29:28.416614Z",
+      "scraped_at": "2026-10-29T16:01:33.539225Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-29T14:29:38.542188Z"
+  "last_updated": "2026-10-29T16:01:44.127244Z"
 }
