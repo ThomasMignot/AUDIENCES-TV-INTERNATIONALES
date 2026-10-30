@@ -62,7 +62,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Maybrit_Illner"
         }
       ],
-      "scraped_at": "2026-10-30T18:09:32.850574Z",
+      "scraped_at": "2026-10-30T19:24:53.170034Z",
       "status": "partial",
       "error": null,
       "commentary": "La fiction de la chaîne privée, « Mörder unter uns - Der Usedom-Krim », s'impose en tête des audiences du 29 octobre avec 5,52 millions de téléspectateurs, une performance supérieure à celle du précédent épisode de la même série le 22 octobre (5,39 millions). Le journal de Das Erste, « Tagesschau », se positionne en deuxième place, mais enregistre une légère baisse par rapport à la veille, passant de 4,98 millions à 4,76 millions. La fiction de ZDF, « Die Bergretter », confirme sa présence dans le trio de tête, attirant 4,32 millions de spectateurs, dans la continuité de ses scores récents. Cette lutte pour la première place entre les programmes de flux et les fictions illustre la tension concurrentielle persistante sur la case du prime time allemand, où les chaînes publiques tentent de maintenir leur domination face aux offres privées. La présence du magazine politique « maybrit illner » en quatrième position, avec 1,89 million de téléspectateurs, souligne également la segmentation des audiences en fin de soirée.",
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-10-30T18:09:35.469525Z",
+      "scraped_at": "2026-10-30T19:24:58.379188Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 29 octobre voit Antena 3 reprendre la tête du prime avec « El Hormiguero », qui rassemble 1,74 million de téléspectateurs et 14,8% de part de marché. Ce divertissement, habituellement programme d'access, confirme sa puissance en lead-in, devançant Cuatro et son magazine d'information « Horizonte:Avance » (1,63 M, 13.7%). Telecinco, avec « Supervivientes All Stars Express », se positionne en troisième place avec 1,04 million de fidèles (8.9% PDM), une performance inférieure à celle du football retransmis sur DAZN LaLiga le 25 octobre (2,76 M, 21.8%). La 1, qui avait dominé le prime durant la semaine, se retrouve reléguée avec « Malas Lenguas Noche » (703 k, 8.4%). La performance de « El Hormiguero » s'inscrit dans la continuité de ses scores des semaines précédentes, oscillant entre 1,5 et 1,7 million de téléspectateurs.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-10-30T18:09:41.108769Z",
+      "scraped_at": "2026-10-30T19:25:04.241526Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -181,7 +181,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-29-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Doc%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Doc"
         },
         {
           "rank": 2,
@@ -194,7 +194,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-29-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Tutto+per+la+mia+Famiglia%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Simona_Sparaco"
         },
         {
           "rank": 3,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-29-ottobre-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Le+Iene%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Iene"
         },
         {
           "rank": 4,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-29-ottobre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ore+14+Sera%22+Rai+2+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sara_Funaro"
         },
         {
           "rank": 5,
@@ -233,10 +233,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-29-ottobre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Splendida+Cornice%22+Rai+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Geppi_Cucciari"
         }
       ],
-      "scraped_at": "2026-10-30T18:09:39.412074Z",
+      "scraped_at": "2026-10-30T19:25:03.004419Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction italienne « Doc » sur Rai 1 s'impose en tête des audiences du prime time le 29 octobre, réunissant 3,94 millions de téléspectateurs, soit 24,7% de part de marché. Ce résultat se situe dans la continuité des performances de la chaîne publique, qui a dominé six des sept soirées de la semaine précédente avec des programmes variés, de la fiction au divertissement. La stratégie de Rai 1 semble axée sur la fidélisation de son cœur de public autour de formats éprouvés, assurant un lead-in solide pour les programmes suivants. En face, Canale 5, avec la série « Tutto per la mia Famiglia », réalise un score de 1,61 million de téléspectateurs (11,2% PDM), confirmant la difficulté pour le groupe Mediaset de rivaliser directement avec le leadership de Rai 1 sur ce créneau. Italia 1 et Rai 2 ferment le classement, témoignant d'une fragmentation des audiences sur les autres chaînes généralistes.",
@@ -250,12 +250,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-10-30T18:09:29.962531Z",
+      "scraped_at": "2026-10-30T19:24:50.316678Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-10-30T18:09:41.111061Z"
+  "last_updated": "2026-10-30T19:25:04.247004Z"
 }
