@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-11-01T16:54:35.174192Z",
+      "scraped_at": "2026-11-01T18:03:04.917879Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -76,7 +76,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         }
       ],
-      "scraped_at": "2026-11-01T16:54:37.329227Z",
+      "scraped_at": "2026-11-01T18:03:07.730759Z",
       "status": "partial",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste, « Tagesschau », se maintient en tête du prime time du 31 octobre avec 5,45 millions de téléspectateurs, représentant 26,7% de part de marché. Ce score est supérieur à celui enregistré le 28 octobre (4,98 M, 23,7%), mais reste en deçà de la performance du dimanche précédent, le 25 octobre, où un épisode de « Tatort » avait captivé 7,97 millions de personnes. La soirée voit une compétition serrée entre le service public et un programme de divertissement, « Klein gegen Groß - Das unglaublich », qui rassemble 4,88 millions de personnes, démontrant la capacité des chaînes privées à rivaliser sur les cases d'information. La présence du programme sportif en deuxième position, avec 25,2% de PDM, souligne la fragmentation des audiences et l'importance des événements en direct pour capter un large public. Le « heute journal » de la ZDF, quant à lui, se positionne en quatrième place, témoignant de la difficulté de la chaîne publique à rivaliser avec les offres plus populaires en cette fin de semaine.",
@@ -156,7 +156,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+_xplica%2F.%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-01T16:54:40.619984Z",
+      "scraped_at": "2026-11-01T18:03:10.659667Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 31 octobre voit Antena 3 prendre la tête du prime avec « La Ruleta de la Suerte Noche », attirant 903 000 téléspectateurs et 9.8% de part de marché. Cette performance contraste avec les excellents scores de « El Hormiguero » en access, qui structurent habituellement la grille de la chaîne et servent de lead-in. La chaîne publique La 1, représentée par « Informe Semanal », se positionne en deuxième place avec 7.8% de PDM, une performance solide mais inférieure aux pics enregistrés lors de la diffusion de « La Revuelta » la semaine précédente. La chaîne sportive LaLiga TV par M+ s'immisce dans le top 5 avec un match de Liga, témoignant de l'attractivité du football sur cette niche. Telecinco, historiquement un acteur majeur du prime, voit son offre cinéma réaliser une part de marché de 7.9%, en deçà de ses programmes phares comme « Supervivientes » diffusés plus tôt dans la semaine. La Sexta, avec son format d'investigation, ferme ce classement, illustrant la fragmentation des audiences en fin de soirée.",
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22L%E2%80%99era+glaciale+5%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-11-01T16:54:44.253125Z",
+      "scraped_at": "2026-11-01T18:03:15.302602Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 31 octobre, Canale 5 avec « Tú Sí Que Vales » s'adjuge la première place en nombre de téléspectateurs (3,18 millions), mais Rai 1, avec « Ballando con le Stelle », conserve une légère avance en part de marché (23.6% contre 22.5%). Cette configuration illustre la lutte traditionnelle entre les deux grands réseaux généralistes pour capter l'audience du prime time du samedi. Comparé à la semaine précédente, le divertissement de Canale 5 enregistre une légère érosion, passant de 3,45 millions de téléspectateurs à 3,18 millions. La chaîne La7, avec « In Altre Parole », confirme sa position de troisième chaîne en termes d'audience, attirant 1,03 million de personnes. Les chaînes secondaires comme Rai 2 et Italia 1, proposant des séries américaines ou des films d'animation, peinent à dépasser les 4% de part de marché. Le positionnement de Rai 1 comme leader sur six des sept soirées de la semaine précédente souligne sa domination sur le créneau du prime time.",
@@ -250,12 +250,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-01T16:54:45.316590Z",
+      "scraped_at": "2026-11-01T18:03:16.683636Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-01T16:54:45.317787Z"
+  "last_updated": "2026-11-01T18:03:16.685045Z"
 }
