@@ -62,7 +62,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Adriana_Altaras"
         }
       ],
-      "scraped_at": "2026-11-05T15:37:57.300335Z",
+      "scraped_at": "2026-11-05T17:19:48.851158Z",
       "status": "partial",
       "error": null,
       "commentary": "Ce 4 novembre, Sat.1 s'empare de la tête des audiences prime time avec \"Aktenzeichen XY... Ungelöst\", attirant 5,05 millions de téléspectateurs et 23,3% de part de marché. Le programme de faits divers devance ainsi le journal de Das Erste, \"Tagesschau\", qui enregistre 4,97 millions de curieux (22,8% PDM). Cette performance de Sat.1 tranche avec la dynamique observée sur la semaine écoulée, où Das Erste a dominé six soirées sur sept, notamment grâce à son journal d'information. Le \"heute journal\" de ZDF se positionne en troisième place avec 4,42 millions de fidèles (24,0% PDM), confirmant la solidité des offres d'information des chaînes publiques auprès d'une audience plus âgée. L'écart entre les offres des chaînes publiques et privées, particulièrement marqué sur les programmes de divertissement, reste un élément structurant du marché allemand.",
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-noviembre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
         },
         {
           "rank": 4,
@@ -139,10 +139,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-noviembre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
         }
       ],
-      "scraped_at": "2026-11-05T15:37:59.487184Z",
+      "scraped_at": "2026-11-05T17:19:51.020161Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa domination sur la case du prime time, s'adjugeant quatre des sept soirées de la semaine écoulée. Son divertissement phare, \"El Hormiguero\", réalise une performance solide avec 1,77 million de téléspectateurs et 14,8% de part de marché, une audience stable par rapport à sa moyenne des jours précédents. La chaîne publique La 1, avec son programme \"La Revuelta\", se positionne en deuxième position, démontrant une remontée progressive sur cette période, bien que légèrement en deçà de son score du 2 novembre. Cuatro, avec \"Horizonte:Avance\", capte une audience significative, soulignant l'attractivité des formats d'information dans cette case concurrencée. Telecinco, quant à elle, voit \"First Dates\" se maintenir sous la barre du million de téléspectateurs, une tendance récurrente sur les sept derniers jours. La Sexta ferme ce classement avec \"El Intermedio\", un score qui reflète la difficulté des chaînes de la TNT à rivaliser avec les offres des groupes historiques sur ce créneau horaire.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-05T15:38:05.358627Z",
+      "scraped_at": "2026-11-05T17:19:54.749078Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -181,7 +181,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-4-novembre-2026",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Can_Yaman"
+          "wikipedia_url": "https://www.google.com/search?q=%22Viola+come+il+Mare%22+Canale+5+ratings"
         },
         {
           "rank": 2,
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-4-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/A_Special_Day"
+          "wikipedia_url": "https://www.google.com/search?q=%22Una+Giornata+Particolare%22+La7+ratings"
         },
         {
           "rank": 4,
@@ -220,7 +220,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-4-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Chi_l%27ha_visto%3F"
+          "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
         },
         {
           "rank": 5,
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Sparrow"
         }
       ],
-      "scraped_at": "2026-11-05T15:38:04.181977Z",
+      "scraped_at": "2026-11-05T17:19:53.583977Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 4 novembre, Canale 5 s'adjuge la tête des audiences du prime time avec la fiction « Viola come il Mare », réunissant 2,38 millions de téléspectateurs et 17.0% de part de marché. Cette performance place la chaîne privée en tête, une position qu'elle n'avait pas occupée depuis le 31 octobre avec le divertissement « Tú Sí Que Vales ». Rai 1, leader historique du prime, se retrouve en seconde position avec « Insieme – La Forza che Unisce » à 1,52 million de curieux (10.6% PDM), marquant une nette rupture avec ses scores habituels supérieurs à 2,5 millions de téléspectateurs cette semaine. La7 confirme sa troisième place avec un programme d'information et de débat, « Una Giornata Particolare », attirant 1,34 million de téléspectateurs (8.8% PDM). L'écart entre le leader et le second s'établit à 860 000 téléspectateurs, une différence plus marquée que celle observée lors des soirées précédentes où Rai 1 dominait plus nettement. La stratégie de diffusion de fictions, même si elle permet à Canale 5 de s'imposer ponctuellement, peine à déloger durablement Rai 1 de sa position dominante sur l'ensemble de la semaine.",
@@ -250,12 +250,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-11-05T15:37:55.309265Z",
+      "scraped_at": "2026-11-05T17:19:46.779081Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-11-05T15:38:05.361225Z"
+  "last_updated": "2026-11-05T17:19:54.751291Z"
 }
