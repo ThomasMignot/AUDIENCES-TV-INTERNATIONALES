@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-11-07T16:37:21.151643Z",
+      "scraped_at": "2026-11-07T17:50:02.642145Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Ninja_Warrior_Germany"
         }
       ],
-      "scraped_at": "2026-11-07T16:37:24.254318Z",
+      "scraped_at": "2026-11-07T17:50:04.736868Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », maintient sa position de leader du prime time, enregistrant 4,35 millions de téléspectateurs et 21,1% de part de marché ce 6 novembre. La fiction concurrente « Jenseits der Spree » affiche des performances similaires, atteignant 4,22 millions de téléspectateurs, une audience proche de son score de 4,33 millions la semaine précédente. Le programme de la chaîne publique ZDF, « SOKO Leipzig », se positionne en troisième place avec 3,71 millions de fidèles et 17,7% de part de marché, une performance en retrait par rapport aux journaux d'information qui ont dominé la case ces derniers jours. La stratégie des chaînes publiques de programmer des formats d'information ou des fictions à fort potentiel d'audience dans cette case horaire semble confirmer leur emprise sur les téléspectateurs plus âgés. En comparaison, RTL et ses programmes de divertissement peinent à atteindre des chiffres significatifs, avec « Ninja Warrior Germany » qui ne dépasse pas 1,36 million de téléspectateurs.",
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-11-07T16:37:26.059116Z",
+      "scraped_at": "2026-11-07T17:50:07.261641Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime du 6 novembre 2026 voit Telecinco reprendre la tête avec \"First Dates\", devançant de peu Cuatro et son magazine d'information \"Horizonte\". Cette configuration contraste avec les soirées précédentes où Antena 3 dominait grâce à \"El Hormiguero\", qui a rassemblé plus de 1,6 million de téléspectateurs en access chaque jour de la semaine passée. Le programme de divertissement de Telecinco enregistre ainsi 9.5% de part de marché, une performance en retrait par rapport à son score de 10.1% la semaine précédente. La chaîne publique La 1, bien que troisième avec 9.0% de PDA, confirme sa tendance à la remontée observée depuis 2023, se positionnant comme un acteur significatif face au duopole historique. La faible performance de La 2 avec \"Cifras y Letras\" (4.4%) illustre la difficulté des chaînes thématiques à rivaliser sur ce créneau.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Quarto+Grado%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-11-07T16:37:29.849315Z",
+      "scraped_at": "2026-11-07T17:50:10.468725Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 6 novembre voit Rai 1 reconquérir la tête du prime time avec le divertissement « The Voice Senior », attirant 3,02 millions de téléspectateurs et 20,7% de part de marché. Ce score la positionne nettement devant Canale 5 et son programme phare « Grande Fratello Vip », qui réunit 1,83 million de personnes (15,6% PDM). Comparé à la semaine précédente, le divertissement de Rai 1 enregistre une légère baisse par rapport à ses pics récents, mais maintient une position dominante dans la case du samedi soir, traditionnellement forte pour la chaîne publique. La fragmentation des audiences se confirme avec Italia 1 et Nove qui dépassent le million de curieux, témoignant d'une diversification des offres en concurrence directe du duopole Rai-Mediaset. La chaîne Nove, avec « Fratelli di Crozza », illustre la capacité des chaînes thématiques à capter une audience significative sur des formats d'humour et de satire.",
@@ -263,12 +263,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-07T16:37:31.106296Z",
+      "scraped_at": "2026-11-07T17:50:11.738041Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-07T16:37:31.107379Z"
+  "last_updated": "2026-11-07T17:50:11.739422Z"
 }
