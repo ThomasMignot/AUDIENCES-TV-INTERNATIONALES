@@ -75,7 +75,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Harry_Potter_translations"
         }
       ],
-      "scraped_at": "2026-11-08T18:50:43.696483Z",
+      "scraped_at": "2026-11-08T20:24:21.259132Z",
       "status": "ok",
       "error": null,
       "commentary": "La \"Tagesschau\" de Das Erste confirme sa position de leader récurrent en tête des audiences allemandes, atteignant 5,25 millions de téléspectateurs et 26,4% de part de marché ce 7 novembre. La soirée voit une concurrence serrée avec un programme de divertissement (\"Klein gegen Groß - Das unglaublich\") qui capte 4,83 millions de spectateurs, démontrant la capacité des chaînes à mobiliser un large public. Par rapport à la semaine précédente, la \"Tagesschau\" enregistre une légère baisse après avoir dépassé les 5,3 millions de téléspectateurs le 5 novembre, mais reste au-dessus de la moyenne des six jours précédents. La présence de deux chaînes publiques dans le top 4, avec ZDF et son journal, souligne la prégnance des diffuseurs nationaux, particulièrement sur les segments d'audience plus âgés. Le succès du divertissement face à l'information suggère une stratégie de contre-programmation efficace pour attirer une audience plus familiale en prime time.",
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-noviembre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Ruleta+de+la+Suerte+Noche%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/La_ruleta_de_la_fortuna"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-noviembre-2026/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Informe+Semanal%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Informe_Semanal"
         },
         {
           "rank": 4,
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Blockbuster+%28Venom%22+Cuatro+ratings"
         }
       ],
-      "scraped_at": "2026-11-08T18:50:46.444018Z",
+      "scraped_at": "2026-11-08T20:24:23.111754Z",
       "status": "ok",
       "error": null,
       "commentary": "Le football de la Liga espagnole, diffusé par DAZN, s'impose en tête des audiences du prime time ce samedi 7 novembre avec 1,17 million de téléspectateurs et 10,9% de part de marché. Cette performance, inhabituelle pour une plateforme de streaming face aux chaînes historiques, témoigne de la puissance du direct sportif sur le public masculin. Antena 3 et La 1 occupent les deuxième et troisième places avec des programmes plus traditionnels, \"La Ruleta de la Suerte Noche\" et \"Informe Semanal\", attirant respectivement 944 000 (9,4% PDM) et 876 000 (8,2% PDM) spectateurs. La semaine précédente, le leadership du prime time avait été largement disputé par Antena 3, notamment grâce à son access \"El Hormiguero\" qui dépassait régulièrement les 1,6 million de curieux, illustrant la stratégie de fidélisation de cette case horaire. La présence de Telecinco et Cuatro en milieu de classement, avec des offres cinéma et séries, souligne une fragmentation des audiences dans cette soirée de fin de semaine.",
@@ -169,9 +169,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-08T18:50:52.088032Z",
+      "scraped_at": "2026-11-08T20:24:57.254183Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x71ac7897cc50>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22S.w.a.t.%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-11-08T18:50:50.719480Z",
+      "scraped_at": "2026-11-08T20:24:26.937464Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 7 novembre voit Rai 1 reprendre la tête du prime time avec \"Ballando con le Stelle\", qui rassemble 2,87 millions de téléspectateurs et 26,9% de part de marché. Ce résultat est supérieur à celui de la semaine précédente pour le même programme (2,46 M, 23.6%), confirmant une dynamique positive pour la chaîne publique sur cette case. Canale 5, avec \"Tú Sí Que Vales\", enregistre une progression notable par rapport à la semaine précédente, passant de 3,18 millions à 3,56 millions de téléspectateurs, s'assurant ainsi la première place en nombre absolu de téléspectateurs, mais une part de marché légèrement inférieure (24.3% contre 22.5%). La7 maintient sa position de troisième chaîne, \"In Altre Parole\" atteignant 1,19 million de fidèles, une légère hausse par rapport à la semaine précédente. La lutte pour le leadership du prime time s'articule donc principalement entre Rai 1 et Canale 5, avec des stratégies de programmes distinctes visant des segments d'audience variés.",
@@ -263,12 +263,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-11-08T18:50:39.925461Z",
+      "scraped_at": "2026-11-08T20:24:17.239140Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-11-08T18:50:52.090556Z"
+  "last_updated": "2026-11-08T20:24:57.255564Z"
 }
