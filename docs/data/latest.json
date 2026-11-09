@@ -62,7 +62,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Iris"
         }
       ],
-      "scraped_at": "2026-11-09T22:38:55.265859Z",
+      "scraped_at": "2026-11-09T23:26:44.939551Z",
       "status": "partial",
       "error": null,
       "commentary": "Le retour de « Tatort » sur Das Erste, avec 7,54 millions de téléspectateurs et 30,3% de part de marché, confirme la puissance de ce format emblématique le dimanche soir. Cette performance surpasse les audiences enregistrées par la « Tagesschau » lors des soirées précédentes de la semaine, qui oscillaient entre 4,25 et 5,38 millions de fidèles. La fiction de Das Erste distance nettement la concurrence, reléguant la série « Dr. Nice » à la seconde place avec 3,94 millions de téléspectateurs. Le journal du soir de ZDF, « heute journal », se positionne en troisième position, mais sa part de marché de 17,4% est inférieure à celle des jours précédents, où elle atteignait parfois plus de 20%. La domination des chaînes publiques sur le public plus âgé reste une constante, tandis que les formats plus légers ou de divertissement peinent à rivaliser avec les valeurs sûres des grands rendez-vous de la semaine.",
@@ -76,7 +76,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-11-09T22:38:56.485802Z",
+      "scraped_at": "2026-11-09T23:26:46.095752Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Le football de la Liga espagnole, diffusé par DAZN, s'impose en tête des audiences du prime time ce samedi 7 novembre avec 1,17 million de téléspectateurs et 10,9% de part de marché. Cette performance, inhabituelle pour une plateforme de streaming face aux chaînes historiques, témoigne de la puissance du direct sportif sur le public masculin. Antena 3 et La 1 occupent les deuxième et troisième places avec des programmes plus traditionnels, \"La Ruleta de la Suerte Noche\" et \"Informe Semanal\", attirant respectivement 944 000 (9,4% PDM) et 876 000 (8,2% PDM) spectateurs. La semaine précédente, le leadership du prime time avait été largement disputé par Antena 3, notamment grâce à son access \"El Hormiguero\" qui dépassait régulièrement les 1,6 million de curieux, illustrant la stratégie de fidélisation de cette case horaire. La présence de Telecinco et Cuatro en milieu de classement, avec des offres cinéma et séries, souligne une fragmentation des audiences dans cette soirée de fin de semaine.",
@@ -90,7 +90,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-09T22:39:01.615834Z",
+      "scraped_at": "2026-11-09T23:26:51.601800Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -170,7 +170,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Formula_One"
         }
       ],
-      "scraped_at": "2026-11-09T22:39:00.275887Z",
+      "scraped_at": "2026-11-09T23:26:50.374493Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « Libera », enregistre 2,66 millions de téléspectateurs et 17,1% de part de marché, confirmant la domination de la chaîne publique sur la case du prime time, malgré une légère érosion par rapport à ses scores de la semaine précédente. Le divertissement de Nove, « Che Tempo Che Fa », se positionne en deuxième place avec 1,85 million de curieux, démontrant la capacité de cette chaîne thématique à capter une audience significative face aux généralistes. Canale 5, avec sa fiction « Racconto di una Notte », obtient 1,71 million de téléspectateurs, un score en légère hausse par rapport à la fiction turque de la veille, mais inférieur aux performances de ses programmes de divertissement de fin de semaine. L'information de Rai 3 et le sport sur TV8 ferment le top 5, avec des parts de marché respectives de 6,6%. La stratégie de Rai 1 semble privilégier la fiction nationale, tandis que Canale 5 alterne entre télé-réalité et fictions, cherchant à maintenir une pression sur son concurrent historique.",
@@ -184,12 +184,12 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-11-09T22:38:53.153101Z",
+      "scraped_at": "2026-11-09T23:26:43.169573Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
       "commentary_date": "2026-09-15"
     }
   },
-  "last_updated": "2026-11-09T22:39:01.617990Z"
+  "last_updated": "2026-11-09T23:26:51.604101Z"
 }
