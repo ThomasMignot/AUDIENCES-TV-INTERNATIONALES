@@ -9,7 +9,7 @@
       "source_name": "Ozap · Puremédias",
       "source_url": "https://www.ozap.com/tag/audiences_t14",
       "entries": [],
-      "scraped_at": "2026-11-10T15:40:27.946189Z",
+      "scraped_at": "2026-11-10T16:59:07.427177Z",
       "status": "failed",
       "error": "Aucun article 'soirée' trouvé sur la page de listing",
       "commentary": "La fiction de France 3, « La Stagiaire », s'impose en tête des audiences avec 3,65 millions de téléspectateurs et 21,2% de part de marché, marquant une performance solide pour la chaîne publique. TF1, avec « Koh-Lanta All Stars », se positionne en deuxième place, attirant 2,77 millions de personnes (16,7% PDM), un score inférieur à celui de « La Cible » (3,53 M, 20.6%) diffusé la veille. France 2 enregistre une audience plus modeste pour son magazine d'information « Sauvons nos forêts » (1,15 M, 6.7%), démontrant une difficulté récurrente à maintenir son lead-in sur cette case horaire. La compétition pour la deuxième place du prime time semble s'intensifier, TF1 ayant dominé quatre soirées sur les sept dernières, mais voyant ses scores varier significativement. La fragmentation de l'audience, accentuée par la TNT, rend la conquête et la fidélisation du public toujours plus complexes pour les chaînes historiques.",
@@ -23,7 +23,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-11-10T15:40:31.775130Z",
+      "scraped_at": "2026-11-10T16:59:11.544996Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Le football de la Liga espagnole, diffusé par DAZN, s'impose en tête des audiences du prime time ce samedi 7 novembre avec 1,17 million de téléspectateurs et 10,9% de part de marché. Cette performance, inhabituelle pour une plateforme de streaming face aux chaînes historiques, témoigne de la puissance du direct sportif sur le public masculin. Antena 3 et La 1 occupent les deuxième et troisième places avec des programmes plus traditionnels, \"La Ruleta de la Suerte Noche\" et \"Informe Semanal\", attirant respectivement 944 000 (9,4% PDM) et 876 000 (8,2% PDM) spectateurs. La semaine précédente, le leadership du prime time avait été largement disputé par Antena 3, notamment grâce à son access \"El Hormiguero\" qui dépassait régulièrement les 1,6 million de curieux, illustrant la stratégie de fidélisation de cette case horaire. La présence de Telecinco et Cuatro en milieu de classement, avec des offres cinéma et séries, souligne une fragmentation des audiences dans cette soirée de fin de semaine.",
@@ -37,7 +37,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-10T15:40:36.726249Z",
+      "scraped_at": "2026-11-10T16:59:17.983710Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -117,7 +117,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Ralf%2C+der+Bauernreporter+Folge+1%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-10T15:40:30.756423Z",
+      "scraped_at": "2026-11-10T16:59:10.463408Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 9 novembre 2026, la \"Tagesschau\" sur Das Erste maintient sa position de leader avec 4,30 millions de téléspectateurs et 19,5% de part de marché, une performance en retrait par rapport aux pics observés la semaine précédente, notamment le 7 novembre où elle atteignait 5,25 millions (26,4%). La concurrence des chaînes privées se manifeste par la présence de RTL et d'un programme non identifié dans le trio de tête, démontrant une fragmentation des audiences par rapport aux soirées dominées par les chaînes publiques. La contre-programmation semble s'intensifier, avec des formats de divertissement et des fictions qui captent des parts de marché significatives, comme l'illustre le second programme de la soirée à 16,0% de PDM. L'historique des sept derniers jours met en évidence la prédominance de Das Erste, qui a placé sa \"Tagesschau\" en tête cinq soirs sur sept, mais aussi la capacité de ZDF et de chaînes tierces à s'immiscer dans le classement, parfois en tête comme le 3 et 4 novembre. La soirée du 8 novembre, marquée par le succès du \"Tatort\" de Das Erste avec 7,54 millions de spectateurs (30,3%), souligne la force des événements filmiques sur le public allemand.",
@@ -142,7 +142,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-9-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Rosario_Livatino"
+          "wikipedia_url": "https://www.google.com/search?q=%22Livatino%22+Rai+1+ratings"
         },
         {
           "rank": 2,
@@ -197,12 +197,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22GialappaShow%22+TV8+ratings"
         }
       ],
-      "scraped_at": "2026-11-10T15:40:35.524805Z",
+      "scraped_at": "2026-11-10T16:59:16.708932Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 9 novembre voit Rai 1 reprendre la tête du prime time avec 2,96 millions de téléspectateurs et 18,7% de part d'audience pour sa fiction « Livatino ». Ce chiffre marque un recul par rapport aux 3,62 millions enregistrés le 2 novembre par « I Casi di Teresa Battaglia », mais reste supérieur aux 2,65 millions de « Tale e Quale Show » du 3 novembre. Canale 5, avec le divertissement « Grande Fratello Vip », se positionne en deuxième place avec 2,11 millions de téléspectateurs, une audience stable par rapport à ses scores de la semaine passée (entre 1,71 M et 2,11 M). La troisième place est occupée par Rai 3 et son magazine d'information « Lo Stato delle Cose », qui maintient une audience autour de 1 million de téléspectateurs, témoignant d'une certaine fidélité de son public de niche. La lutte pour le leadership s'est principalement concentrée entre Rai 1 et Canale 5, avec des scores variés selon les jours de la semaine et les genres programmés.",
       "commentary_date": "2026-11-09"
     }
   },
-  "last_updated": "2026-11-10T15:40:41.653325Z"
+  "last_updated": "2026-11-10T16:59:17.984825Z"
 }
