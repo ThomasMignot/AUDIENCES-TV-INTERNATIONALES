@@ -76,7 +76,7 @@
           "wikipedia_url": "https://en.wikipedia.org/wiki/Iris"
         }
       ],
-      "scraped_at": "2026-11-09T23:26:44.939551Z",
+      "scraped_at": "2026-11-10T00:10:51.129819Z",
       "status": "partial",
       "error": null,
       "commentary": "Le retour de « Tatort » sur Das Erste, avec 7,54 millions de téléspectateurs et 30,3% de part de marché, confirme la puissance de ce format emblématique le dimanche soir. Cette performance surpasse les audiences enregistrées par la « Tagesschau » lors des soirées précédentes de la semaine, qui oscillaient entre 4,25 et 5,38 millions de fidèles. La fiction de Das Erste distance nettement la concurrence, reléguant la série « Dr. Nice » à la seconde place avec 3,94 millions de téléspectateurs. Le journal du soir de ZDF, « heute journal », se positionne en troisième position, mais sa part de marché de 17,4% est inférieure à celle des jours précédents, où elle atteignait parfois plus de 20%. La domination des chaînes publiques sur le public plus âgé reste une constante, tandis que les formats plus légers ou de divertissement peinent à rivaliser avec les valeurs sûres des grands rendez-vous de la semaine.",
@@ -167,10 +167,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-domenica-8-novembre-2026",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Formula_One"
+          "wikipedia_url": "https://www.google.com/search?q=%22Formula+1%22+TV8+ratings"
         }
       ],
-      "scraped_at": "2026-11-09T23:26:50.374493Z",
+      "scraped_at": "2026-11-10T00:10:56.323749Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de Rai 1, « Libera », enregistre 2,66 millions de téléspectateurs et 17,1% de part de marché, confirmant la domination de la chaîne publique sur la case du prime time, malgré une légère érosion par rapport à ses scores de la semaine précédente. Le divertissement de Nove, « Che Tempo Che Fa », se positionne en deuxième place avec 1,85 million de curieux, démontrant la capacité de cette chaîne thématique à capter une audience significative face aux généralistes. Canale 5, avec sa fiction « Racconto di una Notte », obtient 1,71 million de téléspectateurs, un score en légère hausse par rapport à la fiction turque de la veille, mais inférieur aux performances de ses programmes de divertissement de fin de semaine. L'information de Rai 3 et le sport sur TV8 ferment le top 5, avec des parts de marché respectives de 6,6%. La stratégie de Rai 1 semble privilégier la fiction nationale, tandis que Canale 5 alterne entre télé-réalité et fictions, cherchant à maintenir une pression sur son concurrent historique.",
@@ -191,5 +191,5 @@
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-09T23:26:51.603330Z"
+  "last_updated": "2026-11-10T00:10:56.325355Z"
 }
