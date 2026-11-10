@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Ralf%2C+der+Bauernreporter+Folge+1%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-10T19:57:16.708386Z",
+      "scraped_at": "2026-11-10T20:50:33.019279Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 9 novembre 2026, la \"Tagesschau\" sur Das Erste maintient sa position de leader avec 4,30 millions de téléspectateurs et 19,5% de part de marché, une performance en retrait par rapport aux pics observés la semaine précédente, notamment le 7 novembre où elle atteignait 5,25 millions (26,4%). La concurrence des chaînes privées se manifeste par la présence de RTL et d'un programme non identifié dans le trio de tête, démontrant une fragmentation des audiences par rapport aux soirées dominées par les chaînes publiques. La contre-programmation semble s'intensifier, avec des formats de divertissement et des fictions qui captent des parts de marché significatives, comme l'illustre le second programme de la soirée à 16,0% de PDM. L'historique des sept derniers jours met en évidence la prédominance de Das Erste, qui a placé sa \"Tagesschau\" en tête cinq soirs sur sept, mais aussi la capacité de ZDF et de chaînes tierces à s'immiscer dans le classement, parfois en tête comme le 3 et 4 novembre. La soirée du 8 novembre, marquée par le succès du \"Tatort\" de Das Erste avec 7,54 millions de spectateurs (30,3%), souligne la force des événements filmiques sur le public allemand.",
@@ -89,7 +89,7 @@
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
       "entries": [],
-      "scraped_at": "2026-11-10T19:57:17.732045Z",
+      "scraped_at": "2026-11-10T20:50:34.346677Z",
       "status": "failed",
       "error": "Aucune ligne prime time extraite (page récap + article daily)",
       "commentary": "Le football de la Liga espagnole, diffusé par DAZN, s'impose en tête des audiences du prime time ce samedi 7 novembre avec 1,17 million de téléspectateurs et 10,9% de part de marché. Cette performance, inhabituelle pour une plateforme de streaming face aux chaînes historiques, témoigne de la puissance du direct sportif sur le public masculin. Antena 3 et La 1 occupent les deuxième et troisième places avec des programmes plus traditionnels, \"La Ruleta de la Suerte Noche\" et \"Informe Semanal\", attirant respectivement 944 000 (9,4% PDM) et 876 000 (8,2% PDM) spectateurs. La semaine précédente, le leadership du prime time avait été largement disputé par Antena 3, notamment grâce à son access \"El Hormiguero\" qui dépassait régulièrement les 1,6 million de curieux, illustrant la stratégie de fidélisation de cette case horaire. La présence de Telecinco et Cuatro en milieu de classement, avec des offres cinéma et séries, souligne une fragmentation des audiences dans cette soirée de fin de semaine.",
@@ -103,7 +103,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-10T19:57:21.132531Z",
+      "scraped_at": "2026-11-10T20:50:58.630213Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -183,7 +183,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22GialappaShow%22+TV8+ratings"
         }
       ],
-      "scraped_at": "2026-11-10T19:57:20.076729Z",
+      "scraped_at": "2026-11-10T20:50:37.773719Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 9 novembre voit Rai 1 reprendre la tête du prime time avec 2,96 millions de téléspectateurs et 18,7% de part d'audience pour sa fiction « Livatino ». Ce chiffre marque un recul par rapport aux 3,62 millions enregistrés le 2 novembre par « I Casi di Teresa Battaglia », mais reste supérieur aux 2,65 millions de « Tale e Quale Show » du 3 novembre. Canale 5, avec le divertissement « Grande Fratello Vip », se positionne en deuxième place avec 2,11 millions de téléspectateurs, une audience stable par rapport à ses scores de la semaine passée (entre 1,71 M et 2,11 M). La troisième place est occupée par Rai 3 et son magazine d'information « Lo Stato delle Cose », qui maintient une audience autour de 1 million de téléspectateurs, témoignant d'une certaine fidélité de son public de niche. La lutte pour le leadership s'est principalement concentrée entre Rai 1 et Canale 5, avec des scores variés selon les jours de la semaine et les genres programmés.",
@@ -263,12 +263,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Revoir_Paris"
         }
       ],
-      "scraped_at": "2026-11-10T19:57:12.466860Z",
+      "scraped_at": "2026-11-10T20:50:28.797053Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 9 novembre 2026 voit M6 s'imposer en tête des audiences avec \"L'amour est dans le pré\", réunissant 3,27 millions de téléspectateurs, soit 17,6% de part de marché. TF1 suit avec sa fiction \"Cat Eyes\", attirant 2,83 millions de personnes (15,8% PDM), marquant une lutte classique entre les deux principales chaînes privées. France 2, avec \"L'art du crime\", se positionne en troisième place avec 2,06 millions de fidèles (11,7% PDM), une performance qui, en l'absence de données historiques récentes, ne permet pas de comparaison immédiate avec les semaines précédentes. La fiction de France 3 \"Un singe en hiver\" et le film d'Arte \"Revoir Paris\" ferment ce classement, captant respectivement 1,53 million (9,0% PDM) et 1,06 million (6,0% PDM) de téléspectateurs. Ces chiffres illustrent la persistance de la puissance des programmes de flux sur les chaînes historiques face à la fragmentation induite par la TNT.",
       "commentary_date": "2026-11-09"
     }
   },
-  "last_updated": "2026-11-10T19:57:21.134419Z"
+  "last_updated": "2026-11-10T20:50:58.632305Z"
 }
