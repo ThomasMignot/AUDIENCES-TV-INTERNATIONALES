@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Fakt%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-11T17:03:18.358787Z",
+      "scraped_at": "2026-11-11T18:02:38.582010Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 10 novembre voit le journal télévisé de Das Erste « Tagesschau » s'établir en tête avec 20,7% de part de marché, mais accuse une légère baisse par rapport à ses scores des jours précédents, notamment le 7 novembre (26,4% PDM). La fiction concurrente « Die Kanzlei Folge 85 » se positionne au plus près avec 20,1% de PDM, démontrant une pugnacité constante dans cette case horaire face aux informations. Le journal du ZDF, « heute journal », se maintient à un niveau significatif, atteignant 17,6% de PDM, tandis que le divertissement de RTL « Bauer sucht Frau » capte 15,5% de l'audience. Cette configuration illustre la capacité des chaînes publiques à mobiliser un large public, y compris sur les tranches d'âge plus matures, face aux offres des groupes privés. La performance de « Tagesschau » reste néanmoins solide, confirmant la domination de Das Erste sur la semaine avec 5 soirées premières places sur 7.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-11T17:03:20.491790Z",
+      "scraped_at": "2026-11-11T18:02:39.978147Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement de La 1, « La Revuelta », s'impose en tête des audiences du prime time espagnol le 10 novembre avec 3,05 millions de téléspectateurs et 22,9% de part de marché. Ce score représente une nette progression par rapport aux précédentes apparitions du programme, qui plafonnaient autour de 1,5 million de curieux la semaine précédente. La chaîne publique TVE confirme ainsi sa dynamique ascendante face au duopole historique Antena 3 et Telecinco. La Cuatro, avec son interview politique, capte une audience significative de 1,96 million de personnes, soulignant l'appétence pour ce type de contenu dans la case du prime. Antena 3, malgré la puissance habituelle de son access « El Hormiguero », se retrouve en troisième position avec 1,53 million de téléspectateurs, une performance inférieure à ses scores de la semaine passée. La fragmentation des audiences se confirme avec des programmes comme « First Dates » sur Telecinco et « El Intermedio » sur La Sexta, qui réalisent des scores plus modestes, respectivement 1,03 million et 683 000 téléspectateurs.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-11T17:03:26.092289Z",
+      "scraped_at": "2026-11-11T18:02:44.231413Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Verit%C3%A0+Nascoste%22+Rete+4+ratings"
         }
       ],
-      "scraped_at": "2026-11-11T17:03:24.676053Z",
+      "scraped_at": "2026-11-11T18:02:42.974620Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time italien du 10 novembre voit Rai 1 reconquérir la tête avec « Livatino », attirant 2,68 millions de téléspectateurs (17,3 % de part de marché), un score en retrait par rapport à « Libera » le 8 novembre (2,66 M, 17,1 %) mais supérieur à la veille où le même programme avait rassemblé 2,96 millions de curieux (18,7 %). La chaîne publique confirme sa position de leader historique, bien que le chiffre de 2,68 millions soit inférieur à la moyenne des programmes de divertissement ou de fiction diffusés sur la période analysée. La7, avec son magazine d'information « DiMartedì », se positionne en deuxième force avec 1,73 million de fidèles (11,2 %), une performance stable par rapport à la semaine précédente. Canale 5, malgré un score de 1,61 million pour « Giorgia – Last Call » (12,2 %), se retrouve derrière le programme d'information de La7, une configuration moins habituelle dans le contexte du duopole Rai/Mediaset. La diffusion d'un film d'action sur Italia 1, « I mercenari 4 », ne parvient pas à dépasser le million de téléspectateurs (1,19 M, 6,7 %), illustrant une difficulté à capter un public large en concurrence avec les offres plus établies.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Thema+%5C+Criminel+Nazi+Cherche+Employeur%22+Arte+audiences&gl=fr"
         }
       ],
-      "scraped_at": "2026-11-11T17:03:12.847817Z",
+      "scraped_at": "2026-11-11T18:02:34.683365Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose nettement ce mardi 10 novembre avec la fiction \"Alex Hugo\" qui capte 5,17 millions de téléspectateurs, soit 30,2% de part de marché, une performance qui la place bien au-delà des offres de ses concurrentes historiques. TF1, avec \"Koh-Lanta\", réalise une audience de 2,90 millions de personnes (16,6% PDM), se positionnant en deuxième place mais loin derrière le leadership de France 3. Comparé à la soirée du 9 novembre, où M6 dominait avec \"L'amour est dans le pré\" (3,27 M, 17.6%), on observe un net déplacement de la préférence des téléspectateurs vers la fiction française de service public. La fiction de M6, \"Brigade anonyme\", avec 1,18 million de curieux (6,7% PDM), peine à se distinguer face à la puissante offre de France 3. France 2, avec un documentaire sur le Vendée Globe, enregistre 883 000 spectateurs (4,9% PDM), confirmant une difficulté structurelle à mobiliser sur cette case face à la concurrence. La performance de France 3 illustre la capacité des chaînes publiques à capter une large part d'audience sur des formats fictionnels fédérateurs.",
       "commentary_date": "2026-11-10"
     }
   },
-  "last_updated": "2026-11-11T17:03:26.094579Z"
+  "last_updated": "2026-11-11T18:02:44.233687Z"
 }
