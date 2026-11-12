@@ -46,7 +46,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22W%C3%A4ldern%22+Autre+cha%C3%AEne+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Geoffrey_Waldern"
         },
         {
           "rank": 4,
@@ -62,7 +62,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Inside+Aldi%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-11-12T21:28:36.426247Z",
+      "scraped_at": "2026-11-12T22:12:05.056080Z",
       "status": "partial",
       "error": null,
       "commentary": "Le 11 novembre, le journal de 20h de Das Erste s'établit en tête des audiences avec 4,72 millions de téléspectateurs et 22,2% de part de marché. Ce score est inférieur à la moyenne hebdomadaire de ce programme, qui a dépassé les 5 millions de téléspectateurs à plusieurs reprises durant la semaine écoulée. Le divertissement de ZDF, \"Bares für Rares XXL\", se positionne en deuxième place avec 3,92 millions de curieux, démontrant la solidité de l'offre des chaînes publiques, traditionnellement fortes sur les publics plus âgés. La troisième et quatrième places sont occupées par des programmes diffusés sur des chaînes moins établies dans le paysage allemand, avec des performances respectives de 2,40 millions et 1,91 million de téléspectateurs. Cette configuration confirme la prédominance des chaînes publiques en prime time, particulièrement sur les soirées où elles proposent des rendez-vous d'information ou des fictions à fort potentiel.",
@@ -113,7 +113,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-noviembre-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/First_Dates"
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
         },
         {
           "rank": 4,
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-12T21:28:37.288679Z",
+      "scraped_at": "2026-11-12T22:12:06.179617Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 11 novembre confirme la prédominance d'Antena 3 sur la case du prime, avec « El Hormiguero » qui attire 2,46 millions de téléspectateurs et 19,0% de part de marché. Ce score représente une nette progression par rapport aux 1,53 million enregistrés le 10 novembre, démontrant la capacité de ce format de divertissement à capter une large audience en access. La chaîne Cuatro parvient à se positionner en deuxième position avec son magazine d'information « Horizonte », atteignant 1,59 million de curieux et 12,2% de PDM, une performance solide dans un contexte où La 1, malgré une remontée observée depuis 2023, se retrouve en quatrième position avec 850 000 téléspectateurs pour son journal « La Noche en 24h ». La confrontation entre les chaînes généralistes et les offres plus spécialisées comme DAZN LaLiga, qui avait dominé le 7 novembre, semble moins marquée ce soir-là.",
@@ -156,7 +156,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-12T21:28:40.777130Z",
+      "scraped_at": "2026-11-12T22:12:10.386432Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -236,7 +236,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+guerra+di+domani%22+Italia+1+ratings"
         }
       ],
-      "scraped_at": "2026-11-12T21:28:39.633928Z",
+      "scraped_at": "2026-11-12T22:12:09.184315Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement « Tale e Quale Show » sur Rai 1 s'impose en tête du prime time avec 3,11 millions de téléspectateurs et 22,8% de part de marché. Ce score le place en retrait par rapport aux pics de la semaine précédente, notamment les 23,8% de « Doc » le 5 novembre, mais il confirme la domination de la chaîne publique sur cette case horaire, Rai 1 ayant été leader cinq soirs sur sept lors des sept derniers jours. La fiction de Canale 5, « Viola come il Mare », attire 1,97 million de personnes (14,0% PDM), un chiffre inférieur à ses performances du 4 novembre (17,0% PDM), signalant une possible érosion d'audience pour ce format face à la concurrence. La7 maintient une présence significative avec « Una Giornata Particolare », rassemblant 1,29 million de téléspectateurs (9,1% PDM), une audience stable par rapport à la semaine passée. La fragmentation du public se confirme avec des scores plus modestes pour Rai 3 et Italia 1, illustrant la difficulté des chaînes secondaires à rivaliser avec les locomotives des duopoles Rai et Mediaset sur les programmes d'envergure.",
@@ -316,12 +316,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Dernier_Rempart"
         }
       ],
-      "scraped_at": "2026-11-12T21:28:32.697240Z",
+      "scraped_at": "2026-11-12T22:11:59.393771Z",
       "status": "ok",
       "error": null,
       "commentary": "M6 s'affirme en tête du prime time ce 11 novembre avec « La France a un incroyable talent », attirant 2,77 millions de téléspectateurs et 15,7% de part d'audience. Cette performance contraste avec le résultat de France 3 la veille, qui avait dominé avec 5,17 millions de spectateurs et 30,2% de PDA grâce à une offre événementielle d'information. La fiction de France 2, « Les disparus des Ardennes », réalise une audience solide (2,30 M, 13.1% PDM), se plaçant devant TF1 et sa série américaine « Esprits criminels » (2,17 M, 12.5% PDM). La stratégie de M6 semble axée sur des formats de divertissement fédérateurs, tandis que France 2 capitalise sur des fictions à forte résonance. Le score de CSTAR, avec 775 000 téléspectateurs et 4,8% de PDA, illustre la fragmentation des audiences sur la TNT en première partie de soirée.",
       "commentary_date": "2026-11-11"
     }
   },
-  "last_updated": "2026-11-12T21:28:40.779139Z"
+  "last_updated": "2026-11-12T22:12:10.388199Z"
 }
