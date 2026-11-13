@@ -72,10 +72,10 @@
           "source_url": "https://www.ozap.com/actu/audiences-le-match-des-bleus-face-a-litalie-a-t-il-offert-un-nouveau-carton-daudience-a-tf1/657778",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Bresson"
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/Amazon"
         }
       ],
-      "scraped_at": "2026-11-13T19:57:57.040152Z",
+      "scraped_at": "2026-11-13T20:54:17.941320Z",
       "status": "ok",
       "error": null,
       "commentary": "Le match du prime time du 12 novembre 2026 est largement dominé par la retransmission du football sur TF1, qui enregistre 6,43 millions de téléspectateurs et 35,3% de part d'audience. Cette performance écrase la concurrence, y compris celle de France 3 qui, avec sa fiction \"Les Enfants du Secret\", atteint 2,64 millions de personnes et 14,8% de PDA. La chaîne publique se positionne cependant comme le principal challenger des chaînes privées ce soir-là. Sur la semaine écoulée, M6 avait pourtant mené la danse, remportant deux soirées sur trois avec des programmes comme \"L'amour est dans le pré\" et \"La France a un incroyable talent\". La contre-programmation de France 2, avec le magazine d'information \"Envoyé Spécial\", peine à mobiliser les téléspectateurs, ne réunissant que 1,19 million de personnes (7,3% PDM). La TNT, illustrée par W9, capte une audience plus limitée, signe de la fragmentation du marché.",
@@ -100,7 +100,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Wolfgang_Winkler_%28actor%29"
+          "wikipedia_url": "https://www.google.com/search?q=%22Wolfsland%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 2,
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Tagesschau"
+          "wikipedia_url": "https://www.google.com/search?q=%22Tagesschau%22+Das+Erste+ratings"
         },
         {
           "rank": 3,
@@ -126,7 +126,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "fiction",
           "category_emoji": "🎬",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Die_Bergretter"
+          "wikipedia_url": "https://www.google.com/search?q=%22Die+Bergretter%22+ZDF+ratings"
         },
         {
           "rank": 4,
@@ -139,10 +139,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Maybrit_Illner"
+          "wikipedia_url": "https://www.google.com/search?q=%22maybrit+illner%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-13T19:58:03.833668Z",
+      "scraped_at": "2026-11-13T20:54:22.655654Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 12 novembre voit une \"Autre chaîne\" s'imposer en tête du prime time avec 5 millions de téléspectateurs, une performance notable face aux puissances traditionnelles que sont Das Erste et ZDF. Cette chaîne, dont l'identité n'est pas précisée, devance le journal de Das Erste (4,51 millions) et la série de ZDF \"Die Bergretter\" (4,45 millions), qui se retrouvent toutes deux légèrement en deçà de leurs moyennes observées sur la semaine passée. La fiction, incarnée ici par \"Die Bergretter\" qui enregistre 4,45 millions de téléspectateurs, reste un pilier de l'offre programmatique des chaînes publiques, captant une part significative de l'audience des 50 ans et plus. La fragmentation de l'offre se confirme avec le score de \"maybrit illner\" (2,11 millions), qui, bien que positionné en deuxième partie de soirée, réalise une part de marché de 15,0%, témoignant d'une fidélité sur cette tranche horaire. Das Erste, malgré cette interruption dans sa domination quotidienne, maintient une présence forte avec ses journaux, constituant le lead-in essentiel pour les programmes suivants.",
@@ -167,7 +167,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-noviembre-2026/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Association_football"
+          "wikipedia_url": "https://www.google.com/search?q=%22Futbol%22+La+1+ratings"
         },
         {
           "rank": 2,
@@ -180,7 +180,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-noviembre-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Zahera"
+          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Eduard+Fernandez%29%22+Antena+3+ratings"
         },
         {
           "rank": 3,
@@ -193,7 +193,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-noviembre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
         },
         {
           "rank": 4,
@@ -222,7 +222,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-13T19:58:06.490330Z",
+      "scraped_at": "2026-11-13T20:54:23.842481Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion de la Ligue des Nations de football sur La 1 a largement dominé la soirée du 12 novembre, captant 30.9% de part de marché avec 4.14 millions de téléspectateurs. Cette performance contraste fortement avec les programmes des chaînes privées du duopole historique, Antena 3 et Telecinco, dont les offres de divertissement et d'information se situent nettement en retrait. La 1, déjà en progression depuis 2023, confirme sa capacité à mobiliser un large public lors d'événements sportifs majeurs, déjouant ainsi la concurrence habituelle. Sur la semaine, Antena 3 avait pourtant pris la tête du prime time, bénéficiant de la puissance de son access \"El Hormiguero\". La finale de \"Supervivientes All Stars\" sur Telecinco, bien que se classant quatrième, enregistre une part de marché plus élevée (18.2%) que son score habituel, suggérant une certaine fidélité du public pour ce format de téléréalité.",
@@ -286,7 +286,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-giovedi-12-novembre-2026",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Le+Iene%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Iene"
         },
         {
           "rank": 5,
@@ -302,7 +302,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Ore+14+Sera%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-11-13T19:58:10.265207Z",
+      "scraped_at": "2026-11-13T20:54:26.622542Z",
       "status": "ok",
       "error": null,
       "commentary": "La rencontre de la \"Nations League\" sur Rai 1 domine largement le prime time du 12 novembre, captant 8,33 millions de téléspectateurs et 39,1% de part de marché. Ce score place la retransmission sportive dans une position exceptionnellement forte, loin devant les offres habituelles des concurrents directs comme Canale 5. La fiction turque \"Tutto per la mia Famiglia\" peine à maintenir son niveau habituel, réunissant 1,47 million de personnes, soit une baisse par rapport à ses performances des jours précédents, où elle atteignait régulièrement près de 2 millions de fidèles. Sur le créneau du divertissement et de l'information, Rai 3 et Italia 1 se positionnent de manière relativement stable, mais sans rivaliser avec le poids du football. La performance de Rai 1 illustre la capacité des événements sportifs majeurs à s'imposer de façon écrasante sur le paysage audiovisuel, y compris face aux programmes de flux de Mediaset.",
@@ -316,12 +316,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-13T19:58:11.518920Z",
+      "scraped_at": "2026-11-13T20:54:27.772784Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-13T19:58:11.520276Z"
+  "last_updated": "2026-11-13T20:54:27.773933Z"
 }
