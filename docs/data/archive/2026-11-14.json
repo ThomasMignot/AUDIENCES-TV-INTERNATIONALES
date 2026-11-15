@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89chapp%C3%A9es_belles"
         }
       ],
-      "scraped_at": "2026-11-15T19:02:43.531580Z",
+      "scraped_at": "2026-11-15T19:47:23.510990Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose largement ce dimanche soir avec sa fiction inédite, captant 4,33 millions de téléspectateurs et 26,2% de part de marché. Ce score est toutefois inférieur à celui obtenu par la même chaîne le 10 novembre, avec « Alex Hugo » qui avait rassemblé 5,17 millions de personnes. La fiction de France 3 confirme ainsi sa capacité à occuper le leadership sur le créneau de la soirée, reléguant la \"Star Academy\" de TF1 à la deuxième position avec 2,62 millions de fidèles. France 2 et M6 se disputent la troisième place, avec des performances en retrait par rapport aux jours précédents, témoignant de la difficulté à rivaliser avec les offres événementielles sportives de TF1 en début de semaine. La fragmentation de l'audience, accentuée par la TNT, rend la conquête du public plus complexe pour les chaînes historiques en dehors des événements fédérateurs.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Schlaflos+in+Bochum%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-15T19:02:47.595330Z",
+      "scraped_at": "2026-11-15T19:47:28.073971Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de ZDF, « Friesland - Friesische Verhältniss », s'impose ce 14 novembre avec 5,74 millions de téléspectateurs, captant 27,3% du public. Cette performance place la chaîne publique en tête de la soirée, devant le traditionnel journal de Das Erste, qui réunit 4,53 millions de personnes (22,6% de PDM). La fiction criminelle, genre prisé par les téléspectateurs allemands, confirme sa capacité à mobiliser un large public, souvent plus âgé, en concurrence directe avec l'information. L'analyse des sept derniers jours révèle une domination de Das Erste sur la case du prime time, à l'exception notable de la soirée du 13 novembre où le football diffusé par RTL a largement pris le leadership avec 7,37 millions de curieux. La programmation de ce samedi voit ainsi les chaînes publiques reprendre leur position habituelle face aux offres des chaînes privées, dont les formats plus ciblés sur des démographies spécifiques ne parviennent pas toujours à s'imposer sur l'ensemble du public.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Malas+Lenguas+Noche%22+La+2+ratings"
         }
       ],
-      "scraped_at": "2026-11-15T19:02:48.827863Z",
+      "scraped_at": "2026-11-15T19:47:29.985220Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 14 novembre voit Antena 3 reprendre la tête du prime time avec \"La Ruleta de la Suerte Noche\" qui rassemble 981 000 téléspectateurs (9.9% PDM), une légère hausse par rapport à sa performance du 7 novembre (944k, 9.4%). La 1, avec \"Informe Semanal\", se positionne en deuxième place avec 901 000 fidèles (8.7% PDM), bénéficiant de la remontée de la chaîne publique observée depuis 2023. Telecinco, habituellement solide sur ce créneau, se retrouve troisième avec \"¡De Sabado!\" (837k, 11.1% PDM), un score inférieur à celui de \"First Dates\" enregistré les 11 et 13 novembre. La performance de \"La Voz:a Punto de Empezar\" le 13 novembre (1.14 M, 9.9%) suggère une potentielle difficulté pour Antena 3 à maintenir une audience forte en case prime, malgré la puissance de son access \"El Hormiguero\". Le football, notamment la Ligue des Nations le 12 novembre (4.14 M, 30.9% PDM), confirme sa capacité à dominer largement les audiences, impactant les autres programmes. La compétition pour le leadership du prime reste ouverte, La 1 ayant mené sur deux soirées de la semaine écoulée.",
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22S.w.a.t.%22+Rai+2+ratings"
         }
       ],
-      "scraped_at": "2026-11-15T19:02:52.222432Z",
+      "scraped_at": "2026-11-15T19:47:34.005707Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 14 novembre voit Canale 5, avec « Tú Sí Que Vales », enregistrer 3,58 millions de téléspectateurs et 24,6% de part de marché, une performance stable par rapport à la semaine précédente. Rai 1, malgré un leadership hebdomadaire marqué, se positionne en deuxième avec « Ballando con le Stelle » (2,82 M, 27,6%), qui attire un public plus large mais avec une part de marché légèrement supérieure à celle de son concurrent direct. La7 confirme sa présence sur la case avec « In Altre Parole » (1,31 M, 7,6%), se distinguant par une audience plus restreinte mais fidèle. La fragmentation des audiences se poursuit sur les chaînes secondaires, Italia 1 et Rai 2 proposant des programmes aux résultats plus modestes. La stratégie de Rai 1 de dominer le prime avec des formats d'envergure comme « Ballando con le Stelle » et « The Voice Senior » semble porter ses fruits en termes de fidélisation sur la semaine.",
@@ -329,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-15T19:02:53.356391Z",
+      "scraped_at": "2026-11-15T19:47:35.171214Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-15T19:02:53.357593Z"
+  "last_updated": "2026-11-15T19:47:35.172275Z"
 }
