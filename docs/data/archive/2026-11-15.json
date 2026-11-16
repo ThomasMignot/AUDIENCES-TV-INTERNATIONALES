@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Onslaught"
         }
       ],
-      "scraped_at": "2026-11-16T20:40:12.142053Z",
+      "scraped_at": "2026-11-16T22:27:38.814877Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction de France 2, \"La Traversée de Paris\", s'impose en tête des audiences avec 2,53 millions de téléspectateurs et 13,1% de part de marché. Ce résultat la positionne nettement au-dessus de la concurrence généraliste, notamment de France 3 qui, avec \"Les Enquêtes de Vera\", atteint 1,95 million de curieux (10,3% PDM). La stratégie de contre-programmation de M6, avec le magazine \"Capital\" (1,87 million, 10,7% PDM), ne parvient pas à déloger le leadership de France 2, alors que la chaîne privée avait remporté deux soirées de ce même prime time au cours de la semaine écoulée. La performance de France 2 s'inscrit dans une dynamique contrastée par rapport à la semaine précédente, où les retransmissions sportives sur TF1 avaient capté des audiences exceptionnelles. Arte, avec \"Les Huit Salopards\", se maintient dans sa fourchette habituelle avec 1,10 million de téléspectateurs et 7,2% de PDA.",
@@ -113,7 +113,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Heute-journal"
         },
         {
           "rank": 3,
@@ -139,10 +139,10 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Iris"
+          "wikipedia_url": "https://www.google.com/search?q=%22Iris%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-16T20:40:15.969906Z",
+      "scraped_at": "2026-11-16T22:27:44.203689Z",
       "status": "partial",
       "error": null,
       "commentary": "La diffusion du « Tatort: Narrentanz » sur Das Erste enregistre 10,24 millions de téléspectateurs, captant 39,6% de part de marché, ce qui représente une nette amélioration par rapport au précédent opus de la franchise, « Tatort: Frei wie ein Adler » (7,54 M, 30.3%) diffusé le 8 novembre. Le programme d'information du ZDF, « heute journal / Wetter », se positionne en deuxième place avec 3,58 millions de téléspectateurs (17.5% PDM), une audience stable par rapport à la semaine passée. La fiction « Dr. Nice » sur une chaîne privée réalise une performance honorable avec 3,50 millions de fidèles, mais se trouve distancée par le succès de la fiction publique. Cette performance confirme la domination de Das Erste sur le prime time dominical, une case horaire traditionnellement forte pour les chaînes publiques allemandes, particulièrement auprès des téléspectateurs plus âgés. Les autres chaînes peinent à rivaliser avec les offres des diffuseurs publics sur cette soirée.",
@@ -222,7 +222,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22La+Ultima+Hora%22+La+S%C3%A9ptima+ratings"
         }
       ],
-      "scraped_at": "2026-11-16T20:40:16.792100Z",
+      "scraped_at": "2026-11-16T22:27:46.371726Z",
       "status": "ok",
       "error": null,
       "commentary": "La rencontre de football de la Ligue des Nations de l'UEFA sur La 1 capte une part d'audience considérable de 44.1%, attirant 6,51 millions de téléspectateurs. Cette performance éclipse largement les offres concurrentes, notamment le débat final de \"Supervivientes All Stars\" sur Telecinco qui rassemble 1,01 million de personnes. Comparé au match de qualification du 12 novembre, qui avait réuni 4,14 millions de spectateurs, la rencontre du 15 novembre sur La 1 démontre une nette progression. La suprématie du sport en direct sur La 1 illustre une stratégie de programmation efficace pour capter un large public dans cette case horaire. Le programme \"El Secreto\" sur Antena 3, avec 890 000 téléspectateurs, se positionne en troisième place, loin derrière les deux premières chaînes.",
@@ -302,7 +302,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Report%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-11-16T20:40:19.515802Z",
+      "scraped_at": "2026-11-16T22:27:51.485951Z",
       "status": "ok",
       "error": null,
       "commentary": "La rencontre de Ligue des Nations sur Rai 1 domine largement le prime time du 15 novembre, captant 39.2% de part de marché avec 8,01 millions de téléspectateurs. Ce score place le programme sportif dans la continuité de la performance du 12 novembre, où il avait déjà atteint 39.1% de PDM. La fiction turque de Canale 5, « Racconto di una Notte », obtient 11.4% de PDM, un chiffre stable par rapport à la semaine précédente, mais insuffisant pour rivaliser avec le leader. Le divertissement de Nove, « Che Tempo Che Fa », se positionne en troisième place avec 7.9% de PDM, marquant une légère érosion par rapport à sa performance du 8 novembre (10.6%). La stratégie de Rai 1 de programmer des événements sportifs majeurs semble confirmer son leadership historique, reléguant les offres de divertissement et de fiction de ses concurrents directs à des audiences plus modestes. Italia 1 et Rai 3 ferment le top 5, témoignant de la difficulté des chaînes secondaires à capter une audience significative face à la puissance du football en direct.",
@@ -316,12 +316,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-16T20:40:20.594953Z",
+      "scraped_at": "2026-11-16T22:27:52.720409Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-16T20:40:20.596166Z"
+  "last_updated": "2026-11-16T22:27:52.721665Z"
 }
