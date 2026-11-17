@@ -9,7 +9,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-17T22:25:56.607807Z",
+      "scraped_at": "2026-11-17T23:28:09.289825Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -89,7 +89,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Compartiment_tueurs"
         }
       ],
-      "scraped_at": "2026-11-17T22:25:43.091265Z",
+      "scraped_at": "2026-11-17T23:27:52.855191Z",
       "status": "ok",
       "error": null,
       "commentary": "La fiction inédite de TF1, « La Comtesse de Monte Cristo », s'empare de la tête des audiences avec 3,69 millions de téléspectateurs et 19,6% de part d'audience, devançant la valeur sûre de M6, « L'amour est dans le pré », qui réunit 3,18 millions de fidèles (16,8% PDM). Ce résultat pour TF1 marque un retour en tête après plusieurs soirées dominées par le sport, notamment le rugby et le football, qui avaient capté des audiences supérieures à 6 millions de personnes. France 2, avec sa fiction « Disparition inquiétante », se positionne en troisième place avec 2,22 millions de téléspectateurs (12,4% PDM), une performance en légère hausse par rapport aux dernières fictions diffusées sur la case. La stratégie de M6 de maintenir « L'amour est dans le pré » en access puis en prime, confirme sa capacité à fidéliser un public malgré la concurrence des chaînes historiques. L'échantillon de la semaine précédente montre une lutte plus serrée, avec des succès ponctuels sur France 3 et des résultats plus variables pour les chaînes privées.",
@@ -114,7 +114,7 @@
           "source_url": "https://www.dwdl.de/zahlenzentrale/",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/Bundesliga"
+          "wikipedia_url": "https://www.google.com/search?q=%22Fu%C3%9Fball+Nations+League+M%C3%A4nner%22+Autre+cha%C3%AEne+ratings"
         },
         {
           "rank": 2,
@@ -169,7 +169,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-11-17T22:25:48.783384Z",
+      "scraped_at": "2026-11-17T23:27:59.433031Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion d'une rencontre de la Ligue des Nations de football sur une chaîne non identifiée a dominé le prime time du 16 novembre avec 10,35 millions de téléspectateurs et 42,3% de part de marché. Cette performance éclipse largement les offres des chaînes publiques, dont le journal \"Tagesthemen\" sur Das Erste, qui réunit 8,47 millions de personnes. Par comparaison, le \"Tatort\" de Das Erste avait rassemblé 10,24 millions de téléspectateurs la veille, confirmant la puissance des programmes événementiels sportifs dans cette case horaire. La compétition pour les audiences semble se déplacer vers les événements ponctuels, reléguant les rendez-vous d'information quotidiens comme le \"heute journal\" de ZDF à des chiffres plus modestes, avec 2,41 millions de téléspectateurs et 9,9% de PDA. Le divertissement de RTL, \"Bauer sucht Frau\", obtient quant à lui 2,79 millions de téléspectateurs, soit une légère baisse par rapport à son lancement la semaine précédente.",
@@ -194,7 +194,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-noviembre-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Hormiguero+%28Carmen+Machi%29%22+Antena+3+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Carmen_Machi"
         },
         {
           "rank": 2,
@@ -207,7 +207,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-noviembre-2026/",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22La+Revuelta+%28Aida%2CPaula+%26+Carolina%29%22+La+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Isabel_D%C3%ADaz_Ayuso"
         },
         {
           "rank": 3,
@@ -220,7 +220,7 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-noviembre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Horizonte%2C_Cear%C3%A1"
         },
         {
           "rank": 4,
@@ -246,10 +246,10 @@
           "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-noviembre-2026/",
           "category": "info",
           "category_emoji": "📰",
-          "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Intermedio"
         }
       ],
-      "scraped_at": "2026-11-17T22:25:50.863209Z",
+      "scraped_at": "2026-11-17T23:28:03.400642Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 retrouve la tête des audiences du prime ce 16 novembre avec \"El Hormiguero\", réunissant 1,97 million de téléspectateurs (15,8% de PDM), une performance en hausse par rapport à la semaine précédente où le programme avait rassemblé 1,53 million de curieux (11,4% PDM) le 10 novembre. La chaîne publique La 1, qui domine le classement hebdomadaire grâce aux retransmissions sportives, se positionne seconde avec \"La Revuelta\" (1,55 M, 12,5% PDM). La chaîne Cuatro, avec son magazine d'information \"Horizonte\", parvient à se maintenir dans le trio de tête, captant 1,40 million de téléspectateurs (11% PDM). La chaîne Telecinco, habituellement forte sur cette case, voit son divertissement \"First Dates\" légèrement reculer à 1,04 million de personnes (8,4% PDM), contrastant avec sa présence dans le top 3 du 11 novembre (1,20 M, 9,3% PDM). Cette soirée met en lumière la dynamique fluctuante des cases de divertissement face à l'information et aux événements sportifs qui ont structuré la semaine précédente.",
@@ -274,7 +274,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-16-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22177+Giorni%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/21st_Rome_Film_Festival"
         },
         {
           "rank": 2,
@@ -287,7 +287,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-16-novembre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Grande+Fratello+Vip%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Fratello_VIP"
         },
         {
           "rank": 3,
@@ -300,7 +300,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-lunedi-16-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://en.wikipedia.org/wiki/ATP_Finals"
+          "wikipedia_url": "https://www.google.com/search?q=%22ATP+Finals%22+Italia+1+ratings"
         },
         {
           "rank": 4,
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lo+Stato+delle+Cose%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-11-17T22:25:54.981245Z",
+      "scraped_at": "2026-11-17T23:28:08.071829Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 16 novembre voit Rai 1 consolider sa position de leader avec « 177 Giorni », attirant 3,83 millions de téléspectateurs et s'assurant 23,8% de part de marché. Ce score place la fiction publique en tête, devançant largement « Grande Fratello Vip » sur Canale 5, qui rassemble 1,92 million de fidèles et 16,7% de PDM. La compétition entre les deux principales chaînes généralistes se matérialise par une stratégie de contre-programmation distincte, Rai 1 misant sur la fiction et Canale 5 sur le divertissement en direct. Comparé à la semaine précédente, le programme de Rai 1 enregistre une progression notable par rapport aux 2,96 millions de téléspectateurs pour « Livatino » le 9 novembre. L'événement sportif des ATP Finals sur Italia 1, avec 1,23 million de spectateurs (6,2% PDM), confirme la difficulté des chaînes secondaires à rivaliser en case prime time face aux offres des leaders. La présence de Rai 3 et Rai 2 dans le top 5, avec des scores respectifs de 836 000 et 921 000 téléspectateurs, illustre la fragmentation des audiences sur les autres offres publiques.",
       "commentary_date": "2026-11-16"
     }
   },
-  "last_updated": "2026-11-17T22:25:56.608789Z"
+  "last_updated": "2026-11-17T23:28:09.290918Z"
 }
