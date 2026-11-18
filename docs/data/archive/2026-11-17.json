@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/France"
         }
       ],
-      "scraped_at": "2026-11-18T20:50:38.817973Z",
+      "scraped_at": "2026-11-18T21:58:34.653298Z",
       "status": "ok",
       "error": null,
       "commentary": "France 3 s'impose ce mardi soir avec la fiction \"Alex Hugo : La Forêt des Assassins\" qui rassemble 3,64 millions de téléspectateurs, soit 22,2% de part d'audience. Cette performance place la chaîne publique loin devant TF1 et sa finale de \"Koh-Lanta\", qui enregistre 2,72 millions de curieux (16,4% PDM). Il s'agit d'un retour en tête pour France 3, qui avait connu une baisse significative la semaine précédente avec \"Meurtres dans les Vosges\" (4,33 M, 26,2%). La fiction semble ainsi confirmer sa capacité à performer dans cette case horaire, en particulier lorsque le sujet attire un public plus âgé, moins fragmenté par les offres de la TNT. M6, avec \"Brigade Anonyme\", se positionne en troisième position mais sous la barre des 1,5 million de téléspectateurs, confirmant une difficulté à s'imposer face aux offres de plus forte affinité de France 3 et TF1 dans cette soirée.",
@@ -142,7 +142,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-11-18T20:50:42.567092Z",
+      "scraped_at": "2026-11-18T21:58:38.293712Z",
       "status": "partial",
       "error": null,
       "commentary": "La soirée du 17 novembre 2026 voit le journal de Das Erste (\"Tagesschau\") se positionner en tête avec 4,46 millions de téléspectateurs et 20,5% de part de marché. Ce chiffre est légèrement inférieur aux performances enregistrées en début de semaine, notamment le 10 novembre où le même programme avait réuni 4,62 millions de personnes. La série \"Die Kanzlei\" sur une chaîne non identifiée parvient à s'immiscer en deuxième position, démontrant une capacité à capter un public significatif, une performance notable face aux offres des chaînes publiques. La compétition pour la première place du prime time sur la semaine reste ouverte, Das Erste ayant mené trois soirées, mais des événements sportifs exceptionnels, comme le football du 13 et 16 novembre, ont temporairement redistribué les cartes en faveur de chaînes diffusant ces compétitions. Le divertissement \"Bauer sucht Frau\" sur RTL, bien que présent dans le top 4, accuse un recul par rapport aux scores habituels de ce genre de formats sur la période considérée.",
@@ -222,7 +222,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-18T20:50:43.954921Z",
+      "scraped_at": "2026-11-18T21:58:39.068427Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 17 novembre voit Antena 3 reprendre la tête du prime avec \"El Hormiguero\", attirant 1,85 million de téléspectateurs et 15,4% de part de marché. Ce score est légèrement supérieur à celui de la veille (1,97 M, 15,8%), mais inférieur au pic atteint le 11 novembre avec 2,46 millions. La chaîne publique La 1, qui avait dominé la semaine avec trois soirées en tête, se positionne en deuxième place avec \"La Revuelta\" (1,51 M, 12,6%), un chiffre stable par rapport à la veille. Cuatro confirme sa troisième position avec son magazine d'information \"Horizonte\" (1,39 M, 11,3%), bénéficiant d'une certaine continuité dans sa case horaire. La performance de ces programmes s'inscrit dans une compétition où les divertissements et l'information se disputent les audiences en deuxième partie de soirée, après le dîner. Telecinco et La Sexta ferment le classement des cinq premières chaînes, avec des scores inférieurs au million de téléspectateurs.",
@@ -299,10 +299,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-martedi-17-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22ATP+Finals%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/ATP_Finals"
         }
       ],
-      "scraped_at": "2026-11-18T20:50:47.602127Z",
+      "scraped_at": "2026-11-18T21:58:40.819469Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 17 novembre confirme la domination de Rai 1, qui s'adjuge 23.9% de part de marché avec « 177 Giorni », soit une progression par rapport aux 23.8% enregistrés la veille par le même programme. Cette performance place la fiction historique largement devant Canale 5 et son offre de divertissement, « Un mondo a parte », qui rassemble 1.79 million de téléspectateurs (12.3% PDM), une audience en retrait par rapport aux 1.92 million du programme de téléréalité de la veille. La chaîne La7 maintient une présence significative avec son magazine d'information « DiMartedì », attirant 1.60 million de personnes (10.2% PDM), un score stable comparé à la semaine précédente. La compétition pour la deuxième place du prime time semble s'intensifier, Canale 5 n'atteignant pas les scores de son divertissement du 14 novembre, « Tú Sí Que Vales » (24.6% PDM). Le positionnement de Rai 1 sur des formats à fort potentiel d'audience, comme la fiction historique ou les événements sportifs, continue de structurer le paysage du prime time italien.",
@@ -316,12 +316,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-18T20:50:48.962073Z",
+      "scraped_at": "2026-11-18T21:59:11.081638Z",
       "status": "failed",
-      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
+      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x7bc48ef84650>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-18T20:50:48.963145Z"
+  "last_updated": "2026-11-18T21:59:11.081998Z"
 }
