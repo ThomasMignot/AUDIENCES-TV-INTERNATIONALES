@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/La_Petite_Vadrouille"
         }
       ],
-      "scraped_at": "2026-11-19T16:39:34.730723Z",
+      "scraped_at": "2026-11-19T18:11:25.951901Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 18 novembre voit M6 s'installer en tête avec \"La France a un incroyable talent\" qui réunit 2,48 millions de téléspectateurs et 15,3% de part de marché. Ce score est cependant inférieur à celui du divertissement de la chaîne la semaine précédente, qui avait rassemblé 2,77 millions de personnes (15,7% PDM). TF1, avec la fiction \"Esprits Criminels\", se positionne en deuxième place avec 2,02 millions de fidèles (12,6% PDM), un résultat en léger retrait par rapport à la même série diffusée le 11 novembre (2,17 M, 12,5% PDM). France 2, avec la fiction \"Signalements\", obtient 1,79 million de téléspectateurs (11,7% PDM), se plaçant ainsi derrière M6 et TF1. La fragmentation de l'audience, accentuée par la TNT, rend difficile pour les chaînes historiques de maintenir des scores de puissance comparables aux événements sportifs exceptionnels diffusés en début de semaine.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Inside+Dr.+Oetker%22+RTL+ratings"
         }
       ],
-      "scraped_at": "2026-11-19T16:39:37.857052Z",
+      "scraped_at": "2026-11-19T18:11:30.680267Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal télévisé de Das Erste, « Tagesschau », s'établit en tête des audiences du prime time avec 4,99 millions de téléspectateurs et 22,5% de part de marché. Ce score reste inférieur à celui du 12 novembre, où un autre programme avait atteint 5 millions de curieux, mais confirme la prédominance de la chaîne publique dans cette case face à Sat.1 et son magazine « Aktenzeichen XY... Ungelöst », qui enregistre 4,57 millions de fidèles. La performance de Sat.1, bien que solide, ne parvient pas à déloger le format d'information de Das Erste, traditionnellement puissant auprès des publics plus âgés. Le ZDF, avec son « heute journal », se positionne en troisième place, affichant 3,54 millions de téléspectateurs et 18,7% de PDA, une audience conforme à sa moyenne de la semaine. Les chaînes privées comme RTL, avec un documentaire sur Dr. Oetker, peinent à se hisser dans le trio de tête, illustrant la difficulté à concurrencer les offres publiques ou les événements sportifs exceptionnels, qui ont marqué la semaine précédente avec des scores dépassant les 10 millions de téléspectateurs.",
@@ -235,7 +235,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-19T16:39:39.253822Z",
+      "scraped_at": "2026-11-19T18:11:32.906622Z",
       "status": "ok",
       "error": null,
       "commentary": "Antena 3 confirme sa position de leader sur la semaine, plaçant quatre de ses programmes en tête du prime time, dont le divertissement « El Hormiguero » qui enregistre 1,78 million de téléspectateurs et 14,4% de part de marché ce jeudi. Cette performance reste toutefois légèrement inférieure à celle de la veille (1,85 M, 15,4%) et à celle du 16 novembre (1,97 M, 15,8%), démontrant une légère érosion sur les trois dernières soirées. La chaîne Cuatro, avec son magazine d'information « Horizonte », se positionne en deuxième place avec 1,38 million de fidèles (11,3% PDM), une audience stable par rapport aux jours précédents. La chaîne publique La 1, grâce à son divertissement « D.Reg(la Revuelta) », parvient à attirer le même nombre de téléspectateurs que Cuatro (1,38 M) mais avec une part de marché supérieure (11,6% PDM). La compétition pour la deuxième position du prime s'intensifie, opposant les chaînes généralistes historiques à la TNT thématique, avec des programmes d'information et de divertissement en lutte pour capter une audience fragmentée.",
@@ -315,7 +315,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-11-19T16:39:42.420892Z",
+      "scraped_at": "2026-11-19T18:11:37.238622Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement de Rai 1, « Tale e Quale Show », s'adjuge la première place des audiences du prime time italien ce vendredi 18 novembre, avec 3,04 millions de téléspectateurs et 22,5% de part de marché. Cette performance confirme la domination de la chaîne publique sur cette case horaire, ayant placé un programme en tête six soirs sur sept durant la semaine écoulée. La fiction de Canale 5, « Viola come il Mare », se positionne en deuxième avec 1,92 million de fidèles (13,4% PDM), un score stable par rapport à la semaine précédente. La7 tire son épingle du jeu avec son magazine d'actualité « Una Giornata Particolare », attirant 1,54 million de téléspectateurs, en progression par rapport à ses concurrents directs de niche. La diffusion des ATP Finals sur Italia 1, en revanche, peine à se distinguer dans ce paysage concurrentiel, ne rassemblant que 1,28 million de curieux.",
@@ -329,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-19T16:39:43.680699Z",
+      "scraped_at": "2026-11-19T18:11:38.550745Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-19T16:39:57.729812Z"
+  "last_updated": "2026-11-19T18:11:38.551908Z"
 }
