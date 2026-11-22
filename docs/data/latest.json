@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22R.e.d.%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-22T20:44:09.644071Z",
+      "scraped_at": "2026-11-22T21:42:35.681291Z",
       "status": "ok",
       "error": null,
       "commentary": "Le « Tagesschau » de Das Erste se positionne en tête des audiences du 21 novembre avec 5,28 millions de téléspectateurs et 26,8% de part de marché, marquant une légère progression par rapport à ses scores des jours précédents, où il oscillait autour de 4,5 à 4,9 millions. La fiction allemande, représentée par le diptyque « Mordach - Blutiger Schnee », capte une audience significative, se plaçant en deuxième et troisième position avec des scores de 4,27 millions (20,6%) et 3,56 millions (19,3%). Cette performance confirme la capacité des chaînes privées à mobiliser un public conséquent sur des formats narratifs forts, malgré la domination historique des chaînes publiques sur les cibles plus âgées. Le divertissement de Das Erste, « Die Giovanni Zarrella Show », enregistre 3,29 millions de curieux, un chiffre inférieur à celui des meilleures performances de la semaine, comme le record du « Tatort » du 15 novembre (10,24 millions). La présence du football, comme lors de la Nations League du 16 novembre (10,35 millions), démontre la puissance des événements sportifs pour s'imposer en tête des audiences.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Lasexta+_xplica%2F.%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-22T20:44:11.337485Z",
+      "scraped_at": "2026-11-22T21:42:36.905749Z",
       "status": "ok",
       "error": null,
       "commentary": "Le 21 novembre, Antena 3 et Telecinco se disputent la première place du prime time, avec des scores respectifs de 9,2% et 10,0% de part de marché. Ce chiffre de 903 000 téléspectateurs pour Telecinco est supérieur à celui du samedi précédent où \"¡De Sabado!\" atteignait 11,1% PDM, mais avec moins de téléspectateurs (837 k). La chaîne publique La 1, avec \"Informe Semanal\", se positionne en troisième position avec 8,1% PDM, confirmant une tendance à la remontée observée depuis 2023. La présence du football sur LaLiga TV par M+ témoigne de la segmentation des audiences, tandis que La Sexta peine à dépasser les 6,1% PDM avec son magazine d'analyse. Cette configuration du prime time, où la compétition se joue sur des formats variés allant du jeu à l'information en passant par le cinéma, reflète la stratégie des chaînes pour capter un public plus tardif.",
@@ -169,9 +169,9 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-22T20:44:45.438010Z",
+      "scraped_at": "2026-11-22T21:42:40.957707Z",
       "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.televizier.nl', port=443): Max retries exceeded with url: /kijkcijfers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.televizier.nl', port=443) at 0x71d491783fd0>, 'Connection to www.televizier.nl timed out. (connect timeout=30)'))",
+      "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     },
@@ -207,7 +207,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-sabato-21-novembre-2026",
           "category": "divertissement",
           "category_emoji": "🎤",
-          "wikipedia_url": "https://www.google.com/search?q=%22Ballando+con+le+Stelle%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ballando_con_le_Stelle"
         },
         {
           "rank": 3,
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Citt%C3%A0+Segrete%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-11-22T20:44:15.043177Z",
+      "scraped_at": "2026-11-22T21:42:39.800026Z",
       "status": "ok",
       "error": null,
       "commentary": "Le divertissement de Canale 5, « Tú Sí Que Vales », s'adjuge la tête des audiences du prime time du 21 novembre avec 3,56 millions de téléspectateurs, soit 24,1% de part de marché. Cette performance place le programme en légère retrait par rapport à sa diffusion du 14 novembre (3,58 M, 24,6%), mais confirme sa capacité à mobiliser un public significatif en cette soirée de week-end. En face, Rai 1 avec « Ballando con le Stelle » enregistre 2,87 millions de fidèles (27,2% PDM), un score en légère hausse par rapport à la semaine précédente. La chaîne publique conserve ainsi sa position de leader historique sur le créneau, démontrant la force de ses formats de divertissement familiaux. La7, avec « In Altre Parole », se maintient dans sa niche avec 1,16 million de curieux (6,8% PDM), une audience en recul par rapport à la semaine passée. Le positionnement de ces programmes illustre la segmentation des offres, Rai 1 et Canale 5 se disputant le cœur du public large, tandis que La7 vise une audience plus spécifique.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux"
         }
       ],
-      "scraped_at": "2026-11-22T20:44:04.857338Z",
+      "scraped_at": "2026-11-22T21:42:30.986591Z",
       "status": "ok",
       "error": null,
       "commentary": "La diffusion du match de rugby opposant la France à l'Argentine sur TF1 a capté une part d'audience de 37.1%, s'imposant largement en tête des programmes de prime time. Cette performance contraste avec les audiences des jours précédents, où France 3 s'était imposée à trois reprises, notamment avec \"Meurtres dans les Vosges\" (26.2% PDM) le 14 novembre, et France 2 avait également dominé le 20 novembre avec \"Astrid et Raphaëlle\" (24.6% PDM). La fiction de France 3, \"Meurtres à Meaux\", se classe deuxième avec 15.7% PDM, tandis que le divertissement de France 2, \"100 pour 100 Logique\", réalise 14.6% PDM. M6, avec \"Le Seigneur des Anneaux : Les Anneaux de Pouvoir\", enregistre une audience de 553 000 téléspectateurs, soit 3.2% PDM, se plaçant derrière France 5 et ses 5.5% PDM. La stratégie de TF1 de programmer un événement sportif majeur semble avoir déstabilisé les offres habituelles des autres grandes chaînes généralistes.",
       "commentary_date": "2026-11-21"
     }
   },
-  "last_updated": "2026-11-22T20:44:45.439084Z"
+  "last_updated": "2026-11-22T21:42:40.959444Z"
 }
