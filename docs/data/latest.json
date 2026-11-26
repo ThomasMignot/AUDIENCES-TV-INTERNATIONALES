@@ -75,7 +75,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22heute+journal%22+ZDF+ratings"
         }
       ],
-      "scraped_at": "2026-11-26T17:48:12.006863Z",
+      "scraped_at": "2026-11-26T18:57:30.842748Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste, « Tagesschau », s'impose une nouvelle fois en tête des audiences avec 5,12 millions de téléspectateurs et 24,6% de part de marché. Ce score est en légère hausse par rapport à la moyenne des six jours précédents où il avait rassemblé en moyenne 4,97 millions de personnes (22,7% PDM). La soirée voit également le « heute journal » de ZDF se positionner en cinquième place avec 3,23 millions de curieux (17,3% PDM), un chiffre inférieur à sa moyenne de la semaine (3,47 millions, 17,7% PDM). La concurrence sur les cases de divertissement reste vive, avec la série « Chamäleon » et le format « XY gelöst » qui se disputent les secondes et troisièmes positions, témoignant d'une appétence pour les fictions et les formats d'enquête sur cette tranche horaire. Les chaînes publiques confirment leur ancrage auprès d'un public plus âgé, tandis que les chaînes privées, absentes du top 5 de ce jour, cherchent à capter les téléspectateurs plus jeunes.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22El+Intermedio%22+La+Sexta+ratings"
         }
       ],
-      "scraped_at": "2026-11-26T17:48:12.989220Z",
+      "scraped_at": "2026-11-26T18:57:33.134239Z",
       "status": "ok",
       "error": null,
       "commentary": "Ce 25 novembre, Antena 3 maintient sa position de leader du prime time avec \"El Hormiguero\", réunissant 1,61 million de téléspectateurs et 12,9% de part d'audience. La chaîne publique La 1, avec \"La Revuelta\", se positionne en deuxième place à 1,50 million, une performance proche de celle enregistrée la veille, témoignant d'une certaine stabilité de sa case. La chaîne Cuatro, par son programme d'information \"Horizonte:Avance\", capte 1,36 million de curieux, consolidant sa troisième position face à Telecinco et La Sexta, dont les offres peinent à dépasser le seuil des 800 000 téléspectateurs. La comparaison avec le 18 novembre montre une légère érosion pour \"El Hormiguero\" (1,78 M, 14.4%), mais le format reste le pilier de la stratégie de lead-in d'Antena 3. La présence d'un débat politique exceptionnel le 23 novembre sur La 1 (3,11 M, 24.2%) illustre la capacité des événements structurants à bouleverser temporairement la hiérarchie habituelle du marché espagnol.",
@@ -169,7 +169,7 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-26T17:48:16.963241Z",
+      "scraped_at": "2026-11-26T18:57:38.991704Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
@@ -249,7 +249,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Chi+l%E2%80%99ha+Visto%3F%22+Rai+3+ratings"
         }
       ],
-      "scraped_at": "2026-11-26T17:48:15.661555Z",
+      "scraped_at": "2026-11-26T18:57:37.585535Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 25 novembre voit Rai 1 conserver sa position de leader du prime time avec 2,60 millions de téléspectateurs et 19,6% de part de marché pour « Una Nessuna Centomila », un score inférieur à celui de « Una Finestra Vista Lago » (2,88 M, 17.3%) le dimanche précédent. Canale 5, avec sa fiction « Viola come il Mare », réalise 1,90 million de téléspectateurs et 13,0% de PDA, se maintenant dans sa fourchette habituelle de la semaine, proche des 1,92 M de la fiction du 18 novembre. La7, avec « Una Giornata Particolare », attire 1,26 million de personnes (7,4%), un chiffre en retrait par rapport aux 1,54 M du 18 novembre, mais supérieur à la moyenne des autres soirées. La fragmentation des audiences se confirme avec Italia 1 et Rai 3 clôturant ce classement du top 5, témoignant de la difficulté pour les chaînes secondaires de rivaliser avec les offres des deux principaux acteurs du marché. La domination de Rai 1 sur la semaine reste cependant intacte, avec 6 soirées sur 7 en tête des audiences.",
@@ -329,12 +329,12 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/2M"
         }
       ],
-      "scraped_at": "2026-11-26T17:48:08.090408Z",
+      "scraped_at": "2026-11-26T18:57:26.232811Z",
       "status": "ok",
       "error": null,
       "commentary": "La soirée du 25 novembre voit M6 s'installer en tête des audiences avec \"La France a un incroyable talent\", attirant 2,62 millions de téléspectateurs et 14,8% de part de marché. Cette performance place la chaîne privée devant TF1 et France 3, qui réalisent respectivement 1,84 million (10,5% PDM) et 1,71 million (10,6% PDM). Par rapport à la semaine précédente, le divertissement de M6 progresse en nombre de téléspectateurs, passant de 2,48 millions à 2,62 millions, bien que sa part de marché accuse une légère baisse. La fiction de TF1, \"Esprits criminels\", se positionne en deuxième position, une semaine après avoir rassemblé 2,02 millions de curieux. La chaîne publique France 3, leader sur trois soirées de la semaine écoulée, voit son magazine \"Des racines et des ailes\" se classer troisième, démontrant une présence régulière dans le trio de tête, mais sans retrouver les pics observés lors de certaines soirées précédentes. La fiction de France 2, \"Le consentement\", se retrouve légèrement derrière avec 1,68 million de téléspectateurs.",
       "commentary_date": "2026-11-25"
     }
   },
-  "last_updated": "2026-11-26T17:48:16.965769Z"
+  "last_updated": "2026-11-26T18:57:38.993616Z"
 }
