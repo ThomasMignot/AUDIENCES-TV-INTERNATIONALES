@@ -75,7 +75,7 @@
           "wikipedia_url": "https://fr.wikipedia.org/wiki/Free_Mobile"
         }
       ],
-      "scraped_at": "2026-11-28T16:16:33.994131Z",
+      "scraped_at": "2026-11-28T17:28:51.751647Z",
       "status": "ok",
       "error": null,
       "commentary": "France 2 s'impose ce 27 novembre avec la fiction \"Astrid et Raphaëlle\", qui rassemble 3,53 millions de téléspectateurs et réalise une part d'audience de 20,9 %. Ce score est inférieur à celui du même programme une semaine plus tôt, le 20 novembre (4,27 millions, 24,6 %), mais confirme la capacité de la chaîne publique à capter une audience significative en case prime. TF1, avec la diffusion du rugby, enregistre 1,94 million de personnes et 12,5 % de PDA, un résultat bien plus modeste que le match du 21 novembre qui avait mobilisé 6,25 millions de spectateurs. La stratégie de contre-programmation de M6 avec la fiction \"Un Noël en famille\" lui permet de se positionner en troisième position avec 1,37 million de téléspectateurs, soit 8,9 % de PDA, en légère hausse par rapport à la semaine précédente. Les chaînes de service public France 5 et France 3 ferment le top 5, témoignant de la fragmentation des audiences en soirée. La performance de France 2 sur la fiction illustre une stratégie de fidélisation de son public cible, tandis que le rugby sur TF1, bien que moins puissant ce soir, reste un événement fédérateur.",
@@ -155,7 +155,7 @@
           "wikipedia_url": "https://www.google.com/search?q=%22Politbarometer%22+Autre+cha%C3%AEne+ratings"
         }
       ],
-      "scraped_at": "2026-11-28T16:16:45.243310Z",
+      "scraped_at": "2026-11-28T17:28:55.761995Z",
       "status": "ok",
       "error": null,
       "commentary": "Le journal de 20h de Das Erste se maintient en tête des audiences avec 4,21 millions de téléspectateurs, soit 20,9% de part de marché, une performance proche de celle de la semaine précédente (4,40 M, 21,2% le 26 novembre). La fiction de la chaîne publique, « Jenseits der Spree », progresse légèrement par rapport à la semaine passée, atteignant 4,05 millions de curieux (19,2% PDM), un score supérieur à celui de « SOKO Leipzig » sur ZDF (3,44 M, 17,1%). La compétition pour la case du prime time reste dominée par les chaînes publiques, qui occupent quatre des cinq premières places, à l'exception d'un programme non spécifié. Cette configuration confirme la tendance observée sur les sept derniers jours, où Das Erste a été leader cinq soirs sur sept, notamment grâce à des événements comme « Tatort ». La stratégie de programmation des chaînes publiques semble privilégier des contenus d'information et de fiction susceptibles de rassembler un public plus âgé, en contraste avec les formats des chaînes privées ciblant des démographies plus jeunes.",
@@ -168,12 +168,78 @@
       "date": "2026-11-27",
       "source_name": "Barlovento Comunicación",
       "source_url": "https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "entries": [],
-      "scraped_at": "2026-11-28T16:16:45.697441Z",
-      "status": "failed",
-      "error": "403 Client Error: Forbidden for url: https://barloventocomunicacion.es/audiencias-tv-ayer/",
-      "commentary": "La diffusion simultanée du débat « El Debate.26 » sur plusieurs chaînes illustre la concentration des audiences autour de l'événement politique majeur. La 1 s'impose nettement avec 3,35 millions de téléspectateurs et 23,1% de part de marché, confirmant sa remontée observée depuis 2023 sur les rendez-vous d'information. Antena 3 et Cuatro, avec des scores respectifs de 15,4% et 10,7%, témoignent d'une stratégie de contre-programmation visant un public différent mais également intéressé par le débat. Cette performance de La 1 se démarque de la semaine précédente où Antena 3 dominait le classement du prime avec « Cara a Cara.26 », attirant 2,46 millions de personnes. La fragmentation des audiences sur les autres chaînes, comme Telecinco et La Sexta, qui réalisent des scores inférieurs à 1 million, souligne la difficulté de capter une part significative du public lors d'un tel événement polarisant. Le succès de La 1 sur ce créneau confirme la capacité de la chaîne publique à mobiliser un large auditoire lors d'événements d'importance nationale.",
-      "commentary_date": "2026-11-26"
+      "entries": [
+        {
+          "rank": 1,
+          "channel": "Antena 3",
+          "channel_color": "amber",
+          "program": "La Voz:a Punto de Empezar",
+          "program_fr": "The Voice",
+          "viewers": 1063000,
+          "share": 9.7,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-noviembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/La_Voz"
+        },
+        {
+          "rank": 2,
+          "channel": "Telecinco",
+          "channel_color": "blue",
+          "program": "First Dates",
+          "program_fr": "First Dates",
+          "viewers": 1008000,
+          "share": 9.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-noviembre-2026/",
+          "category": "divertissement",
+          "category_emoji": "🎤",
+          "wikipedia_url": "https://www.google.com/search?q=%22First+Dates%22+Telecinco+ratings"
+        },
+        {
+          "rank": 3,
+          "channel": "Cuatro",
+          "channel_color": "purple",
+          "program": "Horizonte",
+          "program_fr": null,
+          "viewers": 960000,
+          "share": 8.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-noviembre-2026/",
+          "category": "info",
+          "category_emoji": "📰",
+          "wikipedia_url": "https://www.google.com/search?q=%22Horizonte%22+Cuatro+ratings"
+        },
+        {
+          "rank": 4,
+          "channel": "La 1",
+          "channel_color": "red",
+          "program": "Malas Lenguas Noche",
+          "program_fr": null,
+          "viewers": 841000,
+          "share": 8.3,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-noviembre-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Malas+Lenguas+Noche%22+La+1+ratings"
+        },
+        {
+          "rank": 5,
+          "channel": "La 2",
+          "channel_color": "gray",
+          "program": "Cifras y Letras",
+          "program_fr": null,
+          "viewers": 531000,
+          "share": 4.8,
+          "source_url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-noviembre-2026/",
+          "category": "autre",
+          "category_emoji": "📺",
+          "wikipedia_url": "https://www.google.com/search?q=%22Cifras+y+Letras%22+La+2+ratings"
+        }
+      ],
+      "scraped_at": "2026-11-28T17:28:57.146340Z",
+      "status": "ok",
+      "error": null,
+      "commentary": "Antena 3 reprend la tête du prime ce dimanche 27 novembre avec \"La Voz:a Punto de Empezar\" et 9.7% de part de marché, devançant Telecinco et son programme \"First Dates\" qui enregistre 9.3%. Cette performance est en légère baisse par rapport aux 1,06 million de téléspectateurs du même programme une semaine auparavant, mais permet à Antena 3 de confirmer sa domination sur trois des sept soirées de la semaine. Le divertissement de la chaîne privée s'affirme ainsi comme un concurrent direct des débats politiques qui ont structuré la fin de semaine, attirant un public moins segmenté. Cuatro, avec \"Horizonte\", se positionne en troisième force, maintenant une audience stable autour de 8.8% sur la case du prime, malgré une légère érosion par rapport aux semaines précédentes marquées par des débats politiques de forte audience. La 1, après avoir bénéficié des retombées des débats politiques, voit son programme \"Malas Lenguas Noche\" atteindre 8.3% de part de marché.",
+      "commentary_date": "2026-11-27"
     },
     "IT": {
       "country_code": "IT",
@@ -194,7 +260,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-27-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Il+diavolo+veste+Prada%22+Canale+5+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2"
         },
         {
           "rank": 2,
@@ -207,7 +273,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-27-novembre-2026",
           "category": "sport",
           "category_emoji": "⚽",
-          "wikipedia_url": "https://www.google.com/search?q=%22Coppa+Davis%22+Rai+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Unipol_Hall"
         },
         {
           "rank": 3,
@@ -220,7 +286,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-27-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Quarto+Grado%22+Rete+4+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Murders_of_Peter_Neumair_and_Laura_Perselli"
         },
         {
           "rank": 4,
@@ -233,7 +299,7 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-27-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Fratelli+di+Crozza%22+Nove+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maurizio_Crozza"
         },
         {
           "rank": 5,
@@ -246,10 +312,10 @@
           "source_url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-venerdi-27-novembre-2026",
           "category": "autre",
           "category_emoji": "📺",
-          "wikipedia_url": "https://www.google.com/search?q=%22Harry+Potter+e+il+calice+di+fuoco%22+Italia+1+ratings"
+          "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Harry_Potter_translations"
         }
       ],
-      "scraped_at": "2026-11-28T16:16:52.720628Z",
+      "scraped_at": "2026-11-28T17:29:02.641460Z",
       "status": "ok",
       "error": null,
       "commentary": "Le prime time du 27 novembre voit Canale 5, avec le film « Il diavolo veste Prada », s'adjuger la première place avec 12.7% de part de marché, devançant de peu Rai 1 et sa retransmission sportive de la Coppa Davis (12.6%). Cette performance de Canale 5 contraste avec la domination habituelle de Rai 1, leader six soirs sur sept sur la semaine écoulée, notamment avec des scores supérieurs à 20% de PDM. La chaîne privée confirme sa stratégie de proposer des films américains en lieu et place de ses fictions habituelles, une orientation qui semble porter ses fruits face à une offre sportive moins fédératrice que les programmes de flux ou les séries de Rai 1. Rete 4, avec son magazine d'information « Quarto Grado », se maintient à un niveau solide pour sa case, captant 11.8% de PDM. La chaîne Nove, avec « Fratelli di Crozza », enregistre un score de 6.1%, tandis qu'Italia 1 peine à dépasser les 7% avec une offre cinéma.",
@@ -263,12 +329,12 @@
       "source_name": "Televizier · De TV van gisteren",
       "source_url": "https://www.televizier.nl/kijkcijfers",
       "entries": [],
-      "scraped_at": "2026-11-28T16:16:54.393527Z",
+      "scraped_at": "2026-11-28T17:29:03.844175Z",
       "status": "failed",
       "error": "404 Client Error: Not Found for url: https://www.televizier.nl/kijkcijfers",
       "commentary": "Le 6 juin, le prime time néerlandais voit RTL 4 devancer NPO 1 avec 517 000 téléspectateurs contre 498 000, une inversion par rapport à la veille où NPO 1 dominait avec un programme différent. Cette performance de RTL 4 est supérieure à sa moyenne de la semaine, qui a vu ses programmes osciller entre 313 000 et 616 000 téléspectateurs. La chaîne privée Talpa Network semble ainsi capitaliser sur un format de divertissement en soirée, tandis que la chaîne publique NPO 1 alterne des programmes de flux et des formats plus établis. La compétition entre ces deux acteurs majeurs du marché audiovisuel néerlandais reste marquée par une audience globale relativement faible, reflet de la segmentation du marché. L'historique montre une forte présence du programme \"De Oranjezomer\" sur différentes chaînes en début de semaine, signe d'une stratégie de diffusion potentiellement fragmentée pour ce format.",
       "commentary_date": "2026-06-06"
     }
   },
-  "last_updated": "2026-11-28T16:17:04.246506Z"
+  "last_updated": "2026-11-28T17:29:05.249515Z"
 }
